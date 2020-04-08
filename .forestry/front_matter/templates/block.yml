@@ -1,0 +1,10 @@
+---
+label: Bloc
+hide_body: false
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Titre
+  hidden: true

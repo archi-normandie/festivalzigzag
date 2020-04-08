@@ -1,0 +1,34 @@
+.styleguide-h2,
+.styleguide-h3 {
+  color: $black;
+  text-transform: none;
+}
+
+.styleguide-h2 {
+  margin: $margin*2 0 $margin 0;
+  padding: 0 0 $margin/2 0;
+  border-bottom: $onepix solid $black;
+}
+
+.styleguide-h3 {
+  margin: $margin 0 $margin/2 0;
+  padding: 0;
+}
+
+.styleguide-palette-swatch {
+  display: inline-block;
+  margin: 0.5em;
+  vertical-align: top;
+  width: 8rem;
+  color: $black;
+}
+
+.styleguide-palette-swatch-color {
+  border: 1px solid #f1f1f1;
+  height: 7rem;
+  width: 7rem;
+}
+
+.styleguide-palette-swatch-name {
+  margin: $margin/2 0 0 0;
+}

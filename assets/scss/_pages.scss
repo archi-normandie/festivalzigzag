@@ -1,0 +1,16 @@
+.page-page .content-main {
+  padding-bottom: $margin*2;
+}
+
+.page-page.lieux .content-main {
+  padding-bottom: 0;
+}
+
+// Partenaires.
+
+.partenaires .content-main img {
+  display: inline-block;
+  max-width: 7rem;
+  height: 5rem;
+  margin: 0 $margin*2 $margin*2 0;
+}

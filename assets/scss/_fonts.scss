@@ -1,0 +1,31 @@
+@font-face {
+  font-family: 'akkurat';
+  font-weight: 400;
+  font-style: normal;
+  src: url('/fonts/akkurat-regular.woff2') format('woff2'),
+       url('/fonts/akkurat-regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'akkurat-italic';
+  font-weight: 400;
+  font-style: italic;
+  src: url('/fonts/akkurat-italic.woff2') format('woff2'),
+       url('/fonts/akkurat-italic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'akkurat-bold';
+  font-weight: 700;
+  font-style: normal;
+  src: url('/fonts/akkurat-bold.woff2') format('woff2'),
+       url('/fonts/akkurat-bold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'akkurat-bold-italic';
+  font-weight: 700;
+  font-style: italic;
+  src: url('/fonts/akkurat-bold-italic.woff2') format('woff2'),
+       url('/fonts/akkurat-bold-italic.woff') format('woff');
+}

@@ -1,0 +1,92 @@
+---
+label: Événement
+hide_body: false
+display_field: title
+fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: Titre
+- name: address
+  type: text
+  config:
+    required: false
+  label: Adresse
+- name: category
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: Catégorie
+- name: dates
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: Dates
+  description: Chaque date s'écrit au format YYYY-MM-DD HH:MM
+- name: lat
+  type: text
+  config:
+    required: false
+  label: Latitude
+- name: lon
+  type: text
+  config:
+    required: false
+  label: Longitude
+- name: image
+  type: file
+  config:
+    maxSize: '10'
+  label: Image
+- name: message
+  type: text
+  config:
+    required: false
+  label: Message
+- name: avec
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Avec
+- name: rdv
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: RDV
+- name: buttons
+  type: field_group_list
+  fields:
+  - name: text
+    type: text
+    config:
+      required: true
+    label: Texte
+    default: Réserver
+  - name: url
+    type: text
+    config:
+      required: true
+    label: URL
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Boutons
+- name: copyright
+  type: text
+  config:
+    required: false
+  label: Copyright

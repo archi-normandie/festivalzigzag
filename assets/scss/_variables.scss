@@ -1,0 +1,46 @@
+// Fonts families
+
+$akkurat: 'Akkurat', sans-serif;
+$akkurat-italic: 'akkurat-light-italic', sans-serif;
+$akkurat-bold: 'akkurat-bold', sans-serif;
+$akkurat-bold-italic: 'akkurat-bold-italic', sans-serif;
+
+// Font sizes
+
+$fs36: 2.25rem;
+$fs32: 2rem;
+$fs24: 1.5rem;
+$fs20: 1.25rem;
+$fs18: 1.125rem;
+$fs16: 1rem;
+$fs14: 0.875rem;
+
+// Colors
+
+$primary: #2e3192;
+$secondary: #00adef;
+$tertiary: #fff200;
+
+$white: #fff;
+$grey-light: #f4f4f4;
+$grey: #e1e1e1;
+$grey-dark: #777;
+$black-light: #222;
+$black: #000;
+
+// Margins, paddings, borders.
+
+$onepix: 0.0625rem;
+$margin: 1.25rem; // 20px
+$border: 4 * $onepix;
+
+// Media queries
+
+$mq-480: 30em;
+$mq-640: 40em;
+$mq-960: 60em;
+$mq-1600: 100em;
+
+// Animations
+
+$transition-duration: 0.4s;

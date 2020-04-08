@@ -1,0 +1,68 @@
+.vue2leaflet-map {
+  height: 90vh !important;
+
+  img {
+    max-width: none;
+  }
+}
+
+.lieux .leaflet-container,
+.lieux .leaflet-popup-content {
+  color: $primary;
+  font-family: $akkurat;
+  font-size: $fs16;
+  line-height: 1.25;
+
+  p,
+  ul {
+    margin: 0 0 $margin/2 0;
+  }
+
+  li {
+    margin: 0;
+  }
+
+  a {
+    color: $primary;
+  }
+}
+
+.lieux .leaflet-popup-content {
+  margin: 0;
+  padding: $margin $margin $margin*2 $margin;
+}
+
+.event-map-popup {
+  a {
+    display: block;
+    text-decoration: none;
+
+    &:focus,
+    &:hover {
+      .event--title {
+        text-decoration: underline;
+      }
+    }
+
+    &::after {
+      content: '+';
+      display: block;
+      position: absolute;
+      bottom: $margin/2;
+      right: $margin;
+      font-size: $fs24;
+      font-weight: 700;
+    }
+  }
+
+  .event--title {
+    margin: 0 0 $margin/2 0;
+    font-size: $fs20;
+    line-height: 1.25;
+  }
+
+  .event--address {
+    font-weight: 700;
+    text-transform: uppercase;
+  }
+}

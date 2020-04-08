@@ -1,0 +1,79 @@
+// Date.
+
+.date {
+  margin-bottom: $margin/2;
+  color: $grey-dark;
+}
+
+// Breadcrumb & Pager.
+
+.breadcrumb {
+  margin-left: 0;
+  font-size: 0;
+  list-style: none;
+
+  li {
+    display: inline-block;
+    font-size: $fs16;
+  }
+}
+
+// Breadcrumb.
+
+.breadcrumb {
+  li::after {
+    content: '›';
+    display: inline-block;
+    margin: 0 $margin/2;
+  }
+}
+
+// Pager.
+
+.pager {
+  display: flex;
+  padding: 1rem 0 2rem 0;
+  justify-content: center;
+
+  a {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+
+    &:focus,
+    &:hover {
+      background: $grey;
+      color: $primary;
+    }
+
+    &.active {
+      background: $primary;
+      color: $white;
+      text-decoration: none;
+    }
+  }
+}
+
+// Messages.
+
+.messages {
+  padding: $margin/2 $margin;
+  margin: $margin 0;
+  border: $onepix solid green;
+  color: green;
+  text-align: center;
+
+  p,
+  ul {
+    margin-bottom: 0;
+  }
+
+  &.warning {
+    border-color: orange;
+    color: orange;
+  }
+
+  &.error {
+    border-color: red;
+    color: red;
+  }
+}

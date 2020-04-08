@@ -1,0 +1,14 @@
+---
+label: Page
+hide_body: false
+fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: Titre
+- name: description
+  type: text
+  config:
+    required: false
+  label: Description

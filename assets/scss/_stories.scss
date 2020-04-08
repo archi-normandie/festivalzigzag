@@ -1,0 +1,41 @@
+.story {
+  h1 {
+    margin-bottom: $margin/2;
+  }
+}
+
+.story-teaser {
+  margin-bottom: 2rem;
+
+  h1 {
+    margin-top: 0;
+    font-size: $fs24;
+    line-height: 1.2;
+  }
+
+  a {
+    text-decoration: none;
+
+    &:focus,
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+@media (min-width: $mq-960) {
+  .story-teaser {
+    display: table;
+  }
+
+  .image,
+  .content {
+    display: table-cell;
+    width: 50%;
+    vertical-align: top;
+  }
+
+  .content {
+    padding-left: $margin;
+  }
+}

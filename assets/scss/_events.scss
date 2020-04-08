@@ -1,0 +1,159 @@
+.page-event .title-main {
+  display: none;
+}
+
+// Event full.
+
+.event-full {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+
+  .title-main {
+    display: flex;
+    margin: $margin 0;
+  }
+
+  .event--address,
+  .event--dates,
+  .event--category {
+    text-transform: uppercase;
+    text-align: center;
+  }
+
+  .event--address,
+  .event--dates {
+    font-weight: 700;
+  }
+}
+
+.event-full--txt,
+.event-full--img {
+  width: 100%;
+
+  @media (min-width: 50rem) {
+    width: 50%;
+  }
+}
+
+.event-full--txt .inner {
+  max-width: 25rem;
+  margin: 0 auto;
+  padding: $margin*3 $margin;
+}
+
+.event-full--img {
+  display: block;
+  min-height: 20rem;
+
+  img {
+    display: block;
+    width: 100%;
+    height: 20rem;
+    max-width: none;
+    object-fit: cover;
+
+    @media (min-width: 800px) {
+      height: 100%;
+    }
+  }
+}
+
+.event-full--map {
+  width: 100%;
+}
+
+// Event teaser.
+
+.event-teaser {
+  display: block;
+  padding: $margin;
+  text-decoration: none;
+
+  &:nth-of-type(2n) {
+    background-color: $grey-light;
+  }
+
+  &:focus,
+  &:hover {
+    background-color: $primary;
+    color: $white;
+  }
+
+  p, ul, li {
+    margin: 0;
+  }
+
+  .event--address {
+    margin-bottom: $margin/2;
+    text-transform: uppercase;
+  }
+
+  .event--title {
+    font-weight: 700;
+  }
+
+  .messages {
+    display: none;
+  }
+}
+
+@media (min-width: 40rem) {
+  .events .content-main {
+    display: table;
+    width: 100%;
+  }
+
+  .event-teaser {
+    display: table-row;
+    padding: 0;
+
+    & > * {
+      display: table-cell;
+      width: 25%;
+      padding: $margin;
+    }
+
+    .messages {
+      display: inline-block;
+    }
+  }
+}
+
+// Fields.
+
+.event--address,
+.event--dates,
+.event--category {
+  margin: 0;
+}
+
+.event--dates {
+  list-style: none;
+
+  li {
+    margin: 0;
+  }
+}
+
+.avec {
+  font-size: $fs14;
+  font-weight: 700;
+}
+
+.rdv {
+  &::before {
+    content: "";
+    display: block;
+    width: 2rem;
+    height: $border;
+    margin-bottom: $margin/2;
+    background-color: $secondary;
+  }
+}
+
+.copyright {
+  font-size: $fs14;
+  font-style: italic;
+  color: $grey-dark;
+}

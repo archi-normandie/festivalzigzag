@@ -1,0 +1,44 @@
+---
+label: Actualité
+hide_body: false
+display_field: title
+fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: Titre
+- name: image
+  type: file
+  config:
+    maxSize: '10'
+  label: Image
+- name: date
+  type: datetime
+  label: Date
+  description: Date de publication
+  config:
+    required: false
+    date_format: YYYY-MM-DD
+    time_format: HH:MM
+    display_utc: false
+    export_format: YYYY-MM-DD HH:MM
+  default: now
+  hidden: true
+pages:
+- stories/balade-fluviale-au-départ-de-vernon.md
+- stories/chasse-au-trésor-dans-la-forêt-monumentale.md
+- stories/deux-parcours-urbains-accompagnés-par-le-caue-76.md
+- stories/deux-parcours-urbains-proposés-à-rouen.md
+- stories/déambulationnage-pour-découvrir-la-manufacture-des-capucins.md
+- stories/genius-2019-installation-éphémère-au-havre.md
+- stories/naturaquarelle-installation-de-mario-reis-à-vernon.md
+- stories/parcours-en-kayak-à-pont-audemer.md
+- stories/parcours-et-ateliers-en-famille-le-long-de-la-lézarde.md
+- stories/parcours-urbain-au-coeur-d-un-beuzeville-en-chantier.md
+- stories/parcours-urbain-à-elbeuf-sur-seine.md
+- stories/parcours-urbain-à-grand-quevilly.md
+- stories/parcours-à-travers-les-paysages-du-roumois.md
+- stories/un-parcours-pédestre-au-havre.md
+- stories/visite-des-nouvelles-serres-du-jardin-des-plantes-de-rouen.md
+- stories/visites-de-chantier-au-havre.md
