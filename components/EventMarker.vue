@@ -1,5 +1,5 @@
 <template>
-  <l-marker :lat-lng="[marker.geo.lat, marker.geo.lon]">
+  <l-marker :lat-lng="[marker.lat, marker.lon]">
     <l-popup>
       <article class="event-map-popup">
         <nuxt-link :to="marker.slug">

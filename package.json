@@ -15,7 +15,7 @@
   "dependencies": {
     "@nuxtjs/feed": "^1.1.0",
     "@nuxtjs/sitemap": "^2.2.0",
-    "kamokamo": "0.0.16",
+    "kamokamo": "0.0.18",
     "nuxt": "^2.12.2",
     "nuxt-leaflet": "0.0.21",
     "vuejs-paginate": "^2.1.0"

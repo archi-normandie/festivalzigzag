@@ -66,16 +66,16 @@
     </div>
     <no-ssr>
       <l-map
-        v-if="content.geo"
+        v-if="content.lat"
         zoom="12"
-        :center="[content.geo.lat, content.geo.lon]"
+        :center="[content.lat, content.lon]"
         :options="{scrollWheelZoom:false}"
       >
         <l-tile-layer
           url="http://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png"
           attribution="&copy; <a href='https://www.openstreetmap.org/copyright'>OSM</a>, Tiles by <a href='https://www.hotosm.org/' target='_blank'>Humanitarian OSM Team</a> hosted by <a href='https://openstreetmap.fr/' target='_blank'>OSM France</a>"
         />
-        <l-marker :lat-lng="[content.geo.lat, content.geo.lon]" />
+        <l-marker :lat-lng="[content.lat, content.lon]" />
       </l-map>
     </no-ssr>
   </article>
