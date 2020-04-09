@@ -4,7 +4,7 @@
         <title></title>
         <link>https://festivalzigzag.fr/rss.xml</link>
         <description>Journal du Festival Zigzag</description>
-        <lastBuildDate>Thu, 09 Apr 2020 08:47:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Apr 2020 08:50:47 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
         <item>
@@ -59,6 +59,21 @@
 ]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Déambulationnage pour découvrir la Manufacture des Capucins]]></title>
+            <link>https://festivalzigzag.fr/stories/deambulationnage-pour-decouvrir-la-manufacture-des-capucins</link>
+            <guid>https://festivalzigzag.fr/stories/deambulationnage-pour-decouvrir-la-manufacture-des-capucins</guid>
+            <pubDate>Mon, 19 Jan 1970 06:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="la-manufacture-des-capucins">LA MANUFACTURE DES CAPUCINS</h2>
+<p>Pour saisir la transformation du Couvent des Capucins, bâtiment emblématique du XVII e siècle en « tiers lieu », venez suivre les improvisations des clowns de la compagnie Étincelle Bouillasse ! </p>
+<p>La Manufacture des Capucins, fédératrice de talents au service de la transition écologique du territoire de Seine Normandie Agglomération est engagée dans le changement des modes de vie. Elle génère un brassage intergénérationnel inédit de populations, raccordant l’éco quartier Fieschi au centre de Vernon. Productrice d’une vision de long terme, la Manufacture est d’abord le lieu de ressource et de rencontre, convivial et décalé qui manque à la ville.</p>
+<p>En partenariat et avec le soutien de l’agence MWAH.</p>
+<p>Pour suivre le projet : <a href="https://www.facebook.com/LaManufactureDesCapucins/">La Manufacture des Capucins</a></p>
+<h3 id="parole-detienne-lemoine">Parole d&#39;Etienne Lemoine</h3>
+<p><em>Architecte - agence d&#39;architecte MWAH et membre du conseil d&#39;administration de la Maison de l&#39;architecture de Normandie - le Forum</em></p>
+<p>« La Manufacture des Capucins est un nouveau tiers lieu ouvert à toutes les initiatives citoyennes en vue de porter sur le territoire de Vernon et de ses alentours la transition écologique et les changements des modes de vie. Nez rouge évidemment, maquillage, vêtements mal ajustés sur un corps maladroit, les clowns d’Etincelle Bouillasse ont préfiguré par leurs improvisations les futurs usages de cet ancien couvent afin d’en révéler de nouvelles manières d’habiter. »</p>
+]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Deux parcours urbains proposés à Rouen]]></title>
             <link>https://festivalzigzag.fr/stories/deux-parcours-urbains-proposes-a-rouen</link>
             <guid>https://festivalzigzag.fr/stories/deux-parcours-urbains-proposes-a-rouen</guid>
@@ -80,46 +95,6 @@
 <p>C’est comme ça que nous avons l’idée de présenter 2 propositions :</p>
 <p>Une visite <em>Cœur de Métropole</em> par un guide conférencier et un agent technique de la Métropole. Cette visite allie un regard patrimonial sur la ville tout en présentant le parti pris contemporain des maîtres d’œuvre qui ont œuvré sur ce projet.</p>
 <p>La BD fait partie des œuvres artistiques qui sont intéressantes à mobiliser quand on parle de la Ville et <em>Rouen par 100 chemins différents</em> d’Emmanuel Lemaire était un beau prétexte d’allier le dessin de l’artiste à une déambulation dans les rues de Rouen. Une guide conférencière et l’auteur de BD se sont donc rencontrés pour confronter, interpréter, rechercher les liens entre les images de la BD et l’histoire de l’évolution urbanistique de la Ville. »</p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Déambulationnage pour découvrir la Manufacture des Capucins]]></title>
-            <link>https://festivalzigzag.fr/stories/deambulationnage-pour-decouvrir-la-manufacture-des-capucins</link>
-            <guid>https://festivalzigzag.fr/stories/deambulationnage-pour-decouvrir-la-manufacture-des-capucins</guid>
-            <pubDate>Mon, 19 Jan 1970 06:16:45 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="la-manufacture-des-capucins">LA MANUFACTURE DES CAPUCINS</h2>
-<p>Pour saisir la transformation du Couvent des Capucins, bâtiment emblématique du XVII e siècle en « tiers lieu », venez suivre les improvisations des clowns de la compagnie Étincelle Bouillasse ! </p>
-<p>La Manufacture des Capucins, fédératrice de talents au service de la transition écologique du territoire de Seine Normandie Agglomération est engagée dans le changement des modes de vie. Elle génère un brassage intergénérationnel inédit de populations, raccordant l’éco quartier Fieschi au centre de Vernon. Productrice d’une vision de long terme, la Manufacture est d’abord le lieu de ressource et de rencontre, convivial et décalé qui manque à la ville.</p>
-<p>En partenariat et avec le soutien de l’agence MWAH.</p>
-<p>Pour suivre le projet : <a href="https://www.facebook.com/LaManufactureDesCapucins/">La Manufacture des Capucins</a></p>
-<h3 id="parole-detienne-lemoine">Parole d&#39;Etienne Lemoine</h3>
-<p><em>Architecte - agence d&#39;architecte MWAH et membre du conseil d&#39;administration de la Maison de l&#39;architecture de Normandie - le Forum</em></p>
-<p>« La Manufacture des Capucins est un nouveau tiers lieu ouvert à toutes les initiatives citoyennes en vue de porter sur le territoire de Vernon et de ses alentours la transition écologique et les changements des modes de vie. Nez rouge évidemment, maquillage, vêtements mal ajustés sur un corps maladroit, les clowns d’Etincelle Bouillasse ont préfiguré par leurs improvisations les futurs usages de cet ancien couvent afin d’en révéler de nouvelles manières d’habiter. »</p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Genius 2019 - installation éphémère au Havre]]></title>
-            <link>https://festivalzigzag.fr/stories/genius-2019-installation-ephemere-au-havre</link>
-            <guid>https://festivalzigzag.fr/stories/genius-2019-installation-ephemere-au-havre</guid>
-            <pubDate>Mon, 19 Jan 1970 06:15:25 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="genius-2019-du-1er-juillet-au-19-octobre">Genius 2019 du 1er juillet au 19 octobre</h2>
-<p>Installation éphémère de part et d’autre du pont Notre-Dame, quai Notre-Dame, quai Videcoq et quai de l’île.</p>
-<p>De petits équipements de manœuvre portuaire bâtis lors de la Reconstruction occupent les quais, le long du bassin du Roy. Architectures techniques, le regard des passants glisse sans les voir. Les Gens des lieux, collectif d’architectes et d’artistes havrais investit ces bâtiments de quais emplis de mémoire, dans l’idée de redécouvrir le site et l’intérêt architectural de ces constructions singulières, caractéristiques du paysage urbano-portuaire havrais.</p>
-<h3 id="animation-pour-le-week-end-de-clôture-de-zigzag">Animation pour le week-end de clôture de Zigzag</h3>
-<p>Le 12 octobre 2019 :</p>
-<p>Paroles et ambiances recueillies par Karine Chevallier des Cueilleurs d’histoires et installation sonore mise en forme par Olivier Labbé (plasticien son). Déambulation sur site avec le comédien Jérôme Boyer.</p>
-<h3 id="le-projet-genius-2019-est-plutôt-une-belle-réussite">Le projet Genius 2019 est plutôt une belle réussite</h3>
-<ul>
-<li>Les habitants du quartier, les pêcheurs, les promeneurs, ont réellement apprécié la proposition (mise en valeur du patrimoine portuaire, ouverture au public des installations, réappropriation des espaces).</li>
-<li>La Guinguette éphémère ouverte à l&#39;occasion de la fête de la mer et réouverte pour les JNA a remporté un franc succès, à tel point que les havrais séduits par la proposition ont souhaité que le lieu reste ouvert toute l’année !</li>
-<li>Les élus, DGA de la ville du Havre nous ont rendu visite à plusieurs reprises et nous ont félicité. Ils nous ont d&#39;ailleurs demandé d&#39;accueillir une délégation d’élus et de techniciens de villes reconstruites de passage au Havre (une vingtaine de personnes) pour leur présenter le projet Genius 2019, mais également le projet Genius de l’an passé au coeur de l&#39;ilôt V41.</li>
-<li>La collaboration avec la Maison du Patrimoine a été très enrichissante.</li>
-<li>Jean-Denis Sallesse (Architecte au GPMH) et Marie Sarfaty (Port Center) ont été des appuis solides pour mener à bien le projet.</li>
-<li>Les membres du collectif LES GENS DES LIEUX se sont particulièrement investis, dans la joie et la bonne humeur, pour que le projet prenne forme. Rien n’aurait été possible sans cette fabuleuse énergie qui anime le collectif.</li>
-<li>Les intervenants auxquels nous avons fait appel pour nourrir le projet Genius 2019, ont collaboré avec enthousiasme au projet.</li>
-</ul>
-<p><em>Dorothée Navarre, collectif Les Gens des Lieux</em></p>
-<p><strong>Genius revient en 2020 au Havre, suivez la page du collectif :</strong> <a href="https://www.facebook.com/Nouslesgensdeslieux/">Les Gens des Lieux</a></p>
 ]]></content:encoded>
         </item>
         <item>
@@ -145,6 +120,31 @@
 <h3 id="parole-de-anne-sophie-oberson">Parole de Anne-Sophie Oberson</h3>
 <p><em>Chargée de mission patrimoine - Pont-Audemer Val de Risle</em></p>
 <p>« Au Moyen Age, les rivières et cours d’eau urbains sont navigables et sont parcourus par divers types d’embarcations. Les barques à fond plat, barges, petites péniches, appelées « escaudes » ou « échaudes » à Pont-Audemer, apportent jusqu’au centre de la ville les produits les plus lourds, pierre, chaux, sable, bois, grains, alimentant les chantiers de construction et les marchés. Ainsi la ville ne se voyait pas uniquement depuis la rue et offrait un autre visage depuis l’eau. La ville de Pont-Audemer a donc souhaité donner aux habitants et aux touristes la possibilité de découvrir cet envers du décor au fil d’une balade en kayak. Élaboré avec le club de kayak Les Castors Rislois, qui gère les réservations et mises à l’eau, ce parcours permet de retrouver l’ambiance de la ville d’autrefois, notamment en descendant le ruisseau des Pâtissiers avec ses nombreuses latrines, petits quais et accès aux propriétés. Mais c’est aussi l’occasion de découvrir son architecture contemporaine en remontant le bras nord de la Risle qui coule aux pieds de la médiathèque La Page ou du théâtre de l’éclat. Cette balade, où l’on constate à quel point l’eau est un élément fondateur de la ville, permet également de mettre valeur le label RAMSAR obtenu par Pont-Audemer en 2018. Ce label d’importance internationale récompense les territoires et les villes pour la qualité de leur gestion des zones humides. »</p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Genius 2019 - installation éphémère au Havre]]></title>
+            <link>https://festivalzigzag.fr/stories/genius-2019-installation-ephemere-au-havre</link>
+            <guid>https://festivalzigzag.fr/stories/genius-2019-installation-ephemere-au-havre</guid>
+            <pubDate>Mon, 19 Jan 1970 06:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="genius-2019-du-1er-juillet-au-19-octobre">Genius 2019 du 1er juillet au 19 octobre</h2>
+<p>Installation éphémère de part et d’autre du pont Notre-Dame, quai Notre-Dame, quai Videcoq et quai de l’île.</p>
+<p>De petits équipements de manœuvre portuaire bâtis lors de la Reconstruction occupent les quais, le long du bassin du Roy. Architectures techniques, le regard des passants glisse sans les voir. Les Gens des lieux, collectif d’architectes et d’artistes havrais investit ces bâtiments de quais emplis de mémoire, dans l’idée de redécouvrir le site et l’intérêt architectural de ces constructions singulières, caractéristiques du paysage urbano-portuaire havrais.</p>
+<h3 id="animation-pour-le-week-end-de-clôture-de-zigzag">Animation pour le week-end de clôture de Zigzag</h3>
+<p>Le 12 octobre 2019 :</p>
+<p>Paroles et ambiances recueillies par Karine Chevallier des Cueilleurs d’histoires et installation sonore mise en forme par Olivier Labbé (plasticien son). Déambulation sur site avec le comédien Jérôme Boyer.</p>
+<h3 id="le-projet-genius-2019-est-plutôt-une-belle-réussite">Le projet Genius 2019 est plutôt une belle réussite</h3>
+<ul>
+<li>Les habitants du quartier, les pêcheurs, les promeneurs, ont réellement apprécié la proposition (mise en valeur du patrimoine portuaire, ouverture au public des installations, réappropriation des espaces).</li>
+<li>La Guinguette éphémère ouverte à l&#39;occasion de la fête de la mer et réouverte pour les JNA a remporté un franc succès, à tel point que les havrais séduits par la proposition ont souhaité que le lieu reste ouvert toute l’année !</li>
+<li>Les élus, DGA de la ville du Havre nous ont rendu visite à plusieurs reprises et nous ont félicité. Ils nous ont d&#39;ailleurs demandé d&#39;accueillir une délégation d’élus et de techniciens de villes reconstruites de passage au Havre (une vingtaine de personnes) pour leur présenter le projet Genius 2019, mais également le projet Genius de l’an passé au coeur de l&#39;ilôt V41.</li>
+<li>La collaboration avec la Maison du Patrimoine a été très enrichissante.</li>
+<li>Jean-Denis Sallesse (Architecte au GPMH) et Marie Sarfaty (Port Center) ont été des appuis solides pour mener à bien le projet.</li>
+<li>Les membres du collectif LES GENS DES LIEUX se sont particulièrement investis, dans la joie et la bonne humeur, pour que le projet prenne forme. Rien n’aurait été possible sans cette fabuleuse énergie qui anime le collectif.</li>
+<li>Les intervenants auxquels nous avons fait appel pour nourrir le projet Genius 2019, ont collaboré avec enthousiasme au projet.</li>
+</ul>
+<p><em>Dorothée Navarre, collectif Les Gens des Lieux</em></p>
+<p><strong>Genius revient en 2020 au Havre, suivez la page du collectif :</strong> <a href="https://www.facebook.com/Nouslesgensdeslieux/">Les Gens des Lieux</a></p>
 ]]></content:encoded>
         </item>
         <item>
