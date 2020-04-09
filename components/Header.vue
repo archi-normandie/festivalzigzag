@@ -10,7 +10,22 @@
           Le long de la Vallée de la Seine
         </p>
       </h1>
-      <nav class="block menu" v-html="navHeader.html" />
+      <nav class="block menu">
+        <ul>
+          <li>
+            <nuxt-link to="/lieux">Lieux</nuxt-link>
+          </li>
+          <li>
+            <nuxt-link to="/agenda">Agenda</nuxt-link>
+          </li>
+          <li>
+            <nuxt-link to="/journal">Journal</nuxt-link>
+          </li>
+          <li>
+            <nuxt-link to="/pages/a-propos">À propos</nuxt-link>
+          </li>
+        </ul>
+      </nav>
     </div>
   </header>
 </template>
