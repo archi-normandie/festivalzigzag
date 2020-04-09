@@ -4,7 +4,7 @@
         <title></title>
         <link>https://festivalzigzag.fr/rss.xml</link>
         <description>Journal du Festival Zigzag</description>
-        <lastBuildDate>Thu, 09 Apr 2020 08:23:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Apr 2020 08:39:26 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
         <item>
@@ -247,6 +247,35 @@
 ]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[RedBall Project en ouverture du festival ]]></title>
+            <link>https://festivalzigzag.fr/stories/redball-project</link>
+            <guid>https://festivalzigzag.fr/stories/redball-project</guid>
+            <pubDate>Mon, 19 Jan 1970 05:56:13 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="1ère-édition-du-27-sept-au-13-oct-2019">1ère édition du 27 sept. au 13 oct. 2019</h2>
+<p>Zigzag est un festival grand public, qui propose d’appréhender l’espace par un engagement du corps, afin de partager l’architecture, l’urbanisme et le paysage autrement, sur un territoire correspondant à la vallée de la Seine.</p>
+<p>Pour cette première édition, le Forum – Maison de l’architecture de Normandie a souhaité marquer les esprits avec un projet à la fois ludique et fort de sens. Il a convié en ouverture Kurt Perschke à investir les rues de Rouen. Artiste américain, il a conçu <strong>RedBall Project</strong>, une installation éphémère sculpturale de 4.5 mètres de diamètre et de 114 kg, elle voyage autour du monde et explore l’histoire et l’architecture de chaque ville.</p>
+<p>Avec humour Kurt Perschke place et compresse la RedBall entre divers immeubles, au-dessus de ponts accentuant des possibilités inattendues. Placée dans des espaces interstitiels, elle provoque la surprise, invite à lever la tête, révèle des lieux. La ville elle-même devient sa toile, pleine de potentialités. Le projet a été monté plus de 20 fois aux États-Unis, en Asie, en Australie et en Europe.</p>
+<p>A Rouen, la RedBall a été installée dans 6 lieux différents, du 27 septembre au 2 octobre 2019.<br>Pendant 6 jours, l’équipe du Forum était sur le terrain. Elle a pu observer le plaisir des passants, des familles, des touristes à découvrir cette boule rouge, à la croiser et pour certains, à prendre la pose devant elle. C’est là tout l’objet du travail de l&#39;artiste, très attentif à l’interaction que son projet suscite.</p>
+<p>Pour suivre RedBall Project : <a href="https://www.redballproject.com/">redballproject.com</a></p>
+<h3 id="paroles-de-passants">Paroles de passants</h3>
+<blockquote>
+<p>« Ça doit servir à tenir les maisons qui sont anciennes et qui s’écroulent. »</p>
+</blockquote>
+<blockquote>
+<p>« Ça fait du bien de voir ça dans l’’espace public. »</p>
+</blockquote>
+<blockquote>
+<p>« C’est quoi, c’est marrant ? »</p>
+</blockquote>
+<blockquote>
+<p>« Aujourd’hui au Kindarena, on ne la voit presque pas alors que rue du Gros horloge elle était trop grosse. »</p>
+</blockquote>
+<blockquote>
+<p>« ... pour moi le contemporain c’est la boule rouge, on voit qu’elle a du mal dans le centre-ville ancien, elle est coincée, plissée, elle ne trouve pas bien sa place ! »</p>
+</blockquote>
+]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Un parcours pédestre au Havre]]></title>
             <link>https://festivalzigzag.fr/stories/un-parcours-pedestre-au-havre</link>
             <guid>https://festivalzigzag.fr/stories/un-parcours-pedestre-au-havre</guid>
@@ -293,35 +322,6 @@
 <p><em>Architecte associé - La Manufacture d&#39;Architecture et membre du conseil d&#39;administration de la Maison de l&#39;architecture de Normandie - le Forum</em> </p>
 <p>« De simples curieux, voisins ou assidus de la MaN-Le Forum sont impatients de débuter la visite de la future cité numérique. Le Maître d’ouvrage et l’architecte de l’opération présentent le programme initial et ses ambitions. Vient le moment de s’équiper : casques blancs, et chasubles jaunes et oranges sont indispensables à toute bonne visite de chantier.</p>
 <p>La procession multicolore se dirige alors de surprises en surprises : un hall impressionnant, une terrasse panoramique donnant sur le Havre, des bureaux et des salles de classes inondés d’une lumière tamisée, maîtrisée par la résille métallique travaillée en façade. Les visiteurs sont conquis : <em>comment d’une telle massivité apparente peut-on passer à une telle finesse de lumières et de vues depuis l’intérieur ? Les futurs occupants auront bien de la chance de travailler ici !</em> »</p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[RedBall Project en ouverture du festival ]]></title>
-            <link>https://festivalzigzag.fr/stories/redball-project</link>
-            <guid>https://festivalzigzag.fr/stories/redball-project</guid>
-            <pubDate>Mon, 19 Jan 1970 05:56:13 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="1ère-édition-du-27-sept-au-13-oct-2019">1ère édition du 27 sept. au 13 oct. 2019</h2>
-<p>Zigzag est un festival grand public, qui propose d’appréhender l’espace par un engagement du corps, afin de partager l’architecture, l’urbanisme et le paysage autrement, sur un territoire correspondant à la vallée de la Seine.</p>
-<p>Pour cette première édition, le Forum – Maison de l’architecture de Normandie a souhaité marquer les esprits avec un projet à la fois ludique et fort de sens. Il a convié en ouverture Kurt Perschke à investir les rues de Rouen. Artiste américain, il a conçu <strong>RedBall Project</strong>, une installation éphémère sculpturale de 4.5 mètres de diamètre et de 114 kg, elle voyage autour du monde et explore l’histoire et l’architecture de chaque ville.</p>
-<p>Avec humour Kurt Perschke place et compresse la RedBall entre divers immeubles, au-dessus de ponts accentuant des possibilités inattendues. Placée dans des espaces interstitiels, elle provoque la surprise, invite à lever la tête, révèle des lieux. La ville elle-même devient sa toile, pleine de potentialités. Le projet a été monté plus de 20 fois aux États-Unis, en Asie, en Australie et en Europe.</p>
-<p>A Rouen, la RedBall a été installée dans 6 lieux différents, du 27 septembre au 2 octobre 2019.<br>Pendant 6 jours, l’équipe du Forum était sur le terrain. Elle a pu observer le plaisir des passants, des familles, des touristes à découvrir cette boule rouge, à la croiser et pour certains, à prendre la pose devant elle. C’est là tout l’objet du travail de l&#39;artiste, très attentif à l’interaction que son projet suscite.</p>
-<p>Pour suivre RedBall Project : <a href="https://www.redballproject.com/">redballproject.com</a></p>
-<h3 id="paroles-de-passants">Paroles de passants</h3>
-<blockquote>
-<p>« Ça doit servir à tenir les maisons qui sont anciennes et qui s’écroulent. »</p>
-</blockquote>
-<blockquote>
-<p>« Ça fait du bien de voir ça dans l’’espace public. »</p>
-</blockquote>
-<blockquote>
-<p>« C’est quoi, c’est marrant ? »</p>
-</blockquote>
-<blockquote>
-<p>« Aujourd’hui au Kindarena, on ne la voit presque pas alors que rue du Gros horloge elle était trop grosse. »</p>
-</blockquote>
-<blockquote>
-<p>« ... pour moi le contemporain c’est la boule rouge, on voit qu’elle a du mal dans le centre-ville ancien, elle est coincée, plissée, elle ne trouve pas bien sa place ! »</p>
-</blockquote>
 ]]></content:encoded>
         </item>
     </channel>
