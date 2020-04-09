@@ -1,0 +1,14 @@
+{
+  "dirs": ["blocks", "events", "pages", "stories"],
+  "dateFormats": [
+      {
+          "name": "short",
+          "format": "EEEE d MMMM"
+      },
+      {
+          "name": "long",
+          "format": "EEEE d MMMM à H'h'mm"
+      }
+  ],
+  "dateMultipleFormat": "Du %s au %s"
+}
