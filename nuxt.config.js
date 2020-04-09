@@ -54,11 +54,6 @@ export default {
     '@/assets/scss/app.scss'
   ],
   /*
-  ** Plugins to load before mounting the App
-  */
-  plugins: [
-  ],
-  /*
   ** Nuxt.js dev-modules
   */
   buildModules: [
