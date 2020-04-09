@@ -32,7 +32,7 @@ sections:
   match: "**/*"
   templates:
   - block
-upload_dir: files
+upload_dir: static/files
 public_path: "/static/files"
 front_matter_path: ''
 use_front_matter_path: false
