@@ -25,7 +25,8 @@ jobs:
             ${{ runner.os }}-node-
 
       - run: npm ci
-      - run: npm test
+      - run: npm run kamokamo
+      - run: npm run images
       - run: npm run generate
 
       - name: deploy
