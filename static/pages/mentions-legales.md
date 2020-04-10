@@ -22,5 +22,5 @@ Chaque photographie est soumise aux droits de la propriété intellectuelle, tou
 Maison de l'Architecture de Normandie - le Forum  
 48 Rue Victor Hugo  
 76000 Rouen  
-Tél. : 02 32 08 26 01  
+02 32 08 26 01  
 [http://www.man-leforum.fr](www.man-leforum.fr)
