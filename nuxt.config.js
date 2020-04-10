@@ -31,8 +31,10 @@ export default {
       { hid: 'description', name: 'description', content: env.mainTitle },
       { hid: 'og:site_name', property: 'og:site_name', content: env.mainDesc },
       { hid: 'og:type', property: 'og:type', content: 'website' },
+      { hid: 'og:image', property: 'og:image', content: env.url + '/android-chrome-512x512.png' },
       { hid: 'twitter:card', name: 'twitter:card', content: 'summary' },
-      { hid: 'twitter.description', name: 'twitter.description', content: env.mainDesc }
+      { hid: 'twitter.description', name: 'twitter.description', content: env.mainDesc },
+      { hid: 'twitter.image', name: 'twitter.image', content: env.url + '/android-chrome-512x512.png' }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
