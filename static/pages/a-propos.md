@@ -66,5 +66,3 @@ Nous remercions toutes les personnes qui ont permis la mise en œuvre de ce fest
 * [LinkedIn](https://www.linkedin.com/company/maison-de-l-architecture-de-normandie-le-forum/)
 * [Facebook](https://www.facebook.com/maisondelarchitecturedenormandieleforum/)
 * [Instagram](https://www.instagram.com/man_leforum/)
-
-.
