@@ -1,8 +1,8 @@
 ---
-title: "Zigzag 2019, Le Long de la vallée de la Seine"
-description: "Festival Zigzag 2019, édito."
----
+title: Zigzag 2019, Le Long de la vallée de la Seine
+description: Festival Zigzag 2019, édito.
 
+---
 ## Télécharger le programme
 
 <a class="button" download href="/files/programme-festival-zigzag.pdf">Télécharger</a> (29.3MB, PDF)
@@ -25,20 +25,20 @@ Zigzag met l’individu au cœur de ces questionnements et propose une approche 
 
 ## Le long de la Vallée de la Seine
 
-- Beuzeville, 27
-- Bois-Guillaume, 76
-- Duclair, 76
-- Elbeuf-sur-Seine, 76
-- Épouville, 76
-- Grand-Quevilly, 76
-- La Haye-de-Routot, 27
-- Le Havre, 76
-- Le Trait, 76
-- Notre-Dame-du-Bec, 76
-- Pont-Audemer, 27
-- Rolleville, 76
-- Rouen, 76
-- Vernon, 27
+* Beuzeville, 27
+* Bois-Guillaume, 76
+* Duclair, 76
+* Elbeuf-sur-Seine, 76
+* Épouville, 76
+* Grand-Quevilly, 76
+* La Haye-de-Routot, 27
+* Le Havre, 76
+* Le Trait, 76
+* Notre-Dame-du-Bec, 76
+* Pont-Audemer, 27
+* Rolleville, 76
+* Rouen, 76
+* Vernon, 27
 
 ## Le Forum, Maison de l'Architecture de Normandie
 
@@ -52,17 +52,19 @@ Nous remercions toutes les personnes qui ont permis la mise en œuvre de ce fest
 
 ### Coordination
 
-- Anne Le Bellego
-- Frédérique Mougeot
-- Flora David
-- Marion Vandaele
+* Anne Le Bellego
+* Frédérique Mougeot
+* Flora David
+* Marion Vandaele
 
 ### Coordonnées
 
-- Adresse : 48 rue Victor Hugo 76000 Rouen
-- Tél : 02 35 03 40 31
-- Mail : [contact@man-leforum.fr](mailto:contact@man-leforum.fr)
-- Site web : [man-leforum.fr](http://man-leforum.fr)
-- [LinkedIn](https://www.linkedin.com/company/maison-de-l-architecture-de-normandie-le-forum/)
-- [Facebook](https://www.facebook.com/maisondelarchitecturedenormandieleforum/)
-- [Instagram](https://www.instagram.com/man_leforum/)
+* Adresse : 48 rue Victor Hugo 76000 Rouen
+* Tél : 02 35 03 40 31
+* Mail : [contact@man-leforum.fr](mailto:contact@man-leforum.fr)
+* Site web : [man-leforum.fr](http://man-leforum.fr)
+* [LinkedIn](https://www.linkedin.com/company/maison-de-l-architecture-de-normandie-le-forum/)
+* [Facebook](https://www.facebook.com/maisondelarchitecturedenormandieleforum/)
+* [Instagram](https://www.instagram.com/man_leforum/)
+
+.
