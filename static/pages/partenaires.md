@@ -1,5 +1,6 @@
 ---
 title: Partenaires 2020
+description: "."
 
 ---
 ## Partenaires financiers
