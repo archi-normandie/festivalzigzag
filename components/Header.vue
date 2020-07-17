@@ -13,16 +13,24 @@
       <nav class="block menu">
         <ul>
           <li>
-            <nuxt-link to="/lieux">Lieux</nuxt-link>
+            <nuxt-link to="/lieux">
+              Lieux
+            </nuxt-link>
           </li>
           <li>
-            <nuxt-link to="/agenda">Agenda</nuxt-link>
+            <nuxt-link to="/agenda">
+              Agenda
+            </nuxt-link>
           </li>
           <li>
-            <nuxt-link to="/journal">Journal</nuxt-link>
+            <nuxt-link to="/journal">
+              Journal
+            </nuxt-link>
           </li>
           <li>
-            <nuxt-link to="/pages/a-propos">À propos</nuxt-link>
+            <nuxt-link to="/pages/a-propos">
+              À propos
+            </nuxt-link>
           </li>
         </ul>
       </nav>

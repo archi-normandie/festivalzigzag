@@ -4,25 +4,39 @@
       <nav class="block menu">
         <ul>
           <li>
-            <nuxt-link to="/lieux">Lieux</nuxt-link>
+            <nuxt-link to="/lieux">
+              Lieux
+            </nuxt-link>
           </li>
           <li>
-            <nuxt-link to="/agenda">Agenda</nuxt-link>
+            <nuxt-link to="/agenda">
+              Agenda
+            </nuxt-link>
           </li>
           <li>
-            <nuxt-link to="/journal">Journal</nuxt-link>
+            <nuxt-link to="/journal">
+              Journal
+            </nuxt-link>
           </li>
           <li>
-            <nuxt-link to="/pages/a-propos">À propos</nuxt-link>
+            <nuxt-link to="/pages/a-propos">
+              À propos
+            </nuxt-link>
           </li>
           <li>
-            <nuxt-link to="/pages/presse">Presse</nuxt-link>
+            <nuxt-link to="/pages/presse">
+              Presse
+            </nuxt-link>
           </li>
           <li>
-            <nuxt-link to="/pages/partenaires">Partenaires</nuxt-link>
+            <nuxt-link to="/pages/partenaires">
+              Partenaires
+            </nuxt-link>
           </li>
           <li>
-            <nuxt-link to="/pages/mentions-legales">Mentions légales</nuxt-link>
+            <nuxt-link to="/pages/mentions-legales">
+              Mentions légales
+            </nuxt-link>
           </li>
           <li>
             <a href="https://www.facebook.com/zigzagfestivalarchitecture/" target="_blank">Facebook</a>

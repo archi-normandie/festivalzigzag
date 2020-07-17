@@ -85,9 +85,9 @@ export default {
   */
   generate: {
     dir: 'public',
-    routes: function () {
+    routes () {
       return Object.entries(contents)
-        .filter(([slug, content]) => content.dir != 'blocks')
+        .filter(([slug, content]) => content.dir !== 'blocks')
         .map(([slug, content]) => slug)
     }
   },
@@ -101,12 +101,12 @@ export default {
    * Feed
    */
   feed: [
-     {
+    {
       path: '/rss.xml',
       type: 'rss2',
       language: 'fr',
       favicon: env.url + '/favicon.ico',
-      async create(feed) {
+      create (feed) {
         feed.options = {
           title: env.title,
           link: env.url + '/rss.xml',
@@ -122,7 +122,7 @@ export default {
               date: new Date(Number(content.dates[0].start.timestamp)),
               content: content.html
             })
-        })
+          })
       }
     }
   ],
@@ -132,9 +132,9 @@ export default {
   sitemap: {
     hostname: env.url + '/',
     gzip: true,
-    routes: function () {
+    routes () {
       return Object.entries(contents)
-        .filter(([slug, content]) => content.dir != 'blocks')
+        .filter(([slug, content]) => content.dir !== 'blocks')
         .map(([slug, content]) => slug)
     }
   }

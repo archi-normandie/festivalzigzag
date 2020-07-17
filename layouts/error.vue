@@ -1,7 +1,9 @@
 <template>
   <main>
     <div class="wrapper">
-      <h1 class="title-main">{{ h1 }}</h1>
+      <h1 class="title-main">
+        {{ h1 }}
+      </h1>
       <p>
         <nuxt-link to="/agenda">
           Retour à l'agenda
