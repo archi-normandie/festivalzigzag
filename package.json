@@ -6,7 +6,7 @@
   "scripts": {
     "kamokamo": "cd static && kamokamo > contents.json",
     "images": "node create-responsive-images.js",
-    "dev": "nuxt",
+    "dev": "npm run kamokamo && nuxt",
     "build": "npm run images && npm run kamokamo && nuxt build",
     "start": "npm run images && npm run kamokamo && nuxt start",
     "generate": "npm run images && npm run kamokamo && nuxt generate",
