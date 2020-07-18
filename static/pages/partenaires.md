@@ -1,5 +1,6 @@
 ---
-title: Partenaires 2019
+title: Partenaires 2020
+description: ''
 
 ---
 ## Partenaires financiers
@@ -20,7 +21,7 @@ title: Partenaires 2019
 ![MWAH](/files/logo-mwah.svg)
 ![Caisse des dépots](/files/logo-caisse-des-depots.svg)
 
-## Partenaires
+## Partenaires de projet
 
 ![CAUE 76](/files/logo-caue76.svg)
 ![CAUE 27](/files/logo-caue27.svg)
