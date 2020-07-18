@@ -1,7 +1,7 @@
 <template>
   <main>
     <nuxt-link to="/lieux">
-      <img src="/files/home-logo.svg" alt="27 septembre - 13 octobre 2019">
+      <img class="hero-logo" src="/files/home-logo.svg" alt="27 septembre - 13 octobre 2019">
     </nuxt-link>
   </main>
 </template>
