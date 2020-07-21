@@ -25,19 +25,22 @@ Zigzag met l’individu au cœur de ces questionnements et propose une approche 
 
 ## Le long de la Vallée de la Seine
 
-* Beuzeville, 27
-* Bois-Guillaume, 76
-* Duclair, 76
+* Achères, 78
+* Deauville, 14
 * Elbeuf-sur-Seine, 76
-* Épouville, 76
-* Grand-Quevilly, 76
-* La Haye-de-Routot, 27
+* Gaillon, 27
+* Goustranville, 14
+* Grand Quevilly, 76
+* La Bouille, 76
+* La Mailleraye-sur-Seine, 76
 * Le Havre, 76
-* Le Trait, 76
-* Notre-Dame-du-Bec, 76
-* Pont-Audemer, 27
-* Rolleville, 76
+* Moulineaux, 76
+* Port-Mort, 27
+* Quillebeuf-sur-Seine, 76
+* Rives-en-Seine, 76
 * Rouen, 76
+* Saint-Arnoult, 76
+* Val-de-Reuil, 27
 * Vernon, 27
 
 ## Le Forum, Maison de l'Architecture de Normandie
@@ -54,7 +57,7 @@ Nous remercions toutes les personnes qui ont permis la mise en œuvre de ce fest
 
 * Anne Le Bellego
 * Frédérique Mougeot
-* Flora David
+* Lucile Tijon
 * Marion Vandaele
 
 ### Coordonnées
