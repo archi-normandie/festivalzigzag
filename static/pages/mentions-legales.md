@@ -6,7 +6,7 @@ Le site festivalzigzag.fr est édité par la Maison de l'architecture de Norman
 
 Directeur de publication : Pascal Victor, président de la MaN - le Forum  
 Coordination éditoriale : Anne Le Bellégo, directrice de la MaN - le Forum  
-Textes : Frédérique Mougeot, Flora David, Marion Vandaele  
+Textes : Frédérique Mougeot, Lucile Tijon, Marion Vandaele  
 Réalisation : Maison de l'architecture de Normandie - le Forum
 
 Développement web : [Alexandre Ronsaut, ApolloNet](https://apollonet.fr/)  
