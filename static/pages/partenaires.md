@@ -15,7 +15,7 @@ description: ''
 
 ![](/static/files/logos5.jpg)
 
-![](/static/files/logos16.jpg)
+![](/static/files/logos6.jpg)
 
 ![](/static/files/logos7.jpg)
 
@@ -34,3 +34,37 @@ description: ''
 ![](/static/files/logos14.jpg)
 
 ## Partenaires de projet
+
+![](/static/files/logos15.jpg)
+
+![](/static/files/logos16.jpg)
+
+![](/static/files/logos17.jpg)
+
+![](/static/files/logos18.jpg)
+
+![](/static/files/logos19.jpg)
+
+![](/static/files/logos20.jpg)
+
+![](/static/files/logos21.jpg)
+
+![](/static/files/logos22.jpg)
+
+![](/static/files/logos23.jpg)
+
+![](/static/files/logos24.jpg)
+
+![](/static/files/logos25.jpg)
+
+![](/static/files/logos26.jpg)
+
+![](/static/files/logos27.jpg)
+
+![](/static/files/logos28.jpg)
+
+![](/static/files/logos29.jpg)
+
+![](/static/files/logos30.jpg)
+
+![](/static/files/logos31.jpg)
