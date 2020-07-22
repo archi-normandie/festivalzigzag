@@ -25,3 +25,5 @@ fields:
     export_format: YYYY-MM-DD HH:MM
   default: now
   hidden: true
+pages:
+- static/stories/test-zz2020.md
