@@ -2,7 +2,9 @@
 title: Vues de haut
 address: Grand Quevilly
 dates:
-- 2020-10-03 14h / 15h30 / 17h
+- 2020-10-03 14:00
+- 2020-10-03 15:30
+- 2020-10-03 17:00
 category:
 - Visites
 lat: "49.4116"
