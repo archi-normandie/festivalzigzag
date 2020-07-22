@@ -5,7 +5,7 @@ description: ''
 ---
 ## Partenaires financiers
 
-![](/static/files/logos.jpg)
+![](/static/files/logos.jpg)![](/files/logos.jpg)
 
 ![](/static/files/logos2.jpg)
 
