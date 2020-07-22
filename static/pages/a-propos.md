@@ -5,13 +5,13 @@ description: Festival Zigzag 2020, édito.
 ---
 ## Télécharger le programme
 
-<a class="button" download href="/files/programme-festival-zigzag.pdf">Télécharger</a> (29.3MB, PDF)
+<a class="button" download href="/files/zig-zag-2020-affiche-programme-40x60-web-vdef.pdf">Télécharger</a> 
 
 ## À propos
 
-**Visiter, arpenter, explorer l’espace, questionner la perspective, les dimensions et les échelles, le réel et l’imaginaire.** 
+**Visiter, arpenter, explorer l’espace, questionner la perspective, les dimensions et les échelles, le réel et l’imaginaire.**
 
-**La seconde édition de _Zigzag – festival d’architecture et des arts de l’espace_, fort du succès de l’an dernier, est une nouvelle invitation à découvrir, comprendre et participer aux transformations d’un territoire en mouvement, celui de la vallée de la Seine.** 
+**La seconde édition de _Zigzag – festival d’architecture et des arts de l’espace_, fort du succès de l’an dernier, est une nouvelle invitation à découvrir, comprendre et participer aux transformations d’un territoire en mouvement, celui de la vallée de la Seine.**
 
 La Seine dessine des paysages variés, où villes, campagnes et zones industrielles s’égrènent dans leur diversité de tailles, d’identités ou d’enjeux. Elles s’ancrent dans des réalités historiques, géographiques, économiques diverses dont les usages et les inter-relations évoluent et se ré-inventent. Comment les regarder ? Comment s’approprier ces espaces en transformation ? Comment en faire des lieux de vie pour demain ?
 
@@ -39,11 +39,11 @@ Plus de trente événements sont programmés d’Achères à Deauville pour appr
 
 ## Le Forum, Maison de l'Architecture de Normandie
 
-La Maison de l’architecture de Normandie - le Forum est une structure de médiation en architecture, urbanisme et paysage auprès de tous les publics.  
+La Maison de l’architecture de Normandie - le Forum est une structure de médiation en architecture, urbanisme et paysage auprès de tous les publics.
 
 Elle initie des projets qui créent des espaces d’échanges et de réflexions sur la fabrication de la ville, des territoires péri-urbains et ruraux, auxquels elle associe élus, professionnels, habitants et acteurs locaux.
 
-La MaN située au cœur du quartier Saint-Marc à Rouen, est un lieu culturel dédié à l’architecture. Il conjugue simultanément une programmation saisonnière dans et hors les murs à l’échelle régionale. 
+La MaN située au cœur du quartier Saint-Marc à Rouen, est un lieu culturel dédié à l’architecture. Il conjugue simultanément une programmation saisonnière dans et hors les murs à l’échelle régionale.
 
 L’ensemble de sa programmation est au croisement de divers champs artistiques et disciplinaires dans un dialogue permanent avec les acteurs de l’acte de construire et de la culture. Il décline : expositions, rencontres, visites, cours, voyages d’étude, résidences, actions pédagogiques...
 
