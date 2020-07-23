@@ -5,8 +5,8 @@ category:
 - Déambulation paysagère
 dates:
 - 2020-10-17 15:00
-lat: ''
-lon: ''
+lat: "49.352194"
+lon: "0.9280843"
 image: "/files/la-bouille_deambulation-caue76.jpg"
 message: ''
 avec: Avec Jean-Christophe Goulier, architecte-paysagiste, CAUE 76.
