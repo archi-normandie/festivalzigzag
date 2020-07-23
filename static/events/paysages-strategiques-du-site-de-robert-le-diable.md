@@ -3,7 +3,8 @@ title: Paysages stratégiques du site de Robert le Diable
 address: Moulineaux
 category:
 - Parcours
-dates: []
+dates:
+- 2020-10-04 14:30
 lat: "49.3398916"
 lon: "0.9610958"
 image: "/files/robert-le-diable-visuel.jpg"
