@@ -3,7 +3,8 @@ title: Les Franciscaines
 address: Deauville
 category:
 - Visite de chantier
-dates: []
+dates:
+- 2020-10-10 11:00
 lat: "49.35395"
 lon: "0.06477"
 image: "/files/deauville-les-franciscaines-agence-moatti-riviere.jpg"
