@@ -3,7 +3,8 @@ title: Rouen impressionnée
 address: Rouen
 category:
 - Parcours street art
-dates: []
+dates:
+- 2020-10-10 14:30
 lat: "49.42402"
 lon: "1.09576"
 image: "/files/rouen-parcours-street-art-nelio-2006250942-florence-brochoire.jpg"
