@@ -5,8 +5,8 @@ category:
 - Rencontre, visite, exposition
 dates:
 - 2020-10-18 10:00
-lat: "49.0969937"
-lon: "1.4742318"
+lat: "49.09745"
+lon: '1.47520'
 image: "/files/vernon_manufacture-une-journee-au-jardin-mwah.jpg"
 message: ''
 avec: |-
