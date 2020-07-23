@@ -5,8 +5,8 @@ category:
 - " Balade scénographiée"
 dates:
 - 2020-10-14 14:30
-lat: ''
-lon: ''
+lat: "49.1755832"
+lon: "1.3917442"
 image: "/files/port-mort-2-visite-carte-postale-ancienne-port-mort-gravier-de-gargantua.jpg"
 message: ''
 avec: Visite proposée par le CAUE 27.
