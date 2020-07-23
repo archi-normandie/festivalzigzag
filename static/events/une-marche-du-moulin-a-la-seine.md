@@ -10,7 +10,7 @@ category:
 lat: "49.4116"
 lon: "1.0416"
 image: "/static/files/grand-quevilly_visite-vue-de-haut-man-le-forum.jpg"
-rdv: 'Selon la ou les visites choisies. '
+rdv: Selon la ou les visites choisies (3 créneaux par visites), inscrivez-vous !
 buttons:
 - text: 'Inscription : visite Mairie Annexe / Centre Culturel Marx Dormoy, place Gabriel
     Péri'
