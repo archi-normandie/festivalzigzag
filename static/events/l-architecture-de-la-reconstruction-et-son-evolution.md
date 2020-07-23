@@ -7,7 +7,7 @@ dates:
 - 2020-10-17 10:30
 lat: "49.43349"
 lon: "1.09131"
-image: ''
+image: "/files/parcours-urbain-rouen-reconstruction-caue76-1.jpg"
 message: ''
 avec: Animé par le CAUE 76 et l'Atelier de la Corderie, cabinet d'architecture en
   charge de la rénovation.
@@ -16,7 +16,7 @@ rdv: RDV Cours Clémenceau, sur la place piétonne, devant l’Hôtel du Départ
 buttons:
 - text: Réserver
   url: http://man-leforum.fr/maison-de-l-architecture/
-copyright: ''
+copyright: CAUE 76
 
 ---
 Conçu il y a 70 ans, le patrimoine architectural de la reconstruction présente un style caractéristique qui structure un certain nombre de communes ou de quartiers en Seine-Maritime. Répondant aux principes constructifs d’une époque, ils font aujourd’hui partie de notre patrimoine. A l’occasion d’un parcours urbain sur la rive gauche de Rouen, du cours Clémenceau à l’ISAI des Docks, découvrez l’histoire de ces bâtiments, de leur construction à leur rénovation.
