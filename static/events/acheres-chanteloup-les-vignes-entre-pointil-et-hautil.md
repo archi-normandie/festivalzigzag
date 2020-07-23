@@ -5,8 +5,8 @@ category:
 - Randonnée
 dates:
 - 2020-10-17 09:30
-lat: ''
-lon: ''
+lat: "48.963723"
+lon: "2.0677738"
 image: ''
 message: ''
 avec: Cette randonnée métropolitaine est proposée par Le voyage métropolitain.
