@@ -13,12 +13,12 @@ image: "/static/files/grand-quevilly_visite-vue-de-haut-man-le-forum.jpg"
 rdv: RDV selon la ou les visites choisies (3 créneaux par visites), inscrivez-vous
   !
 buttons:
-- text: 'Inscription : visite Mairie Annexe / Centre Culturel Marx Dormoy, place Gabriel
+- text: 'Réserver : visite Mairie Annexe / Centre Culturel Marx Dormoy, place Gabriel
     Péri'
   url: http://man-leforum.fr/maison-de-l-architecture/
-- text: 'Inscription : visite Hôtel de Ville, Esplanade Tony Larue'
+- text: 'Réserver : visite Hôtel de Ville, Esplanade Tony Larue'
   url: http://man-leforum.fr/maison-de-l-architecture/
-- text: 'Inscription : visite Immeuble Nymphéas, 1 rue Eugène Boudin'
+- text: 'Réserver : visite Immeuble Nymphéas, 1 rue Eugène Boudin'
   url: http://man-leforum.fr/maison-de-l-architecture/
 copyright: MaN - le Forum
 message: ''
