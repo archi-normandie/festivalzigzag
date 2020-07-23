@@ -90,3 +90,5 @@ fields:
   config:
     required: false
   label: Copyright
+pages:
+- static/events/le-regard-de-travers.md
