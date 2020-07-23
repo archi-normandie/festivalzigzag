@@ -20,10 +20,9 @@ buttons:
 - text: 'Inscription : visite Immeuble Nymphéas, 1 rue Eugène Boudin'
   url: http://man-leforum.fr/maison-de-l-architecture/
 copyright: MaN - le Forum
+message: Comptez 30 à 40 minutes par visite.
 
 ---
 L’extension de Grand Quevilly, construite à partir des années 50, se reconnait notamment à son skyline. Avec ses pics et ses tours redessinés dans les années 90, la ville décèle de nombreux trésors que l’on appréhende particulièrement de haut, en montant dans les étages de ces tours. Suivez-nous dans cette lecture urbaine insolite qui prend de la hauteur!
 
 Visites proposées en partenariat avec Quevilly Habitat.
-
-Comptez 30 à 40 minutes par visite.
