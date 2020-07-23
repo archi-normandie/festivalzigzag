@@ -7,12 +7,12 @@ dates:
 - 2020-10-03 11:00
 lat: "49.41357"
 lon: "1.03372"
-image: ''
+image: "/files/grand-quevilly-in-fine-stego-quevilly-helene-leonard.jpg"
 message: 'Accès libre et gratuit. Durée : 1H30.'
 avec: ''
 rdv: Centre Marx Dormoy, Place Gabriel Péri.
 buttons: []
-copyright: ''
+copyright: Hélène Léonard
 
 ---
 Plongez dans Le regard de \[travers\], une expérience interactive mariant art et numérique, créée par la compagnie In Fine (danse aérienne) et le studio de création Small Bang. Une balade étonnante et sensible au cours de laquelle votre regard percera les murs pour découvrir des chorégraphies imaginées pour le lieu.
