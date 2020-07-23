@@ -9,7 +9,7 @@ lon: ''
 image: "/files/rouen-parcours-street-art-nelio-2006250942-florence-brochoire.jpg"
 message: ''
 avec: |-
-  Visite gratuite.
+  Accès libre et gratuit.
   Olivier Landes, commissaire d'exposition, vous accompagnera lors cette visite exceptionnelle pour une déambulation commentée, mêlant art et urbanisme.
   Visite en partenariat avec la Ville de Rouen.
 rdv: RDV à l'arrêt de bus du F3, centre social (près du centre socio-culturel Simone
