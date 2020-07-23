@@ -4,8 +4,8 @@ address: Rouen
 category:
 - Parcours street art
 dates: []
-lat: ''
-lon: ''
+lat: "49.42402"
+lon: "1.09576"
 image: "/files/rouen-parcours-street-art-nelio-2006250942-florence-brochoire.jpg"
 message: ''
 avec: |-
