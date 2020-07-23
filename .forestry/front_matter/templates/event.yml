@@ -91,6 +91,7 @@ fields:
     required: false
   label: Copyright
 pages:
+- static/events/a-port-mort-figurez-vous-1.md
 - static/events/a-port-mort-figurez-vous.md
 - static/events/architecture-portuaire.md
 - static/events/campus-equin-international-entre-marais-et-collines-du-pays-d-auge.md
