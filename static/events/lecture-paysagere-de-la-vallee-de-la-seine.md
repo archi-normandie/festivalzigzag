@@ -13,7 +13,7 @@ avec: Visite proposée et animée par le CAUE 76, Boris Menguy, paysagiste-urban
 rdv: Au niveau de l’embarcadère de Quillebeuf-sur-Seine sur les quais.
 buttons:
 - text: Réserver
-  url: http://man-leforum.fr/maison-de-l-architecture/
+  url: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/lecture-paysagere-de-la-vallee-de-la-seine
 copyright: ''
 
 ---
