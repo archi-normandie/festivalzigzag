@@ -15,7 +15,7 @@ rdv: "RDV cabane de chantier, 143 avenue de la République. \nAttention chantier
   munir de bonnes chaussures."
 buttons:
 - text: Réserver
-  url: http://man-leforum.fr/maison-de-l-architecture/
+  url: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/les-franciscaines
 copyright: Agence Moatti-Rivière
 
 ---
