@@ -12,7 +12,9 @@ message: ''
 avec: Intervention croisée du Grand Port Maritime du Havre et de l’Agence d’Urbanisme
   de la Région Havraise.
 rdv: RDV Port Center, Chaussée Kennedy – Durée 2H30
-buttons: []
+buttons:
+- text: Réserver
+  url: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/lh-baie-attitude-la-baie-du-havre-du-port-de-plaisance-au-port-de-croisiere
 copyright: Philippe Breard
 
 ---
