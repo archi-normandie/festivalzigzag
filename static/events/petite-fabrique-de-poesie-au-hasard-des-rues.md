@@ -15,7 +15,7 @@ avec: Atelier famille à partir de 8 ans, de 2 fois 2 heures (présence sur les 
 rdv: RDV Maison de l’architecture de Normandie, 48 rue Victor Hugo.
 buttons:
 - text: Réserver
-  url: http://man-leforum.fr/maison-de-l-architecture/
+  url: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/petite-fabrique-de-poesie-au-hasard-des-rues
 copyright: MaN - le Forum
 
 ---

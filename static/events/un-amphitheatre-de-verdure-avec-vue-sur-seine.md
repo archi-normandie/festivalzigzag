@@ -14,7 +14,7 @@ rdv: RDV place du Bateau (en cœur de bourg, près des commerces) ; stationnemen
   sur le quai ou près de la cale du Bac.
 buttons:
 - text: Réserver
-  url: http://man-leforum.fr/maison-de-l-architecture/
+  url: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/un-amphitheatre-de-verdure-avec-vue-sur-seine
 copyright: CAUE 76
 
 ---
