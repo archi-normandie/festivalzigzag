@@ -12,7 +12,7 @@ avec: Visite proposée par le CAUE 76.
 rdv: Au pied de la Mairie, 1 avenue Winston Churchill.
 buttons:
 - text: Réserver
-  url: http://man-leforum.fr/maison-de-l-architecture/
+  url: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/patrimoine-de-la-reconstruction-une-richesse-a-reconquerir
 copyright: CAUE 76
 
 ---

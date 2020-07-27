@@ -14,7 +14,7 @@ avec: Avec Denis Comont, paysagiste concepteur, agence Arc-en-Terre, en partenar
 rdv: RDV au panorama, au pied du château de Robert le Diable.
 buttons:
 - text: Réserver
-  url: http://man-leforum.fr/maison-de-l-architecture/
+  url: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/paysages-strategiques-du-site-de-robert-le-diable
 copyright: ''
 
 ---

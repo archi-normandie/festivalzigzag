@@ -13,7 +13,7 @@ avec: ''
 rdv: RDV Place Carnot, accessible en transport en commun ligne F1, F3, 6.
 buttons:
 - text: Réserver
-  url: http://man-leforum.fr/maison-de-l-architecture/
+  url: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/la-friche-lucien
 copyright: Virgile Thersiquel
 
 ---
