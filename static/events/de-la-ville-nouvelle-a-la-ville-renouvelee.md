@@ -15,7 +15,7 @@ rdv: RDV Gare de Val-de-Reuil – départ et arrivée à la gare, coordination a
   horaires de train.
 buttons:
 - text: Réserver
-  url: http://man-leforum.fr/maison-de-l-architecture/
+  url: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/de-la-ville-nouvelle-a-la-ville-renouvelee
 copyright: Vue aérienne 1978, prise de l'ouest - cliché EPV
 
 ---

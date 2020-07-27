@@ -14,7 +14,7 @@ avec: Visite proposée et animée par le CAUE 76, Boris Menguy, paysagiste-urban
 rdv: RDV la Halle aux poissons - Quai de l’Île.
 buttons:
 - text: Réserver
-  url: http://man-leforum.fr/maison-de-l-architecture/
+  url: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/decouvrir-une-enigme-de-la-reconstruction
 copyright: CAUE 76
 
 ---
