@@ -19,7 +19,7 @@ avec: |-
 rdv: Rdv aire d'accueil de Rouen/Petit-Quevilly, rue Turquié de Longchamps.
 buttons:
 - text: Réserver
-  url: http://man-leforum.fr/maison-de-l-architecture/
+  url: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/systeme-lubrizol-et-metropolisation-de-l-axe-seine
 copyright: Echelle Inconnnue
 
 ---

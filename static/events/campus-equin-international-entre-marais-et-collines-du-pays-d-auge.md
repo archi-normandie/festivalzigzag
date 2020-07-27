@@ -15,7 +15,7 @@ avec: |-
 rdv: RDV EnvA - Cirale, RD675, Goustranville.
 buttons:
 - text: Réserver
-  url: http://man-leforum.fr/maison-de-l-architecture/
+  url: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/campus-equin-international-entre-marais-et-collines-du-pays-d-auge
 copyright: ''
 
 ---
