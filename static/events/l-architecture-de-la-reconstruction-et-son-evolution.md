@@ -15,7 +15,7 @@ rdv: RDV Cours Clémenceau, sur la place piétonne, devant l’Hôtel du Départ
   à l’intersection avec l’avenue Champlain (place Carnot).
 buttons:
 - text: Réserver
-  url: http://man-leforum.fr/maison-de-l-architecture/
+  url: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/l-architecture-de-la-reconstruction-et-son-evolution
 copyright: CAUE 76
 
 ---

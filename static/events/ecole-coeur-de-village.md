@@ -13,7 +13,7 @@ avec: 'Avec les architectes du projet : l’Atelier Cosme Architecture.'
 rdv: RDV 5 allée des Peupliers.
 buttons:
 - text: Réserver
-  url: http://man-leforum.fr/maison-de-l-architecture/
+  url: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/ecole-coeur-de-village
 copyright: Atelier Cosme Architecture
 
 ---

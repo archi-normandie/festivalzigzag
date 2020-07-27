@@ -14,7 +14,7 @@ avec: Visite en partenariat avec le service Villes et Pays d’art et d’histoi
 rdv: RDV port de plaisance, boulevard Clemenceau, embarquement avec Normandie Navigation.
 buttons:
 - text: Réserver
-  url: http://man-leforum.fr/maison-de-l-architecture/
+  url: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/balade-entre-ville-et-port
 copyright: Victor Belloteau
 
 ---
