@@ -14,7 +14,7 @@ avec: Parcours guidé par Franck Gaillet, paysagiste-concepteur, en partenariat
 rdv: RDV devant l’entrée du cimetière de Rouelles.
 buttons:
 - text: Réserver
-  url: http://man-leforum.fr/maison-de-l-architecture/
+  url: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/le-parc-de-rouelles-un-refuge-naturel
 copyright: ''
 
 ---

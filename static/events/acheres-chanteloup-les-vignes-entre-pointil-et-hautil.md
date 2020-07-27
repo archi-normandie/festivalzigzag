@@ -15,7 +15,7 @@ rdv: |-
   Prévoir un pique-nique pour le midi – Possibilité de rejoindre Achères en train, en fin de journée.
 buttons:
 - text: Réserver
-  url: http://man-leforum.fr/maison-de-l-architecture/
+  url: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/acheres-chanteloup-les-vignes-entre-pointil-et-hautil
 copyright: Le voyage métropolitain
 
 ---
