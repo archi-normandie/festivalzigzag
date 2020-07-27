@@ -15,7 +15,7 @@ rdv: |-
   Attention, prévoir de bonnes chaussures.
 buttons:
 - text: Réserver
-  url: http://man-leforum.fr/maison-de-l-architecture/
+  url: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/a-port-mort-figurez-vous-1
 copyright: Carte postale ancienne - Gravier de Gargantua
 
 ---

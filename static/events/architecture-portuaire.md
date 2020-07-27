@@ -13,7 +13,7 @@ avec: Embarquement à partir de 14H30, retour 17H30 – 10 euros / personne
 rdv: 'RDV Quai Ferdinand de Lesseps, en face du Hangar 9 '
 buttons:
 - text: Réserver
-  url: http://man-leforum.fr/maison-de-l-architecture/
+  url: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/architecture-portuaire
 copyright: MaN - le Forum
 
 ---
