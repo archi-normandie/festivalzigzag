@@ -14,7 +14,7 @@ rdv: RDV devant la Mairie, Grande Rue (stationnement sur le parking de la salle 
   fêtes).  Attention, prévoir de bonnes chaussures.
 buttons:
 - text: Réserver
-  url: http://man-leforum.fr/maison-de-l-architecture/
+  url: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/a-port-mort-figurez-vous
 copyright: Carte postale ancienne - Port-Mort cueillette des roseaux
 
 ---
