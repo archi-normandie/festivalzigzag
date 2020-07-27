@@ -18,4 +18,4 @@ copyright: Dans le sens de barge - La Cloche
 ---
 Cette “Utopie Fluviale” dévoile le projet Barge, centre culturel itinérant sur la Seine conçu par l’architecte naval Pierre Delion. L’exposition intègre les propositions des étudiants de l’Ecole Nationale Supérieure de Design qui ont imaginé les escales fluviales de la future péniche. La démarche est portée par le collectif d’artistes et d’architectes Dans le Sens de Barge qui offre un cycle de programmation artistique (résidences, workshops, expositions, ateliers et fêtes) favorisant le lien social et culturel sur la Seine.
 
-Site web : [Barge](https://barge.mobi/author/jameshbarge/)
+**Pour en savoir plus :** [Barge](https://barge.mobi/author/jameshbarge/)
