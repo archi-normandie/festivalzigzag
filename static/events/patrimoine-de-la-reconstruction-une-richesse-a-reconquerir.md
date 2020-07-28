@@ -3,7 +3,8 @@ title: Patrimoine de la reconstruction, une richesse à reconquérir
 address: 'Rives-en-Seine [Caudebec-en-Caux] '
 category:
 - Parcours
-dates: []
+dates:
+- 2020-10-04 10:30
 lat: "49.52443"
 lon: "0.72195"
 image: "/files/rives-en-seine_patrimoine-reconstruction-caue76.jpg"
