@@ -5,8 +5,8 @@ category:
 - Visite
 dates:
 - 2020-10-04 14:00
-lat: "49.43349"
-lon: "1.09131"
+lat: "49.4332076"
+lon: "1.0923051"
 image: "/files/rouen_friche-lucien-virgile-thersiquel.jpg"
 message: ''
 avec: ''
