@@ -1,6 +1,6 @@
 ---
 date: 2019-12-31 15:12
-title: Déambulationnage pour découvrir la Manufacture des Capucins
+title: Zigzag 2019 - Déambulationnage pour découvrir la Manufacture des Capucins
 image: "/files/GabaritZZ_couverturefb_photos 2019_manufacture 2.jpg"
 
 ---
