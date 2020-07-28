@@ -10,7 +10,7 @@ lon: "0.72195"
 image: "/files/rives-en-seine_patrimoine-reconstruction-caue76.jpg"
 message: ''
 avec: Visite proposée par le CAUE 76.
-rdv: Au pied de la Mairie, 1 avenue Winston Churchill.
+rdv: RDV au pied de la Mairie, 1 avenue Winston Churchill.
 buttons:
 - text: Réserver
   url: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/patrimoine-de-la-reconstruction-une-richesse-a-reconquerir
