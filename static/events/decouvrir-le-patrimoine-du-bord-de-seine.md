@@ -21,9 +21,9 @@ Evénement ludo-cyclo-patrimonial proposé dans le cadre de l’itinéraire Sein
 
 Trois heures de parcours !
 
-**Renseignements et inscriptions :** 
+**Renseignements et inscriptions :**
 
-* Fabrique des Savoirs - 02 32 96 91 50 
-* Office de tourisme Seine-Eure - 02 32 40 04 41
+* Fabrique des Savoirs 02 32 96 91 50
+* Office de tourisme Seine-Eure 02 32 40 04 41
 
-[#SeineàVélo](https://www.facebook.com/hashtag/seine%C3%A0v%C3%A9lo?__eep__=6&__cft__\[0\]=AZXUnzZ29NrTNK21ELSzQDRdbWG6twWCE_0ut-jSwpxyGxBsFdUO6Or6VAgln6EzpKUH2limAlkKsEv7i7KtC4EgktsxBxp-ui9XaFFOGMn1Zm4mMbkE6io8-AG_YeO-67oYpnAlAFeBJtrSceBQuWtsxu8oUjkpp_GEh3ztzWFesA&__tn__=*NK-R) 
+[#SeineàVélo](https://www.facebook.com/hashtag/seine%C3%A0v%C3%A9lo?__eep__=6&__cft__%5B0%5D=AZXUnzZ29NrTNK21ELSzQDRdbWG6twWCE_0ut-jSwpxyGxBsFdUO6Or6VAgln6EzpKUH2limAlkKsEv7i7KtC4EgktsxBxp-ui9XaFFOGMn1Zm4mMbkE6io8-AG_YeO-67oYpnAlAFeBJtrSceBQuWtsxu8oUjkpp_GEh3ztzWFesA&__tn__=*NK-R)
