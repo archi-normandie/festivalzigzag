@@ -6,8 +6,8 @@ category:
 dates:
 - 2020-10-17 14:00
 - 2020-10-18 14:00
-lat: '49.43980'
-lon: "1.10069"
+lat: "49.4400619"
+lon: "1.1009131"
 image: "/files/rouen-jna-atelier-d-ecriture-man-le-forum.jpg"
 message: ''
 avec: Atelier famille à partir de 8 ans, de 2 fois 2 heures (présence sur les deux
