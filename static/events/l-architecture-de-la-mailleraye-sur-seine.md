@@ -4,7 +4,7 @@ address: La Mailleraye-sur-Seine
 category:
 - Balade patrimoniale
 dates:
-- '2020-10-18 '
+- 2020-10-18 10:00
 lat: "49.4473"
 lon: "0.7574"
 image: "/files/la-mailleraye-sur-seine-balade-pnr.jpg"
