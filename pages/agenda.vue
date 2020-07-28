@@ -52,6 +52,9 @@ export default {
         .filter(entry => entry[1].dir === 'events')
         .map(entry => entry[1])
       events.sort(function (a, b) {
+        if (typeof a.dates[0] === 'undefined' || typeof b.dates[0] === 'undefined') {
+          return 0
+        }
         return a.dates[0].start.timestamp - b.dates[0].start.timestamp
       })
       return events
