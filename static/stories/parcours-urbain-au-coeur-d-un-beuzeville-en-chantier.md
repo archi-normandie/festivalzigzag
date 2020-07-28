@@ -1,6 +1,6 @@
 ---
 date: 2019-12-31 11:12
-title: Parcours au cœur d'une ville en chantier
+title: Zigzag 2019 - Parcours au cœur d'une ville en chantier
 image: "/files/GabaritZZ_couverturefb_beuzeville.jpg"
 
 ---

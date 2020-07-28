@@ -2,4 +2,16 @@
 title: Presse
 
 ---
-<a class="button" target="_blank" href="https://issuu.com/mdahn/docs/bilan_zz1_annexe_revue_de_presse">Télécharger la revue de presse</a>
+### **Contact presse :**
+
+Le Forum - Maison de l’architecture de Normandie
+
+**Marion Vandaele**
+
+* [**contact@man-leforum.fr**](mailto:contact@man-leforum.fr)
+* 02 35 03 40 31 // 07 60 68 33 28
+* 48 rue Victor Hugo 76000 Rouen
+
+<a class="button" download href="/files/cp-zigzag-2020_3-au-18-octobre_man-le-forum.pdf">Télécharger le communiqué de presse</a>
+
+<a class="button" download href="/files/kit-com_zigzag-2020.zip">Télécharger le kit com</a>

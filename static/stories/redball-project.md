@@ -1,5 +1,5 @@
 ---
-title: 'RedBall Project en ouverture du festival '
+title: 'Zigzag 2019 - RedBall Project en ouverture du festival '
 date: 2019-12-17 9:13
 image: "/files/2019-redball.jpg"
 

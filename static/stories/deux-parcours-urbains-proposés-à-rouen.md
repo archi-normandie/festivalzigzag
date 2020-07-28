@@ -1,6 +1,6 @@
 ---
 date: 2019-12-31 09:12
-title: Deux parcours urbains proposés à Rouen
+title: Zigzag 2019 - Deux parcours urbains proposés à Rouen
 image: "/files/GabaritZZ_couverturefb_100 chemins et coeur de métropole.jpg"
 
 ---
