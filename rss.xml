@@ -4,7 +4,7 @@
         <title></title>
         <link>https://festivalzigzag.fr/rss.xml</link>
         <description>Journal du Festival Zigzag</description>
-        <lastBuildDate>Wed, 29 Jul 2020 15:15:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jul 2020 15:25:39 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
         <item>
@@ -40,22 +40,6 @@
 <li>Tarkett </li>
 <li>CEMEX</li>
 </ul>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Zigzag 2019 - Deux parcours urbains accompagnés par le CAUE 76]]></title>
-            <link>https://festivalzigzag.fr/stories/deux-parcours-urbains-accompagnes-par-le-caue-76</link>
-            <guid>https://festivalzigzag.fr/stories/deux-parcours-urbains-accompagnes-par-le-caue-76</guid>
-            <pubDate>Mon, 19 Jan 1970 06:16:27 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="le-trait--les-défis-de-la-cité-jardin-pour-demain">LE TRAIT : LES DÉFIS DE LA CITÉ-JARDIN POUR DEMAIN</h2>
-<p>Conçu à l’origine comme un ensemble d’habitations de style régionaliste destiné à loger les employés du chantier naval, le paysage unique de cette vaste cité-jardin se confronte aujourd’hui à un risque de banalisation de son architecture. Les habitants souhaitent, comme dans d’autres lieux, agrandir leur logement, améliorer leur confort, diminuer leur facture d’énergie et personnaliser leur habitation. Comment, dans ce contexte, répondre à certaines de ces aspirations tout en conservant le sens et les caractéristiques qui rendent cette cité-jardin unique ?</p>
-<p>Avec Gaëlle Pottier du Parc Naturel Régional des Boucles de la Seine Normande et Gilles Pesquet du CAUE 76.</p>
-<h2 id="le-front-de-seine-de-duclair-se-réinvente">LE FRONT DE SEINE DE DUCLAIR SE RÉINVENTE</h2>
-<p>Au sein d’un réseau de voies de communication, la promenade du bord de Seine à Duclair s’étoffe : à deux pas, le parc des Eaux Mêlées permet de gérer les eaux pluviales en même temps qu’il constitue un réservoir de biodiversité. Sur le quai, la présence d’AMPLITUDE, œuvre artistique et repère de crues, va témoigner des fluctuations du niveau du fleuve à proximité de la cale du bac. Enfin, la halte touristique pour croisières fluviales et le réaménagement de la place principale illustrent le potentiel d’évolution lié à l’attractivité des bords de Seine. </p>
-<p>Avec Gilles Pesquet et Clément Delaitre du CAUE 76.</p>
-<h3 id="parole-de-gilles-pesquet">Parole de Gilles Pesquet</h3>
-<p><em>Architecte-conseiller - CAUE 76</em></p>
-<p>« Les visiteurs ont appris de nombreuses choses sur l&#39;architecture des Cité-jardins, de la Reconstruction, de l&#39;architecture vernaculaire de la vallée de Seine et des projets qui font avancer ces deux communes (notamment la voie verte, le bord de Seine, l&#39;aménagement paysager de l&#39;espace public...). »</p>
 ]]></content:encoded>
         </item>
         <item>
@@ -98,7 +82,7 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Genius 2019 - installation éphémère au Havre]]></title>
+            <title><![CDATA[Zigzag 2019 - Installation éphémère au Havre : Genius]]></title>
             <link>https://festivalzigzag.fr/stories/genius-2019-installation-ephemere-au-havre</link>
             <guid>https://festivalzigzag.fr/stories/genius-2019-installation-ephemere-au-havre</guid>
             <pubDate>Mon, 19 Jan 1970 06:15:25 GMT</pubDate>
@@ -120,6 +104,22 @@
 </ul>
 <p><em>Dorothée Navarre, collectif Les Gens des Lieux</em></p>
 <p><strong>Genius revient en 2020 au Havre, suivez la page du collectif :</strong> <a href="https://www.facebook.com/Nouslesgensdeslieux/">Les Gens des Lieux</a></p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Zigzag 2019 - Deux parcours urbains accompagnés par le CAUE 76]]></title>
+            <link>https://festivalzigzag.fr/stories/deux-parcours-urbains-accompagnes-par-le-caue-76</link>
+            <guid>https://festivalzigzag.fr/stories/deux-parcours-urbains-accompagnes-par-le-caue-76</guid>
+            <pubDate>Mon, 19 Jan 1970 06:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="le-trait--les-défis-de-la-cité-jardin-pour-demain">LE TRAIT : LES DÉFIS DE LA CITÉ-JARDIN POUR DEMAIN</h2>
+<p>Conçu à l’origine comme un ensemble d’habitations de style régionaliste destiné à loger les employés du chantier naval, le paysage unique de cette vaste cité-jardin se confronte aujourd’hui à un risque de banalisation de son architecture. Les habitants souhaitent, comme dans d’autres lieux, agrandir leur logement, améliorer leur confort, diminuer leur facture d’énergie et personnaliser leur habitation. Comment, dans ce contexte, répondre à certaines de ces aspirations tout en conservant le sens et les caractéristiques qui rendent cette cité-jardin unique ?</p>
+<p>Avec Gaëlle Pottier du Parc Naturel Régional des Boucles de la Seine Normande et Gilles Pesquet du CAUE 76.</p>
+<h2 id="le-front-de-seine-de-duclair-se-réinvente">LE FRONT DE SEINE DE DUCLAIR SE RÉINVENTE</h2>
+<p>Au sein d’un réseau de voies de communication, la promenade du bord de Seine à Duclair s’étoffe : à deux pas, le parc des Eaux Mêlées permet de gérer les eaux pluviales en même temps qu’il constitue un réservoir de biodiversité. Sur le quai, la présence d’AMPLITUDE, œuvre artistique et repère de crues, va témoigner des fluctuations du niveau du fleuve à proximité de la cale du bac. Enfin, la halte touristique pour croisières fluviales et le réaménagement de la place principale illustrent le potentiel d’évolution lié à l’attractivité des bords de Seine. </p>
+<p>Avec Gilles Pesquet et Clément Delaitre du CAUE 76.</p>
+<h3 id="parole-de-gilles-pesquet">Parole de Gilles Pesquet</h3>
+<p><em>Architecte-conseiller - CAUE 76</em></p>
+<p>« Les visiteurs ont appris de nombreuses choses sur l&#39;architecture des Cité-jardins, de la Reconstruction, de l&#39;architecture vernaculaire de la vallée de Seine et des projets qui font avancer ces deux communes (notamment la voie verte, le bord de Seine, l&#39;aménagement paysager de l&#39;espace public...). »</p>
 ]]></content:encoded>
         </item>
         <item>

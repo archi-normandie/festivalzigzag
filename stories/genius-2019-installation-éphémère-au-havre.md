@@ -1,6 +1,6 @@
 ---
 date: 2019-12-30 17:12
-title: Genius 2019 - installation éphémère au Havre
+title: 'Zigzag 2019 - Installation éphémère au Havre : Genius'
 image: "/files/GabaritZZ_couverturefb_photos 2019_genius 2.jpg"
 
 ---
