@@ -20,7 +20,7 @@ fields:
     min: 
     max: 
   label: Catégorie
-- name: countinuous-date
+- name: countinuousdate
   type: text
   config:
     required: false
