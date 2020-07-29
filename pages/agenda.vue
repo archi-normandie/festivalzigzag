@@ -12,7 +12,31 @@
       </div>
       <div class="content-main">
         <nuxt-link
-          v-for="event in events"
+          v-for="event in pinnedEvents"
+          :key="event.slug"
+          :to="event.slug"
+          class="event event-teaser event-pinned"
+        >
+          <p class="event--dates">
+            {{ event.countinuousdate }}
+          </p>
+          <p class="event--address">
+            {{ event.address }}
+          </p>
+          <p class="event--category">
+            <span>
+              {{ event.category[0] }}
+            </span>
+            <span v-if="event.message" class="messages error">
+              {{ event.message }}
+            </span>
+          </p>
+          <p class="event--title">
+            {{ event.title }}
+          </p>
+        </nuxt-link>
+        <nuxt-link
+          v-for="event in regularEvents"
           :key="event.slug"
           :to="event.slug"
           class="event event-teaser"
@@ -51,13 +75,15 @@ export default {
       const events = Object.entries(contents)
         .filter(entry => entry[1].dir === 'events')
         .map(entry => entry[1])
-      events.sort(function (a, b) {
-        if (typeof a.dates[0] === 'undefined' || typeof b.dates[0] === 'undefined') {
-          return 0
-        }
-        return a.dates[0].start.timestamp - b.dates[0].start.timestamp
-      })
       return events
+    },
+    regularEvents () {
+      return this.events
+        .filter(entry => typeof entry.dates[0] !== 'undefined')
+        .sort((a, b) => a.dates[0].start.timestamp - b.dates[0].start.timestamp)
+    },
+    pinnedEvents () {
+      return this.events.filter(entry => typeof entry.dates[0] === 'undefined')
     },
     blockAgendaHeader () {
       return this.$store.state.contents.all['agenda-header']
@@ -84,3 +110,9 @@ export default {
   }
 }
 </script>
+<style scoped lang="scss">
+@import 'assets/scss/app.scss';
+.event-teaser.event-pinned {
+  @extend .event-teaser:hover
+}
+</style>
