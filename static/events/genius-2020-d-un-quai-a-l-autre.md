@@ -14,6 +14,7 @@ avec: |-
 rdv: RDV de part et d’autre de l’ancien pont de l’Yonne, quai de la Marne.
 buttons: []
 copyright: Vincent Rustuel
+countinuousdate: du 3 au 18 octobre
 
 ---
 A l’interface du quartier Saint Nicolas et de la zone de l’Escaut, le collectif Les Gens des Lieux propose une scénographie urbaine éphémère. Par ses interventions, il ouvre des perspectives, renverse des points de vue, fait émerger un jardin sauvage au milieu d’une friche portuaire.
