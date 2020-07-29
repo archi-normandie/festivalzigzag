@@ -20,6 +20,11 @@ fields:
     min: 
     max: 
   label: Catégorie
+- name: countinuous-date
+  type: text
+  config:
+    required: false
+  label: Date permanente
 - name: dates
   type: list
   config:
