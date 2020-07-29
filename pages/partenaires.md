@@ -1,31 +1,12 @@
 ---
-title: Partenaires 2019
+title: Partenaires 2020
+description: ''
 
 ---
 ## Partenaires financiers
 
-![Ministère de la Culture](/files/logo-culture.svg)
-![Préfecture de la Région Normandie, Préfet de la Seine Maritime](/files/logo-prefecture-seine-maritime.svg)
-![Région Normandie](/files/logo-normandie.svg)
-![Département Seine-Maritime](/files/logo-seine-maritime.svg)
-![Métropole Rouen Normandie](/files/logo-metropole-rouen-normandie.svg)
-![Rouen](/files/logo-rouen.svg)
-![Le Havre Seine Métropole](/files/logo-le-havre-seine-metropole.svg)
-![Le Havre](/files/logo-le-havre.svg)
-![Le Grand-Quevilly](/files/logo-grand-quevilly.svg)
-![Pont-Audemer](/files/logo-pont-audemer.svg)
-![Dalkia](/files/logo-dalkia.svg)
-![EPF Normandie](/files/logo-epf.svg)
-![CGET](/files/logo-cget.svg)
-![MWAH](/files/logo-mwah.svg)
-![Caisse des dépots](/files/logo-caisse-des-depots.svg)
+![](/files/logos.jpg)![](/files/logos2.jpg)![](/files/logos3.jpg)![](/files/logos4.jpg)![](/files/logos5.jpg)![](/files/logos6.jpg)![](/files/logos7.jpg)![](/files/logos8.jpg)![](/files/logos9.jpg)![](/files/logos10.jpg)![](/files/logos11.jpg)![](/files/logos12.jpg)![](/files/logos13.jpg)![](/files/logos14.jpg)
 
-## Partenaires
+## Partenaires de projet
 
-![CAUE 76](/files/logo-caue76.svg)
-![CAUE 27](/files/logo-caue27.svg)
-![Haropa](/files/logo-haropa.svg)
-![AURH](/files/logo-aurh.svg)
-![Les gens des lieux](/files/logo-les-gens-des-lieux.svg)
-![Les cueilleurs d'histoire](/files/logo-les-cueilleurs-d-histoire.svg)
-![Maison des arts](/files/logo-maison-des-arts.svg)
+![](/files/logos15.jpg)![](/files/logos16.jpg)![](/files/logos17.jpg)![](/files/logos18.jpg)![](/files/logos19.jpg)![](/files/logos20.jpg)![](/files/logos21.jpg)![](/files/logos22.jpg)![](/files/logos23.jpg)![](/files/logos24.jpg)![](/files/logos25.jpg)![](/files/logos26.jpg)![](/files/logos27.jpg)![](/files/logos28.jpg)![](/files/logos29.jpg)![](/files/logos30.jpg)![](/files/logos31.jpg)

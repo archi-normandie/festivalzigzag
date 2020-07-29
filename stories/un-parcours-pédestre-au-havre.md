@@ -1,10 +1,9 @@
 ---
 date: 2019-12-31 10:12
-title: Un parcours pédestre au Havre
+title: Zigzag 2019 - Un parcours pédestre au Havre
 image: "/files/GabaritZZ_couverturefb_port sur la ville.jpg"
 
 ---
-
 ## Port sur la ville 
 
 Venez parcourir la couture de l’interface ville-port en visitant des installations portuaires actives et des bâtiments reconvertis. Cette visite à pied vous donnera l’occasion de franchir les portes, de découvrir des architectures, des lieux de vie actifs, productifs qui montrent combien l’interprétation et la réinterprétation des usages sont fertiles au sein d’espaces portuaires et urbains qui cohabitent dans une vision résolument hybridée de la "ville".
