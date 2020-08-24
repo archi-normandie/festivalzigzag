@@ -13,15 +13,18 @@ avec: ''
 rdv: |-
   Rdv à la Fabrique des Savoirs, 7 cours Gambetta – se munir d’un vélo.
   Possibilité de rapatriement en navette depuis l’arrivée jusqu’au point de départ.
-buttons: []
+buttons:
+- text: Réserver
+  url: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/decouvrir-le-patrimoine-du-bord-de-seine
 copyright: 'Agglo Seine-Eure '
+countinuousdate: ''
 
 ---
 Evénement ludo-cyclo-patrimonial proposé dans le cadre de l’itinéraire Seine à Vélo. Laissez-vous embarquer dans l’aventure et menez l’enquête à vélo, en participant au jeu « Seine de Crime ». Une balade à deux roues ponctuées de points d’étapes, où vous attendront des comédiens pour vous guider dans votre parcours. Vous découvrirez les richesses du patrimoine architectural et naturel, entre Elbeuf-sur-Seine et Poses.
 
 Trois heures de parcours !
 
-**Renseignements et inscriptions :**
+**Renseignements :**
 
 * Fabrique des Savoirs 02 32 96 91 50
 * Office de tourisme Seine-Eure 02 32 40 04 41
