@@ -10,9 +10,10 @@ lon: "1.04219"
 image: "/files/grand-quevilly-velo-rally.jpg"
 message: ''
 avec: 'Accès libre et gratuit. Rallye : de 9h30 à 12h00.'
-rdv: Plaine de jeux Léon Blum – se munir d’un appareil photo et d’un vélo.
+rdv: RDV plaine de jeux Léon Blum – se munir d’un appareil photo et d’un vélo.
 buttons: []
 copyright: MaN - le Forum
+countinuousdate: ''
 
 ---
 Cyclistes chevronnés ou sportifs du dimanche, gourmands, curieux, artistes en herbe, venez découvrir la ville de Grand Quevilly en participant au rallye vélo orchestré par l’association Guidoline. Sillonnez les rues de Grand Quevilly en équipe de 2 à 4 personnes, à la recherche de cibles architecturales à photographier, afin de récolter le plus de points. Le temps d’un rendez-vous dominical, partagez un moment convivial et ludique à deux roues et appréhendez la ville sous un autre angle.
