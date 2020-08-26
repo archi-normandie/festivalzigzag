@@ -7,7 +7,7 @@ dates:
 - 2020-10-18 13:30
 lat: "49.28499"
 lon: "1.00584"
-image: "/files/elbeuf_enquete-a-velo-agglo-seine-eure.jpg"
+image: "/files/elbeuf_enquete-a-velo-agglo-seine-eure-ok.jpg"
 message: ''
 avec: ''
 rdv: |-
