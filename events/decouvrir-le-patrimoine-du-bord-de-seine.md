@@ -2,7 +2,7 @@
 title: 'Découvrir le patrimoine du bord de Seine '
 address: Elbeuf-sur-Seine
 category:
-- Jeu d’enquête à vélo d’Elbeuf-sur-Seine à Poses
+- Jeu d’enquête à vélo d’Elbeuf-sur-Seine à Les Damps
 dates:
 - 2020-10-18 13:30
 lat: "49.28499"
@@ -20,7 +20,7 @@ copyright: 'Agglo Seine-Eure '
 countinuousdate: ''
 
 ---
-Evénement ludo-cyclo-patrimonial proposé dans le cadre de l’itinéraire Seine à Vélo. Laissez-vous embarquer dans l’aventure et menez l’enquête à vélo, en participant au jeu « Seine de Crime ». Une balade à deux roues ponctuées de points d’étapes, où vous attendront des comédiens pour vous guider dans votre parcours. Vous découvrirez les richesses du patrimoine architectural et naturel, entre Elbeuf-sur-Seine et Poses.
+Evénement ludo-cyclo-patrimonial proposé dans le cadre de l’itinéraire Seine à Vélo. Laissez-vous embarquer dans l’aventure et menez l’enquête à vélo, en participant au jeu « Seine de Crime ». Une balade à deux roues ponctuées de points d’étapes, où vous attendront des comédiens pour vous guider dans votre parcours. Vous découvrirez les richesses du patrimoine architectural et naturel, entre Elbeuf-sur-Seine et Les Damps.
 
 Trois heures de parcours !
 
