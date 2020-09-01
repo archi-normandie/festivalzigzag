@@ -13,14 +13,22 @@ avec: ''
 rdv: |-
   Rdv à la Fabrique des Savoirs, 7 cours Gambetta – se munir d’un vélo.
   Possibilité de rapatriement en navette depuis l’arrivée jusqu’au point de départ.
-buttons:
-- text: Réserver
-  url: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/decouvrir-le-patrimoine-du-bord-de-seine
+buttons: []
 copyright: 'Agglo Seine-Eure '
 countinuousdate: ''
 
 ---
 Evénement ludo-cyclo-patrimonial proposé dans le cadre de l’itinéraire Seine à Vélo. Laissez-vous embarquer dans l’aventure et menez l’enquête à vélo, en participant au jeu « Seine de Crime ». Une balade à deux roues ponctuées de points d’étapes, où vous attendront des comédiens pour vous guider dans votre parcours. Vous découvrirez les richesses du patrimoine architectural et naturel, entre Elbeuf-sur-Seine et Les Damps.
+
+Trois heures de parcours !
+
+**5 départs sont proposés, inscrivez-vous directement à l'horaire souhaité :** 
+
+* 13h30 - [réserver](https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/decouvrir-le-patrimoine-du-bord-de-seine)
+* 13h45 - [réserver](https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/decouvrir-le-patrimoine-du-bord-de-seine-depart-13h45)
+* 14h00 - [réserver](https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/decouvrir-le-patrimoine-du-bord-de-seine-depart-14h)
+* 14h15 - [réserver](https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/decouvrir-le-patrimoine-du-bord-de-seine-depart-14h15)
+* 14h30 - [réserver](https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/decouvrir-le-patrimoine-du-bord-de-seine-depart-14h30)
 
 **Renseignements :**
 
