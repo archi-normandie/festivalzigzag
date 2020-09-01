@@ -22,8 +22,6 @@ countinuousdate: ''
 ---
 Evénement ludo-cyclo-patrimonial proposé dans le cadre de l’itinéraire Seine à Vélo. Laissez-vous embarquer dans l’aventure et menez l’enquête à vélo, en participant au jeu « Seine de Crime ». Une balade à deux roues ponctuées de points d’étapes, où vous attendront des comédiens pour vous guider dans votre parcours. Vous découvrirez les richesses du patrimoine architectural et naturel, entre Elbeuf-sur-Seine et Les Damps.
 
-Trois heures de parcours !
-
 **Renseignements :**
 
 * Fabrique des Savoirs 02 32 96 91 50
