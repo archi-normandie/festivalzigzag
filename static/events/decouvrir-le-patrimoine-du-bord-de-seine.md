@@ -22,7 +22,7 @@ Evénement ludo-cyclo-patrimonial proposé dans le cadre de l’itinéraire Sein
 
 Trois heures de parcours !
 
-**5 départs sont proposés par groupe de 20 participants - gratuit sur inscription :**
+**5 départs sont proposés par groupe de 20 participants - inscription gratuite :**
 
 * 13h30 - [réserver](https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/decouvrir-le-patrimoine-du-bord-de-seine)
 * 13h45 - [réserver](https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/decouvrir-le-patrimoine-du-bord-de-seine-depart-13h45)
