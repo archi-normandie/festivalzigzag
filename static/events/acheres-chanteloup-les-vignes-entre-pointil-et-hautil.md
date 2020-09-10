@@ -13,9 +13,7 @@ avec: Cette randonnée métropolitaine est proposée par Le voyage métropolitai
 rdv: |-
   L’exploration pédestre débute à 9h30 à Achères et se termine vers 19h à Chanteloup-les-Vignes – 15 Km.
   Prévoir un pique-nique pour le midi – Possibilité de rejoindre Achères en train, en fin de journée.
-buttons:
-- text: Complet
-  url: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/acheres-chanteloup-les-vignes-entre-pointil-et-hautil
+buttons: []
 copyright: Le voyage métropolitain
 countinuousdate: ''
 
