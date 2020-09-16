@@ -21,19 +21,19 @@ L’extension de Grand Quevilly, construite à partir des années 50, se reconna
 
 Comptez 30 à 40 minutes par visite.
 
-**Mairie Annexe / Centre Culturel Marx Dormoy** - RDV place Gabriel Péri 
+**Mairie Annexe / Centre Culturel Marx Dormoy** - RDV place Gabriel Péri
 
 * 14h - [Réserver](https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/vues-de-haut-1)
 * 15h30 - [Réserver](https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/vues-de-haut-2)
 * 17h - [Réserver](https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/vues-de-haut-3)
 
-**Hôtel de Ville** - RDV Esplanade Tony Larue 
+**Hôtel de Ville** - RDV Esplanade Tony Larue
 
-* 14h - [Réserver](https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/vues-de-haut-4)
+* 14h - COMPLET
 * 15h30 - [Réserver](https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/vues-de-haut-5)
 * 17h - [Réserver](https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/vues-de-haut-6)
 
-**Immeuble Nymphéas** - RDV 1 rue Eugène Boudin 
+**Immeuble Nymphéas** - RDV 1 rue Eugène Boudin
 
 * 14h - [Réserver](https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/vues-de-haut-7)
 * 15h30 - [Réserver](https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/vues-de-haut-8)
