@@ -17,8 +17,7 @@ buttons:
 - text: Réserver
   url: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/a-port-mort-figurez-vous-1
 copyright: Carte postale ancienne - Gravier de Gargantua
+countinuousdate: ''
 
 ---
-Découvrez le village de Port-Mort et la butte voisine de Châteauneuf, à l’occasion d’une seconde balade commentée en compagnie de deux photographes. Sur les traces d’Alphonse Lavergne, créateur de cartes postales et photographe du site à la Belle Époque, Vincent Connétable réinterprète ces clichés anciens en proposant aux participants de jouer les figurants. A travers une mise en scène originale, ce rendez-vous prend des allures d’aventure ludique qui permet de mettre en lumière un site pittoresque remarquable de la vallée de la Seine.
-
-En raison du terrain accidenté, enfants acceptés à partir de 10 ans.
+Découvrez le village de Port-Mort à l’occasion d’une seconde balade commentée en compagnie de deux photographes. Sur les traces d’Alphonse Lavergne, créateur de cartes postales et photographe du site à la Belle Époque, Vincent Connétable réinterprète ces clichés anciens en proposant aux participants de jouer les figurants. A travers une mise en scène originale, ce rendez-vous prend des allures d’aventure ludique qui permet de mettre en lumière un site pittoresque remarquable de la vallée de la Seine.
