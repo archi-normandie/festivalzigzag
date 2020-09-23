@@ -27,7 +27,7 @@ Trois heures de parcours !
 * 13h30 - COMPLET
 * 13h45 - COMPLET
 * 14h00 - COMPLET
-* 14h15 - [réserver](https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/decouvrir-le-patrimoine-du-bord-de-seine-depart-14h15)
+* 14h15 - COMPLET
 * 14h30 - [réserver](https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/decouvrir-le-patrimoine-du-bord-de-seine-depart-14h30)
 
 **Renseignements :**
