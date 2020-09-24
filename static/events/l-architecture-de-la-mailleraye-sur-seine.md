@@ -11,8 +11,11 @@ image: "/files/la-mailleraye-sur-seine-balade-pnr.jpg"
 message: ''
 avec: Se munir de bonnes chaussures de marche.
 rdv: ''
-buttons: []
+buttons:
+- text: Réserver
+  url: https://www.pnr-seine-normande.com/evenement-larchitecture-de-la-mailleraye-sur-seine-1774.html
 copyright: PNR
+countinuousdate: ''
 
 ---
 Regards croisés sur La Mailleraye-sur-Seine, entre patrimoine et architecture contemporaine. La Mailleraye-sur-Seine fait aujourd’hui partie de la commune nouvelle d’Arelaune-en-Seine, issue de la fusion avec Saint-Nicolas-de-Bliquetuit. Riche d’un passé glorieux qui a laissé de nombreuses traces dans son architecture, la commune a été reconstruite après-guerre. Récemment, un éco-quartier conçu par l’Atelier XV et Guénolé Le Moaligou, est venu l’agrandir ainsi que de nouveaux équipements au service d’une population plus nombreuse. 
