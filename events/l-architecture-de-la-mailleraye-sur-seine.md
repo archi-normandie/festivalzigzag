@@ -21,3 +21,5 @@ Regards croisés sur La Mailleraye-sur-Seine, entre patrimoine et architecture c
 Gaëlle Pottier, en charge de l’inventaire croisé et Frédéric Closset, architecte du Parc, livreront leurs regards sur ces différentes architectures et cette évolution. Une balade idéale pour en apprendre davantage sur l’histoire, l’architecture et le patrimoine local.
 
 **Inscription obligatoire sur le site :** [pnr-seine-normande.com](https://www.pnr-seine-normande.com/evenement-larchitecture-de-la-mailleraye-sur-seine-1774.html)
+
+**Contact :** 02 35 37 23 16
