@@ -8,7 +8,7 @@ dates:
 lat: "49.5272"
 lon: "0.7761"
 image: "/files/rives-en-seine-st-wandrille-randonnee-curieuse-moulin_-g-pottier.jpg"
-message: ''
+message: Annulé
 avec: Se munir de bonnes chaussures de marche.
 rdv: ''
 buttons: []
