@@ -8,7 +8,7 @@ dates:
 lat: "49.41082"
 lon: "1.04219"
 image: "/files/grand-quevilly-velo-rally.jpg"
-message: ''
+message: Annulé
 avec: 'Accès libre et gratuit. Rallye : de 9h30 à 12h00.'
 rdv: RDV plaine de jeux Léon Blum – se munir d’un appareil photo et d’un vélo.
 buttons: []
