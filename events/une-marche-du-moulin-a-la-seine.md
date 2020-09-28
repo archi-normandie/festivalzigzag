@@ -30,7 +30,7 @@ Comptez 30 à 40 minutes par visite.
 **Hôtel de Ville** - RDV Esplanade Tony Larue
 
 * 14h - COMPLET
-* 15h30 - [Réserver](https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/vues-de-haut-5)
+* 15h30 - COMPLET
 * 17h - [Réserver](https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/vues-de-haut-6)
 
 **Immeuble Nymphéas** - RDV 1 rue Eugène Boudin
