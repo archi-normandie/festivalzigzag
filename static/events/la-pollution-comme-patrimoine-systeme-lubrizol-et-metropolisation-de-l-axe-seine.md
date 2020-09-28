@@ -9,7 +9,7 @@ dates:
 lat: "49.4360201"
 lon: "1.0508465"
 image: "/files/rouen_projection-lecture-echelle-inconnues-axe-seine_gun_noir-blanc.jpg"
-message: ''
+message: Annulé
 avec: |-
   19H00 : introduction et présentation du journal FIAT METROPOLIS d'Echelle Inconnue par Stany Cambot.
 
@@ -17,10 +17,9 @@ avec: |-
 
   20H00 : échanges avec les Voyageurs, victimes invisibles de Lubrizol.
 rdv: Rdv aire d'accueil de Rouen/Petit-Quevilly, rue Turquié de Longchamps.
-buttons:
-- text: Réserver
-  url: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/systeme-lubrizol-et-metropolisation-de-l-axe-seine
+buttons: []
 copyright: Echelle Inconnnue
+countinuousdate: ''
 
 ---
 Le collectif Echelle Inconnue invite à débattre sur les suites de l’incendie de l’entreprise Lubrizol survenu le 26 septembre 2019 : "Il s’agit d’entendre en quoi cet événement est révélateur d’une réforme majeure de notre environnement politique et urbain : la métropole. Cataclysme écologique, urbain et social, la métropolisation n'est plus une affaire d'habitants mais d'impactés !"
