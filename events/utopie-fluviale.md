@@ -17,6 +17,6 @@ copyright: 'S. Lange - Dans le Sens de Barge '
 countinuousdate: du 3 au 30 octobre
 
 ---
-Cette “Utopie Fluviale” dévoile le projet Barge, centre culturel itinérant sur la Seine conçu par l’architecte naval Pierre Delion. L’exposition intègre les propositions des étudiants de l’Ecole Nationale Supérieure de Design qui ont imaginé les escales fluviales de la future péniche. La démarche est portée par le collectif d’artistes et d’architectes Dans le Sens de Barge qui offre un cycle de programmation artistique (résidences, workshops, expositions, ateliers et fêtes) favorisant le lien social et culturel sur la Seine.
+Le collectif d’artistes et d’architectes "Dans le Sens de Barge" offre un cycle de programmation artistique (résidences, workshops, expositions, ateliers et fêtes) favorisant le lien social et culturel sur la Seine. A l’occasion du festival Zigzag 2020, le collectif propose “Utopie Fluviale” : un retour sur la génèse du projet, sa raison d'être artistique puisée au sein du fleuve, de l’eau, de l’inertie, des traversées. Cette exposition sera l'occasion de présenter l'état d'avancée du projet fluvio-maritime BARGE réalisé par l'architecte Pierre Delion et de montrer les propositions élaborées par les étudiants en design et en architecture de l'ENSCI - Les Ateliers et de l’ENSA-Normandie, autour des futures escales des embarcations.
 
 **Pour en savoir plus :** [Barge](https://barge.mobi/author/jameshbarge/)
