@@ -2,6 +2,8 @@
 
 Site web du _Festival d'architecture et des arts de l'espace_ organisé par La Maison de l'Architecture de Normandie.
 
+Website for the Festival of Architecture and Space Arts organized by La Maison de l'Architecture de Normandie.
+
 ## Build Setup
 
 ```bash
