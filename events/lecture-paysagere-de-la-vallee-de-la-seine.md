@@ -8,12 +8,10 @@ dates:
 lat: "49.4627"
 lon: "0.5519"
 image: "/files/bac-de-quillebeuf-sur-seine-office-tourisme-roumois-seine.jpg"
-message: ''
+message: Complet
 avec: Visite proposée et animée par le CAUE 76, Boris Menguy, paysagiste-urbaniste.
 rdv: Au niveau de l’embarcadère de Quillebeuf-sur-Seine sur les quais.
-buttons:
-- text: Réserver
-  url: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/lecture-paysagere-de-la-vallee-de-la-seine
+buttons: []
 copyright: Office de tourisme Roumois Seine
 countinuousdate: ''
 
