@@ -8,13 +8,12 @@ dates:
 lat: "49.4332076"
 lon: "1.0923051"
 image: "/files/rouen_friche-lucien-virgile-thersiquel.jpg"
-message: ''
+message: Complet
 avec: ''
 rdv: RDV Place Carnot, accessible en transport en commun ligne F1, F3, 6.
-buttons:
-- text: Réserver
-  url: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/la-friche-lucien
+buttons: []
 copyright: Virgile Thersiquel
+countinuousdate: ''
 
 ---
 Située sur les terrains de la SNCF, la Friche Lucien s’inscrit dans une période d’attente de la nouvelle gare de Rouen. Le projet est à la fois un lieu d’accueil et de convergence des acteurs du milieu culturel rouennais ainsi qu’une nouvelle façon de fabriquer la ville. Cette seconde édition, portée par la société coopérative l’Atelier Lucien, s’implante dans un espace de près de 4000m² où se rassemble une communauté créative qui propose une programmation riche en animations (concerts, exposition, marchés, ateliers, etc.).
