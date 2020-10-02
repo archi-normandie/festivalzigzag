@@ -37,4 +37,4 @@ Comptez 30 à 40 minutes par visite.
 
 * 14h - [Réserver](https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/vues-de-haut-7)
 * 15h30 - [Réserver](https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/vues-de-haut-8)
-* 17h - [Réserver](https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/vues-de-haut-9)
+* 17h - COMPLET
