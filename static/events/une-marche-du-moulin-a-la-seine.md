@@ -31,7 +31,7 @@ Comptez 30 à 40 minutes par visite.
 
 * 14h - COMPLET
 * 15h30 - COMPLET
-* 17h - [Réserver](https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/vues-de-haut-6)
+* 17h - COMPLET
 
 **Immeuble Nymphéas** - RDV 1 rue Eugène Boudin
 
