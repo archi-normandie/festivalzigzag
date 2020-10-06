@@ -9,9 +9,8 @@ lat: "49.43999"
 lon: "1.10079"
 image: "/files/rouen_evenmt-perm-utopie-fluviale-dans-le-sens-de-barge_la-cloche.jpg"
 message: ''
-avec: Avec Miguel Biard, archéologue ; Matthieu Duperrex, philosophe ; Marie-Laure
-  Garnier, paysagiste ; l’équipe du Parc Naturel Régional des Boucles de la Seine
-  Normande ; le collectif Dans le sens de Barge.
+avec: Avec Marie-Laure Garnier, paysagiste ; l’équipe du Parc Naturel Régional des
+  Boucles de la Seine Normande ; le collectif Dans le sens de Barge.
 rdv: RDV à la Maison de l’architecture de Normandie, 48 rue Victor Hugo.
 buttons:
 - text: Réserver
