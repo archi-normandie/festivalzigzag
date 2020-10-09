@@ -19,8 +19,6 @@ countinuousdate: ''
 ---
 La Manufacture des Capucins, tiers-lieu pour la transition écologique, entame une nouvelle phase de son projet avec l’intervention sur l’ancien Couvent. Fondateur d’un projet appréhendé comme un tiers-patrimoine, le bâti s’ouvre à de nouveaux horizons… venez le découvrir !
 
-Ouverture de 9h30 à 17h.
-
 **Programme de la journée à la Manufacture des Capucins - accès libre :**
 
 * **9h30 à 12h // 14h à 17h :** POUR UNE RÉFORME DE L’APPAREIL PRODUCTIF CONTEMPORAIN
@@ -38,20 +36,10 @@ Cette exposition présente le futur projet architectural imaginé par l’agence
 
 * **9h30 à 12h // 14h à 17h :** JOURNÉE D'ÉTUDE SUR LE THÈME « PRODUCTION »
 
-Cette journée de travail collectif, ouverte à touTEs sera composée d’interventions de chercheurEUSEs, architectes, étudiantEs. Elle prend la forme de courtes prise de paroles de 20 minutes suivies d’échanges avec la salle.
-
-Cette journée d'études est organisée par l'Ensase avec le soutien de la Manufacture des Capucins, de l'agence d'architecture MWAH et du Centre Jean Pepin.
-
-**Intervenants pressentis (sous réserve) :** Alexis Cukier SOPHIAPOL, Adrien Durrmeyer (Ensase), Nicolas Enjalbert (Consultant designer), Tiphaine Kazi-Tani , (ESADSE - Cité du Design), Marianna Kontos (CHR-LAVUE), Anne Lefevbre (ENS Paris Saclay ENSCI - Les ateliers), Etienne Lemoine (Agence MWAH), Can Onaner (LIAT) – Ernesto Oroza (Cité du Design – Cydre), Léo Pougnet (IRPhiL), Claire Thouvenot (Paris X, Nanterre), Wilson Yaneira (CHR-LAVUE), Pascal Vazard (la Manufacture des Capucins), Xavier Wrona (Ensase).
+Cette journée de travail collectif, ouverte à touTEs sera composée d’interventions de chercheurEUSEs, architectes, étudiantEs. Elle prend la forme de courtes prise de paroles de 20 minutes suivies d’échanges avec la salle. Cette journée d'études est organisée par l'Ensase avec le soutien de la Manufacture des Capucins, de l'agence d'architecture MWAH et du Centre Jean Pepin.
 
 * **17h à 18h :** PRÉSENTATION DE L’OUVRAGE à paraître « Durer. Éléments pour la transformation du système productif », par l’auteur Pierre Caye, professeur à l’École Normale Supérieure de Paris.
-
-Pierre Caye est philosophe et directeur de recherche au CNRS. Il développe une recherche de type philosophique sur les savoirs de l’architecture, de l’urbanisme et de l’aménagement du territoire et, à travers ceux-ci, sur la question de la technique dont il renouvelle en profondeur la généalogie.
 
 Inscription obligatoire : **à venir** 
 
 RDV au restaurant l'Instant - 3 place Charles de Gaulle 27 200 Vernon
-
-_La Manufacture des Capucins fédératrice des talents au service de la transition écologique du territoire de Seine Normandie - Agglomération est engagée dans le changement des modes de vie. Productrice d’une vision à long terme, la Manufacture des Capucins est d’abord le lieu de ressource et de rencontre, convivial et décalé qui manque à la ville._
-
-_La Manufacture des Capucins, MWAH agence d'architecture et l’atelier d’enseignement de projet d’architecture Architecture as a Political Practice de l’École Nationale Supérieure d’Architecture de Saint-Étienne (Ensase) coorganisent cet événement public dans le cadre de Zigzag, festival d’architecture et des arts de l’espace sur le thème des sociétés de basses énergie._
