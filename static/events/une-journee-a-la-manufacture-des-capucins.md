@@ -1,6 +1,5 @@
 ---
-title: Une journée à la Manufacture des Capucins - Dessiner les sociétés de basse
-  énergie
+title: Une journée à la Manufacture des Capucins
 address: Vernon
 category:
 - Rencontre, visite, exposition
