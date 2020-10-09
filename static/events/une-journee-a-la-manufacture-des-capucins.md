@@ -1,5 +1,6 @@
 ---
-title: 'Une journée à la Manufacture des Capucins '
+title: Une journée à la Manufacture des Capucins - Dessiner les sociétés de basse
+  énergie
 address: Vernon
 category:
 - Rencontre, visite, exposition
@@ -13,6 +14,7 @@ avec: Accès libre et gratuit.
 rdv: Manufacture des Capucins, Place Jean Paul II, Eco quartier Fieschi.
 buttons: []
 copyright: Agence MWAH
+countinuousdate: ''
 
 ---
 La Manufacture des Capucins, tiers-lieu pour la transition écologique, entame une nouvelle phase de son projet avec l’intervention sur l’ancien Couvent. Fondateur d’un projet appréhendé comme un tiers-patrimoine, le bâti s’ouvre à de nouveaux horizons… venez le découvrir !
