@@ -23,14 +23,14 @@ La Manufacture des Capucins, tiers-lieu pour la transition écologique, entame u
 **Programme de la journée à la Manufacture des Capucins** - accès libre **:**
 
 * **9h30 à 12h // 14h à 17h :** POUR UNE RÉFORME DE L’APPAREIL PRODUCTIF CONTEMPORAIN et LE PROJET ARCHITECTURAL DE LA MANUFACTURE DES CAPUCINS - expositions
-* **10h à 12h :** ATELIER DE JARDINAGE - avec les bénévoles de la Manufacture
+* **10h à 12h :** ATELIER DE JARDINAGE - avec les bénévoles de la Manufacture – [sur inscription](https://forms.gle/FypaBmYXgFcfggXY7) (jusqu’au 16/10)
 
 RDV à la Manufacture des Capucins, Place Jean Paul II, Eco quartier Fieschi, Vernon
 
 **Programme de la journée d'étude au restaurant l'Instant** - gratuit sur inscription **:**
 
 * **9h30 à 12h // 14h à 17h :** JOURNÉE D'ÉTUDE SUR LE THÈME « PRODUCTION »
-* **12h à 14h :** repas sur place
+* **12h à 14h :** repas à la Manufacture des Capucins
 * **17h à 18h :** PRÉSENTATION DE L’OUVRAGE à paraître « Durer »
 
 RDV au restaurant l'Instant - 3 place Charles de Gaulle, Vernon
