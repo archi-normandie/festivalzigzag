@@ -9,7 +9,7 @@ lat: "49.09745"
 lon: '1.47520'
 image: "/files/vernon_manufacture-une-journee-au-jardin-mwah.jpg"
 message: ''
-avec: Accès libre et gratuit.
+avec: ''
 rdv: Manufacture des Capucins, Place Jean Paul II, Eco quartier Fieschi.
 buttons: []
 copyright: Agence MWAH
