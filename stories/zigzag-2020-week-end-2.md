@@ -4,7 +4,7 @@ title: 'Zigzag 2020 - week-end #2'
 image: "/files/site-web-wee-end-1ok.jpg"
 
 ---
-## UN WEEK-END
+## UN WEEK-END DECOUVERTES
 
 Zigzag - festival d'architecture et des arts de l'espace, ce sont 30 événements d'Achères à Deauville le long de la vallée de la Seine jusqu'au 18 octobre. Un second week-end de visites en découvertes pour parler architecture, urbanisme et paysage :
 
