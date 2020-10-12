@@ -1,0 +1,15 @@
+---
+date: 2020-10-12 12:10
+title: 'Zigzag 2020 - semaine #1'
+image: "/files/zig-zag-fb-gabarit-facebook-bandeau-couverture2.jpg"
+
+---
+## Une semaine d'interactions artistiques 
+
+Zigzag - festival d'architecture et des arts de l'espace, ce sont 30 événements d'Achères à Deauville le long de la vallée de la Seine jusqu'au 18 octobre. Pour cette première semaine d'événement, les danseurs et chorégraphes de la compagnie SHIFTS art in movement ont bravé vent et pluie sur le site de Genius 2020. Retour sur une semaine de performances in situ : **RIM#2 SATELLITES - REDÉCOUVERTE DES INTERACTIONS QU’ON M**
+
+De part et d’autre de l’ancien pont de l’Yonne, quai de la Marne, quai de la Meuse
+
+Chorégraphie, urbanisme, dynamiques sociales & Recherche collaborative Les RIM - Redécouverte des Interactions qu’on M sont un événement en mouvements, dialogues et constructions légères, élaboré par Malgven Gerbes et David Brandstätter / shifts - art in movement, artistes associés du Phare, Centre chorégraphique national du Havre Normandie. En 2019, 20 et 21, dans le cadre de notre association avec Le Phare - CCN du Havre Normandie, nous explorons l’espace extérieur comme vecteur de rencontres chorégraphiques, architecturales et sociales. Cette exploration est partagée chaque année à travers un temps fort, les RIM - collaborations intensives in-situ de chorégraphes et artistes invités. En octobre, nous élargissons notre laboratoire via des RIM satellites au sein du projet GENIUS du collectif d'architectes et d'urbanistes havrais ''Les Gens des Lieux'', entre les Quais de la Meuse et de la Marne au Havre. ces RIM projettent une implantation virtuelle du Phare, CCN du Havre Normandie, en extérieur, à l’aide de piquets et de drisses tel un géomètre. En ces temps de restrictions sanitaires, nous avons décidé, en dialogue avec le projet GENIUS du collectif Les Gens des Lieux, et en collaboration avec le festival Zigzag et la Maison de l’architecture de Normandie - le Forum, de nous installer cette semaine en extérieur, entre ces deux quais, de symboliser nos espaces de travail à l’aide de cordes et de piquets, et d’en profiter pour échanger ! Less RIM que vous découvrez sont une extension du projet des RIM - Redécouvertes des Interactions qu’on M, développé depuis le mois de mai 2019 au Havre. Des satellites ont été présentées dans le cadre des journée du patrimoine à Lyons-La-Foret l’année dernière - et cette année, à la suite de la seconde édition des RIM en juin 2020, shifts collabore avec le projet GENIUS des Gens des Lieux, et le festival ZiZag, pour proposer ces RIM satellites.
+
+_L'événement "LA POLLUTION COMME PATRIMOINE : SYSTÈME LUBRIZOL ET MÉTROPOLISATION DE L'AXE SEINE", organisé par le collectif Echelle Inconnue, a été malheureusement annulée suite aux nouvelles mesures sanitaires du gouvernement._
