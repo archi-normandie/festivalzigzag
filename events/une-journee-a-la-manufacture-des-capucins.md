@@ -11,7 +11,9 @@ image: "/files/vernon_manufacture-une-journee-au-jardin-mwah.jpg"
 message: ''
 avec: ''
 rdv: Manufacture des Capucins, Place Jean Paul II, Eco quartier Fieschi.
-buttons: []
+buttons:
+- text: Réserver
+  url: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/journee-d-etude-sur-le-theme-production
 copyright: Agence MWAH
 countinuousdate: ''
 
@@ -40,7 +42,5 @@ Cette journée de travail collectif, ouverte à touTEs sera composée d’interv
 
 
 * **17h à 18h :** PRÉSENTATION DE L’OUVRAGE à paraître « Durer. Éléments pour la transformation du système productif », par l’auteur Pierre Caye, professeur à l’École Normale Supérieure de Paris.
-
-Inscription obligatoire : **à venir**
 
 RDV au restaurant l'Instant - 3 place Charles de Gaulle 27 200 Vernon
