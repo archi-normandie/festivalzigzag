@@ -30,7 +30,7 @@ RDV à la Manufacture des Capucins, Place Jean Paul II, Eco quartier Fieschi, Ve
 **Programme de la journée d'étude au restaurant l'Instant** - gratuit sur inscription **:**
 
 * **9h30 à 12h // 14h à 17h :** JOURNÉE D'ÉTUDE SUR LE THÈME « PRODUCTION »
-* **12h à 14h :** repas à la Manufacture des Capucins
+* **12h à 14h :** repas sur place - réservé aux inscrits à la journée d’étude
 * **17h à 18h :** PRÉSENTATION DE L’OUVRAGE à paraître « Durer, Éléments pour la transformation du système productif », Pierre Caye
 
 RDV au restaurant l'Instant - 3 place Charles de Gaulle, Vernon
