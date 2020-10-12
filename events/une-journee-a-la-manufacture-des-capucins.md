@@ -29,7 +29,6 @@ Exposition des travaux étudiants de l’atelier As a Political Practice de l’
 Cette exposition présente le futur projet architectural imaginé par l’agence MWAH dans sa transformation à venir.
 
 * **10h à 12h :** ATELIER DE JARDINAGE - avec les bénévoles de la manufacture
-* **12h à 14h :** REPAS SUR PLACE - réservé aux inscrits à la journée d’étude
 
 **Programme de la journée d'étude au restaurant l'Instant - sur inscription :**
 
@@ -37,8 +36,11 @@ Cette exposition présente le futur projet architectural imaginé par l’agence
 
 Cette journée de travail collectif, ouverte à touTEs sera composée d’interventions de chercheurEUSEs, architectes, étudiantEs. Elle prend la forme de courtes prise de paroles de 20 minutes suivies d’échanges avec la salle. Cette journée d'études est organisée par l'Ensase avec le soutien de la Manufacture des Capucins, de l'agence d'architecture MWAH et du Centre Jean Pepin.
 
+* **12h à 14h :** REPAS SUR PLACE - réservé aux inscrits à la journée d’étude
+
+
 * **17h à 18h :** PRÉSENTATION DE L’OUVRAGE à paraître « Durer. Éléments pour la transformation du système productif », par l’auteur Pierre Caye, professeur à l’École Normale Supérieure de Paris.
 
-Inscription obligatoire : **à venir** 
+Inscription obligatoire : **à venir**
 
 RDV au restaurant l'Instant - 3 place Charles de Gaulle 27 200 Vernon
