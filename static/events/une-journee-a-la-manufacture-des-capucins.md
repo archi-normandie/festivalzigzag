@@ -35,3 +35,5 @@ RDV à la Manufacture des Capucins, Place Jean Paul II, Eco quartier Fieschi, Ve
 * **17h à 18h :** PRÉSENTATION DE L’OUVRAGE à paraître « Durer »
 
 RDV au restaurant l'Instant - 3 place Charles de Gaulle, Vernon
+
+**Plus d'information sur le programme :** [télécharger le PDF de la journée]()
