@@ -8,7 +8,7 @@ dates:
 lat: "48.963723"
 lon: "2.0677738"
 image: "/files/acheres-voyage-metropolitain.jpg"
-message: Complet
+message: Annulé
 avec: Cette randonnée métropolitaine est proposée par Le voyage métropolitain.
 rdv: |-
   L’exploration pédestre débute à 9h30 à Achères et se termine vers 19h à Chanteloup-les-Vignes – 15 Km.
