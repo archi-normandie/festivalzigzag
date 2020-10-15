@@ -10,10 +10,10 @@ lon: '1.47520'
 image: "/files/vernon_manufacture-une-journee-au-jardin-mwah.jpg"
 message: ''
 avec: ''
-rdv: 'Inscrivez-vous à la journée d''étude sur le thème « PRODUCTION » :'
-buttons:
-- text: Réserver
-  url: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/journee-d-etude-sur-le-theme-production
+rdv: |-
+  RDV Manufacture des Capucins, Place Jean Paul II, Eco quartier Fieschi, Vernon 6 accès libre
+  RDV restaurant l'Instant? 3 place Charles de Gaulle, Vernon - COMPLET
+buttons: []
 copyright: Agence MWAH
 countinuousdate: ''
 
@@ -27,7 +27,7 @@ La Manufacture des Capucins, tiers-lieu pour la transition écologique, entame u
 
 RDV à la Manufacture des Capucins, Place Jean Paul II, Eco quartier Fieschi, Vernon
 
-**Programme de la journée d'étude au restaurant l'Instant** - gratuit sur inscription **:**
+**Programme de la journée d'étude au restaurant l'Instant** - COMPLET **:**
 
 * **9h30 à 12h // 14h à 17h :** JOURNÉE D'ÉTUDE SUR LE THÈME « PRODUCTION »
 * **12h à 14h :** repas sur place - réservé aux inscrits à la journée d’étude
