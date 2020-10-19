@@ -12,10 +12,9 @@ message: ''
 avec: Parcours guidé par Franck Gaillet, paysagiste-concepteur, en partenariat avec
   la Fédération Française de Paysage, la Ville du Havre et la CU Le Havre Seine Métropole.
 rdv: RDV devant l’entrée du cimetière de Rouelles.
-buttons:
-- text: Réserver
-  url: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/le-parc-de-rouelles-un-refuge-naturel
+buttons: []
 copyright: ''
+countinuousdate: ''
 
 ---
 Situé à l’emplacement d’une ancienne ferme typique du pays de Caux, niché le long de la Rouelles, cet espace devenu parc de 189 hectares forme un véritable refuge naturel en périphérie du Havre. Découvrez le temps d’une balade, les prairies, les étangs, le jardin de plantes et l’arboretum ainsi que l’architecture du site dont le manoir de la Bouteillerie et son colombier du XVIIème siècle. Le parc, qui relie la forêt de Montgeon avec la vallée de la Lézarde, s’inscrit également comme une importante liaison périurbaine entre la ville du Havre et les communes satellites de l’agglomération.

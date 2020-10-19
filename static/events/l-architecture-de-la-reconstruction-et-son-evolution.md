@@ -8,7 +8,7 @@ dates:
 lat: "49.43349"
 lon: "1.09131"
 image: "/files/parcours-urbain-rouen-reconstruction-caue76-1.jpg"
-message: Complet
+message: ''
 avec: Animé par le CAUE 76 et l'Atelier de la Corderie, cabinet d'architecture en
   charge de la rénovation.
 rdv: RDV Cours Clémenceau, sur la place piétonne, devant l’Hôtel du Département et

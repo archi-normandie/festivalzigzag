@@ -8,7 +8,7 @@ dates:
 lat: "49.4627"
 lon: "0.5519"
 image: "/files/bac-de-quillebeuf-sur-seine-office-tourisme-roumois-seine.jpg"
-message: Complet
+message: ''
 avec: Visite proposée et animée par le CAUE 76, Boris Menguy, paysagiste-urbaniste.
 rdv: Au niveau de l’embarcadère de Quillebeuf-sur-Seine sur les quais.
 buttons: []
