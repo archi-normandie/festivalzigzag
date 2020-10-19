@@ -4,7 +4,7 @@
         <title></title>
         <link>https://festivalzigzag.fr/rss.xml</link>
         <description>Journal du Festival Zigzag</description>
-        <lastBuildDate>Mon, 19 Oct 2020 09:50:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Oct 2020 09:50:52 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
         <item>
@@ -405,6 +405,22 @@
 ]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Zigzag 2020 - semaine #2]]></title>
+            <link>https://festivalzigzag.fr/stories/zigzag-2020-semaine-2</link>
+            <guid>https://festivalzigzag.fr/stories/zigzag-2020-semaine-2</guid>
+            <pubDate>Mon, 19 Jan 1970 13:14:21 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="une-semaine-entre-arts-et-paysages">UNE SEMAINE ENTRE ARTS ET PAYSAGES</h2>
+<p>Cette seconde semaine d&#39;événements a commencée mardi par une soirée théâtre-débat à <strong>Gaillon</strong>, avec <strong>la troupe Acaly</strong> qui présentait sa pièce « Les pieds dans l’eau » : <em>« L’histoire se déroule en 2060. Nous sommes chez Jeff, dans une petite maison en ville, accompagné de Cherka, l’intelligence artificielle qui a pour fonction de gérer le lieu. Mike arrive une nuit chez son ami Jeff, car tout est inondé dans le quartier. S’en suit alors un échange entre les deux amis pour trouver des solutions et dédramatiser la situation… ».</em></p>
+<p>Dans le cadre d’un cycle d’animations autour de la Seine et du risque inondation, proposé par l’<strong>Agglomération Seine Eure</strong>. Le spectacle était suivi d’un échange avec des maires de commune riveraine de Seine, pompier et associations. En présence de Bernard Leroy, Président de la Case.</p>
+<p>Mercredi, le festival Zigzag s&#39;est invité <strong>au Havre</strong> pour parcourir le parc de Rouelles, en compagnie de Franck Gaillet, paysagiste-concepteur, en partenariat avec la <strong>Fédération Française de Paysage, la Ville du Havre et la CU Le Havre Seine Métropole</strong>, et à <strong>Port-Mort</strong> pour la seconde balade photographique proposée et animée par le <strong>CAUE 27</strong>.</p>
+<p>Jeudi soir, retour <strong>au Havre</strong> pour une soirée au <strong>Hangar Zéro</strong>, avec le collectif <strong>Les Gens des Lieux</strong>, dans le cadre du projet <strong>Genius 2020</strong>, pour une soirée projection-rencontre :</p>
+<ul>
+<li>Projection du film de Laure Delamotte-Legrand sur les RIM, projet artistique coordonné par la compagnie <strong>Shifts art in movement</strong> en collaboration avec l’équipe du <strong>Phare - Centre chorégraphique national du Havre Normandie</strong>.</li>
+<li>La soirée c’est terminée par une rencontre sur le thème des démarches expérimentales en architecture, urbanisme, chorégraphie et dynamiques sociales.</li>
+</ul>
+]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Zigzag 2020 - week-end #1]]></title>
             <link>https://festivalzigzag.fr/stories/zigzag-2020-week-end-1</link>
             <guid>https://festivalzigzag.fr/stories/zigzag-2020-week-end-1</guid>
@@ -454,22 +470,6 @@
 <p>Et pour finir ce samedi en beauté, l&#39;équipe du Forum a passé l’après-midi avec le collectif <strong>Les Gens des Lieux et Les Cueilleurs d&#39;Histoire</strong> sur le site de <strong>Genius 2020 au Havre</strong>. Une belle façon de fêter la fin du festival dans un quartier en mutation : A l’interface du quartier Saint Nicolas et de la zone de l’Escaut, le collectif Les Gens des Lieux propose une scénographie urbaine éphémère. Par ses interventions, il ouvre des perspectives, renverse des points de vue, fait émerger un jardin sauvage au milieu d’une friche portuaire.</p>
 <p>Pour le dernier jour du festival Zigzag 2020, la Maison de l&#39;architecture de Normandie est retournée à <strong>la Manufacture des Capucins à Vernon</strong> : Jardinage, rencontre, expositions et journée d’étude étaient au programme. Merci aux participants, aux bénévoles de la Manufacture et à l’agence d&#39;architecture <strong>MWAH</strong> !</p>
 <p>Au même moment, l&#39;<strong>Agglomération Seine-Eure</strong> vous a invité pour un événement ludo-cyclo-patrimonial proposé dans le cadre de l’itinéraire <strong>Seine à Vélo</strong> : Laissez-vous embarquer dans l’aventure et menez l’enquête à vélo, en participant au jeu « Seine de Crime ». Une balade à deux roues ponctuées de points d’étapes, où vous ont attendu des comédiens pour vous guider dans votre parcours entre <strong>Elbeuf-sur-Seine et Les Damps</strong>. Trois heures à vélo pour découvrir les richesses du patrimoine architectural et naturel.</p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Zigzag 2020 - semaine #2]]></title>
-            <link>https://festivalzigzag.fr/stories/zigzag-2020-semaine-2</link>
-            <guid>https://festivalzigzag.fr/stories/zigzag-2020-semaine-2</guid>
-            <pubDate>Mon, 19 Jan 1970 13:14:21 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="une-semaine-entre-arts-et-paysages">UNE SEMAINE ENTRE ARTS ET PAYSAGES</h2>
-<p>Cette seconde semaine d&#39;événements a commencée mardi par une soirée théâtre-débat à <strong>Gaillon</strong>, avec <strong>la troupe Acaly</strong> qui présentait sa pièce « Les pieds dans l’eau » : <em>« L’histoire se déroule en 2060. Nous sommes chez Jeff, dans une petite maison en ville, accompagné de Cherka, l’intelligence artificielle qui a pour fonction de gérer le lieu. Mike arrive une nuit chez son ami Jeff, car tout est inondé dans le quartier. S’en suit alors un échange entre les deux amis pour trouver des solutions et dédramatiser la situation… ».</em></p>
-<p>Dans le cadre d’un cycle d’animations autour de la Seine et du risque inondation, proposé par l’<strong>Agglomération Seine Eure</strong>. Le spectacle était suivi d’un échange avec des maires de commune riveraine de Seine, pompier et associations. En présence de Bernard Leroy, Président de la Case.</p>
-<p>Mercredi, le festival Zigzag s&#39;est invité <strong>au Havre</strong> pour parcourir le parc de Rouelles, en compagnie de Franck Gaillet, paysagiste-concepteur, en partenariat avec la <strong>Fédération Française de Paysage, la Ville du Havre et la CU Le Havre Seine Métropole</strong>, et à <strong>Port-Mort</strong> pour la seconde balade photographique proposée et animée par le <strong>CAUE 27</strong>.</p>
-<p>Jeudi soir, retour <strong>au Havre</strong> pour une soirée au <strong>Hangar Zéro</strong>, avec le collectif <strong>Les Gens des Lieux</strong>, dans le cadre du projet <strong>Genius 2020</strong>, pour une soirée projection-rencontre :</p>
-<ul>
-<li>Projection du film de Laure Delamotte-Legrand sur les RIM, projet artistique coordonné par la compagnie <strong>Shifts art in movement</strong> en collaboration avec l’équipe du <strong>Phare - Centre chorégraphique national du Havre Normandie</strong>.</li>
-<li>La soirée c’est terminée par une rencontre sur le thème des démarches expérimentales en architecture, urbanisme, chorégraphie et dynamiques sociales.</li>
-</ul>
 ]]></content:encoded>
         </item>
     </channel>

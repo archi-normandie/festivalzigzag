@@ -8,7 +8,7 @@ dates:
 lat: "49.48974"
 lon: "0.09748"
 image: "/files/le-havre_entre-ville-et-port_-victor-belloteau.jpg"
-message: Complet
+message: ''
 avec: Visite en partenariat avec le service Villes et Pays d’art et d’histoire du
   Havre et Haropa - Port du Havre.
 rdv: RDV port de plaisance, boulevard Clemenceau, embarquement avec Normandie Navigation.

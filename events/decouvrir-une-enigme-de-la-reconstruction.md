@@ -8,7 +8,7 @@ dates:
 lat: "49.48682"
 lon: "0.11334"
 image: "/files/lh_visite-reconstruction-caue76.jpg"
-message: Complet
+message: ''
 avec: Visite proposée et animée par le CAUE 76, Boris Menguy, paysagiste-urbaniste
   et invités.
 rdv: RDV la Halle aux poissons - Quai de l’Île.

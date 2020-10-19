@@ -13,10 +13,9 @@ avec: |-
   Avec Benoît Dumouchel, architecte paysagiste de l’agence Zenobia, lauréate du concours / urbanisme et paysage.
   En partenariat de la Fédération Française de Paysage.
 rdv: RDV EnvA - Cirale, RD675, Goustranville.
-buttons:
-- text: Réserver
-  url: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/campus-equin-international-entre-marais-et-collines-du-pays-d-auge
+buttons: []
 copyright: ''
+countinuousdate: ''
 
 ---
 Sur ce site de 57 hectares s’organisera prochainement toute une vie de recherche, de soin et d’enseignement autour du cheval. Le paysage est au cœur du projet, à travers les vues, les typologies végétales, dans l’histoire du lieu, le traitement de la topographie ou la gestion de l’eau. La visite est l’occasion de comprendre un projet de paysage, le site actuel, pour mieux apprécier les changements à venir.

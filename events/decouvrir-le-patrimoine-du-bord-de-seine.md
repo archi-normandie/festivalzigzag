@@ -8,7 +8,7 @@ dates:
 lat: "49.28499"
 lon: "1.00584"
 image: "/files/elbeuf_enquete-a-velo-agglo-seine-eure-ok.jpg"
-message: Complet
+message: ''
 avec: ''
 rdv: |-
   Rdv à la Fabrique des Savoirs, 7 cours Gambetta – se munir d’un vélo.
