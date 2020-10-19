@@ -12,10 +12,9 @@ message: ''
 avec: Avec Jean-Christophe Goulier, architecte-paysagiste, CAUE 76.
 rdv: RDV place du Bateau (en cœur de bourg, près des commerces) ; stationnements possibles
   sur le quai ou près de la cale du Bac.
-buttons:
-- text: Réserver
-  url: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/un-amphitheatre-de-verdure-avec-vue-sur-seine
+buttons: []
 copyright: CAUE 76
+countinuousdate: ''
 
 ---
 Si les paysages de la vallée de la Seine apparaissent souvent emblématiques, ils fourmillent de singularités et de réjouissances pour qui sait en avoir une approche sensible. « Il faut pénétrer dans l’épaisseur du paysage » disait le paysagiste Jacques Simon.  
