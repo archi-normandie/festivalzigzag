@@ -8,7 +8,7 @@ dates:
 lat: "49.35395"
 lon: "0.06477"
 image: "/files/deauville-les-franciscaines-agence-moatti-riviere.jpg"
-message: Complet
+message: ''
 avec: Entrez dans les coulisses de ce chantier chargé d’histoire en présence de Fabio
   Bezzecchi, architecte du projet.
 rdv: "RDV cabane de chantier, 143 avenue de la République. \nAttention chantier, se

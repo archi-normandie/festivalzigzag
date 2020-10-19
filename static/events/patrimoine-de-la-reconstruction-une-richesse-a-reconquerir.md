@@ -11,10 +11,9 @@ image: "/files/rives-en-seine_patrimoine-reconstruction-caue76.jpg"
 message: ''
 avec: Visite proposée par le CAUE 76.
 rdv: RDV au pied de la Mairie, 1 avenue Winston Churchill.
-buttons:
-- text: Réserver
-  url: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/patrimoine-de-la-reconstruction-une-richesse-a-reconquerir
+buttons: []
 copyright: CAUE 76
+countinuousdate: ''
 
 ---
 La reconstruction de Caudebec-en-Caux aujourd’hui nouvelle commune de Rives-en-Seine, amorcée par les architectes A. Robinne puis orchestrée par O. Zavaroni, est considérée par de nombreux spécialistes comme une réalisation remarquable. En compagnie d’Emmanuel Côme, architecte-conseiller, venez percevoir la richesse et la singularité de ce patrimoine régional emblématique. Vous découvrirez son potentiel d’évolution lui permettant de répondre aux modes de vie de demain. Un parcours pour faire évoluer notre regard sur le patrimoine de la reconstruction et lui offrir une nouvelle attractivité, porteuse d’énergie et de surprises comme le fleuve qui lui fait face !

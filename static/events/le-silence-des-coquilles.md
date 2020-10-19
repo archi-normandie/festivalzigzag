@@ -12,9 +12,7 @@ message: ''
 avec: Avec Marie-Laure Garnier, paysagiste ; l’équipe du Parc Naturel Régional des
   Boucles de la Seine Normande ; le collectif Dans le sens de Barge.
 rdv: RDV à la Maison de l’architecture de Normandie, 48 rue Victor Hugo.
-buttons:
-- text: Réserver
-  url: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/le-silence-des-coquilles
+buttons: []
 copyright: Dans le sens de barge_La Cloche
 countinuousdate: ''
 
