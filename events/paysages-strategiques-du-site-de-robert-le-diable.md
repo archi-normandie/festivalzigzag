@@ -8,7 +8,7 @@ dates:
 lat: "49.3398916"
 lon: "0.9610958"
 image: "/files/robert-le-diable-visuel.jpg"
-message: Complet
+message: ''
 avec: Avec Denis Comont, paysagiste concepteur, agence Arc-en-Terre, en partenariat
   avec la Fédération Française du Paysage.
 rdv: RDV au panorama, au pied du château de Robert le Diable.
