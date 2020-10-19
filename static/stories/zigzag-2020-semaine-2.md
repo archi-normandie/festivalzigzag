@@ -4,9 +4,9 @@ title: 'Zigzag 2020 - semaine #2'
 image: "/files/zig-zag-fb-gabarit-facebook-bandeau-couverturebasse-def4.jpg"
 
 ---
-## UNE SEMAINE DE RENCONTRES ARTISTIQUES
+## UNE SEMAINE ENTRE ARTS ET PAYSAGES
 
-Cette seconde semaine d'événements a commencée mardi par une soirée théâtre-débat à **Gaillon**, avec **la troupe Acaly** qui présentait sa pièce « Les pieds dans l’eau » : _« L’histoire se déroule en 2060. Nous sommes chez Jeff, dans une petite maison en ville, accompagné de Cherka, l’intelligence artificielle qui a pour fonction de gérer le lieu. Mike arrive une nuit chez son ami Jeff, car tout est inondé dans le quartier. S’en suit alors un échange entre les deux amis pour trouver des solutions et dédramatiser la situation… »._ 
+Cette seconde semaine d'événements a commencée mardi par une soirée théâtre-débat à **Gaillon**, avec **la troupe Acaly** qui présentait sa pièce « Les pieds dans l’eau » : _« L’histoire se déroule en 2060. Nous sommes chez Jeff, dans une petite maison en ville, accompagné de Cherka, l’intelligence artificielle qui a pour fonction de gérer le lieu. Mike arrive une nuit chez son ami Jeff, car tout est inondé dans le quartier. S’en suit alors un échange entre les deux amis pour trouver des solutions et dédramatiser la situation… »._
 
 Dans le cadre d’un cycle d’animations autour de la Seine et du risque inondation, proposé par l’**Agglomération Seine Eure**. Le spectacle était suivi d’un échange avec des maires de commune riveraine de Seine, pompier et associations. En présence de Bernard Leroy, Président de la Case.
 
