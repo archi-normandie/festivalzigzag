@@ -12,9 +12,7 @@ message: ''
 avec: Visite proposée par le CAUE 27.
 rdv: RDV devant la Mairie, Grande Rue (stationnement sur le parking de la salle des
   fêtes).  Attention, prévoir de bonnes chaussures.
-buttons:
-- text: Réserver
-  url: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/a-port-mort-figurez-vous
+buttons: []
 copyright: Carte postale ancienne - Port-Mort cueillette des roseaux
 countinuousdate: ''
 

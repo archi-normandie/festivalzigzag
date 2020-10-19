@@ -12,9 +12,7 @@ message: ''
 avec: Visite proposée par le CAUE 27.
 rdv: RDV à la Croix Bordeaux (D313, entrée Nord de Port-Mort, stationnement sur herbe).
   Attention, enfants à partir de 10 ans et prévoir de bonnes chaussures.
-buttons:
-- text: Réserver
-  url: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/a-port-mort-figurez-vous-1
+buttons: []
 copyright: Carte postale ancienne - Gravier de Gargantua
 countinuousdate: ''
 
