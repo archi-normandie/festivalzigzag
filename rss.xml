@@ -4,7 +4,7 @@
         <title></title>
         <link>https://festivalzigzag.fr/rss.xml</link>
         <description>Journal du Festival Zigzag</description>
-        <lastBuildDate>Fri, 16 Oct 2020 15:21:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Oct 2020 08:47:06 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
         <item>
@@ -325,35 +325,6 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Zigzag 2020 - du 3 au 18 octobre]]></title>
-            <link>https://festivalzigzag.fr/stories/zigzag-2020-du-3-au-18-octobre</link>
-            <guid>https://festivalzigzag.fr/stories/zigzag-2020-du-3-au-18-octobre</guid>
-            <pubDate>Mon, 19 Jan 1970 12:00:43 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="les-inscriptions-sont-ouvertes-">Les inscriptions sont ouvertes !</h2>
-<p><strong>Plus de trente événements sont programmés d’Achères à Deauville</strong> pour appréhender le cadre de vie à l’occasion de parcours, de visites à pied, en bateau ou en vélo, d’installations, de street art, de performances pour tous, avec des architectes, des élus, des urbanistes, des paysagistes ou des artistes. </p>
-<p>Le festival fait le pari de parler à tous, dans une approche sensible et pluridisciplinaire pour une mise en récit de ces espaces vivants.</p>
-<ul>
-<li>Achères, 78</li>
-<li>Deauville, 14</li>
-<li>Elbeuf-sur-Seine, 76</li>
-<li>Gaillon, 27</li>
-<li>Goustranville, 14</li>
-<li>Grand Quevilly, 76</li>
-<li>La Bouille, 76</li>
-<li>La Mailleraye-sur-Seine, 76</li>
-<li>Le Havre, 76</li>
-<li>Moulineaux, 76</li>
-<li>Port-Mort, 27</li>
-<li>Quillebeuf-sur-Seine, 76</li>
-<li>Rives-en-Seine, 76</li>
-<li>Rouen, 76</li>
-<li>Saint-Arnoult, 76</li>
-<li>Val-de-Reuil, 27</li>
-<li>Vernon, 27</li>
-</ul>
-]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Zigzag 2020 - J-1]]></title>
             <link>https://festivalzigzag.fr/stories/zigzag-2020-j-1</link>
             <guid>https://festivalzigzag.fr/stories/zigzag-2020-j-1</guid>
@@ -417,6 +388,35 @@
 <p>Samedi 3 octobre, pour le 1er jour du festival, on a pris de la hauteur à <strong>Grand Quevilly</strong> pour des visites accompagnées de comédiennes. Des lectures insolites pour découvrir la ville autrement par des personnages et des témoignages. Son industrie, son bourg, ses tours, ses arbres et ses nouveaux quartiers d’habitation … Grand Quevilly nous a livré presque tous ses secrets ! En partenariat avec <strong>Quevilly Habitat</strong>. Puis direction <strong>Quillebeuf-sur-Seine</strong> pour une lecture paysagère de la vallée de la Seine avec Boris Menguy, paysagiste-urbaniste du <strong>CAUE 76</strong>.  </p>
 <p>Dimanche 4 octobre, l’équipe de la Maison de l&#39;architecture de Normandie - le Forum vous a donné rendez-vous pour un parcours du patrimoine de la reconstruction à <strong>Rives-en-Seine</strong>, la visite de <strong>la Friche Lucien</strong> à <strong>Rouen</strong> pour son dernier jour d’ouverture 2020, à <strong>Moulineaux</strong> pour découvrir les paysages stratégiques du site de Robert le Diable et à <strong>Goustranville</strong>, dans le Calvados, pour la visite exceptionnelle du campus équin international.</p>
 <p><em>Les événements &quot;Le Regards de [Travers]&quot; et &quot;Grand Quevilly à vélo&quot;, organisés par la ville de Grand Quevilly, ont été malheureusement annulés suite aux nouvelles mesures sanitaires du gouvernement.</em></p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Zigzag 2020 - du 3 au 18 octobre]]></title>
+            <link>https://festivalzigzag.fr/stories/zigzag-2020-du-3-au-18-octobre</link>
+            <guid>https://festivalzigzag.fr/stories/zigzag-2020-du-3-au-18-octobre</guid>
+            <pubDate>Mon, 19 Jan 1970 12:00:43 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="les-inscriptions-sont-ouvertes-">Les inscriptions sont ouvertes !</h2>
+<p><strong>Plus de trente événements sont programmés d’Achères à Deauville</strong> pour appréhender le cadre de vie à l’occasion de parcours, de visites à pied, en bateau ou en vélo, d’installations, de street art, de performances pour tous, avec des architectes, des élus, des urbanistes, des paysagistes ou des artistes. </p>
+<p>Le festival fait le pari de parler à tous, dans une approche sensible et pluridisciplinaire pour une mise en récit de ces espaces vivants.</p>
+<ul>
+<li>Achères, 78</li>
+<li>Deauville, 14</li>
+<li>Elbeuf-sur-Seine, 76</li>
+<li>Gaillon, 27</li>
+<li>Goustranville, 14</li>
+<li>Grand Quevilly, 76</li>
+<li>La Bouille, 76</li>
+<li>La Mailleraye-sur-Seine, 76</li>
+<li>Le Havre, 76</li>
+<li>Moulineaux, 76</li>
+<li>Port-Mort, 27</li>
+<li>Quillebeuf-sur-Seine, 76</li>
+<li>Rives-en-Seine, 76</li>
+<li>Rouen, 76</li>
+<li>Saint-Arnoult, 76</li>
+<li>Val-de-Reuil, 27</li>
+<li>Vernon, 27</li>
+</ul>
 ]]></content:encoded>
         </item>
         <item>

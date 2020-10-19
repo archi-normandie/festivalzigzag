@@ -8,7 +8,7 @@ dates:
 lat: "49.4473"
 lon: "0.7574"
 image: "/files/la-mailleraye-sur-seine-balade-pnr.jpg"
-message: ''
+message: Annulé
 avec: Se munir de bonnes chaussures de marche.
 rdv: ''
 buttons: []
