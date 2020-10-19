@@ -22,7 +22,7 @@ La Manufacture des Capucins, tiers-lieu pour la transition écologique, entame u
 **Programme de la journée à la Manufacture des Capucins** - accès libre **:**
 
 * **9h30 à 12h // 14h à 17h :** POUR UNE RÉFORME DE L’APPAREIL PRODUCTIF CONTEMPORAIN et LE PROJET ARCHITECTURAL DE LA MANUFACTURE DES CAPUCINS - expositions
-* **10h à 12h :** ATELIER DE JARDINAGE - avec les bénévoles de la Manufacture – [sur inscription](https://forms.gle/FypaBmYXgFcfggXY7) (jusqu’au 16/10)
+* **10h à 12h :** ATELIER DE JARDINAGE - avec les bénévoles de la Manufacture 
 
 **Programme de la journée d'étude au restaurant l'Instant** - COMPLET **:**
 
