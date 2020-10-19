@@ -4,9 +4,8 @@ title: 'Zigzag 2020 - week-end #JNArchi'
 image: "/files/site-web-wee-end-jnarchi.jpg"
 
 ---
-## ZIGZAG ET LES JOURNEES NATIONALES DE L'ARCHITECTURE 
+## ZIGZAG ET LES JOURNEES NATIONALES DE L'ARCHITECTURE
 
-  
 _"La crise sanitaire que nous venons de traverser a mis davantage encore en lumière l’importance d’un environnement de vie bien conçu et de qualité, et par conséquent le rôle essentiel de l’architecture. La 5e édition des Journées nationales de l’architecture se déroulera les 16, 17 et 18 octobre 2020. Organisées par le Ministère de la Culture, ces journées ont pour objectif de familiariser tous les publics aux enjeux de l’architecture et de leur fournir des clés de compréhension de cet art qui façonne nos territoires."  
 Roselyne Bachelot-Narquin, Ministre de la Culture_
 
@@ -22,4 +21,4 @@ Et pour finir ce samedi en beauté, l'équipe du Forum a passé l’après-midi 
 
 Pour le dernier jour du festival Zigzag 2020, la Maison de l'architecture de Normandie est retournée à **la Manufacture des Capucins à Vernon** : Jardinage, rencontre, expositions et journée d’étude étaient au programme. Merci aux participants, aux bénévoles de la Manufacture et à l’agence d'architecture **MWAH** !
 
-Au même moment, l'**Agglomération Seine-Eure** vous a invité pour un événement ludo-cyclo-patrimonial proposé dans le cadre de l’itinéraire **Seine à Vélo** : Laissez-vous embarquer dans l’aventure et menez l’enquête à vélo, en participant au jeu « Seine de Crime ». Une balade à deux roues ponctuées de points d’étapes, où vous attendront des comédiens pour vous guider dans votre parcours. Vous découvrirez les richesses du patrimoine architectural et naturel, entre **Elbeuf-sur-Seine et Les Damps**.
+Au même moment, l'**Agglomération Seine-Eure** vous a invité pour un événement ludo-cyclo-patrimonial proposé dans le cadre de l’itinéraire **Seine à Vélo** : Laissez-vous embarquer dans l’aventure et menez l’enquête à vélo, en participant au jeu « Seine de Crime ». Une balade à deux roues ponctuées de points d’étapes, où vous ont attendu des comédiens pour vous guider dans votre parcours entre **Elbeuf-sur-Seine et Les Damps**. Trois heures à vélo pour découvrir les richesses du patrimoine architectural et naturel.
