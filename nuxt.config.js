@@ -36,7 +36,7 @@ export default {
       { hid: 'twitter:card', name: 'twitter:card', content: 'summary' },
       { hid: 'twitter.description', name: 'twitter.description', content: env.mainDesc },
       { hid: 'twitter.image', name: 'twitter.image', content: env.url + '/apple-touch-icon.png' },
-      { hid: 'google-site-verification', name: 'google-ste-verification', content: '_8i0lpUnEjnS_5gs8aQryoLAW_J085Ofl90krfb6z30'}
+      { hid: 'google-site-verification', name: 'google-site-verification', content: '_8i0lpUnEjnS_5gs8aQryoLAW_J085Ofl90krfb6z30'}
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
