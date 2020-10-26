@@ -4,24 +4,9 @@
         <title></title>
         <link>https://festivalzigzag.fr/rss.xml</link>
         <description>Journal du Festival Zigzag</description>
-        <lastBuildDate>Mon, 26 Oct 2020 09:15:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Oct 2020 09:19:05 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
-        <item>
-            <title><![CDATA[Zigzag 2019 - Balade fluviale au départ de Vernon]]></title>
-            <link>https://festivalzigzag.fr/stories/balade-fluviale-au-depart-de-vernon</link>
-            <guid>https://festivalzigzag.fr/stories/balade-fluviale-au-depart-de-vernon</guid>
-            <pubDate>Mon, 19 Jan 1970 06:16:30 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="à-la-découverte-des-îles-seine">À LA DÉCOUVERTE DES ÎLES SEINE</h2>
-<p>Embarquez avec deux paysagistes, sur le bateau pour une exploration au fil des flots, sur les traces des îles séquaniennes entre Vernon et Notre-Dame-de-la-Garenne. La Seine contribue à la formation et à la disparition des îles selon un cycle naturel. Fruits du fleuve, elles sont expressives et témoignent de l’ancienne liberté de la Seine. Elles sont boisées, refuge pour la faune et la flore ou expérimentales, accueillant verger et bovins, autant d’exemples racontant la nécessité des îles et leurs potentiels d’usages.</p>
-<p>Avec Marie Perra &amp; Mégane Millet Lacombe, paysagistes, collectif Alphonse. Travail mené en partenariat avec l’École de paysage de Versailles, le CAUE de l’Eure et le CPIER de la Vallée de la Seine.</p>
-<h3 id="parole-de-marie--mégane">Parole de Marie &amp; Mégane</h3>
-<p><em>Paysagistes concepteurs - collectif Alphonse</em></p>
-<p>« En 2017, pendant notre formation de paysagiste DPLG à l’École Nationale Supérieure du Paysage de Versailles, nous avons réalisé une étude (Atelier Pédagogique Régionale) sur les îles de la Seine en partenariat avec le CPIER de la Vallée de la Seine et le CAUE de l’Eure. Pour la première fois, nous avons proposé la vision d’un archipel remarquable en étroite interaction avec le territoire et la Vallée. En 2019, un article <em>La Seine d&#39;îles en îles. Récit d&#39;une exploration</em> est paru dans le volume n° 35 - Îles en projet, des Carnets du Paysage. Cette balade nous a permis de développer le travail de ces recherches.</p>
-<p>Pour le paysagiste, l’arpentage est une étape primordiale dans la découverte et la compréhension du paysage. Dans ce sens, la balade est un bon outil pour convier les habitants et acteurs du territoire à porter un autre regard sur le paysage et à partager les connaissances de chacun. Ici, elle nous a permis d&#39;amener les participants à se questionner sur la place des îles, sujet souvent peu abordé. ll nous est apparu essentiel qu&#39;elle se déroule sur l&#39;eau pour changer de points de vue sur ces motifs paysagers principalement perçus depuis les berges. Nous avons donc proposé un voyage en dix points, depuis la formation des îles jusqu’à leurs apports au territoire et à la liberté qu’elles apportent à la Vallée de la Seine, point essentiel de notre démarche.</p>
-<p>Une soixantaine de personnes sont venues naviguer avec nous sur le bateau Guillaume Le Conquérant. Le format, plusieurs petites interventions ponctuelles sur des sujets précis par différents professionnels, nous a permis d&#39;avoir des temps collectifs d&#39;informations et des temps libres où chacun pouvait observer le paysage séquanien et solliciter les professionnels individuellement. Les retours ont été très positifs et la démarche appréciée et comprise. Une expérience à renouveler. »</p>
-]]></content:encoded>
-        </item>
         <item>
             <title><![CDATA[Zigzag 2019 - Chasse au trésor dans la Forêt monumentale]]></title>
             <link>https://festivalzigzag.fr/stories/chasse-au-tresor-dans-la-foret-monumentale</link>
@@ -56,6 +41,21 @@
 <h3 id="parole-de-gilles-pesquet">Parole de Gilles Pesquet</h3>
 <p><em>Architecte-conseiller - CAUE 76</em></p>
 <p>« Les visiteurs ont appris de nombreuses choses sur l&#39;architecture des Cité-jardins, de la Reconstruction, de l&#39;architecture vernaculaire de la vallée de Seine et des projets qui font avancer ces deux communes (notamment la voie verte, le bord de Seine, l&#39;aménagement paysager de l&#39;espace public...). »</p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Zigzag 2019 - Balade fluviale au départ de Vernon]]></title>
+            <link>https://festivalzigzag.fr/stories/balade-fluviale-au-depart-de-vernon</link>
+            <guid>https://festivalzigzag.fr/stories/balade-fluviale-au-depart-de-vernon</guid>
+            <pubDate>Mon, 19 Jan 1970 06:16:30 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="à-la-découverte-des-îles-seine">À LA DÉCOUVERTE DES ÎLES SEINE</h2>
+<p>Embarquez avec deux paysagistes, sur le bateau pour une exploration au fil des flots, sur les traces des îles séquaniennes entre Vernon et Notre-Dame-de-la-Garenne. La Seine contribue à la formation et à la disparition des îles selon un cycle naturel. Fruits du fleuve, elles sont expressives et témoignent de l’ancienne liberté de la Seine. Elles sont boisées, refuge pour la faune et la flore ou expérimentales, accueillant verger et bovins, autant d’exemples racontant la nécessité des îles et leurs potentiels d’usages.</p>
+<p>Avec Marie Perra &amp; Mégane Millet Lacombe, paysagistes, collectif Alphonse. Travail mené en partenariat avec l’École de paysage de Versailles, le CAUE de l’Eure et le CPIER de la Vallée de la Seine.</p>
+<h3 id="parole-de-marie--mégane">Parole de Marie &amp; Mégane</h3>
+<p><em>Paysagistes concepteurs - collectif Alphonse</em></p>
+<p>« En 2017, pendant notre formation de paysagiste DPLG à l’École Nationale Supérieure du Paysage de Versailles, nous avons réalisé une étude (Atelier Pédagogique Régionale) sur les îles de la Seine en partenariat avec le CPIER de la Vallée de la Seine et le CAUE de l’Eure. Pour la première fois, nous avons proposé la vision d’un archipel remarquable en étroite interaction avec le territoire et la Vallée. En 2019, un article <em>La Seine d&#39;îles en îles. Récit d&#39;une exploration</em> est paru dans le volume n° 35 - Îles en projet, des Carnets du Paysage. Cette balade nous a permis de développer le travail de ces recherches.</p>
+<p>Pour le paysagiste, l’arpentage est une étape primordiale dans la découverte et la compréhension du paysage. Dans ce sens, la balade est un bon outil pour convier les habitants et acteurs du territoire à porter un autre regard sur le paysage et à partager les connaissances de chacun. Ici, elle nous a permis d&#39;amener les participants à se questionner sur la place des îles, sujet souvent peu abordé. ll nous est apparu essentiel qu&#39;elle se déroule sur l&#39;eau pour changer de points de vue sur ces motifs paysagers principalement perçus depuis les berges. Nous avons donc proposé un voyage en dix points, depuis la formation des îles jusqu’à leurs apports au territoire et à la liberté qu’elles apportent à la Vallée de la Seine, point essentiel de notre démarche.</p>
+<p>Une soixantaine de personnes sont venues naviguer avec nous sur le bateau Guillaume Le Conquérant. Le format, plusieurs petites interventions ponctuelles sur des sujets précis par différents professionnels, nous a permis d&#39;avoir des temps collectifs d&#39;informations et des temps libres où chacun pouvait observer le paysage séquanien et solliciter les professionnels individuellement. Les retours ont été très positifs et la démarche appréciée et comprise. Une expérience à renouveler. »</p>
 ]]></content:encoded>
         </item>
         <item>
@@ -322,6 +322,18 @@
 <p><em>Architecte associé - La Manufacture d&#39;Architecture et membre du conseil d&#39;administration de la Maison de l&#39;architecture de Normandie - le Forum</em> </p>
 <p>« De simples curieux, voisins ou assidus de la MaN-Le Forum sont impatients de débuter la visite de la future cité numérique. Le Maître d’ouvrage et l’architecte de l’opération présentent le programme initial et ses ambitions. Vient le moment de s’équiper : casques blancs, et chasubles jaunes et oranges sont indispensables à toute bonne visite de chantier.</p>
 <p>La procession multicolore se dirige alors de surprises en surprises : un hall impressionnant, une terrasse panoramique donnant sur le Havre, des bureaux et des salles de classes inondés d’une lumière tamisée, maîtrisée par la résille métallique travaillée en façade. Les visiteurs sont conquis : <em>comment d’une telle massivité apparente peut-on passer à une telle finesse de lumières et de vues depuis l’intérieur ? Les futurs occupants auront bien de la chance de travailler ici !</em> »</p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Zigzag 2020 - #annulations ]]></title>
+            <link>https://festivalzigzag.fr/stories/zigzag-2020-annulations</link>
+            <guid>https://festivalzigzag.fr/stories/zigzag-2020-annulations</guid>
+            <pubDate>Mon, 19 Jan 1970 13:28:23 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="une-edition-mouvementee">UNE EDITION MOUVEMENTEE</h2>
+<p>En 2019, la première édition du festival Zigzag avait connu une programmation mouvementée, suite à l&#39;incendie de Lubrizol du 26 septembre ... avec des événements annulés dans la ville de Rouen.</p>
+<p>La Maison de l&#39;architecture de Normandie - le Forum préparait l&#39;édition 2020 depuis plusieurs mois, quand le confinement est passé par là et le télétravail de rigueur.<br>L&#39;équipe tient encore à remercier tous ses partenaires, qui étaient présents à tous les instants pour monter la programmation du festival, et à tous les participants pour leurs inscriptions aux événements Zigzag 2020 malgré la situation sanitaire.</p>
+<p>Toutes ces bonnes volontés n&#39;ont malheureusement pas permis de maintenir tous les événements, que tous auraient aimé vivre : le parcours chorégraphique et le rallye vélo à <strong>Grand Quevilly</strong>, la soirée projection d&#39;<strong>Echelle Inconnue</strong>, la randonnée curieuse à <strong>Rives-en-Seine</strong>, la balade fluviale à <strong>Rouen</strong>, la randonnée à <strong>Achères avec Le voyage métropolitain</strong> ou la balade patrimoniale à la <strong>Mailleraye-sur-Seine avec le Parc naturel régional des Boucles de la Seine Normande</strong>.</p>
+<p>L&#39;édition 2021 est déjà en préparation le long de la vallée de la Seine ... suivez et partagez <a href="https://www.facebook.com/zigzagfestivalarchitecture/" title="Lien Facebook">Zigzag - festival d&#39;architecture et des arts de l&#39;espace</a> sur les réseaux sociaux pour rester informé !!</p>
 ]]></content:encoded>
         </item>
         <item>
