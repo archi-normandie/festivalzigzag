@@ -10,7 +10,7 @@
         :options="{scrollWheelZoom:false}"
       >
         <l-tile-layer
-          url="http://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png"
+          url="https://stamen-tiles.a.ssl.fastly.net/toner/{z}/{x}/{y}.png"
           attribution="&copy; <a href='https://www.openstreetmap.org/copyright'>OSM</a>, Tiles by <a href='https://www.hotosm.org/' target='_blank'>Humanitarian OSM Team</a> hosted by <a href='https://openstreetmap.fr/' target='_blank'>OSM France</a>"
         />
         <v-marker-cluster>
