@@ -5,7 +5,7 @@
     </h1>
     <no-ssr>
       <l-map
-        zoom="9"
+        :zoom="9"
         :center="[49.3, 0.8]"
         :options="{scrollWheelZoom:false}"
       >
@@ -13,7 +13,9 @@
           url="http://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png"
           attribution="&copy; <a href='https://www.openstreetmap.org/copyright'>OSM</a>, Tiles by <a href='https://www.hotosm.org/' target='_blank'>Humanitarian OSM Team</a> hosted by <a href='https://openstreetmap.fr/' target='_blank'>OSM France</a>"
         />
-        <EventMarker v-for="marker in events" :key="marker.slug" :marker="marker" />
+        <v-marker-cluster>
+          <EventMarker v-for="marker in events" :key="marker.slug" :marker="marker" />
+        </v-marker-cluster>
       </l-map>
     </no-ssr>
   </main>

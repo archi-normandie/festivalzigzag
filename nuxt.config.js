@@ -67,9 +67,16 @@ export default {
   ** Nuxt.js modules
   */
   modules: [
-    'nuxt-leaflet',
+    // 'nuxt-leaflet',
+    ['nuxt-leaflet', {}],
     '@nuxtjs/feed',
     '@nuxtjs/sitemap'
+  ],
+  /*
+  ** Plugins
+  */
+  plugins: [
+    { src: '~/plugins/leaflet-marker-cluster.js', mode: 'client' }
   ],
   /*
   ** Build configuration
