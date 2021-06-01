@@ -4,7 +4,7 @@
   "description": "Festival Zigzag",
   "author": "Maison de l'architecture de Normandie",
   "scripts": {
-    "kamokamo": "cd static && kamokamo > contents.json && cd ../",
+    "kamokamo": "cd static && kamokamo > contents.json",
     "images": "node create-responsive-images.js",
     "dev": "npm run kamokamo && nuxt",
     "build": "npm run images && npm run kamokamo && nuxt build",
