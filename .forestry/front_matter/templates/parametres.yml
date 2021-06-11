@@ -47,3 +47,23 @@ fields:
     max: 
     labelField: 
   label: Liens vers les événements
+- name: pages_links
+  type: field_group_list
+  fields:
+  - name: link
+    type: select
+    default: []
+    config:
+      required: false
+      options: []
+      source:
+        type: pages
+        section: pages
+        file: 
+        path: 
+    label: Lien
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Liens vers les pages
