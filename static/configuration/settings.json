@@ -9,10 +9,38 @@
       }
     ],
     "event_links": [
-
+      {
+        "link": "static/events/genius-2020-d-un-quai-a-l-autre.md"
+      },
+      {
+        "link": "static/events/le-regard-de-travers.md"
+      },
+      {
+        "link": "static/events/la-friche-lucien.md"
+      },
+      {
+        "link": "static/events/balade-entre-ville-et-port.md"
+      }
     ],
     "actuality_links": [
-
+      {
+        "link": "static/stories/balade-fluviale-au-départ-de-vernon.md"
+      }
+    ],
+    "footer_links": [
+      {
+        "group": [
+          {
+            "label": "Exemple de groupe de liens",
+            "links": [
+              {
+                "name": "Coordonnées",
+                "path": "/a-propos#coordonnées"
+              }
+            ]
+          }
+        ]
+      }
     ]
   },
   "events_links": [
