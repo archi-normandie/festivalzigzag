@@ -13,8 +13,8 @@ fields:
     - _bloc_content
     - _bloc_navigation
     config:
-      min:
-      max:
+      min: 
+      max: 
   label: Pied de page
 pages:
 - static/configuration/settings.json

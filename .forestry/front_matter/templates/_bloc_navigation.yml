@@ -24,12 +24,12 @@ fields:
         required: false
       label: Chemin
     config:
-      min:
-      max:
-      labelField:
+      min: 
+      max: 
+      labelField: 
     label: Liens
   config:
-    min:
-    max:
-    labelField:
+    min: 
+    max: 
+    labelField: 
   label: Navigation
