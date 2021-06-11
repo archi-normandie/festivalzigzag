@@ -24,7 +24,7 @@
 
   @media (min-width: 30rem) {
     footer & {
-      padding: 0 $margin;
+      // padding: 0 $margin;
     }
   }
 }
@@ -36,16 +36,16 @@ header {
   background-color: $primary;
   color: $white;
 
-  .wrapper {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
+  // .wrapper {
+  //   display: flex;
+  //   flex-wrap: wrap;
+  //   justify-content: center;
+  //   align-items: center;
 
-    @media (min-width: 36rem) {
-      justify-content: space-between;
-    }
-  }
+  //   @media (min-width: 36rem) {
+  //     justify-content: space-between;
+  //   }
+  // }
 
   .menu a {
     display: inline-block;
@@ -156,18 +156,18 @@ footer {
   color: $white;
   font-size: $fs14;
 
-  nav,
-  ul {
-    width: 100%;
-  }
+  // nav,
+  // ul {
+  //   width: 100%;
+  // }
 
-  ul {
-    justify-content: center;
+  // ul {
+  //   justify-content: center;
 
-    li {
-      margin: 0 $margin/2 $margin/2 $margin/2;
-    }
-  }
+  //   li {
+  //     margin: 0 $margin/2 $margin/2 $margin/2;
+  //   }
+  // }
 
   a {
     color: $white;
@@ -183,24 +183,62 @@ footer {
     }
   }
 }
+// header.wrapper
+  // .wrapper {
+  //   display: flex;
+  //   flex-wrap: wrap;
+  //   justify-content: center;
+  //   align-items: center;
 
-// Primary navigation.
+  //   @media (min-width: 36rem) {
+  //     justify-content: space-between;
+  //   }
 
-.menu ul {
-  display: flex;
-  flex-wrap: wrap;
+// List utilities
+ul.is-quiet {
   margin: 0;
   list-style: none;
+  li { padding-left: 0; }
+}
 
-  li {
-    margin: 0 $margin/2;
 
-    &:first-of-type {
-      margin-left: 0;
+// Generic menu
+.menu-item,
+.menu-label {
+  display: block;
+  margin: $margins-large;
+}
+.menu-label {
+  text-transform: uppercase;
+  opacity: 0.8;
+}
+
+@media (min-width: 30rem) {
+  .menu,
+  .menu-section-left,
+  .menu-section-right {
+    display: flex;
+    align-items: center;
+    &.has-text-top { align-items: normal; }
+  }
+  .menu-section-right,
+  .menu-section-left {
+    // flex-basis: auto;
+    // flex-grow: 0;
+    // flex-shrink: 0;
+  }
+  .menu {
+    justify-content: space-between;
+    &-item {
+      margin-top: $margins-compact;
+      // margin-left: $margin;
+      margin-right: $margin;
     }
+    &-item *:first-child { margin-top: 0; }
+    // &:first-of-type { margin-left: 0;}
+    &:last-of-type { margin-right: 0;}
+    &-section-left { justify-content: flex-start; }
+    &-section-right { justify-content: flex-end; }
 
-    &:last-of-type {
-      margin-right: 0;
-    }
   }
 }

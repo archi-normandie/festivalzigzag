@@ -14,6 +14,7 @@ $fs20: 1.25rem;
 $fs18: 1.125rem;
 $fs16: 1rem;
 $fs14: 0.875rem;
+$line-height: 1.25rem;
 
 // Colors
 
@@ -34,6 +35,10 @@ $text-color: #2e3192;
 
 $onepix: 0.0625rem;
 $margin: 1.25rem; // 20px
+$margins: 0 0 $line-height 0;
+$margins-large: 2.5rem 0 1rem 0;
+$margins-compact: 0 0 0.5rem 0;
+$paddings: 0.35rem 0.8rem 0.2rem;
 $border: 4 * $onepix;
 
 // Media queries
