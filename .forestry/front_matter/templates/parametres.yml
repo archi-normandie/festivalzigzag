@@ -13,8 +13,8 @@ fields:
     - bloc-content
     - bloc-navigation
     config:
-      min:
-      max:
+      min: 
+      max: 
   label: Pied de page
 pages:
 - static/configuration/settings.json
