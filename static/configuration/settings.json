@@ -37,6 +37,21 @@
           }
         ]
       }
+    ],
+    "links_group": [
+      {
+        "label": "Exemple de groupe de liens",
+        "links": [
+          {
+            "name": "Accueil",
+            "path": "/"
+          },
+          {
+            "name": "Coordonnées",
+            "path": "/a-propos#coordonnées"
+          }
+        ]
+      }
     ]
   },
   "events_links": [
