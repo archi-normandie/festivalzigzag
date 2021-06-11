@@ -6,27 +6,7 @@ fields:
   type: field_group
   config: {}
   fields:
-  - name: actualities_links
-    type: field_group_list
-    fields:
-    - name: link
-      type: select
-      default: []
-      config:
-        required: false
-        options: []
-        source:
-          type: pages
-          section: acualites
-          file: 
-          path: 
-      label: Lien
-    config:
-      min: 
-      max: 
-      labelField: 
-    label: Liens vers actualités
-  - name: pages_links
+  - name: page_links
     type: field_group_list
     fields:
     - name: link
@@ -46,6 +26,46 @@ fields:
       max: 
       labelField: 
     label: Liens vers les pages
+  - name: event_links
+    type: field_group_list
+    fields:
+    - name: link
+      type: select
+      default: []
+      config:
+        required: false
+        options: []
+        source:
+          type: pages
+          section: evenements
+          file: 
+          path: 
+      label: Lien
+    config:
+      min: 
+      max: 
+      labelField: 
+    label: Liens vers les événements
+  - name: actuality_links
+    type: field_group_list
+    fields:
+    - name: link
+      type: select
+      default: []
+      config:
+        required: false
+        options: []
+        source:
+          type: pages
+          section: acualites
+          file: 
+          path: 
+      label: Lien
+    config:
+      min: 
+      max: 
+      labelField: 
+    label: Liens vers actualités
   label: Pied de page
 pages:
 - static/configuration/settings.json
