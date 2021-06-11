@@ -59,8 +59,14 @@
       },
       {
         "template": "bloc-content",
-        "title": "",
+        "title": "Exemple de bloc",
         "content": ""
+      },
+      {
+        "template": "bloc-navigation",
+        "navigation": [
+
+        ]
       }
     ]
   }
