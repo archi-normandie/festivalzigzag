@@ -69,37 +69,29 @@ fields:
   - name: footer_links
     type: field_group_list
     fields:
-    - name: group
+    - name: label
+      type: text
+      config:
+        required: true
+      label: Label
+    - name: links
       type: field_group_list
       fields:
-      - name: label
+      - name: name
+        type: text
+        config:
+          required: true
+        label: Nom
+      - name: path
         type: text
         config:
           required: false
-        label: Label
-      - name: links
-        type: field_group_list
-        fields:
-        - name: name
-          type: text
-          config:
-            required: true
-          label: Nom
-        - name: path
-          type: text
-          config:
-            required: true
-          label: Chemin
-        config:
-          min: 
-          max: 
-          labelField: 
-        label: Liens
+        label: Chemin
       config:
         min: 
         max: 
         labelField: 
-      label: Groupe
+      label: Liens
     config:
       min: 
       max: 

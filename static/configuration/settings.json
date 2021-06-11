@@ -29,15 +29,11 @@
     ],
     "footer_links": [
       {
-        "group": [
+        "label": "Exemple de groupe de liens",
+        "links": [
           {
-            "label": "Exemple de groupe de liens",
-            "links": [
-              {
-                "name": "Coordonnées",
-                "path": "/a-propos#coordonnées"
-              }
-            ]
+            "name": "Coordonnées",
+            "path": "/a-propos#coordonnées"
           }
         ]
       }
