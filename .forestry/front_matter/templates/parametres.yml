@@ -2,6 +2,25 @@
 label: Paramètres
 hide_body: true
 fields:
+- name: add_left_content
+  type: boolean
+  label: Ajouter un contenu à gauche
+- name: left_content
+  type: field_group
+  config: {}
+  fields:
+  - name: contenu
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: Contenu
+  label: Contenu gauche
+  showOnly:
+    field: add_left_content
 - name: footer
   type: field_group
   config: {}
