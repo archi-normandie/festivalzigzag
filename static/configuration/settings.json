@@ -1,8 +1,5 @@
 {
   "footer": {
-    "actualities_links": [
-
-    ],
     "page_links": [
       {
         "link": "static/pages/a-propos.md"
@@ -42,11 +39,5 @@
         ]
       }
     ]
-  },
-  "events_links": [
-
-  ],
-  "pages_links": [
-
-  ]
+  }
 }
