@@ -66,14 +66,14 @@ fields:
       max: 
       labelField: link
     label: Liens vers actualités
-  - name: footer_links
+  - name: links_group
     type: field_group_list
     fields:
     - name: label
       type: text
       config:
         required: true
-      label: Label
+      label: Nom du groupe
     - name: links
       type: field_group_list
       fields:
@@ -96,7 +96,7 @@ fields:
       min: 
       max: 
       labelField: 
-    label: Liens de pied de page
+    label: Groupes de Liens
   label: Pied de page
 pages:
 - static/configuration/settings.json
