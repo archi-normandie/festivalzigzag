@@ -6,13 +6,6 @@ fields:
   type: field_group
   config: {}
   fields:
-  - name: blocks
-    type: field_group_list
-    config:
-      min: 
-      max: 
-      labelField: 
-    label: Blocs
   - name: navigation
     type: field_group_list
     fields:
@@ -44,6 +37,15 @@ fields:
       max: 
       labelField: 
     label: Navigation
+  - name: blocs
+    type: blocks
+    label: Blocs
+    template_types:
+    - _bloc_content
+    - _bloc_links
+    config:
+      min: 
+      max: 
   label: Pied de page
 pages:
 - static/configuration/settings.json
