@@ -1,37 +1,13 @@
 {
   "footer": {
-    "navigation": [
-      {
-        "label": "Exemple de groupe de liens",
-        "links": [
-          {
-            "name": "Accueil",
-            "path": "/"
-          },
-          {
-            "name": "Coordonnées",
-            "path": "/pages/a-propos#coordonnées"
-          }
-        ]
-      },
-      {
-        "label": "Réseaux sociaux",
-        "links": [
-          {
-            "name": "Facebook",
-            "path": "https://www.facebook.com/zigzagfestivalarchitecture/"
-          }
-        ]
-      }
-    ],
     "blocs": [
       {
-        "template": "_bloc_content",
+        "template": "bloc_content",
         "title": "Exemple de bloc de contenu",
         "content": "![](/files/home-logo.svg)![](/files/rives-en-seine-st-wandrille-randonnee-curieuse-moulin_-g-pottier.jpg)\n\n## Contenu d'information de pied de page\n\nCe bloc de contenu supporte _la mise en forme_, les [liens](https://example.com \"Exemple de lien\") et les images."
       },
       {
-        "template": "_bloc_navigation",
+        "template": "bloc_navigation",
         "navigation": [
           {
             "label": "Réseaux sociaux",
@@ -55,17 +31,6 @@
               }
             ]
           }
-        ]
-      },
-      {
-        "template": "bloc-content",
-        "title": "Exemple de bloc",
-        "content": ""
-      },
-      {
-        "template": "bloc-navigation",
-        "navigation": [
-
         ]
       }
     ]
