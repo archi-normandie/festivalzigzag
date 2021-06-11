@@ -6,46 +6,15 @@ fields:
   type: field_group
   config: {}
   fields:
-  - name: navigation
-    type: field_group_list
-    fields:
-    - name: label
-      type: text
-      config:
-        required: true
-      label: Nom du groupe
-    - name: links
-      type: field_group_list
-      fields:
-      - name: name
-        type: text
-        config:
-          required: true
-        label: Nom
-      - name: path
-        type: text
-        config:
-          required: false
-        label: Chemin
-      config:
-        min: 
-        max: 
-        labelField: 
-      label: Liens
-    config:
-      min: 
-      max: 
-      labelField: 
-    label: Navigation
   - name: blocs
     type: blocks
     label: Blocs
     template_types:
     - _bloc_content
-    - _bloc_links
+    - _bloc_navigation
     config:
-      min: 
-      max: 
+      min:
+      max:
   label: Pied de page
 pages:
 - static/configuration/settings.json

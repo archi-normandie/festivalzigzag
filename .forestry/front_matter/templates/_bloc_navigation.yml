@@ -1,0 +1,35 @@
+---
+label: Bloc de navigation
+hide_body: true
+fields:
+- name: navigation
+  type: field_group_list
+  fields:
+  - name: label
+    type: text
+    config:
+      required: true
+    label: Nom du groupe
+  - name: links
+    type: field_group_list
+    fields:
+    - name: name
+      type: text
+      config:
+        required: true
+      label: Nom
+    - name: path
+      type: text
+      config:
+        required: false
+      label: Chemin
+    config:
+      min:
+      max:
+      labelField:
+    label: Liens
+  config:
+    min:
+    max:
+    labelField:
+  label: Navigation

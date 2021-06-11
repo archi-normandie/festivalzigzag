@@ -1,5 +1,5 @@
 ---
-label: _bloc_content
+label: Bloc de contenu
 hide_body: true
 fields:
 - name: content
