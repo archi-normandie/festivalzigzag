@@ -14,7 +14,7 @@ fields:
     - bloc-navigation
     config:
       min: 
-      max: 
+      max: 3
   label: Pied de page
 pages:
 - static/configuration/settings.json
