@@ -45,7 +45,16 @@
           },
           {
             "name": "Coordonnées",
-            "path": "/a-propos#coordonnées"
+            "path": "/pages/a-propos#coordonnées"
+          }
+        ]
+      },
+      {
+        "label": "Réseaux sociaux",
+        "links": [
+          {
+            "name": "Facebook",
+            "path": "https://www.facebook.com/zigzagfestivalarchitecture/"
           }
         ]
       }
