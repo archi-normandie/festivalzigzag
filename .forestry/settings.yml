@@ -32,6 +32,11 @@ sections:
   match: "**/*"
   templates:
   - block
+- type: heading
+  label: Configuration
+- type: document
+  path: content/configuration/settings.json
+  label: Paramètres
 upload_dir: static/files
 public_path: "/files"
 front_matter_path: ''

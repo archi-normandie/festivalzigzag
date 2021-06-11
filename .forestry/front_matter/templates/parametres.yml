@@ -1,0 +1,69 @@
+---
+label: Paramètres
+hide_body: true
+fields:
+- name: footer
+  type: field_group
+  config: {}
+  fields:
+  - name: actualities_links
+    type: field_group_list
+    fields:
+    - name: link
+      type: select
+      default: []
+      config:
+        required: false
+        options: []
+        source:
+          type: pages
+          section: acualites
+          file: 
+          path: 
+      label: Lien
+    config:
+      min: 
+      max: 
+      labelField: 
+    label: Liens vers actualités
+  label: Pied de page
+- name: events_links
+  type: field_group_list
+  fields:
+  - name: link
+    type: select
+    default: []
+    config:
+      required: false
+      options: []
+      source:
+        type: pages
+        section: evenements
+        file: 
+        path: 
+    label: Lien
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Liens vers les événements
+- name: pages_links
+  type: field_group_list
+  fields:
+  - name: link
+    type: select
+    default: []
+    config:
+      required: false
+      options: []
+      source:
+        type: pages
+        section: pages
+        file: 
+        path: 
+    label: Lien
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Liens vers les pages
