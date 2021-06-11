@@ -1,62 +1,45 @@
 <template>
-  <footer>
+  <footer class="footer">
+    <!-- Prévoir un sous pied de page pour l'Ours. -->
     <div class="wrapper">
-      <nav class="block menu">
-        <ul>
-          <li>
-            <nuxt-link to="/lieux">
-              Lieux
-            </nuxt-link>
-          </li>
-          <li>
-            <nuxt-link to="/agenda">
-              Agenda
-            </nuxt-link>
-          </li>
-          <li>
-            <nuxt-link to="/journal">
-              Journal
-            </nuxt-link>
-          </li>
-          <li>
-            <nuxt-link to="/pages/a-propos">
-              À propos
-            </nuxt-link>
-          </li>
-          <li>
-            <nuxt-link to="/pages/presse">
-              Presse
-            </nuxt-link>
-          </li>
-          <li>
-            <nuxt-link to="/pages/partenaires">
-              Partenaires
-            </nuxt-link>
-          </li>
-          <li>
-            <nuxt-link to="/pages/mentions-legales">
-              Mentions légales
-            </nuxt-link>
-          </li>
-          <li>
-            <a href="https://www.facebook.com/zigzagfestivalarchitecture/" target="_blank">Facebook</a>
-          </li>
-          <li>
-            <a href="https://www.instagram.com/festival_zigzag/" target="_blank">Instagram</a>
-          </li>
-        </ul>
-      </nav>
+      <div class="menu has-text-top">
+        <template v-if="blocs.length">
+          <component
+            :is="bloc.template"
+            v-for="(bloc, index) in blocs"
+            :key="index"
+            :bloc="bloc"
+            class="menu-item"
+          />
+        </template>
+      </div>
     </div>
   </footer>
 </template>
 
 <script>
+import settings from '~/static/configuration/settings.json'
+import BlocContent from '~/components/Blocs/Content'
+import BlocNavigation from '~/components/Blocs/Navigation'
 export default {
   name: 'Footer',
-  data () {
-    return {
-      navFooter: this.$store.state.contents.all['/blocks/nav-footer']
-    }
+  components: { BlocContent, BlocNavigation },
+  computed: {
+    footerSettings () { return settings.footer },
+    blocs () { return this.footerSettings.blocs }
   }
 }
 </script>
+
+<style lang="scss">
+@import '~/assets/scss/_variables.scss';
+.footer {
+  padding: 3rem 1.5rem 6rem;
+  h1,
+  h2,
+  h3 { color: $white; }
+}
+.menu {
+
+}
+</style>

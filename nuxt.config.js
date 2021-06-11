@@ -76,7 +76,8 @@ export default {
   ** Plugins
   */
   plugins: [
-    { src: '~/plugins/leaflet-marker-cluster.js', mode: 'client' }
+    { src: '~/plugins/leaflet-marker-cluster.js', mode: 'client' },
+    { src: '~/plugins/filters.js' }
   ],
   /*
   ** Build configuration
