@@ -35,7 +35,7 @@ sections:
 - type: heading
   label: Configuration
 - type: document
-  path: content/configuration/settings.json
+  path: static/configuration/settings.json
   label: Paramètres
 upload_dir: static/files
 public_path: "/files"
