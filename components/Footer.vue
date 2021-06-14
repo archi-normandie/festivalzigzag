@@ -39,7 +39,10 @@ export default {
   h2,
   h3 { color: $white; }
 }
-.menu {
-
+@media (min-width: 30rem) {
+  // Limiter la largeur de bloc à 1/3
+  .footer .menu-item {
+    max-width: 33.334%;
+  }
 }
 </style>
