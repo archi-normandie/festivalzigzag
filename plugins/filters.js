@@ -2,8 +2,10 @@ import Vue from 'vue'
 import Marked from 'marked'
 
 export function markdownify (text) {
-  console.log(Marked.parseInline(text))
-  return Marked.parseInline(text)
+  return Marked(text, {
+    breaks: true,
+    smartypants: true
+  })
 }
 
 const filters = { markdownify }
