@@ -69,6 +69,7 @@ export default {
   modules: [
     // 'nuxt-leaflet',
     ['nuxt-leaflet', {}],
+    '@nuxtjs/svg',
     '@nuxtjs/feed',
     '@nuxtjs/sitemap'
   ],

@@ -47,64 +47,21 @@ header {
   //   }
   // }
 
-  .menu a {
+  .menu-item a {
     display: inline-block;
     padding: $margin/4;
     border-bottom: $onepix*2 solid $white;
     color: $white;
     text-decoration: none;
     transition: border-color $transition-duration;
-
+    white-space: nowrap;
+    
     &:focus,
     &:hover {
       border-color: $tertiary;
       color: $tertiary;
     }
   }
-}
-
-// Site title.
-
-.title-site {
-  margin: 0;
-
-  a {
-    display: flex;
-    align-items: center;
-    text-decoration: none;
-  }
-}
-
-.title-site--img,
-.title-site--txt {
-  display: block;
-  height: 60px;
-  background-repeat: no-repeat;
-  background-size: contain;
-  background-position: 50% 50%;
-  text-indent: 100%;
-  white-space: nowrap;
-  overflow: hidden;
-}
-
-.title-site--img {
-  width: 80px;
-  margin-right: $margin;
-  background-image: url("/img/header-logo.svg");
-}
-
-.title-site--txt {
-  width: 100px;
-  background-image: url("/img/header-title.svg");
-}
-
-.title-site--slogan {
-  display: none;
-  margin: 0 0 0 6.2rem;
-  color: $white;
-  font-size: $fs16;
-  font-style: italic;
-  text-transform: none;
 }
 
 // Main.
