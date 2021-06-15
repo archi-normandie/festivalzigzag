@@ -1,6 +1,6 @@
 <template>
   <footer>
-    <section class="footer">
+    <section v-if="!isHome" class="footer">
       <!-- Prévoir un sous pied de page pour l'Ours. -->
       <div class="wrapper">
         <div class="menu has-text-top">
@@ -35,6 +35,7 @@ export default {
   computed: {
     footerSettings () { return settings.footer },
     blocs () { return this.footerSettings.blocs },
+    isHome () { return this.$route.name === 'index' },
     currentYear () { return new Date().getFullYear() },
     nextYear () { return this.currentYear + 1 }
   }
