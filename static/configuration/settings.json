@@ -32,6 +32,11 @@
             ]
           }
         ]
+      },
+      {
+        "template": "bloc-content",
+        "title": "Exemple d'Ours",
+        "content": "# Festival Zigzag\n\n### Coordination\n\n* Anne Le Bellego\n* Frédérique Mougeot\n* Marion Vandaele\n* Lucile Tijon\n\n### Coordonnées\n\n* Adresse : 48 rue Victor Hugo 76000 Rouen\n* 02 35 03 40 31\n* [contact@man-leforum.fr](mailto:contact@man-leforum.fr)\n* [man-leforum.fr](http://man-leforum.fr)\n* [LinkedIn](https://www.linkedin.com/company/maison-de-l-architecture-de-normandie-le-forum/)\n* [Facebook](https://www.facebook.com/maisondelarchitecturedenormandieleforum/)\n* [Instagram](https://www.instagram.com/man_leforum/)"
       }
     ]
   }
