@@ -1,19 +1,27 @@
 <template>
-  <footer class="footer">
-    <!-- Prévoir un sous pied de page pour l'Ours. -->
-    <div class="wrapper">
-      <div class="menu has-text-top">
-        <template v-if="blocs.length">
-          <component
-            :is="bloc.template"
-            v-for="(bloc, index) in blocs"
-            :key="index"
-            :bloc="bloc"
-            class="menu-item"
-          />
-        </template>
+  <footer>
+    <section class="footer">
+      <!-- Prévoir un sous pied de page pour l'Ours. -->
+      <div class="wrapper">
+        <div class="menu has-text-top">
+          <template v-if="blocs.length">
+            <component
+              :is="bloc.template"
+              v-for="(bloc, index) in blocs"
+              :key="index"
+              :bloc="bloc"
+              class="menu-item"
+            />
+          </template>
+        </div>
       </div>
-    </div>
+    </section>
+    <section class="subfooter">
+      <ul class="is-inline-fancy">
+        <li>Mentions légales</li>
+        <li>© Maison de l'architecture de Normandie, le Forum — {{ currentYear }}/{{ nextYear }}</li>
+      </ul>
+    </section>
   </footer>
 </template>
 
@@ -26,19 +34,37 @@ export default {
   components: { BlocContent, BlocNavigation },
   computed: {
     footerSettings () { return settings.footer },
-    blocs () { return this.footerSettings.blocs }
+    blocs () { return this.footerSettings.blocs },
+    currentYear () { return new Date().getFullYear() },
+    nextYear () { return this.currentYear + 1 }
   }
 }
 </script>
 
 <style lang="scss">
 @import '~/assets/scss/_variables.scss';
-.footer {
-  padding: 3rem 1.5rem 6rem;
+.footer,
+.subfooter {
   h1,
   h2,
-  h3 { color: $white; }
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: $white;
+    font-size: 1em;
+  }
 }
+.footer {
+  font-size: 1em;
+  padding: 3rem 1.5rem 6rem;
+}
+.subfooter {
+  font-size: 0.8em;
+  padding: 1.5rem;
+  background-color: transparentize(darken($primary, 10), 0.4);
+}
+.subfooter :last-child { margin-bottom: 0; }
 @media (min-width: 30rem) {
   // Limiter la largeur de bloc à 1/3
   .footer .menu-item {

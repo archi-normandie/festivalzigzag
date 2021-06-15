@@ -150,8 +150,8 @@ main {
 // Footer.
 
 footer {
-  padding: $margin/2 0;
-  margin-top: $margin/2;
+  // padding: $margin/2 0;
+  // margin-top: $margin/2;
   background-color: $primary;
   color: $white;
   font-size: $fs14;
@@ -195,11 +195,16 @@ footer {
   //   }
 
 // List utilities
-ul.is-quiet {
+ul.is-quiet,
+is-inline,
+is-inline-fancy {
   margin: 0;
   list-style: none;
   li { padding-left: 0; }
 }
+ul.is-inline li { display: inline-block; }
+ul.is-inline-fancy li {  display: inline-block; }
+ul.is-inline-fancy li:not(:last-child)::after {  content: " · "; }
 
 
 // Generic menu
