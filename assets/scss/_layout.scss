@@ -55,7 +55,7 @@ header {
     text-decoration: none;
     transition: border-color $transition-duration;
     white-space: nowrap;
-    
+
     &:focus,
     &:hover {
       border-color: $tertiary;
