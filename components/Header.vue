@@ -6,7 +6,7 @@
           <div class="brand">
             <h1 class="brand-logo">
               <nuxt-link to="/">
-                <HeaderLogoZigzag class="brand-logo" title="Zigzag" />
+                <HeaderLogoZigzag class="brand-logo" title="Zigzag" alt="Zigzag" />
               </nuxt-link>
             </h1>
             <p class="brand-slogan">
