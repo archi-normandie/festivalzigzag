@@ -4,7 +4,7 @@
       {
         "template": "bloc-content",
         "title": "Exemple de bloc de contenu",
-        "content": "## Contenu d'information de pied de page\n\n![](/files/home-logo.svg)\n\nNe pas débuter un paragraphes avec un image, cela encapsule le contenu dans un balise de paragraphe.\n\nCe bloc de contenu supporte _la mise en forme_, les [liens](https://example.com \"Exemple de lien\") et les images."
+        "content": "## Contenu d'information de pied de page\n\n![](/files/home-logo.svg)\n\nNe pas débuter le bloc avec une image, cela provoque un défaut d'affichage.\n\nCe bloc de contenu supporte _la mise en forme_, les [liens](https://example.com \"Exemple de lien\") et les images."
       },
       {
         "template": "bloc-navigation",
