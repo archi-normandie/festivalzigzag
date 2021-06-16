@@ -1,7 +1,7 @@
 <template>
   <main>
     <nuxt-link to="/lieux">
-      <img class="hero-logo" src="/files/home-logo.svg" alt="27 septembre - 13 octobre 2019">
+      <img class="hero-logo" src="/files/home-label.svg" alt="Zigzag 26 septembre - 10 octobre 2021" title="Zigzag — festival d'architecture et des arts de l'espace — du 26 septembre au 10 octobre 2021">
     </nuxt-link>
   </main>
 </template>
