@@ -17,13 +17,13 @@
   .lieux main &,
   .events main &,
   .page-event main &,
-  footer & {
+  .footer & {
     max-width: none;
     padding: 0;
   }
 
   @media (min-width: 30rem) {
-    footer & {
+    .footer & {
       // padding: 0 $margin;
     }
   }
@@ -31,7 +31,7 @@
 
 // Menu
 
-.menu-item a {
+.header .menu-item a {
   display: inline-block;
   padding: $margin/4;
   border-bottom: $onepix*2 solid $white;
@@ -89,7 +89,7 @@ main {
 
 // Footer.
 
-footer {
+.footer {
   // padding: $margin/2 0;
   // margin-top: $margin/2;
   background-color: $primary;

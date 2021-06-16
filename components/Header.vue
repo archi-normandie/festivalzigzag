@@ -78,11 +78,11 @@ export default {
 }
 .home .header {
   background-color: transparent;
-  color: $primary;
-  .brand-logo { fill: $primary; }
+  color: $text-color;
+  .brand-logo { fill: $text-color; }
   .menu-item a {
-    color: $primary;
-    border-bottom-color: $primary;
+    color: $text-color;
+    border-bottom-color: $text-color;
   }
 }
 

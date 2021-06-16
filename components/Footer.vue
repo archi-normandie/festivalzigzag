@@ -65,6 +65,10 @@ export default {
   padding: 1.5rem;
   background-color: transparentize(darken($primary, 10), 0.4);
 }
+.home .subfooter {
+  background-color: transparent;
+  color: $text-color;
+}
 .subfooter :last-child { margin-bottom: 0; }
 @media (min-width: 30rem) {
   // Limiter la largeur de bloc à 1/3
