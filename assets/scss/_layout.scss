@@ -29,38 +29,21 @@
   }
 }
 
-// Header.
+// Menu
 
-header {
-  padding: $margin/2 0;
-  background-color: $primary;
+.menu-item a {
+  display: inline-block;
+  padding: $margin/4;
+  border-bottom: $onepix*2 solid $white;
   color: $white;
+  text-decoration: none;
+  transition: border-color $transition-duration;
+  white-space: nowrap;
 
-  // .wrapper {
-  //   display: flex;
-  //   flex-wrap: wrap;
-  //   justify-content: center;
-  //   align-items: center;
-
-  //   @media (min-width: 36rem) {
-  //     justify-content: space-between;
-  //   }
-  // }
-
-  .menu-item a {
-    display: inline-block;
-    padding: $margin/4;
-    border-bottom: $onepix*2 solid $white;
-    color: $white;
-    text-decoration: none;
-    transition: border-color $transition-duration;
-    white-space: nowrap;
-
-    &:focus,
-    &:hover {
-      border-color: $tertiary;
-      color: $tertiary;
-    }
+  &:focus,
+  &:hover {
+    border-color: $tertiary;
+    color: $tertiary;
   }
 }
 
