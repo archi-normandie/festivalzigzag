@@ -30,16 +30,13 @@ fields:
     labelField: category
   label: Catégories d'évenements
 - name: events
-  type: field_group_list
+  type: field_group
+  config: {}
   fields:
   - name: categories
     type: tag_list
     default: []
     label: Catégories
-  config:
-    min: 
-    max: 
-    labelField: 
   label: Évenements
 pages:
 - static/configuration/settings.json

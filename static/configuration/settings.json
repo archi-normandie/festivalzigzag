@@ -74,5 +74,10 @@
     {
       "category": "Balade scénographiée"
     }
-  ]
+  ],
+  "events": {
+    "categories": [
+      "Exemple"
+    ]
+  }
 }
