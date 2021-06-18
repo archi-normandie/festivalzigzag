@@ -38,16 +38,9 @@ fields:
   type: field_group_list
   fields:
   - name: category
-    type: select
-    default: []
+    type: text
     config:
-      required: true
-      options: []
-      source:
-        type: simple
-        section: 
-        file: 
-        path: 
+      required: false
     label: Catégorie
   config:
     min: 
