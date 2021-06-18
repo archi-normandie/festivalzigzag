@@ -1,0 +1,16 @@
+---
+label: Paramètres du pied de page
+hide_body: true
+fields:
+- name: blocs
+  type: blocks
+  label: Blocs
+  template_types:
+  - bloc-content
+  - bloc-navigation
+  config:
+    min:
+    max: 3
+label: Pied de page
+pages:
+- static/settings/footer.json
