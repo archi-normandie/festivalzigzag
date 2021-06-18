@@ -1,37 +1,15 @@
 {
-  "events-categories": [
-    {
-      "category": "TEST"
-    },
-    {
-      "category": "Parcours"
-    },
-    {
-      "category": "Projection-lecture et échanges"
-    },
-    {
-      "category": "Balade patrimoniale"
-    },
-    {
-      "category": "Rallye vélo"
-    },
-    {
-      "category": "Balade urbaine"
-    },
-    {
-      "category": "Visite"
-    },
-    {
-      "category": "Visite en bateau"
-    },
-    {
-      "category": "Balade fluviale"
-    },
-    {
-      "category": "Randonnée"
-    },
-    {
-      "category": "Balade scénographiée"
-    }
+  "categories":[
+    "TEST"
+    ,"Parcours"
+    ,"Projection-lecture et échanges"
+    ,"Balade patrimoniale"
+    ,"Rallye vélo"
+    ,"Balade urbaine"
+    ,"Visite"
+    ,"Visite en bateau"
+    ,"Balade fluviale"
+    ,"Randonnée"
+    ,"Balade scénographiée"
   ]
 }
