@@ -26,7 +26,7 @@ fields:
     - name: category
       type: text
       config:
-        required: false
+        required: true
       label: Catégorie
     config:
       min: 
