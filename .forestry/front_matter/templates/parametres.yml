@@ -52,7 +52,7 @@ fields:
   config:
     min: 
     max: 
-    labelField: 
+    labelField: category
   label: Catégories d'évenements
 pages:
 - static/configuration/settings.json
