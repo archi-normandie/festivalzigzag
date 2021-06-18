@@ -23,7 +23,7 @@ fields:
       type: documents
       section: parametres
       file: static/configuration/settings.json
-      path: ''
+      path: events
   label: Catégorie
 - name: countinuousdate
   type: text
