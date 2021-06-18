@@ -16,24 +16,6 @@ fields:
       min: 
       max: 3
   label: Pied de page
-- name: events
-  type: field_group
-  config: {}
-  fields:
-  - name: categories
-    type: field_group_list
-    fields:
-    - name: category
-      type: text
-      config:
-        required: true
-      label: Catégorie
-    config:
-      min: 
-      max: 
-      labelField: 
-    label: Catégories
-  label: Évémenents
 - name: events-categories
   type: field_group_list
   fields:
