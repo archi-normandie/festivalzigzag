@@ -34,5 +34,25 @@ fields:
       labelField: 
     label: Catégories
   label: Évémenents
+- name: events-categories
+  type: field_group_list
+  fields:
+  - name: category
+    type: select
+    default: []
+    config:
+      required: true
+      options: []
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: Catégorie
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Catégories d'évenements
 pages:
 - static/configuration/settings.json
