@@ -21,9 +21,9 @@ fields:
     max: 
     source:
       type: documents
-      section: parametres
-      file: static/configuration/settings.json
-      path: events
+      section: evenements-dda35aa9-b485-4f0e-9968-cdcdcda118b4
+      file: static/settings/events.json
+      path: categories
   label: Catégorie
 - name: countinuousdate
   type: text
