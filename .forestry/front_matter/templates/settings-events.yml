@@ -2,14 +2,9 @@
 label: Paramètres des évenements
 hide_body: true
 fields:
-- name: events
-  type: field_group
-  config: {}
-  fields:
-  - name: categories
-    type: tag_list
-    default: []
-    label: Catégories
-  label: Évenements
+- name: categories
+  type: tag_list
+  default: []
+  label: Catégories
 pages:
 - static/settings/events.json

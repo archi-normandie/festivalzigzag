@@ -11,6 +11,5 @@ fields:
   config:
     min:
     max: 3
-label: Pied de page
 pages:
 - static/settings/footer.json
