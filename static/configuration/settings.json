@@ -40,43 +40,36 @@
       }
     ]
   },
-  "events": {
-    "categories": [
-      {
-        "category": "Parcours"
-      },
-      {
-        "category": "Projection-lecture et échanges"
-      },
-      {
-        "category": "Balade patrimoniale"
-      },
-      {
-        "category": "Rallye vélo"
-      },
-      {
-        "category": "Balade urbaine"
-      },
-      {
-        "category": "Visite"
-      },
-      {
-        "category": "Visite en bateau"
-      },
-      {
-        "category": "Balade fluviale"
-      },
-      {
-        "category": "Randonnée"
-      },
-      {
-        "category": "Balade scénographiée"
-      }
-    ]
-  },
   "events-categories": [
     {
-      "category": "Exemple"
+      "category": "Parcours"
+    },
+    {
+      "category": "Projection-lecture et échanges"
+    },
+    {
+      "category": "Balade patrimoniale"
+    },
+    {
+      "category": "Rallye vélo"
+    },
+    {
+      "category": "Balade urbaine"
+    },
+    {
+      "category": "Visite"
+    },
+    {
+      "category": "Visite en bateau"
+    },
+    {
+      "category": "Balade fluviale"
+    },
+    {
+      "category": "Randonnée"
+    },
+    {
+      "category": "Balade scénographiée"
     }
   ]
 }
