@@ -16,14 +16,14 @@ fields:
 - name: category
   type: list
   config:
-    use_select: true
+    use_select: false
     min: 
     max: 
     source:
       type: documents
       section: parametres
       file: static/configuration/settings.json
-      path: events-categories
+      path: ''
   label: Catégorie
 - name: countinuousdate
   type: text
