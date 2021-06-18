@@ -9,7 +9,7 @@ fields:
   - bloc-content
   - bloc-navigation
   config:
-    min:
+    min: 
     max: 3
 pages:
 - static/settings/footer.json

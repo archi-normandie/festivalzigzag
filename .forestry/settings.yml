@@ -40,7 +40,6 @@ sections:
 - type: document
   path: static/settings/events.json
   label: Évenements
-  match: "**/*"
 upload_dir: static/files
 public_path: "/files"
 front_matter_path: ''
