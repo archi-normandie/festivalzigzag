@@ -42,6 +42,9 @@
   },
   "events-categories": [
     {
+      "category": "TEST"
+    },
+    {
       "category": "Parcours"
     },
     {
