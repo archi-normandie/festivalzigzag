@@ -35,8 +35,12 @@ sections:
 - type: heading
   label: Configuration
 - type: document
-  path: static/configuration/settings.json
-  label: Paramètres
+  path: static/settings/footer.json
+  label: Pied de page
+- type: document
+  path: static/settings/events.json
+  label: Évenements
+  match: "**/*"
 upload_dir: static/files
 public_path: "/files"
 front_matter_path: ''
