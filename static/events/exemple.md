@@ -1,7 +1,9 @@
 ---
 title: Exemple
 address: ''
-category: []
+category:
+- Parcours
+- TEST
 countinuousdate: ''
 dates: []
 lat: ''
