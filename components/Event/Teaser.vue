@@ -3,6 +3,9 @@
     :to="event.slug"
     class="event event-teaser"
   >
+    <p class="event--title">
+      {{ event.title }}
+    </p>
     <p class="event--dates">
       <template v-if="event.booking.period">
         {{ event.booking.period }}
@@ -35,9 +38,6 @@
       >
         {{ category }}
       </span>
-    </p>
-    <p class="event--title">
-      {{ event.title }}
     </p>
   </nuxt-link>
 </template>
