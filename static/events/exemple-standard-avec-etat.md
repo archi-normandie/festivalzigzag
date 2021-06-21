@@ -1,14 +1,13 @@
 ---
-title: Exemple standard
+title: Exemple standard avec état
 categories:
 - Visite en bateau
 - TEST
 booking:
   period: ''
   dates:
-  - date: 2021-07-03 14:30
-  - date: 2021-07-04 15:00
-  state: ''
+  - date: 2021-07-03 14:29
+  state: Annulé
 address:
   place: Quelque part
   lat: '49.48410'
