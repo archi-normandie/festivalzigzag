@@ -18,7 +18,7 @@
           class="event event-teaser event-pinned"
         >
           <p class="event--dates">
-            {{ event.countinuousdate }}
+            {{ event.booking.periode }}
           </p>
           <p class="event--address">
             {{ event.address }}

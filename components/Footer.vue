@@ -26,14 +26,13 @@
 </template>
 
 <script>
-import settings from '~/static/configuration/settings.json'
 import BlocContent from '~/components/Blocs/Content'
 import BlocNavigation from '~/components/Blocs/Navigation'
 export default {
   name: 'Footer',
   components: { BlocContent, BlocNavigation },
   computed: {
-    footerSettings () { return settings.footer },
+    footerSettings () { return require('~/static/settings/footer.json') },
     blocs () { return this.footerSettings.blocs },
     isHome () { return this.$route.name === 'index' },
     currentYear () { return new Date().getFullYear() },
