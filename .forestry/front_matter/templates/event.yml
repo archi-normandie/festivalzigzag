@@ -12,14 +12,24 @@ fields:
   type: list
   config:
     use_select: true
-    min:
-    max:
+    min: 
+    max: 
     source:
       type: documents
       section: evenements-dda35aa9-b485-4f0e-9968-cdcdcda118b4
       file: static/settings/events.json
       path: categories
   label: Catégories
+- name: cover
+  type: field_group
+  config: {}
+  fields:
+  - name: cover
+    type: include
+    config: {}
+    template: _cover
+    label: Couverture
+  label: Couverture
 - name: booking
   type: field_group
   config: {}
@@ -44,9 +54,9 @@ fields:
         display_utc: false
         export_format: YYYY-MM-DD HH:MM
     config:
-      min:
-      max:
-      labelField:
+      min: 
+      max: 
+      labelField: 
     label: Dates
   label: Horaires
 - name: address
@@ -92,16 +102,6 @@ fields:
         format: markdown
     label: Modalités de rendez-vous
   label: Informations
-- name: cover
-  type: field_group
-  config: {}
-  fields:
-  - name: cover
-    type: include
-    config: {}
-    template: _cover
-    label: Couverture
-  label: Couverture
 pages:
 - static/events/a-port-mort-figurez-vous-1.md
 - static/events/a-port-mort-figurez-vous.md
