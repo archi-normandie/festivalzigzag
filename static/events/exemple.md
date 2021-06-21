@@ -17,5 +17,8 @@ informations:
   modalites_de_rendez-vous: RDV devant l'entrée du musée
 cover:
   blocs: []
+  src: "/files/utopie-fluviale-expo.jpg"
+  alt: Description de l'image
+  legend: "@crédit photo"
 
 ---
