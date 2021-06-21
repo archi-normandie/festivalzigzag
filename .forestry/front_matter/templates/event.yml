@@ -77,7 +77,7 @@ fields:
   type: field_group
   config: {}
   fields:
-  - name: aze
+  - name: categories
     type: list
     config:
       use_select: true
@@ -85,18 +85,6 @@ fields:
       max: 
       source:
         type: documents
-        file: static/settings/events.json
-        path: categories
-    label: aze
-  - name: categories
-    type: select
-    default: []
-    config:
-      required: false
-      options: []
-      source:
-        type: documents
-        section: 
         file: static/settings/events.json
         path: categories
     label: Catégories
