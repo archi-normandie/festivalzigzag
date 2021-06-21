@@ -108,6 +108,7 @@ fields:
     label: Modalités de rendez-vous
   label: Informations
 pages:
+- static/events/exemple-sans-date.md
 - static/events/exemple-standard-avec-message.md
 - static/events/exemple-standard.md
 - static/events/exemple.md
