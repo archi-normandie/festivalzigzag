@@ -4,11 +4,10 @@ categories:
 - Visite en bateau
 - TEST
 booking:
-  period: 
+  period: ''
   dates:
-  - date: 2021-06-26 08:15
-  - date: 2021-06-27 10:00
-  state: Réserver avant 24 oct. 2022
+  - date: 2021-09-05 08:15
+  state: Reportés au 10 septembre 2021 à 8h30
 address:
   place: Quelque part
   lat: '49.48410'
