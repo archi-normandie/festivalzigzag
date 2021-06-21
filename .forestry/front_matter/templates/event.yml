@@ -8,18 +8,9 @@ fields:
   config:
     required: true
   label: Titre
-- name: categories
-  type: list
-  config:
-    use_select: true
-    min: 
-    max: 
-    source:
-      type: documents
-      section: evenements-dda35aa9-b485-4f0e-9968-cdcdcda118b4
-      file: static/settings/events.json
-      path: categories
-  label: Catégories
+- name: featured
+  type: boolean
+  label: Mettre en avant
 - name: cover
   type: field_group
   config: {}
@@ -86,6 +77,29 @@ fields:
   type: field_group
   config: {}
   fields:
+  - name: aze
+    type: list
+    config:
+      use_select: true
+      min: 
+      max: 
+      source:
+        type: documents
+        file: static/settings/events.json
+        path: categories
+    label: aze
+  - name: categories
+    type: select
+    default: []
+    config:
+      required: false
+      options: []
+      source:
+        type: documents
+        section: 
+        file: static/settings/events.json
+        path: categories
+    label: Catégories
   - name: additionnal_informations
     type: textarea
     default: ''
