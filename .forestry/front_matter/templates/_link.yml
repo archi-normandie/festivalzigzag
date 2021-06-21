@@ -1,0 +1,14 @@
+---
+label: _lien
+hide_body: true
+fields:
+- name: text
+  type: text
+  config:
+    required: false
+  label: Texte du lien
+- name: url
+  type: text
+  config:
+    required: false
+  label: URL du lien
