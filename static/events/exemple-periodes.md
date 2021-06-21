@@ -1,5 +1,5 @@
 ---
-title: Exemple
+title: Exemple avec les périodes
 categories:
 - Visite en bateau
 - TEST
