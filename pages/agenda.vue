@@ -11,64 +11,24 @@
         />
       </div>
       <div class="content-main">
-        <nuxt-link
-          v-for="event in pinnedEvents"
+        <EventTeaser
+          v-for="event in featuredEvents"
           :key="event.slug"
-          :to="event.slug"
-          class="event event-teaser event-pinned"
-        >
-          <p class="event--dates">
-            {{ event.booking.periode }}
-          </p>
-          <p class="event--address">
-            {{ event.address }}
-          </p>
-          <p class="event--category">
-            <span>
-              {{ event.category[0] }}
-            </span>
-            <span v-if="event.message" class="messages error">
-              {{ event.message }}
-            </span>
-          </p>
-          <p class="event--title">
-            {{ event.title }}
-          </p>
-        </nuxt-link>
-        <nuxt-link
-          v-for="event in regularEvents"
-          :key="event.slug"
-          :to="event.slug"
-          class="event event-teaser"
-        >
-          <ul class="event--dates">
-            <li v-for="date in event.dates" :key="date.render">
-              {{ date.render }}
-            </li>
-          </ul>
-          <p class="event--address">
-            {{ event.address }}
-          </p>
-          <p class="event--category">
-            <span>
-              {{ event.category[0] }}
-            </span>
-            <span v-if="event.message" class="messages error">
-              {{ event.message }}
-            </span>
-          </p>
-          <p class="event--title">
-            {{ event.title }}
-          </p>
-        </nuxt-link>
+          :event="event"
+          class="event-pinned"
+        />
       </div>
     </div>
   </main>
 </template>
 
 <script>
+import EventTeaser from '~/components/Event/Teaser'
 export default {
   name: 'Agenda',
+  components: {
+    EventTeaser
+  },
   computed: {
     events () {
       const contents = this.$store.state.contents.all
@@ -79,11 +39,11 @@ export default {
     },
     regularEvents () {
       return this.events
-        .filter(entry => typeof entry.dates[0] !== 'undefined')
+        .filter(entry => typeof entry.booking.dates[0] !== 'undefined')
         .sort((a, b) => a.dates[0].start.timestamp - b.dates[0].start.timestamp)
     },
-    pinnedEvents () {
-      return this.events.filter(entry => typeof entry.dates[0] === 'undefined')
+    featuredEvents () {
+      return this.events.filter(event => event.featured)
     },
     blockAgendaHeader () {
       return this.$store.state.contents.all['agenda-header']
@@ -110,9 +70,3 @@ export default {
   }
 }
 </script>
-<style scoped lang="scss">
-@import 'assets/scss/app.scss';
-.event-teaser.event-pinned {
-  @extend .event-teaser:hover
-}
-</style>
