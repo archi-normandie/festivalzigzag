@@ -13,7 +13,7 @@ fields:
   config:
     maxSize: '10'
   label: Image
-- name: category
+- name: categories
   type: list
   config:
     use_select: true
@@ -24,7 +24,7 @@ fields:
       section: evenements-dda35aa9-b485-4f0e-9968-cdcdcda118b4
       file: static/settings/events.json
       path: categories
-  label: Catégorie
+  label: Catégories
 - name: booking
   type: field_group
   config: {}
@@ -97,6 +97,16 @@ fields:
         format: markdown
     label: Modalités de rendez-vous
   label: Informations
+- name: cover
+  type: field_group
+  config: {}
+  fields:
+  - name: cover
+    type: include
+    config: {}
+    template: settings-footer
+    label: Couverture
+  label: Couverture
 pages:
 - static/events/a-port-mort-figurez-vous-1.md
 - static/events/a-port-mort-figurez-vous.md
@@ -108,7 +118,6 @@ pages:
 - static/events/decouvrir-le-patrimoine-du-bord-de-seine.md
 - static/events/decouvrir-une-enigme-de-la-reconstruction.md
 - static/events/ecole-coeur-de-village.md
-- static/events/exemple.md
 - static/events/genius-2020-d-un-quai-a-l-autre.md
 - static/events/grand-quevilly-a-velo.md
 - static/events/l-architecture-de-la-mailleraye-sur-seine.md
