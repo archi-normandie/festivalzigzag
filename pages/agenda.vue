@@ -45,7 +45,10 @@ export default {
     regularEvents () {
       return this.events
         .filter(event => !event.featured)
-        .sort((a, b) => a.dates[0].start.timestamp - b.dates[0].start.timestamp)
+        .sort((a, b) => {
+          if (!a.booking.dates[0] || !b.booking.dates[0]) { return 0 }
+          return new Date(a.booking.dates[0].date).getTime() - new Date(b.booking.dates[0].date).getTime()
+        })
     },
     featuredEvents () {
       return this.events.filter(event => event.featured)
