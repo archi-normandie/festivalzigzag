@@ -12,8 +12,8 @@ fields:
   type: list
   config:
     use_select: true
-    min:
-    max:
+    min: 
+    max: 
     source:
       type: documents
       section: evenements-dda35aa9-b485-4f0e-9968-cdcdcda118b4
@@ -34,6 +34,13 @@ fields:
   type: field_group
   config: {}
   fields:
+  - name: state
+    type: text
+    config:
+      required: false
+    label: État
+    description: 'État des horaires &amp; réservation.<br>Exemple : "Annulé", "Réserver
+      avant le 12 oct. 2022", etc.'
   - name: period
     type: text
     config:
@@ -50,11 +57,11 @@ fields:
       label: Date
       description: Chaque date s'écrit au format YYYY-MM-DD HH:MM
     config:
-      min:
-      max:
-      labelField:
+      min: 
+      max: 
+      labelField: 
     label: Dates
-  label: Horaires
+  label: Horaires & réservation
 - name: address
   type: field_group
   config: {}
@@ -99,36 +106,4 @@ fields:
     label: Modalités de rendez-vous
   label: Informations
 pages:
-- static/events/a-port-mort-figurez-vous-1.md
-- static/events/a-port-mort-figurez-vous.md
-- static/events/acheres-chanteloup-les-vignes-entre-pointil-et-hautil.md
-- static/events/architecture-portuaire.md
-- static/events/balade-entre-ville-et-port.md
-- static/events/campus-equin-international-entre-marais-et-collines-du-pays-d-auge.md
-- static/events/de-la-ville-nouvelle-a-la-ville-renouvelee.md
-- static/events/decouvrir-le-patrimoine-du-bord-de-seine.md
-- static/events/decouvrir-une-enigme-de-la-reconstruction.md
-- static/events/ecole-coeur-de-village.md
 - static/events/exemple.md
-- static/events/genius-2020-d-un-quai-a-l-autre.md
-- static/events/grand-quevilly-a-velo.md
-- static/events/l-architecture-de-la-mailleraye-sur-seine.md
-- static/events/l-architecture-de-la-reconstruction-et-son-evolution.md
-- static/events/la-friche-lucien.md
-- static/events/la-pollution-comme-patrimoine-systeme-lubrizol-et-metropolisation-de-l-axe-seine.md
-- static/events/le-parc-de-rouelles-un-refuge-naturel.md
-- static/events/le-regard-de-travers.md
-- static/events/le-silence-des-coquilles.md
-- static/events/lecture-paysagere-de-la-vallee-de-la-seine.md
-- static/events/les-franciscaines.md
-- static/events/les-truites-jouent-a-saute-moulins.md
-- static/events/lh-baie-attitude-la-baie-du-havre-du-port-de-plaisance-au-port-de-croisiere.md
-- static/events/patrimoine-de-la-reconstruction-une-richesse-a-reconquerir.md
-- static/events/paysages-strategiques-du-site-de-robert-le-diable.md
-- static/events/petite-fabrique-de-poesie-au-hasard-des-rues.md
-- static/events/rim-2-satellites-redecouverte-des-interactions-qu-on-m.md
-- static/events/rouen-impressionnee.md
-- static/events/seine-et-inondations-enjeux-et-prevention.md
-- static/events/un-amphitheatre-de-verdure-avec-vue-sur-seine.md
-- static/events/une-journee-a-la-manufacture-des-capucins.md
-- static/events/utopie-fluviale.md
