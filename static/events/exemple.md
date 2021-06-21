@@ -1,6 +1,5 @@
 ---
 title: Exemple
-image: ''
 categories:
 - Visite en bateau
 - TEST
