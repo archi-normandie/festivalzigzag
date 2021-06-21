@@ -17,6 +17,11 @@
           :event="event"
           class="event-pinned"
         />
+        <EventTeaser
+          v-for="event in regularEvents"
+          :key="event.slug"
+          :event="event"
+        />
       </div>
     </div>
   </main>
@@ -39,7 +44,7 @@ export default {
     },
     regularEvents () {
       return this.events
-        .filter(entry => typeof entry.booking.dates[0] !== 'undefined')
+        .filter(event => !event.featured)
         .sort((a, b) => a.dates[0].start.timestamp - b.dates[0].start.timestamp)
     },
     featuredEvents () {
