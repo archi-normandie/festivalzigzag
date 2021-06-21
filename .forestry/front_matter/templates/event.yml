@@ -8,11 +8,11 @@ fields:
   config:
     required: true
   label: Titre
-- name: address
-  type: text
+- name: image
+  type: file
   config:
-    required: false
-  label: Adresse
+    maxSize: '10'
+  label: Image
 - name: category
   type: list
   config:
@@ -25,81 +25,78 @@ fields:
       file: static/settings/events.json
       path: categories
   label: Catégorie
-- name: countinuousdate
-  type: text
-  config:
-    required: false
-  label: Date permanente
-- name: dates
-  type: list
-  config:
-    use_select: false
-    min: 
-    max: 
-  label: Dates
-  description: Chaque date s'écrit au format YYYY-MM-DD HH:MM
-- name: lat
-  type: text
-  config:
-    required: false
-  label: Latitude
-- name: lon
-  type: text
-  config:
-    required: false
-  label: Longitude
-- name: image
-  type: file
-  config:
-    maxSize: '10'
-  label: Image
-- name: message
-  type: text
-  config:
-    required: false
-  label: Message
-- name: avec
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: Avec
-- name: rdv
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: RDV
-- name: buttons
-  type: field_group_list
+- name: booking
+  type: field_group
+  config: {}
   fields:
-  - name: text
+  - name: periode
     type: text
     config:
-      required: true
-    label: Texte
-    default: Réserver
-  - name: url
+      required: false
+    label: Période
+    description: Ex. "du 3 au 30 octobre 2022"
+  - name: dates
+    type: field_group_list
+    fields:
+    - name: date
+      type: datetime
+      label: Date
+      description: Chaque date s'écrit au format YYYY-MM-DD HH:MM
+      config:
+        required: false
+        date_format: YYYY-MM-DD
+        time_format: HH:MM
+        display_utc: false
+        export_format: YYYY-MM-DD HH:MM
+    config:
+      min: 
+      max: 
+      labelField: 
+    label: Dates
+  label: Horaires
+- name: address
+  type: field_group
+  config: {}
+  fields:
+  - name: place
     type: text
     config:
-      required: true
-    label: URL
-  config:
-    min: 
-    max: 
-    labelField: 
-  label: Boutons
-- name: copyright
-  type: text
-  config:
-    required: false
-  label: Copyright
+      required: false
+    label: Lieu
+  - name: lat
+    type: text
+    config:
+      required: false
+    label: Latitude
+  - name: lon
+    type: text
+    config:
+      required: false
+    label: Longitude
+  label: Adresse
+- name: informations
+  type: field_group
+  config: {}
+  fields:
+  - name: additionnal_informations
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Complément d'informations
+  - name: modalites_de_rendez-vous
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Modalités de rendez-vous
+  label: Informations
 pages:
 - static/events/a-port-mort-figurez-vous-1.md
 - static/events/a-port-mort-figurez-vous.md
