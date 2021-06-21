@@ -15,14 +15,16 @@
           {{ date.date | prettyDate }}
         </li>
       </ul>
-      <span
+    </p>
+    <div>
+      <p
         v-if="event.booking.state"
         class="messages error"
         :class="event.featured ? 'is-reversed' : null"
       >
         {{ event.booking.state }}
-      </span>
-    </p>
+      </p>
+    </div>
     <p class="event--address">
       {{ event.address.place }}
     </p>
@@ -51,7 +53,7 @@ export default {
   }
 }
 </script>
-<style scoped lang="scss">
+<style lang="scss">
 @import 'assets/scss/app.scss';
 .event-teaser.event-pinned {
   @extend .event-teaser:hover
