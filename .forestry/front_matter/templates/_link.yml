@@ -1,5 +1,5 @@
 ---
-label: _lien
+label: _link
 hide_body: true
 fields:
 - name: text

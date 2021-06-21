@@ -1,5 +1,5 @@
 ---
-label: _couverture
+label: _cover
 hide_body: true
 fields:
 - name: src
