@@ -44,15 +44,11 @@ fields:
     type: field_group_list
     fields:
     - name: date
-      type: datetime
-      label: Date
-      description: Chaque date s'écrit au format YYYY-MM-DD h:mm
+      type: text
       config:
-        required: false
-        date_format: YYYY-MM-DD
-        time_format: h:mm
-        display_utc: false
-        export_format: YYYY-MM-DD h:mm
+        required: true
+      label: Date
+      description: Chaque date s'écrit au format YYYY-MM-DD HH:MM
     config:
       min: 
       max: 
