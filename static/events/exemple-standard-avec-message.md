@@ -1,5 +1,5 @@
 ---
-title: Exemple standard
+title: Exemple standard avec message
 categories:
 - Visite en bateau
 - TEST
@@ -7,7 +7,7 @@ booking:
   period: ''
   dates:
   - date: 2021-07-03 14:30
-  state: ''
+  state: Annulé
 address:
   place: Quelque part
   lat: '49.48410'
