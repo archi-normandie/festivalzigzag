@@ -46,13 +46,13 @@ fields:
     - name: date
       type: datetime
       label: Date
-      description: Chaque date s'écrit au format YYYY-MM-DD HH:MM
+      description: Chaque date s'écrit au format YYYY-MM-DD h:mm
       config:
         required: false
         date_format: YYYY-MM-DD
-        time_format: HH:MM
+        time_format: h:mm
         display_utc: false
-        export_format: YYYY-MM-DD HH:MM
+        export_format: YYYY-MM-DD h:mm
     config:
       min: 
       max: 
