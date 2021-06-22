@@ -8,6 +8,17 @@ fields:
   config:
     required: true
   label: Titre
+- name: categories
+  type: list
+  config:
+    use_select: true
+    min:
+    max:
+    source:
+      type: documents
+      file: static/settings/events.json
+      path: categories
+  label: Catégories
 - name: featured
   type: boolean
   label: Mettre en avant
@@ -48,9 +59,9 @@ fields:
       label: Date
       description: Chaque date s'écrit au format YYYY-MM-DD HH:MM
     config:
-      min: 
-      max: 
-      labelField: 
+      min:
+      max:
+      labelField:
     label: Dates
   label: Horaires & réservation
 - name: address
@@ -77,17 +88,6 @@ fields:
   type: field_group
   config: {}
   fields:
-  - name: categories
-    type: list
-    config:
-      use_select: true
-      min: 
-      max: 
-      source:
-        type: documents
-        file: static/settings/events.json
-        path: categories
-    label: Catégories
   - name: additionnal_informations
     type: textarea
     default: ''

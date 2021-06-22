@@ -1,7 +1,6 @@
 ---
 title: Exemple standard avec état
 categories:
-- Visite en bateau
 - TEST
 booking:
   period: ''
@@ -15,8 +14,6 @@ address:
 informations:
   additionnal_informations: Exemple d'information complémentaire
   modalites_de_rendez-vous: RDV devant l'entrée du musée
-  categories:
-  - TEST
 cover:
   blocs: []
   src: "/files/utopie-fluviale-expo.jpg"

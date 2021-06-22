@@ -16,9 +16,6 @@ address:
 informations:
   additionnal_informations: Exemple d'information complémentaire
   modalites_de_rendez-vous: RDV devant l'entrée du musée
-  categories:
-  - Visite en bateau
-  - TEST
 cover:
   blocs: []
   src: "/files/utopie-fluviale-expo.jpg"

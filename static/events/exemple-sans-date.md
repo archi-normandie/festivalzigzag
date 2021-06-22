@@ -1,6 +1,7 @@
 ---
 title: Exemple sans date
 featured: false
+categories: []
 cover:
   src: ''
   alt: ''
@@ -14,7 +15,6 @@ address:
   lat: ''
   lon: ''
 informations:
-  categories: []
   additionnal_informations: ''
   modalites_de_rendez-vous: ''
 
