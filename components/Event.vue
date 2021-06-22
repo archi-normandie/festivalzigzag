@@ -9,24 +9,19 @@
           {{ event.booking.message }}
         </p>
         <p class="event--address">
-          {{ content.address.place }}
+          {{ event.address.place }}
         </p>
-        <ul class="event--dates">
-          <li v-for="date in content.dates" :key="date.render">
-            {{ date.render }}
-          </li>
-        </ul>
         <EventBooking :booking="event.booking" />
         <EventCategories :categories="event.categories" />
         <h1 class="title-main">
-          {{ content.title }}
+          {{ event.title }}
         </h1>
-        <div v-html="content.html" />
+        <div v-html="event.html" />
         <p class="avec">
-          {{ content.avec }}
+          {{ event.informations.note }}
         </p>
         <p class="rdv">
-          {{ content.rdv }}
+          {{ event.informations.rdv }}
         </p>
         <p class="buttons">
           <a
