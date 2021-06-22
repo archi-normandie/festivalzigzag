@@ -9,7 +9,7 @@ const env = {
 }
 
 export default {
-  mode: 'universal',
+  mode: 'static',
   /*
   ** Env
   */
