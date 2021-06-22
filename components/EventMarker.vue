@@ -1,10 +1,10 @@
 <template>
-  <l-marker :lat-lng="[marker.lat, marker.lon]">
+  <l-marker :lat-lng="[marker.address.lat, marker.address.lon]">
     <l-popup>
       <article class="event-map-popup">
         <nuxt-link :to="marker.slug">
           <p class="event--address">
-            {{ marker.address }}
+            {{ marker.address.place }}
           </p>
           <h1 class="event--title">
             {{ marker.title }}
@@ -13,7 +13,7 @@
             <li>{{ date.render }}</li>
           </ul>
           <p class="event--category">
-            {{ marker.category[0] }}
+            {{ marker.categories[0] }}
           </p>
           <p v-if="marker.message" class="messages error">
             {{ marker.message }}
