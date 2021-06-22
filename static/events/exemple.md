@@ -24,5 +24,9 @@ cover:
   alt: Description de l'image
   legend: "@crédit photo"
 featured: true
+gallery:
+- "/files/rouen_evenmt-perm-utopie-fluviale-dans-le-sens-de-barge_la-cloche.jpg"
+- "/files/port-mort-1-visite-carte-postale-ancienne-port-mort-cueillette-des-roseaux.jpg"
+- "/files/port-mort-2-visite-carte-postale-ancienne-port-mort-gravier-de-gargantua.jpg"
 
 ---
