@@ -12,8 +12,8 @@ fields:
   type: list
   config:
     use_select: true
-    min:
-    max:
+    min: 
+    max: 
     source:
       type: documents
       file: static/settings/events.json
@@ -59,9 +59,9 @@ fields:
       label: Date
       description: Chaque date s'écrit au format YYYY-MM-DD HH:MM
     config:
-      min:
-      max:
-      labelField:
+      min: 
+      max: 
+      labelField: 
     label: Dates
   label: Horaires & réservation
 - name: address
