@@ -15,7 +15,7 @@
           v-for="event in featuredEvents"
           :key="event.slug"
           :event="event"
-          class="event-pinned"
+          class="event-pinned is-featured"
         />
         <EventTeaser
           v-for="event in regularEvents"

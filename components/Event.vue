@@ -1,21 +1,23 @@
 <template>
-  <article class="event event-full">
+  <article
+    class="event event-full"
+    :class="event.featured ? 'is-featured' : null"
+  >
     <div class="event-full--txt">
       <div class="inner">
-        <p v-if="content.message" class="messages error">
-          {{ content.message }}
+        <p v-if="event.booking.message" class="messages error">
+          {{ event.booking.message }}
         </p>
         <p class="event--address">
-          {{ content.address }}
+          {{ content.address.place }}
         </p>
         <ul class="event--dates">
           <li v-for="date in content.dates" :key="date.render">
             {{ date.render }}
           </li>
         </ul>
-        <p class="event--category">
-          {{ content.category[0] }}
-        </p>
+        <EventBooking :booking="event.booking" />
+        <EventCategories :categories="event.categories" />
         <h1 class="title-main">
           {{ content.title }}
         </h1>
@@ -83,9 +85,15 @@
 
 <script>
 import path from 'path'
+import EventCategories from '~/components/Event/Categories'
+import EventBooking from '~/components/Event/Booking'
 
 export default {
   name: 'Event',
+  components: {
+    EventCategories,
+    EventBooking
+  },
   props: {
     content: {
       type: Object,
@@ -93,6 +101,7 @@ export default {
     }
   },
   computed: {
+    event () { return this.content },
     imageName () {
       return path.basename(this.content.image)
     }

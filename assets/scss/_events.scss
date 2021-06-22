@@ -14,15 +14,12 @@
     margin: $margin 0;
   }
 
-  .event--address,
-  .event--dates,
-  .event--category {
+  .event--address {
     text-transform: uppercase;
     text-align: center;
   }
 
-  .event--address,
-  .event--dates {
+  .event--address {
     font-weight: 700;
   }
 }
@@ -113,19 +110,10 @@
 
 // Fields.
 
-.event--address,
-.event--dates,
-.event--category {
+.event--address {
   margin: 0;
 }
 
-.event--dates {
-  list-style: none;
-
-  li {
-    margin: 0;
-  }
-}
 
 .avec {
   font-size: $fs14;

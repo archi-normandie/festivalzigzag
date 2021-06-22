@@ -6,45 +6,22 @@
     <p class="event--title">
       {{ event.title }}
     </p>
-    <p class="event--dates">
-      <template v-if="event.booking.period">
-        {{ event.booking.period }}
-      </template>
-      <ul v-else>
-        <li
-          v-for="(date, index) in event.booking.dates"
-          :key="index"
-        >
-          {{ date.date | prettyDate }}
-        </li>
-      </ul>
-    </p>
-    <div>
-      <p
-        v-if="event.booking.state"
-        class="messages error"
-        :class="event.featured ? 'is-reversed' : null"
-      >
-        {{ event.booking.state }}
-      </p>
-    </div>
+    <EventBooking :booking="event.booking" />
     <p class="event--address">
       {{ event.address.place }}
     </p>
-    <p class="event--category">
-      <span
-        v-for="(category, index) in event.informations.categories"
-        :key="index"
-      >
-        {{ category }}
-      </span>
-    </p>
+    <EventCategories :categories="event.categories" />
   </nuxt-link>
 </template>
 <script>
-
+import EventCategories from '~/components/Event/Categories'
+import EventBooking from '~/components/Event/Booking'
 export default {
   name: 'EventTeaser',
+  components: {
+    EventCategories,
+    EventBooking
+  },
   props: {
     event: {
       type: Object,
