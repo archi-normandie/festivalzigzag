@@ -77,6 +77,7 @@ export default {
   }
 }
 .home .header {
+  padding-top: 6vh;
   background-color: transparent;
   color: $text-color;
   .brand-logo { fill: $text-color; }

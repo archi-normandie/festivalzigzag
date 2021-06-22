@@ -38,13 +38,13 @@ export default {
     linear-gradient(0deg, rgba(5,107,135,1) 0%, rgba(255,255,255,1) 50%, rgba(5,107,135,1) 100%);
    mix-blend-mode: multiply;
    position: absolute;
-   top: 6.875rem;
+   top: 4vh;
   //  top: 0rem;
-   right: 6.875rem;
+   right: 4vh;
   //  right: 0rem;
   //  bottom: 0;
-   bottom: 6.875rem; // => 62px;
-   left: 6.875rem;
+   bottom: 4vh; // => 62px;
+   left: 4vh;
   //  left: 0rem;
    z-index: -1;
  }
