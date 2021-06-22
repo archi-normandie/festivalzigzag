@@ -14,8 +14,8 @@ address:
   lat: '49.48410'
   lon: '0.12800'
 informations:
-  additionnal_informations: Exemple d'information complémentaire
-  modalites_de_rendez-vous: RDV devant l'entrée du musée
+  note: Exemple d'information complémentaire
+  rdv: RDV devant l'entrée du musée
 cover:
   blocs: []
   src: "/files/utopie-fluviale-expo.jpg"
@@ -24,3 +24,6 @@ cover:
 featured: true
 
 ---
+
+
+Exemple de contenu.

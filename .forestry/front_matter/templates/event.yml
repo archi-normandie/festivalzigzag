@@ -88,7 +88,7 @@ fields:
   type: field_group
   config: {}
   fields:
-  - name: additionnal_informations
+  - name: note
     type: textarea
     default: ''
     config:
@@ -97,7 +97,7 @@ fields:
       schema:
         format: markdown
     label: Complément d'informations
-  - name: modalites_de_rendez-vous
+  - name: rdv
     type: textarea
     default: ''
     config:

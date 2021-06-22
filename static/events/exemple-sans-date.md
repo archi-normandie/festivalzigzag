@@ -15,7 +15,7 @@ address:
   lat: ''
   lon: ''
 informations:
-  additionnal_informations: ''
-  modalites_de_rendez-vous: ''
+  note: ''
+  rdv: ''
 
 ---
