@@ -63,16 +63,16 @@
     </div>
     <no-ssr>
       <l-map
-        v-if="content.lat"
-        zoom="12"
-        :center="[content.lat, content.lon]"
+        v-if="event.address.lat"
+        zoom="13"
+        :center="[event.address.lat, event.address.lon]"
         :options="{scrollWheelZoom:false}"
       >
         <l-tile-layer
-          url="http://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png"
-          attribution="&copy; <a href='https://www.openstreetmap.org/copyright'>OSM</a>, Tiles by <a href='https://www.hotosm.org/' target='_blank'>Humanitarian OSM Team</a> hosted by <a href='https://openstreetmap.fr/' target='_blank'>OSM France</a>"
+          url="https://tiles.stadiamaps.com/tiles/alidade_smooth/{z}/{x}/{y}.png"
+          attribution="&copy; <a href='https://stadiamaps.com/'>Stadia Maps</a>, &copy; <a href='https://openmaptiles.org/'>OpenMapTiles</a> &copy; <a href='http://openstreetmap.org'>OpenStreetMap</a> contributors"
         />
-        <l-marker :lat-lng="[content.lat, content.lon]" />
+        <l-marker :lat-lng="[event.address.lat, event.address.lon]" />
       </l-map>
     </no-ssr>
   </article>
