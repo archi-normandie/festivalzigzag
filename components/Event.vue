@@ -35,6 +35,7 @@
           </a>
         </p>
       </div>
+      <EventGallery :gallery="event.gallery" />
     </div>
     <EventCover :cover="event.cover" />
     <no-ssr>
@@ -58,13 +59,15 @@
 import EventCategories from '~/components/Event/Categories'
 import EventBooking from '~/components/Event/Booking'
 import EventCover from '~/components/Event/Cover'
+import EventGallery from '~/components/Event/Gallery'
 
 export default {
   name: 'Event',
   components: {
     EventCategories,
     EventBooking,
-    EventCover
+    EventCover,
+    EventGallery
   },
   props: {
     content: {
