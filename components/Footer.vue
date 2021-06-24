@@ -65,8 +65,10 @@ export default {
   background-color: transparentize(darken($primary, 10), 0.4);
 }
 .home .subfooter {
+  padding-bottom: 6vh;
+  padding-left: 6vh;
   background-color: transparent;
-  color: $text-color;
+  color: $white;
 }
 .subfooter :last-child { margin-bottom: 0; }
 @media (min-width: 30rem) {

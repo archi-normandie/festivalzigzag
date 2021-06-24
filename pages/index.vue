@@ -33,7 +33,7 @@ export default {
 <style lang="scss">
  .home::before {
    content: " ";
-   min-height: 33rem;
+   min-height: 41rem;
    background-image:
     linear-gradient(0deg, rgba(5,107,135,1) 0%, rgba(255,255,255,1) 50%, rgba(5,107,135,1) 100%);
    mix-blend-mode: multiply;

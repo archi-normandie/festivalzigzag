@@ -1,6 +1,6 @@
 <template>
   <header class="header">
-    <div class="wrapper">
+    <div class="">
       <nav class="navigation menu">
         <div class="menu-section-left">
           <div class="brand">
@@ -56,7 +56,7 @@ export default {
 
 <style lang="scss">
 .header {
-  padding: $margin/2 0;
+  padding: $margin/2;
   background-color: $primary;
   color: $white;
   fill: $white;
@@ -78,12 +78,14 @@ export default {
 }
 .home .header {
   padding-top: 6vh;
+  padding-left: 6vh;
+  padding-right: 6vh;
   background-color: transparent;
-  color: $text-color;
-  .brand-logo { fill: $text-color; }
+  color: $white;
+  .brand-logo { fill: $white; }
   .menu-item a {
-    color: $text-color;
-    border-bottom-color: $text-color;
+    color: $white;
+    border-bottom-color: $white;
   }
 }
 

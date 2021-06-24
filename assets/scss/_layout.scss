@@ -155,6 +155,7 @@ ul.is-inline-fancy li:not(:last-child)::after {  content: " · "; }
 .menu-label {
   display: block;
   margin: $margins-large;
+  &:last-child { margin-right: 0; }
 }
 .menu-label {
   text-transform: uppercase;
