@@ -34,16 +34,16 @@
             {{ button.text }}
           </a>
         </p>
-        <p v-if="content.copyright" class="copyright">
-          © {{ content.copyright }}
+        <p v-if="event.cover.legend" class="copyright">
+          © {{ event.cover.legend }}
         </p>
       </div>
     </div>
     <div class="event-full--img">
       <img
-        v-if="content.image"
-        :alt="content.title"
-        :src="content.image"
+        v-if="event.cover.src"
+        :alt="event.cover.alt"
+        :src="event.cover.src"
         :srcset="
           `/files/derivatives/small/${imageName} 480w,
           /files/derivatives/medium/${imageName} 799w,
@@ -52,7 +52,7 @@
       >
       <img
         v-else
-        :alt="content.title"
+        alt="Couverture d'évenement par défaut"
         src="/files/giant/default.png"
         srcset="
           /files/small/default.png 480w,
@@ -98,7 +98,7 @@ export default {
   computed: {
     event () { return this.content },
     imageName () {
-      return path.basename(this.content.image)
+      return path.basename(this.event.cover.src)
     }
   }
 }
