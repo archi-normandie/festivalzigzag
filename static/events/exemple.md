@@ -19,7 +19,7 @@ cover:
   blocs: []
   src: "/files/utopie-fluviale-expo.jpg"
   alt: Description de l'image
-  legend: "@crédit photo"
+  legend: "©crédit photo"
 featured: true
 gallery:
 - "/files/rouen_evenmt-perm-utopie-fluviale-dans-le-sens-de-barge_la-cloche.jpg"

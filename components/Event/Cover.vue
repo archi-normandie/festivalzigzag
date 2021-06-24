@@ -1,0 +1,75 @@
+<template>
+  <figure class="event-cover">
+    <img
+      class="event-cover-image"
+      v-if="cover.src"
+      :alt="cover.alt"
+      :src="cover.src"
+      :srcset="
+        `/files/derivatives/small/${imageName} 480w,
+        /files/derivatives/medium/${imageName} 799w,
+        /files/derivatives/large/${imageName} 1280w,
+        /files/derivatives/giant/${imageName} 1600w`"
+    >
+    <img
+      class="event-cover-image"
+      v-else
+      alt="Couverture d'évenement par défaut"
+      src="/files/giant/default.png"
+      srcset="
+        /files/small/default.png 480w,
+        /files/medium/default.png 799w,
+        /files/large/default.png 1280w,
+        /files/giant/default.png 1600w"
+    >
+    <figcaption v-if="cover.legend" class="event-cover-caption">
+      {{ cover.legend }}
+    </figcaption>
+  </figure>
+</template>
+<script>
+import path from 'path'
+export default {
+  name: 'EventCover',
+  props: {
+    cover: {
+      type: Object,
+      required: true
+    }
+  },
+  computed: {
+    imageName () {
+      return path.basename(this.cover.src)
+    }
+  }
+}
+</script>
+<style lang="scss">
+.event-cover {
+  display: block;
+  min-height: 20rem;
+  width: 100%;
+  margin: 0;
+  @media (min-width: 50rem) {
+    width: 50%;
+  }
+
+  &-image {
+    display: block;
+    width: 100%;
+    height: 20rem;
+    max-width: none;
+    object-fit: cover;
+
+    @media (min-width: 800px) {
+      height: 100%;
+    }
+  }
+
+  &-caption {
+    font-size: $fs14;
+    font-style: italic;
+    color: $grey-dark;
+  }
+}
+</style>
