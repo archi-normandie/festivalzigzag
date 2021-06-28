@@ -10,7 +10,7 @@
         :options="{scrollWheelZoom:false}"
       >
         <l-tile-layer
-          url="https://tiles.stadiamaps.com/tiles/alidade_smooth/{z}/{x}/{y}.png"
+          url="https://tiles.stadiamaps.com/tiles/alidade_smooth/{z}/{x}/{y}.png?api_key=ec8b4ff6-ffec-4e4f-a08b-9f52e3c4a024"
           attribution="&copy; <a href='https://stadiamaps.com/'>Stadia Maps</a>, &copy; <a href='https://openmaptiles.org/'>OpenMapTiles</a> &copy; <a href='http://openstreetmap.org'>OpenStreetMap</a> contributors"
         />
         <v-marker-cluster>
