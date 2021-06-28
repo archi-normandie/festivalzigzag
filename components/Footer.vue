@@ -19,7 +19,7 @@
     <section class="subfooter">
       <ul class="is-inline-fancy">
         <li>Mentions légales</li>
-        <li>© Maison de l'architecture de Normandie, le Forum — {{ currentYear }}/{{ nextYear }}</li>
+        <li>© Maison de l'architecture de Normandie — le Forum ({{ currentYear }}/{{ nextYear }})</li>
       </ul>
     </section>
   </footer>
