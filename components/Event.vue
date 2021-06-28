@@ -38,20 +38,7 @@
       <EventGallery :gallery="event.gallery" />
     </div>
     <EventCover :cover="event.cover" />
-    <no-ssr>
-      <l-map
-        v-if="event.address.lat"
-        zoom="13"
-        :center="[event.address.lat, event.address.lon]"
-        :options="{scrollWheelZoom:false}"
-      >
-        <l-tile-layer
-          url="https://tiles.stadiamaps.com/tiles/alidade_smooth/{z}/{x}/{y}.png"
-          attribution="&copy; <a href='https://stadiamaps.com/'>Stadia Maps</a>, &copy; <a href='https://openmaptiles.org/'>OpenMapTiles</a> &copy; <a href='http://openstreetmap.org'>OpenStreetMap</a> contributors"
-        />
-        <l-marker :lat-lng="[event.address.lat, event.address.lon]" />
-      </l-map>
-    </no-ssr>
+    <img v-if="staticMapSrc" :src="staticMapSrc" />
   </article>
 </template>
 
@@ -76,7 +63,14 @@ export default {
     }
   },
   computed: {
-    event () { return this.content }
+    event () { return this.content },
+    staticMapSrc () {
+      const provider = 'https://stadiamaps.com/static/alidade_smooth'
+      if (!this.event.address.lat || !this.event.address.lon) { return null }
+      const lat = this.event.address.lat.length <= 8 ? `${this.event.address.lat}0` : this.event.address.lat
+      const lon = this.event.address.lon.length <= 8 ? `${this.event.address.lon}0` : this.event.address.lon
+      return `${provider}?center=${lat},${lon}&zoom=12&size=1920x800@2x&markers=${lat},${lon}`
+    }
   }
 }
 </script>
