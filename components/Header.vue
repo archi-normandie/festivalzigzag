@@ -26,8 +26,8 @@
             </nuxt-link>
           </li>
           <li class="menu-item">
-            <nuxt-link to="/journal">
-              Journal
+            <nuxt-link to="/pages/partenaires">
+              Partenaires
             </nuxt-link>
           </li>
           <li class="menu-item">

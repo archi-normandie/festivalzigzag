@@ -8,9 +8,25 @@
 
 // Partenaires.
 
-.partenaires .content-main img {
-  display: inline-block;
-  max-width: 7rem;
-  height: 5rem;
-  margin: 0 $margin*2 $margin*2 0;
+.partenaires .content-main {
+  & p {
+    position: relative;
+    &::before {
+      content: ":D";
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      z-index: 1;
+      background-color: $primary;
+      mix-blend-mode: hue;
+    }
+  }
+  & img {
+    display: inline-block;
+    max-width: 7rem;
+    height: 5rem;
+    filter: saturate(200%);
+  }
 }
