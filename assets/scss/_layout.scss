@@ -167,7 +167,7 @@ ul.is-inline-fancy li:not(:last-child)::after {  content: " · "; }
   .menu-section-left,
   .menu-section-right {
     display: flex;
-    align-items: center;
+    align-items: start;
     &.has-text-top { align-items: normal; }
   }
   .menu-section-right,

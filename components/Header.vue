@@ -78,8 +78,8 @@ export default {
 }
 .home .header {
   padding-top: 6vh;
-  padding-left: 6vh;
-  padding-right: 6vh;
+  padding-left: 7vh;
+  padding-right: 7vh;
   background-color: transparent;
   color: $white;
   .brand-logo { fill: $white; }
