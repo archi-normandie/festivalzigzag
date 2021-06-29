@@ -1,7 +1,7 @@
 ---
 title: En-tête agenda
 slug: agenda-header
-classes: messages warning
+classes: messages is-primary
 
 ---
 Tous les rendez-vous sont gratuits et ouverts à tous, sauf mention contraire.

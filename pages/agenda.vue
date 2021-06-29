@@ -7,6 +7,7 @@
       <div class="content-main--header">
         <div
           :class="blockAgendaHeader.classes"
+          class="is-primary"
           v-html="blockAgendaHeader.html"
         />
       </div>
