@@ -17,3 +17,10 @@ export default {
   }
 }
 </script>
+<style lang="scss">
+.event-address {
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: $bold;
+  }
+</style>
