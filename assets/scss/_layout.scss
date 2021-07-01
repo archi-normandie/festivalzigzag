@@ -166,7 +166,7 @@ ul.is-inline-fancy li:not(:last-child)::after {  content: " · "; }
   .menu-section-left,
   .menu-section-right {
     display: flex;
-    align-items: start;
+    align-items: flex-start;
     &.has-text-top { align-items: normal; }
   }
   .menu-section-right,
@@ -185,7 +185,7 @@ ul.is-inline-fancy li:not(:last-child)::after {  content: " · "; }
     &-item :first-child:not(.menu-label) { margin-top: 0; }
     // &:first-of-type { margin-left: 0;}
     &:last-of-type { margin-right: 0;}
-    &-section-left { justify-content: flex-start; }
+    &-section-left { justify-content: flex-rdv; }
     &-section-right { justify-content: flex-end; }
 
   }
