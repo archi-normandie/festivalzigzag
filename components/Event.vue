@@ -7,9 +7,7 @@
       <p v-if="event.booking.message" class="messages error">
         {{ event.booking.message }}
       </p>
-      <p class="event-address">
-        {{ event.address.place }}
-      </p>
+      <EventAddress :address="event.address" />
       <EventBooking :booking="event.booking" />
       <EventCategories :categories="event.categories" />
       <h1 class="title-main">
@@ -44,6 +42,7 @@
 <script>
 import EventCategories from '~/components/Event/Categories'
 import EventBooking from '~/components/Event/Booking'
+import EventAddress from '~/components/Event/Address'
 import EventCover from '~/components/Event/Cover'
 import EventGallery from '~/components/Event/Gallery'
 
@@ -52,6 +51,7 @@ export default {
   components: {
     EventCategories,
     EventBooking,
+    EventAddress,
     EventCover,
     EventGallery
   },
