@@ -1,5 +1,5 @@
 <template>
-  <ul class="event--category">
+  <ul class="event-category">
     <li
       v-for="(category, index) in categories"
       :key="index"
@@ -18,7 +18,7 @@ export default {
 }
 </script>
 <style lang="scss">
-.event--category {
+.event-category {
   list-style: none;
   margin: 0;
   text-transform : uppercase;
