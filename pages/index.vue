@@ -31,21 +31,53 @@ export default {
 }
 </script>
 <style lang="scss">
- .home::before {
-   content: " ";
-   min-height: 41rem;
-   background-image:
+body { min-height: 100vh; }
+.home {
+  & .body {
+   min-height: calc(100vh - 3rem);
+  }
+  &::before {
+    content: " ";
+    display: block;
+    min-height: 41rem;
+    height: calc(100vh - 3rem);
+    background-image:
     linear-gradient(0deg, rgba(5,107,135,1) 0%, rgba(255,255,255,1) 50%, rgba(5,107,135,1) 100%);
-   mix-blend-mode: multiply;
-   position: absolute;
-   top: 4vh;
-  //  top: 0rem;
-   right: 4vh;
-  //  right: 0rem;
-  //  bottom: 0;
-   bottom: 4vh; // => 62px;
-   left: 4vh;
-  //  left: 0rem;
-   z-index: -1;
+    mix-blend-mode: multiply;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: 1.5rem;
+    z-index: -1;
+  }
+  & .header,
+  & .footer {
+    background-color: transparent;
+    color: $white;
+    .brand-logo { fill: $white; }
+    .menu-item a {
+      color: $white;
+      border-bottom-color: $white;
+    }
+    &::before {
+      content: "";
+      background-color: transparent;
+      mix-blend-mode: normal;
+    }
+  }
+  & .footer {
+    position: relative;
+    width: 100%;
+    padding-top: 0;
+    padding-bottom: 0;
+    & .subfooter {
+      position: absolute;
+      right: 1.5rem;
+      bottom: 1.5rem;
+      left: 1.5rem;
+    }
+  }
  }
 </style>

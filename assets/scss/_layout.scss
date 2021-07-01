@@ -4,7 +4,7 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  min-height: 100vh;
+  // min-height: 100vh;
 }
 
 // Wrapper.
@@ -16,8 +16,7 @@
 
   .lieux main &,
   .events main &,
-  .page-event main &,
-  .footer & {
+  .page-event main {
     max-width: none;
     padding: 0;
   }
@@ -89,40 +88,40 @@ main {
 
 // Footer.
 
-.footer {
-  // padding: $margin/2 0;
-  // margin-top: $margin/2;
-  background-color: $primary;
-  color: $white;
-  font-size: $fs14;
+// .footer {
+//   // padding: $margin/2 0;
+//   // margin-top: $margin/2;
+//   background-color: $primary;
+//   color: $white;
+//   font-size: $fs14;
 
-  // nav,
-  // ul {
-  //   width: 100%;
-  // }
+//   // nav,
+//   // ul {
+//   //   width: 100%;
+//   // }
 
-  // ul {
-  //   justify-content: center;
+//   // ul {
+//   //   justify-content: center;
 
-  //   li {
-  //     margin: 0 $margin/2 $margin/2 $margin/2;
-  //   }
-  // }
+//   //   li {
+//   //     margin: 0 $margin/2 $margin/2 $margin/2;
+//   //   }
+//   // }
 
-  a {
-    color: $white;
-    text-decoration: none;
+//   a {
+//     color: $white;
+//     text-decoration: none;
 
-    &:focus,
-    &:hover {
-      text-decoration: underline;
-    }
+//     &:focus,
+//     &:hover {
+//       text-decoration: underline;
+//     }
 
-    &:active {
-      color: $tertiary;
-    }
-  }
-}
+//     &:active {
+//       color: $tertiary;
+//     }
+//   }
+// }
 // header.wrapper
   // .wrapper {
   //   display: flex;

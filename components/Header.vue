@@ -56,8 +56,10 @@ export default {
 
 <style lang="scss">
 .header {
-  padding: $margin/2;
-  background-color: $primary;
+  position: relative;
+  padding: $paddings-large;
+  padding-top: 1.2rem;
+  background-color: transparent;
   color: $white;
   fill: $white;
   .brand {
@@ -75,18 +77,17 @@ export default {
       margin-bottom: 0;
     }
   }
-}
-.home .header {
-  padding-top: 6vh;
-  padding-left: 7vh;
-  padding-right: 7vh;
-  background-color: transparent;
-  color: $white;
-  .brand-logo { fill: $white; }
-  .menu-item a {
-    color: $white;
-    border-bottom-color: $white;
+  &::before{
+    content: " ";
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    // background-image: linear-gradient(180deg, #056B87 0%, transparent 100%);
+    background-color: $primary;
+    z-index: -1;
+    mix-blend-mode: multiply;
   }
 }
-
 </style>

@@ -2,12 +2,13 @@
   <section
     v-if="gallery.length"
     class="event-gallery"
-    :class="`count-${gallery.length}`"
   >
     <img
       v-for="(image, index) in gallery"
       :key="index"
       :src="image"
+      class="event-gallery-image"
+      :class="`count-${gallery.length}`"
     />
   </section>
 </template>
@@ -26,12 +27,23 @@ export default {
 .event-gallery {
   display: flex;
   flex-wrap: wrap;
-  &.count-2 img,
-  &.count-3 img {
-    width: 50%;
-  }
-  &.count-3 img:last-of-type {
+  &-image {
+    display: block;
     width: 100%;
+    min-height: 15rem;
+    max-height: 30rem;
+    object-fit: cover;
+    &.count-2,
+    &.count-3 {
+      width: 50%;
+      // min-height: 15rem;
+      // max-height: 30rem;
+    }
+    &.count-3:last-of-type {
+      width: 100%;
+      min-height: 30rem;
+      max-height: 60rem;
+    }
   }
 }
 </style>

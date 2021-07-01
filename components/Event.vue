@@ -1,44 +1,43 @@
 <template>
   <article
-    class="event event-full"
+    class="event"
     :class="event.featured ? 'is-featured' : null"
   >
-    <div class="event-full--txt">
-      <div class="inner">
-        <p v-if="event.booking.message" class="messages error">
-          {{ event.booking.message }}
-        </p>
-        <p class="event--address">
-          {{ event.address.place }}
-        </p>
-        <EventBooking :booking="event.booking" />
-        <EventCategories :categories="event.categories" />
-        <h1 class="title-main">
-          {{ event.title }}
-        </h1>
-        <div v-html="event.html" />
-        <p class="avec">
-          {{ event.informations.note }}
-        </p>
-        <p class="rdv">
-          {{ event.informations.rdv }}
-        </p>
-        <p class="buttons">
-          <a
-            v-for="button in content.buttons"
-            :key="button.url"
-            :href="button.url"
-            class="button"
-            target="_blank"
-          >
-            {{ button.text }}
-          </a>
-        </p>
-      </div>
-      <EventGallery :gallery="event.gallery" />
+    <div class="event-content">
+      <p v-if="event.booking.message" class="messages error">
+        {{ event.booking.message }}
+      </p>
+      <p class="event-address">
+        {{ event.address.place }}
+      </p>
+      <EventBooking :booking="event.booking" />
+      <EventCategories :categories="event.categories" />
+      <h1 class="title-main">
+        {{ event.title }}
+      </h1>
+      <div v-html="event.html" />
+      <p class="event-informations-note">
+        {{ event.informations.note }}
+      </p>
+      <div class="event-separator" />
+      <p class="event-informations-rdv">
+        {{ event.informations.rdv }}
+      </p>
+      <p class="buttons">
+        <a
+          v-for="button in content.buttons"
+          :key="button.url"
+          :href="button.url"
+          class="button"
+          target="_blank"
+        >
+          {{ button.text }}
+        </a>
+      </p>
     </div>
     <EventCover :cover="event.cover" />
-    <img v-if="staticMapSrc" :src="staticMapSrc" />
+    <EventGallery :gallery="event.gallery" />
+    <img v-if="staticMapSrc" :src="staticMapSrc" class="event-map"/>
   </article>
 </template>
 
@@ -69,8 +68,42 @@ export default {
       if (!this.event.address.lat || !this.event.address.lon) { return null }
       const lat = this.event.address.lat.length <= 8 ? `${this.event.address.lat}0` : this.event.address.lat
       const lon = this.event.address.lon.length <= 8 ? `${this.event.address.lon}0` : this.event.address.lon
-      return `${provider}?center=${lat},${lon}&zoom=12&size=1920x800@2x&markers=${lat},${lon}`
+      return `${provider}?center=${lat},${lon}&zoom=12&size=800x600@2x&markers=${lat},${lon}`
     }
   }
 }
 </script>
+<style lang="scss">
+.event {
+  padding-top: $padding;
+  &-address {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: $bold;
+  }
+  &-content {
+    margin: 0 auto;
+    padding: $paddings;
+    padding-bottom: $padding;
+    @media (min-width: 50rem) {
+      width: 50%;
+    }
+  }
+  &-separator {
+    width: 2rem;
+    height: 0.25rem;
+    margin: $margins;
+    background-color: $primary;
+  }
+  &-informations {
+    &-note { font-weight: $bold; }
+  }
+  &-map {
+    display: block;
+    width: 100%;
+    min-height: 240px;
+    max-height: 480px;
+    object-fit: cover;
+  }
+}
+</style>

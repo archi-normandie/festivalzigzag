@@ -16,6 +16,9 @@ $fs16: 1rem;
 $fs14: 0.875rem;
 $line-height: 1.25rem;
 
+// Font weight
+$bold: 700;
+
 // Colors
 
 $primary: #2d8d9d;
@@ -38,7 +41,10 @@ $margin: 1.25rem; // 20px
 $margins: 0 0 $line-height 0;
 $margins-large: 0 0 $line-height * 2 0;
 $margins-compact: 0 0 0.5rem 0;
-$paddings: 0.35rem 0.8rem 0.2rem;
+$padding: 1.25rem;
+$paddings-small: 0.35rem 0.8rem 0.2rem;
+$paddings: 0.6rem 0.8rem 0.5rem;
+$paddings-large: 1.6rem 1.5rem 1.5rem;
 $border: 4 * $onepix;
 
 // Media queries

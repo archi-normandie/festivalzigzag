@@ -46,30 +46,21 @@ export default {
 </script>
 <style lang="scss">
 .event-cover {
-  display: block;
-  min-height: 20rem;
-  width: 100%;
   margin: 0;
-  @media (min-width: 50rem) {
-    width: 50%;
-  }
 
-  &-image {
+&-image {
     display: block;
     width: 100%;
-    height: 20rem;
-    max-width: none;
+    min-height: 15rem;
+    max-height: 30rem;
     object-fit: cover;
-
-    @media (min-width: 800px) {
-      height: 100%;
-    }
   }
 
   &-caption {
     font-size: $fs14;
     font-style: italic;
     color: $grey-dark;
+    padding: $paddings;
   }
 }
 </style>

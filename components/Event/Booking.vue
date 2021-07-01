@@ -38,6 +38,8 @@ export default {
   background-color: red;
 }
 .event-booking {
+  text-align: center;
+  text-transform: uppercase;
   &-dates {
     list-style: none;
     margin: 0;

@@ -31,8 +31,8 @@ export default {
 }
 </script>
 <style lang="scss">
-@import 'assets/scss/app.scss';
-.event-teaser.event-pinned {
-  @extend .event-teaser:hover
-}
+// @import 'assets/scss/app.scss';
+// .event-teaser.event-pinned {
+//   @extend .event-teaser:hover
+// }
 </style>
