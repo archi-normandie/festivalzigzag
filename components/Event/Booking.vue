@@ -40,12 +40,10 @@ export default {
 .event-booking {
   text-align: center;
   text-transform: uppercase;
+  font-weight: 700;
   &-dates {
     list-style: none;
     margin: 0;
-    text-transform: uppercase;
-    text-align: center;
-    font-weight: 700;
   }
 }
 
