@@ -47,8 +47,15 @@ export default {
 <style lang="scss">
 .event-cover {
   margin: 0;
-
-&-image {
+  @media (min-width: 50rem) {
+    grid-column: 4 / 8 ;
+    grid-row: 1 / 3;
+  }
+  @media (min-width: 90rem) {
+    grid-column: 5 / 8 ;
+    grid-row: 1 / 3;
+  }
+  &-image {
     display: block;
     width: 100%;
     min-height: 15rem;

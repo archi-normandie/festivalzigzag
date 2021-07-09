@@ -3,13 +3,12 @@
     class="event"
     :class="event.featured ? 'is-featured' : null"
   >
-    <div class="event-content">
-      <p v-if="event.booking.message" class="messages error">
-        {{ event.booking.message }}
-      </p>
+    <div class="event-informations">
       <EventAddress :address="event.address" />
       <EventBooking :booking="event.booking" />
       <EventCategories :categories="event.categories" />
+    </div>
+    <div class="event-content">
       <h1 class="title-main event-title">
         {{ event.title }}
       </h1>
@@ -81,12 +80,38 @@ export default {
     text-transform: uppercase;
     font-weight: $bold;
   }
+  @media (min-width: 50rem) {
+    // display: flex;
+    // flex-wrap: wrap;
+    display:  grid;
+    grid-template-columns: 1.5rem repeat(6, 1fr) 1.5rem;
+    grid-auto-rows: minmax(100px, auto);
+  }
+  &-informations {
+    margin: 0 auto;
+    padding: $paddings;
+    // @media (min-width: 50rem) { flex-basis: 50%; }
+    @media (min-width: 50rem) {
+      grid-column: 2 / 4;
+      grid-row: 1;
+    }
+    @media (min-width: 90rem) {
+      grid-column: 2 / 3 ;
+      grid-row: 1;
+    }
+  }
   &-content {
     margin: 0 auto;
     padding: $paddings;
     padding-bottom: $padding;
+    // @media (min-width: 50rem) { flex-basis: 50%; }
     @media (min-width: 50rem) {
-      width: 50%;
+      grid-column: 2 / 4;
+      grid-row: 2;
+    }
+    @media (min-width: 90rem) {
+      grid-column: 3 / 5 ;
+      grid-row: 1;
     }
   }
   &-separator {
@@ -104,6 +129,14 @@ export default {
     min-height: 240px;
     max-height: 480px;
     object-fit: cover;
+    margin-bottom: 1.5rem;
+    @media (min-width: 50rem) {
+      grid-column: 2 / 8;
+      grid-row: 3;
+    }
+    @media (min-width: 90rem) {
+      grid-row: 2;
+    }
   }
 }
 </style>

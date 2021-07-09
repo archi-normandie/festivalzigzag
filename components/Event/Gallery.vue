@@ -27,6 +27,15 @@ export default {
 .event-gallery {
   display: flex;
   flex-wrap: wrap;
+  margin-bottom: 1.5rem;
+  @media (min-width: 50rem) {
+    grid-column: 2 / 8 ;
+    grid-row: 4;
+  }
+  @media (min-width: 90rem) {
+    grid-column: 2 / 8 ;
+    grid-row: 3;
+  }
   &-image {
     display: block;
     width: 100%;
