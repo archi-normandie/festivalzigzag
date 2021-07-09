@@ -34,7 +34,8 @@ export default {
 body { min-height: 100vh; }
 .home {
   & .body {
-   min-height: calc(100vh - 3rem);
+   min-height: 41rem;
+   height: calc(100vh - 3rem);
   }
   &::before {
     content: " ";
