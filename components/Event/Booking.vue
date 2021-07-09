@@ -39,7 +39,6 @@ export default {
 }
 .event-booking {
   text-align: center;
-  text-transform: uppercase;
   font-weight: 700;
   &-dates {
     list-style: none;

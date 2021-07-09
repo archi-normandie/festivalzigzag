@@ -3,24 +3,24 @@
     :to="event.slug"
     class="event event-teaser"
   >
-    <p class="event--title">
+    <div class="event-title">
       {{ event.title }}
-    </p>
+    </div>
     <EventBooking :booking="event.booking" />
-    <p class="event--address">
-      {{ event.address.place }}
-    </p>
+    <EventAddress :address="event.address" />
     <EventCategories :categories="event.categories" />
   </nuxt-link>
 </template>
 <script>
 import EventCategories from '~/components/Event/Categories'
 import EventBooking from '~/components/Event/Booking'
+import EventAddress from '~/components/Event/Address'
 export default {
   name: 'EventTeaser',
   components: {
     EventCategories,
-    EventBooking
+    EventBooking,
+    EventAddress
   },
   props: {
     event: {
@@ -35,4 +35,35 @@ export default {
 // .event-teaser.event-pinned {
 //   @extend .event-teaser:hover
 // }
+.event-teaser {
+  display: block;
+  margin: $margins;
+  padding: $paddings;
+  border-bottom: 1px solid transparentize($primary, 0.6);
+  &.event-pinned,
+  &:hover {
+    background-color: $primary;
+    color: $white;
+  }
+  &.event {
+    text-decoration: none;
+    &:hover .event-title { text-decoration: underline; }
+    .event {
+      &-title,
+      &-dates,
+      &-booking,
+      &-address,
+      &-categories {
+        text-align: left;
+      }
+      &-title { font-weight: $bold; }
+    }
+    @media (min-width: 50rem) {
+      // /!\ Utiliser table pour avoir un alignement de colonnes
+      display: flex;
+      & > * { margin-right: $margin; }
+      &:last-child { margin-right: 0; }
+    }
+  }
+}
 </style>

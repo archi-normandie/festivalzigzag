@@ -3,7 +3,7 @@
     v-if="address"
     class="event-address"
   >
-    <p>{{ address.place }}</p>
+    {{ address.place }}
   </div>
 </template>
 <script>

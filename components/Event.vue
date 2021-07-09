@@ -10,7 +10,7 @@
       <EventAddress :address="event.address" />
       <EventBooking :booking="event.booking" />
       <EventCategories :categories="event.categories" />
-      <h1 class="title-main">
+      <h1 class="title-main event-title">
         {{ event.title }}
       </h1>
       <div v-html="event.html" />
@@ -76,7 +76,7 @@ export default {
 <style lang="scss">
 .event {
   padding-top: $padding;
-  &-address {
+  &-title {
     text-align: center;
     text-transform: uppercase;
     font-weight: $bold;
