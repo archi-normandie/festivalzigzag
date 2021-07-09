@@ -11,7 +11,7 @@
           v-html="blockAgendaHeader.html"
         />
       </div>
-      <div class="content-main">
+      <div class="events">
         <EventTeaser
           v-for="event in featuredEvents"
           :key="event.slug"
@@ -79,3 +79,6 @@ export default {
   }
 }
 </script>
+<style lang="scss">
+.events { padding: $paddings-large; }
+</style>

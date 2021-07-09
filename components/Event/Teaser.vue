@@ -37,7 +37,8 @@ export default {
 // }
 .event-teaser {
   display: block;
-  margin: $margins;
+  // margin: $margins;
+  margin: 0;
   padding: $paddings;
   border-bottom: 1px solid transparentize($primary, 0.6);
   &.event-pinned,
