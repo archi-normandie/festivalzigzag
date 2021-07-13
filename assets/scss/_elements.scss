@@ -263,11 +263,14 @@ button,
   text-transform: uppercase;
   text-decoration: none;
   box-shadow: 0 -1px 0 $tertiary, 0 $onepix*2 0 darken($tertiary, 10%);
+  cursor: pointer;
 
   &:focus,
-  &:hover {
-    color: lighten($primary, 10%);
+  &:hover,
+  &.is-current {
     box-shadow: 0 -2px 0 $white, 0 $onepix 0 darken($tertiary, 12%);
+    color: $tertiary;
+    background-color: $primary;
   }
 }
 
@@ -275,6 +278,8 @@ button,
   padding: $margin/4 $margin/2;
   text-transform: none;
 }
+
+.buttons .button:not(:last-child) { margin-right: $margin / 3; }
 
 // Table
 

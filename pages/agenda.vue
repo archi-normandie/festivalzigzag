@@ -11,17 +11,23 @@
           v-html="blockAgendaHeader.html"
         />
       </div>
+      <div class="events-filter buttons">
+        <button
+          class="button button-small"
+          :class="isCurrentCity(city) ? 'is-current' : null"
+          v-for="(city, index) in cities"
+          :key="index"
+          @click="setCurrentCity(city)"
+        >
+          {{ city.name }}
+        </button>
+      </div>
       <div class="events">
         <EventTeaser
-          v-for="event in featuredEvents"
+          v-for="event in filteredEventByCities"
           :key="event.slug"
           :event="event"
-          class="event-pinned is-featured"
-        />
-        <EventTeaser
-          v-for="event in regularEvents"
-          :key="event.slug"
-          :event="event"
+          :class="event.featured ? 'event-pinned is-featured' : null"
         />
       </div>
     </div>
@@ -35,13 +41,19 @@ export default {
   components: {
     EventTeaser
   },
+  data () {
+    return {
+      currentCity: 'Toutes'
+    }
+  },
   computed: {
     events () {
       const contents = this.$store.state.contents.all
       const events = Object.entries(contents)
         .filter(entry => entry[1].dir === 'events')
         .map(entry => entry[1])
-      return events
+      // Featured first
+      return events.sort(event => !event.featured)
     },
     regularEvents () {
       return this.events
@@ -56,7 +68,28 @@ export default {
     },
     blockAgendaHeader () {
       return this.$store.state.contents.all['agenda-header']
+    },
+    cities () {
+      const cities = this.events
+        .map(event => event.address.place)
+        .filter((city, index, cities) => cities.indexOf(city) === index)
+        .filter(city => city !== '')
+        .map((city) => {
+          return {
+            name: city
+          }
+        })
+        .sort((a, b) => a - b)
+      return [{ name: 'Toutes' }].concat(cities)
+    },
+    filteredEventByCities () {
+      if (this.currentCity === 'Toutes') { return this.events }
+      return this.events.filter(event => event.address.place === this.currentCity)
     }
+  },
+  methods: {
+    isCurrentCity (city) { return city.name === this.currentCity },
+    setCurrentCity (city) { this.currentCity = city.name }
   },
   head () {
     const url = process.env.url + '/agenda'
@@ -80,5 +113,11 @@ export default {
 }
 </script>
 <style lang="scss">
-.events { padding: $paddings-large; }
+.events {
+  padding: $paddings-large;
+  &-filter {
+    padding-right: 1.5rem;
+    padding-left: 1.5rem;
+  }
+}
 </style>
