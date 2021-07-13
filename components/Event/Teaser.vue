@@ -61,7 +61,11 @@ export default {
     }
     @media (min-width: 50rem) {
       // /!\ Utiliser table pour avoir un alignement de colonnes
-      display: flex;
+      // display: flex;
+      display: grid;
+      grid-template-columns: 30% repeat(auto-fit, minmax(0, 1fr));
+      // grid-auto-columns: auto;
+      grid-auto-rows: unset;
       & > * { margin-right: $margin; }
       &:last-child { margin-right: 0; }
     }
