@@ -22,9 +22,20 @@
           {{ city.name }}
         </button>
       </div>
+      <div class="events-filter buttons">
+        <button
+          class="button button-small"
+          :class="isCurrentType(type) ? 'is-current' : null"
+          v-for="(type, index) in types"
+          :key="index"
+          @click="setCurrentType(type)"
+        >
+          {{ type.name }}
+        </button>
+      </div>
       <div class="events">
         <EventTeaser
-          v-for="event in filteredEventByCities"
+          v-for="event in filteredEvents"
           :key="event.slug"
           :event="event"
           :class="event.featured ? 'event-pinned is-featured' : null"
@@ -42,8 +53,11 @@ export default {
     EventTeaser
   },
   data () {
+    this.defaultCity = { name: 'Toutes' }
+    this.defaultType = { name: 'Tous' }
     return {
-      currentCity: 'Toutes'
+      currentCity: this.defaultCity,
+      currentType: this.defaultType
     }
   },
   computed: {
@@ -80,16 +94,36 @@ export default {
           }
         })
         .sort((a, b) => a - b)
-      return [{ name: 'Toutes' }].concat(cities)
+      return [this.defaultCity].concat(cities)
     },
-    filteredEventByCities () {
-      if (this.currentCity === 'Toutes') { return this.events }
-      return this.events.filter(event => event.address.place === this.currentCity)
+    types () {
+      const types = this.events
+        .map(event => event.categories)
+        .flat()
+        .filter((type, index, types) => types.indexOf(type) === index)
+        .filter(type => type !== '')
+        .map((type) => {
+          return {
+            name: type
+          }
+        })
+        .sort((a, b) => a - b)
+      return [this.defaultType].concat(types)
+    },
+    filteredEvents () {
+      // if (!this.currentCity && !this.currentType) { return this.events }
+      if (this.currentType === this.defaultType && this.currentCity === this.defaultCity) { return this.events }
+      return this.events.filter((event) => {
+        return event.address.place === this.currentCity.name ||
+        event.categories.includes(this.currentType.name)
+      })
     }
   },
   methods: {
-    isCurrentCity (city) { return city.name === this.currentCity },
-    setCurrentCity (city) { this.currentCity = city.name }
+    isCurrentCity (city) { return city === this.currentCity },
+    setCurrentCity (city) { this.currentCity = city },
+    isCurrentType (type) { return type === this.currentType },
+    setCurrentType (type) { this.currentType = type }
   },
   head () {
     const url = process.env.url + '/agenda'
