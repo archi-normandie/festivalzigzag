@@ -1,5 +1,10 @@
 <template>
-  <l-marker :lat-lng="[marker.address.lat, marker.address.lon]">
+  <l-marker
+    :lat-lng="[marker.address.lat, marker.address.lon]"
+    :icon="icon"
+    :icon-size="[32,32]"
+    :icon-anchor="[16,0]"
+  >
     <l-popup>
       <article class="event-map-popup">
         <nuxt-link :to="marker.slug">
@@ -25,12 +30,21 @@
 </template>
 
 <script>
+// let L = { icon () {} }
+// if (process.browser) { L = require('leaflet') }
 export default {
   name: 'EventMarker',
   props: {
     marker: {
       type: Object,
       required: true
+    }
+  },
+  data () {
+    return {
+      icon: this.$L.icon({
+        iconUrl: 'icon-map.png'
+      })
     }
   }
 }

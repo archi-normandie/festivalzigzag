@@ -67,7 +67,7 @@ export default {
       if (!this.event.address.lat || !this.event.address.lon) { return null }
       const lat = this.event.address.lat.length <= 8 ? `${this.event.address.lat}0` : this.event.address.lat
       const lon = this.event.address.lon.length <= 8 ? `${this.event.address.lon}0` : this.event.address.lon
-      return `${provider}?center=${lat},${lon}&zoom=12&size=800x600@2x&markers=${lat},${lon}`
+      return `${provider}?center=${lat},${lon}&zoom=12&size=800x340@2x&markers=${lat},${lon},outdoors,2d8d9d`
     }
   }
 }
