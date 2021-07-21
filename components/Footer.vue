@@ -15,7 +15,7 @@
     </section>
     <section class="subfooter">
       <ul class="is-inline-fancy">
-        <li>Mentions légales</li>
+        <li><nuxt-link to="pages/mentions-legales">Mentions légales</nuxt-link></li>
         <li>© Maison de l'architecture de Normandie — le Forum ({{ currentYear }}/{{ nextYear }})</li>
         <li>Identité graphique : <a href="http://www.buildozer.fr">Agence Buildozer</a></li>
         <li>Conception Web : <a href="https://github.com/ziopod">Ziopod</a></li>
