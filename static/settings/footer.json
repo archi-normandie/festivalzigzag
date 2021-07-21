@@ -12,6 +12,10 @@
           "label": "Réseaux sociaux",
           "links": [
             {
+              "name": "Insta",
+              "path": "https://www.instagram.com/festival_zigzag/"
+            },
+            {
               "name": "Facebook",
               "path": "https://www.facebook.com/zigzagfestivalarchitecture/"
             }
