@@ -22,15 +22,15 @@
           ]
         },
         {
-          "label": "Exemple de groupe de liens",
+          "label": "Evénements",
           "links": [
             {
-              "path": "/",
-              "name": "Accueil"
+              "path": "https://festivalzigzag.fr/lieux",
+              "name": "Lieux"
             },
             {
-              "name": "Coordonnées",
-              "path": "/pagse/a-propos#coordonnées"
+              "name": "Agenda",
+              "path": "https://festivalzigzag.fr/agenda"
             }
           ]
         }
