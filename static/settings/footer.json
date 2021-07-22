@@ -9,7 +9,24 @@
       "template": "bloc-navigation",
       "navigation": [
         {
-          "label": "Découvrir les événements",
+          "label": "Découvrir le festival",
+          "links": [
+            {
+              "name": "Presse",
+              "path": "https://festivalzigzag.fr/pages/presse"
+            },
+            {
+              "name": "A propos",
+              "path": "https://festivalzigzag.fr/pages/a-propos"
+            },
+            {
+              "name": "Partenaires",
+              "path": "https://festivalzigzag.fr/pages/partenaires"
+            }
+          ]
+        },
+        {
+          "label": "S'inscrire aux événements",
           "links": [
             {
               "path": "https://festivalzigzag.fr/lieux",
@@ -35,19 +52,6 @@
             {
               "name": "Instagram",
               "path": "https://www.instagram.com/festival_zigzag/"
-            }
-          ]
-        },
-        {
-          "label": "Comprendre le festival",
-          "links": [
-            {
-              "name": "A propos",
-              "path": "https://festivalzigzag.fr/pages/a-propos"
-            },
-            {
-              "name": "Partenaires",
-              "path": "https://festivalzigzag.fr/pages/partenaires"
             }
           ]
         }
