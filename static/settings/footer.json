@@ -12,16 +12,16 @@
           "label": "Découvrir le festival",
           "links": [
             {
-              "name": "Presse",
-              "path": "https://festivalzigzag.fr/pages/presse"
-            },
-            {
               "name": "A propos",
               "path": "https://festivalzigzag.fr/pages/a-propos"
             },
             {
               "name": "Partenaires",
               "path": "https://festivalzigzag.fr/pages/partenaires"
+            },
+            {
+              "name": "Presse",
+              "path": "https://festivalzigzag.fr/pages/presse"
             }
           ]
         },
