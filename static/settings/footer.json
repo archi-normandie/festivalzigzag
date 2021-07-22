@@ -25,12 +25,16 @@
           "label": "Suivre le festival",
           "links": [
             {
-              "name": "Instagram",
-              "path": "https://www.instagram.com/festival_zigzag/"
-            },
-            {
               "name": "Journal du festival",
               "path": "https://festivalzigzag.fr/journal"
+            },
+            {
+              "name": "Facebook",
+              "path": "https://www.facebook.com/zigzagfestivalarchitecture"
+            },
+            {
+              "name": "Instagram",
+              "path": "https://www.instagram.com/festival_zigzag/"
             }
           ]
         }
