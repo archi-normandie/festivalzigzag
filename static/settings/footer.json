@@ -42,10 +42,6 @@
           "label": "Suivre le festival",
           "links": [
             {
-              "name": "#zigzagfestivalarchitecture",
-              "path": "https://www.facebook.com/hashtag/zigzagfestivalarchitecture"
-            },
-            {
               "name": "Journal du festival",
               "path": "https://festivalzigzag.fr/journal"
             },
