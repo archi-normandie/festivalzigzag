@@ -9,15 +9,11 @@
       "template": "bloc-navigation",
       "navigation": [
         {
-          "label": "Réseaux sociaux",
+          "label": "Navigation",
           "links": [
             {
-              "name": "Insta",
-              "path": "https://www.instagram.com/festival_zigzag/"
-            },
-            {
-              "name": "Facebook",
-              "path": "https://www.facebook.com/zigzagfestivalarchitecture/"
+              "name": "Presse",
+              "path": "https://festivalzigzag.fr/pages/presse"
             }
           ]
         },
