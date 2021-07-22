@@ -12,6 +12,10 @@
           "label": "Navigation",
           "links": [
             {
+              "name": "Journal du festival",
+              "path": "https://festivalzigzag.fr/journal"
+            },
+            {
               "name": "Presse",
               "path": "https://festivalzigzag.fr/pages/presse"
             }
