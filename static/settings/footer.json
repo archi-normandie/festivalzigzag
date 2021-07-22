@@ -2,8 +2,8 @@
   "blocs": [
     {
       "template": "bloc-content",
-      "title": "Exemple de bloc de contenu",
-      "content": "## Contenu d'information de pied de page\n\nNe pas débuter le bloc avec une image, cela provoque un défaut d'affichage.\n\nCe bloc de contenu supporte _la mise en forme_, les [liens](https://example.com \"Exemple de lien\") et les images."
+      "title": "Le Forum",
+      "content": "### Le Forum - Maison de l’architecture de Normandie\n\n###### 48 rue Victor Hugo 76000 ROUEN\n\n02 35 03 40 31  \n[contact@man-leforum.fr](contact@man-leforum.fr)  \n[man-leforum.fr](http://man-leforum.fr/maison-de-l-architecture/)"
     },
     {
       "template": "bloc-navigation",
