@@ -39,11 +39,15 @@
           ]
         },
         {
-          "label": "Partenaires et presse",
+          "label": "Comprendre le festival",
           "links": [
             {
               "name": "A propos",
               "path": "https://festivalzigzag.fr/pages/a-propos"
+            },
+            {
+              "name": "Partenaires",
+              "path": "https://festivalzigzag.fr/pages/partenaires"
             }
           ]
         }
