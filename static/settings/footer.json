@@ -2,8 +2,8 @@
   "blocs": [
     {
       "template": "bloc-content",
-      "title": "Le Forum",
-      "content": "#### Zigzag - festival d'architecture et des arts de l'espace \n\n###### du 25 septembre au 10 octobre 2021 le long de la vallée de la Seine\n\ndéambulations, performances, installations, randonnées, expositions, parcours, balades, visites ... coordonnés par **le Forum - Maison de l’architecture de Normandie**\n\n###### 48 rue Victor Hugo 76000 ROUEN\n\n02 35 03 40 31  \n[contact@man-leforum.fr](contact@man-leforum.fr)  \n[man-leforum.fr](http://man-leforum.fr/maison-de-l-architecture/)"
+      "title": "Zigzag 2021",
+      "content": "#### Zigzag - festival d'architecture et des arts de l'espace\n\n###### du 25 septembre au 10 octobre 2021 le long de la vallée de la Seine\n\ndéambulations, performances, installations, randonnées, expositions, parcours, balades, visites ... coordonnés par **le Forum - Maison de l’architecture de Normandie**\n\n48 rue Victor Hugo - 76000 ROUEN\n\n02 35 03 40 31  \n[contact@man-leforum.fr](contact@man-leforum.fr)  \n[man-leforum.fr](http://man-leforum.fr/maison-de-l-architecture/)"
     },
     {
       "template": "bloc-navigation",
@@ -59,7 +59,7 @@
     },
     {
       "template": "bloc-content",
-      "title": "Exemple d'Ours",
+      "title": "Le Forum",
       "content": "\n[LinkedIn](https://www.linkedin.com/company/maison-de-l-architecture-de-normandie-le-forum/)\n\n[Facebook](https://www.facebook.com/maisondelarchitecturedenormandieleforum/)\n\n[Instagram](https://www.instagram.com/man_leforum/)"
     }
   ]
