@@ -37,6 +37,15 @@
               "path": "https://www.instagram.com/festival_zigzag/"
             }
           ]
+        },
+        {
+          "label": "Partenaires et presse",
+          "links": [
+            {
+              "name": "A propos",
+              "path": "https://festivalzigzag.fr/pages/a-propos"
+            }
+          ]
         }
       ]
     },
