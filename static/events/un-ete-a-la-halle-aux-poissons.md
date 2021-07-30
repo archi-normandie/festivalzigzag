@@ -4,9 +4,9 @@ categories:
 - Table ronde
 featured: false
 cover:
-  src: ''
+  src: "/files/l1110661-floriandelon.jpg"
   alt: ''
-  legend: ''
+  legend: "© Florian Delon"
 booking:
   state: ''
   period: ''
