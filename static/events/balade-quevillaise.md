@@ -4,7 +4,7 @@ categories:
 - Parcours
 featured: false
 cover:
-  src: "/files/img_1770.JPG"
+  src: "/files/zz-balade-quevillaise.jpg"
   alt: ''
   legend: "© Balade quevillaise #1 en 2019"
 booking:
@@ -12,6 +12,7 @@ booking:
   period: ''
   dates:
   - date: 2021-10-10 10:30
+  link: ''
 address:
   place: Grand Quevilly (76)
   lat: "49.4065425"

@@ -4,7 +4,7 @@ categories:
 - Parcours urbain
 featured: false
 cover:
-  src: "/files/img_5534.JPG"
+  src: "/files/zz-beuzeville.jpg"
   alt: ''
   legend: "© La Cidrerie"
 booking:
@@ -12,6 +12,7 @@ booking:
   period: ''
   dates:
   - date: 2021-10-03 15:00
+  link: ''
 address:
   place: Beuzeville (27)
   lat: "49.34513"
