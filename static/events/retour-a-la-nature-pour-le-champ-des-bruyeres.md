@@ -13,13 +13,13 @@ booking:
   dates:
   - date: 2021-09-25 14:30
 address:
-  place: ''
-  lat: ''
-  lon: ''
+  place: Rouen (76)
+  lat: "49.4082497"
+  lon: "1.0700517"
 informations:
   note: ''
-  rdv: RDV au parc des bruyères, au niveau de l’entrée du stade Diochon, avenue des
-    canadiens, Rouen
+  rdv: RDV au parc du Champ des Bruyères, au niveau de l’entrée du stade Diochon,
+    avenue des canadiens, Rouen
 gallery: []
 
 ---
