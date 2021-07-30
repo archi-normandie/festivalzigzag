@@ -19,6 +19,11 @@
         {{ booking.state }}
       </p>
     </div>
+    <a
+      v-if="booking.link"
+      :href="booking.link"
+      class="button is-outlined is-small"
+    >Réserver</a>
   </div>
 </template>
 <script>
