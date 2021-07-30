@@ -14,7 +14,7 @@ booking:
   - date: 2021-09-26 14:00
 address:
   place: Bolbec (76)
-  lat: "49.57681"
+  lat: "49.5773968"
   lon: "0.489827"
 informations:
   note: 'Adultes '
