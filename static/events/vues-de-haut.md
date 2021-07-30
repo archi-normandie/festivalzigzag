@@ -16,9 +16,9 @@ booking:
   - date: 2021-10-09 15:30
   - date: 2021-10-09 17:00
 address:
-  place: ''
-  lat: ''
-  lon: ''
+  place: Grand Quevilly (76)
+  lat: "49.4065425"
+  lon: "1.0510607"
 informations:
   note: ''
   rdv: ''
