@@ -4,9 +4,9 @@ categories:
 - Parcours
 featured: false
 cover:
-  src: ''
+  src: "/files/capture-d-ecran-2019-12-09-a-18-27-27.png"
   alt: ''
-  legend: ''
+  legend: Le programme de rénovation urbaine en 5 points ©Elbeuf-sur-Seine
 booking:
   state: ''
   period: ''
