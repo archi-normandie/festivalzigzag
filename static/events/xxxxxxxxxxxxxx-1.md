@@ -17,7 +17,8 @@ address:
   lon: "1.0986999"
 informations:
   note: ''
-  rdv: ''
+  rdv: 'RDV : Maison de l''architecture de Normandie - le Forum | 48 rue Victor Hugo
+    76000 ROUEN'
 gallery: []
 
 ---
