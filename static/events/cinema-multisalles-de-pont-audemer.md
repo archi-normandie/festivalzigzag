@@ -4,7 +4,7 @@ categories:
 - Visite architecturale
 featured: false
 cover:
-  src: ''
+  src: "/files/cinema-zigzag-1-002.jpg"
   alt: ''
   legend: ''
 booking:
