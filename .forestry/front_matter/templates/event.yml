@@ -111,3 +111,5 @@ fields:
   type: image_gallery
   config: {}
   label: Galerie d'images
+pages:
+- static/events/la-frette-montigny-acheres-pointil-et-hautil-le-voyage.md
