@@ -17,8 +17,8 @@ address:
   lat: "49.2902443"
   lon: "0.9994402"
 informations:
-  note: ''
-  rdv: ''
+  note: Tout public
+  rdv: RDV 25 rue de la république à Elbeuf-sur-Seine
 gallery: []
 
 ---
