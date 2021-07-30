@@ -13,9 +13,9 @@ booking:
   dates:
   - date: 2021-10-01 18:00
 address:
-  place: ''
-  lat: ''
-  lon: ''
+  place: Le Havre (76)
+  lat: "49.4873787"
+  lon: "0.1101139"
 informations:
   note: 'Tout public, normes ERP 5, accessibilité PMR. Accès piétons : Quai de l''île.
     Bus 4 : arrêt St-François'
