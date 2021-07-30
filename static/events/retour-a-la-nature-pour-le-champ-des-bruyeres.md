@@ -4,13 +4,14 @@ categories:
 - Visite
 featured: false
 cover:
-  src: ''
+  src: "/files/bruyeres-0043.jpg"
   alt: ''
   legend: ''
 booking:
   state: ''
   period: ''
-  dates: []
+  dates:
+  - date: 2021-09-25 14:30
 address:
   place: ''
   lat: ''
