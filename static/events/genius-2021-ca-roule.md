@@ -9,15 +9,15 @@ cover:
   legend: ''
 booking:
   state: ''
-  period: ''
+  period: 'Du 25 septembre au 10 octobre '
   dates: []
 address:
-  place: ''
-  lat: ''
-  lon: ''
+  place: Le Havre (76)
+  lat: "49.4892706"
+  lon: "0.1038183"
 informations:
-  note: ''
-  rdv: ''
+  note: En accès libre en extérieur
+  rdv: RDV place Albert René – Le Havre
 gallery: []
 
 ---
