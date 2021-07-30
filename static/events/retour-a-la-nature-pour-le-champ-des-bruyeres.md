@@ -14,8 +14,8 @@ booking:
   - date: 2021-09-25 14:30
 address:
   place: Rouen (76)
-  lat: "49.4082497"
-  lon: "1.0700517"
+  lat: "49.4091385"
+  lon: "1.0709751"
 informations:
   note: ''
   rdv: RDV au parc du Champ des Bruyères, au niveau de l’entrée du stade Diochon,
