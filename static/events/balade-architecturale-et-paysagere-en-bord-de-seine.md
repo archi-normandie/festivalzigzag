@@ -13,13 +13,13 @@ booking:
   dates:
   - date: 2021-09-26 10:30
 address:
-  place: ''
-  lat: ''
-  lon: ''
+  place: Freneuse (76)
+  lat: "49.3129714"
+  lon: "1.0787956"
 informations:
   note: Tout public
-  rdv: 'RDV : Parking au-dessus du restaurant le Baillage, à côté du monument aux
-    morts, 76410 Freneuse'
+  rdv: 'RDV : Parking au-dessus du restaurant le Baillage et du monument aux morts,
+    76410 Freneuse'
 gallery: []
 
 ---
