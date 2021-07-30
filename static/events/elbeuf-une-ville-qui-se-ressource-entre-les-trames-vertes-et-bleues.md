@@ -1,6 +1,7 @@
 ---
 title: Elbeuf une ville qui se ressource entre les trames vertes et bleues
-categories: []
+categories:
+- Balade paysagère
 featured: false
 cover:
   src: ''
@@ -9,14 +10,15 @@ cover:
 booking:
   state: ''
   period: ''
-  dates: []
+  dates:
+  - date: 2021-10-02 14:00
 address:
-  place: ''
-  lat: ''
-  lon: ''
+  place: 'Elbeuf-sur-Seine (76) '
+  lat: "49.2912213"
+  lon: "1.0068483"
 informations:
-  note: ''
-  rdv: ''
+  note: Tout public
+  rdv: RDV place Aristide Briant (Hôtel de ville)
 gallery: []
 
 ---
