@@ -13,12 +13,12 @@ booking:
   dates:
   - date: 2021-10-02 10:00
 address:
-  place: ''
-  lat: ''
-  lon: ''
+  place: Pont-Audemer (27)
+  lat: "49.3511212"
+  lon: "0.5133612"
 informations:
   note: ''
-  rdv: RDV devant le cinéma
+  rdv: RDV devant le cinéma Le Ciné - rue des Temps Modernes, 27500 Pont-Audemer
 gallery: []
 
 ---
