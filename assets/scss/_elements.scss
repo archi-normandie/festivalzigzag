@@ -272,9 +272,19 @@ button,
     color: $tertiary;
     background-color: $primary;
   }
+
+  &.is-outlined {
+    background-color: transparent;
+    border: 2px solid $primary;
+    &:hover {
+      background-color: $primary;
+      color: $tertiary;
+    }
+  }
 }
 
-.button-small {
+.button-small,
+.button.is-small {
   padding: $margin/4 $margin/2;
   text-transform: none;
 }
