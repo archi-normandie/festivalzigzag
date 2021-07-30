@@ -4,7 +4,7 @@ categories:
 - Parcours paysage
 featured: false
 cover:
-  src: ''
+  src: "/files/20201010_100409.jpg"
   alt: ''
   legend: ''
 booking:
