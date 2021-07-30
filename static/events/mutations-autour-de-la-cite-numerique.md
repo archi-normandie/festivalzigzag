@@ -4,7 +4,7 @@ categories:
 - Visite
 featured: false
 cover:
-  src: ''
+  src: "/files/30.jpg"
   alt: ''
   legend: ''
 booking:
@@ -28,5 +28,3 @@ Le quartier de l’Eure poursuit sa mue et, chaque année, son paysage urbain é
 **Intervenant :** Pays d’art et d’histoire le Havre Seine Métropole
 
 **Renseignements :** 02 35 22 31 22
-
-RDV : Quai de la Réunion (devant les Bains des Docks) – 76 600 LE HAVRE
