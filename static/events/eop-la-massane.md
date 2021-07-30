@@ -13,9 +13,9 @@ booking:
   dates:
   - date: '2021-09-25'
 address:
-  place: ''
-  lat: ''
-  lon: ''
+  place: Rouen (76)
+  lat: "49.4399102"
+  lon: "1.1008886"
 informations:
   note: 'Tout public. Exposition en accès libre du 24 septembre 2021 au 8 novembre
     2021. '
