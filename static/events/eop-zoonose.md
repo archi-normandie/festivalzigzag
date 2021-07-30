@@ -1,11 +1,12 @@
 ---
 title: 'EOP : ZOOnose'
-categories: []
+categories:
+- parcours photographique
 featured: false
 cover:
-  src: ''
+  src: "/files/zoonose-montage-photographique-christel-jeanne.jpg"
   alt: ''
-  legend: ''
+  legend: ZOOnose © Christel Jeanne
 booking:
   state: ''
   period: ''
