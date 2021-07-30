@@ -13,7 +13,7 @@ booking:
   dates:
   - date: 2021-10-10 10:30
 address:
-  place: ''
+  place: Saint-Étienne-du-Rouvray (76)
   lat: ''
   lon: ''
 informations:
