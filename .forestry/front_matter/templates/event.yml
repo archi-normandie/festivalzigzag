@@ -111,7 +111,3 @@ fields:
   type: image_gallery
   config: {}
   label: Galerie d'images
-pages:
-- static/events/exemple-sans-date.md
-- static/events/exemple-standard.md
-- static/events/exemple.md
