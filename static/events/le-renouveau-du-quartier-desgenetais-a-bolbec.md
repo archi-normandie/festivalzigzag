@@ -4,9 +4,9 @@ categories:
 - Visite
 featured: false
 cover:
-  src: "/files/friche-desgenetais-c-caux-seine-agglo.jpg"
+  src: "/files/pres_projet-friche-desgenetais-bolbec_02-2-002-basse-def.jpg"
   alt: ''
-  legend: Friche Desgenetais © Caux Seine agglo
+  legend: Perspective du projet de la friche Desgenetais © Geoffrey Viard
 booking:
   state: ''
   period: ''

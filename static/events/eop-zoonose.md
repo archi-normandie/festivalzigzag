@@ -1,7 +1,7 @@
 ---
 title: 'EOP : ZOOnose'
 categories:
-- parcours photographique
+- Parcours photographique
 featured: false
 cover:
   src: "/files/zoonose-montage-photographique-christel-jeanne.jpg"
