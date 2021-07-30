@@ -17,7 +17,7 @@ address:
   lat: "49.5773968"
   lon: "0.4893916"
 informations:
-  note: Tous publics. La visite peut se faire dans la continuité de celle de 14h ou
+  note: Tout public. La visite peut se faire dans la continuité de celle de 14h ou
     indépendamment.
   rdv: RDV 5 rue Auguste Desgenétais Bolbec
 gallery: []
