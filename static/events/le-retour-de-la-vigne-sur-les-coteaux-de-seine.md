@@ -14,8 +14,8 @@ booking:
   - date: 2021-10-09 14:00
 address:
   place: La Chapelle-Longueville (27)
-  lat: ''
-  lon: ''
+  lat: "49.1191888"
+  lon: "1.4359856"
 informations:
   note: Tout public, prévoir chaussures et vêtements adaptés aux conditions climatiques.
   rdv: RDV place de l’église de Saint-Pierre-d’Autils
