@@ -1,6 +1,7 @@
 ---
 title: Le retour de la vigne sur les coteaux de Seine
-categories: []
+categories:
+- Balade
 featured: false
 cover:
   src: ''
@@ -9,14 +10,15 @@ cover:
 booking:
   state: ''
   period: ''
-  dates: []
+  dates:
+  - date: 2021-10-09 14:00
 address:
-  place: ''
+  place: La Chapelle-Longueville (27)
   lat: ''
   lon: ''
 informations:
-  note: ''
-  rdv: ''
+  note: Tout public, prévoir chaussures et vêtements adaptés aux conditions climatiques.
+  rdv: RDV place de l’église de Saint-Pierre-d’Autils
 gallery: []
 
 ---
