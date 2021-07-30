@@ -4,7 +4,7 @@ categories:
 - Visite de chantier
 featured: false
 cover:
-  src: ''
+  src: "/files/pers_a_ouest_box_inox_a4.jpg"
   alt: ''
   legend: ''
 booking:
