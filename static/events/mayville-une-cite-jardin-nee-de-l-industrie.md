@@ -4,7 +4,7 @@ categories:
 - Visite
 featured: false
 cover:
-  src: ''
+  src: "/files/31-7.jpg"
   alt: ''
   legend: ''
 booking:
