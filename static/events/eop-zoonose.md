@@ -10,11 +10,12 @@ cover:
 booking:
   state: ''
   period: ''
-  dates: []
+  dates:
+  - date: 2021-09-26 11:00
 address:
-  place: ''
-  lat: ''
-  lon: ''
+  place: Bois-Guillaume (76)
+  lat: "49.48006"
+  lon: "1.11334"
 informations:
   note: ''
   rdv: ''
