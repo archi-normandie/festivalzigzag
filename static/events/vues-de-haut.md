@@ -21,8 +21,8 @@ address:
   lon: "1.0510607"
 informations:
   note: "Les visites empruntent plusieurs escaliers et ruelles en pente, un minimum
-    de forme physique est demandé. Durée 30 à 40 minutes par visite. \nPossibilité
-    de faire les trois visites à la suite."
+    de forme physique est demandé. Durée 30 à 40 minutes par visite (12 places par
+    créneaux). \nPossibilité de faire les trois visites à la suite."
   rdv: 'RDV selon la ou les visites choisies (4 créneaux par visites).
 
 '
@@ -36,8 +36,8 @@ _En collaboration avec Quevilly Habitat et la ville de Grand Quevilly._
 
 **Intervenants :** comédiens et comédiennes
 
-**Réservation** (12 places par créneaux) - **Sélectionnez votre créneau pour chaque visite :**
+**Réservation** - **sélectionnez un créneau pour chaque visite :**
 
-* Mairie Annexe / Centre Culturel Marx Dormoy - RDV place Gabriel Péri : 11H30 /14H / 15H30 / 17H
-* Hôtel de Ville - RDV Esplanade Tony Larue : 11H30 /14H / 15H30 / 17H
-* Immeuble Nymphéas - RDV 1 rue Eugène Boudin : 11H30 /14H / 15H30 / 17H 
+* Mairie Annexe - Centre Culturel Marx Dormoy - RDV place Gabriel Péri : 11H30 / 14H / 15H30 / 17H
+* Hôtel de Ville - RDV Esplanade Tony Larue : 11H30 / 14H / 15H30 / 17H
+* Immeuble Nymphéas - RDV 1 rue Eugène Boudin : 11H30 / 14H / 15H30 / 17H 
