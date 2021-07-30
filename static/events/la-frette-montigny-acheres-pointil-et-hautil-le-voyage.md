@@ -12,11 +12,11 @@ booking:
   state: ''
   period: ''
   dates:
-  - date: 2021-10-02 18:00
+  - date: 2021-10-02 09:30
 address:
   place: La Frette-sur-Seine (95) - Achères (78)
-  lat: ''
-  lon: ''
+  lat: "48.97942"
+  lon: "2.18024"
 informations:
   note: Le parcours est d’environ 15 km. Prévoir un pique-nique pour le midi. A la
     fin de la journée, vers 18h, nous prendrons un verre ensemble pour échanger sur
