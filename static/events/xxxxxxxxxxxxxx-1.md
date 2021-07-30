@@ -1,5 +1,5 @@
 ---
-title: Xxxxxxxxxxxxxx
+title: XX - Workshop Rouen
 categories:
 - Workshop
 featured: false
@@ -12,9 +12,9 @@ booking:
   period: ''
   dates: []
 address:
-  place: ''
-  lat: ''
-  lon: ''
+  place: Rouen (76)
+  lat: "49.4399137"
+  lon: "1.0986999"
 informations:
   note: ''
   rdv: ''
