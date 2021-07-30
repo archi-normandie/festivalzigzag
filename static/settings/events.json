@@ -1,15 +1,32 @@
 {
-  "categories":[
-    "TEST"
-    ,"Parcours"
-    ,"Projection-lecture et échanges"
-    ,"Balade patrimoniale"
-    ,"Rallye vélo"
-    ,"Balade urbaine"
-    ,"Visite"
-    ,"Visite en bateau"
-    ,"Balade fluviale"
-    ,"Randonnée"
-    ,"Balade scénographiée"
+  "categories": [
+    "Parcours",
+    "Balade patrimoniale",
+    "Rallye vélo",
+    "Balade urbaine",
+    "Visite",
+    "Visite en bateau",
+    "Balade fluviale",
+    "Randonnée",
+    "Balade scénographiée",
+    "Parcours urbain",
+    "Parcours photographique",
+    "Visite architecturale",
+    "Balade paysagère",
+    "Jeu d'enquête à vélo",
+    "Balade architecturale",
+    "Balade",
+    "Installation éphémère",
+    "Parcours paysage",
+    "Promenade paysagère",
+    "Table ronde",
+    "Démonstration",
+    "Rencontre",
+    "Visite de chantier",
+    "Visites d’exposition",
+    "Workshop",
+    "Expositions",
+    "Atelier",
+    "Conférence"
   ]
 }

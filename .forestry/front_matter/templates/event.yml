@@ -63,6 +63,11 @@ fields:
       max: 
       labelField: 
     label: Dates
+  - name: link
+    type: text
+    config:
+      required: false
+    label: Lien de réservation
   label: Horaires & réservation
 - name: address
   type: field_group
@@ -112,6 +117,38 @@ fields:
   config: {}
   label: Galerie d'images
 pages:
-- static/events/exemple-sans-date.md
-- static/events/exemple-standard.md
-- static/events/exemple.md
+- static/events/a-la-decouverte-d-une-cite-jardin-emblematique.md
+- static/events/ambition-quartier-republique.md
+- static/events/balade-architecturale-et-paysagere-en-bord-de-seine.md
+- static/events/balade-quevillaise.md
+- static/events/beuzeville-metamorphosee.md
+- static/events/cinema-multisalles-de-pont-audemer.md
+- static/events/deambulation-montivillionne.md
+- static/events/elbeuf-une-ville-qui-se-ressource-entre-les-trames-vertes-et-bleues.md
+- static/events/eop-la-massane.md
+- static/events/eop-zoonose.md
+- static/events/genius-2021-ca-roule.md
+- static/events/l-ancienne-usine-desgenetais.md
+- static/events/l-odyssee-sequanienne.md
+- static/events/la-costiere-du-havre-paysages-de-cadrages-et-d-horizons.md
+- static/events/la-ferme-des-bruyeres.md
+- static/events/la-frette-montigny-acheres-pointil-et-hautil-le-voyage.md
+- static/events/la-maison-du-parc.md
+- static/events/le-grand-quai.md
+- static/events/le-renouveau-du-quartier-desgenetais-a-bolbec.md
+- static/events/le-retour-de-la-vigne-sur-les-coteaux-de-seine.md
+- static/events/le-silence-des-coquilles.md
+- static/events/les-franciscaines.md
+- static/events/les-paysages-de-la-seine.md
+- static/events/mayville-une-cite-jardin-nee-de-l-industrie.md
+- static/events/mutations-autour-de-la-cite-numerique.md
+- static/events/retour-a-la-nature-pour-le-champ-des-bruyeres.md
+- static/events/seine-de-crime.md
+- static/events/toutes-voiles-vers-quillebeuf-une-position-strategique-jusqu-a-la-fin-du-xviiie-siecle.md
+- static/events/un-ete-a-la-halle-aux-poissons.md
+- static/events/vues-de-haut.md
+- static/events/xx-la-ville-en-couleur-saint-etienne-du-rouvray.md
+- static/events/xx-manufacture-des-capucins-vernon.md
+- static/events/xxxxxxxxxxxxxx-1.md
+- static/events/xxxxxxxxxxxxxx.md
+- static/events/xxxxxxxxxxxxxxxxxxx.md

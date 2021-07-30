@@ -2,31 +2,56 @@
   "blocs": [
     {
       "template": "bloc-content",
-      "title": "Exemple de bloc de contenu",
-      "content": "## Contenu d'information de pied de page\n\nNe pas débuter le bloc avec une image, cela provoque un défaut d'affichage.\n\nCe bloc de contenu supporte _la mise en forme_, les [liens](https://example.com \"Exemple de lien\") et les images."
+      "title": "Zigzag 2021",
+      "content": "#### Zigzag - festival d'architecture et des arts de l'espace\n\nDu 25 septembre au 10 octobre 2021\n\nLe long de la vallée de la Seine\n\ndéambulations, performances, installations, randonnées, expositions, parcours, balades, visites ... coordonnés par **le Forum - Maison de l’architecture de Normandie**\n\n* 48 rue Victor Hugo - 76000 ROUEN\n* 02 35 03 40 31\n* contact@man-leforum.fr"
     },
     {
       "template": "bloc-navigation",
       "navigation": [
         {
-          "label": "Réseaux sociaux",
+          "label": "Découvrir le festival",
           "links": [
             {
-              "name": "Facebook",
-              "path": "https://www.facebook.com/zigzagfestivalarchitecture/"
+              "name": "A propos",
+              "path": "https://festivalzigzag.fr/pages/a-propos"
+            },
+            {
+              "name": "Partenaires",
+              "path": "https://festivalzigzag.fr/pages/partenaires"
+            },
+            {
+              "name": "Presse",
+              "path": "https://festivalzigzag.fr/pages/presse"
             }
           ]
         },
         {
-          "label": "Exemple de groupe de liens",
+          "label": "S'inscrire aux événements",
           "links": [
             {
-              "path": "/",
-              "name": "Accueil"
+              "path": "https://festivalzigzag.fr/lieux",
+              "name": "Lieux"
             },
             {
-              "name": "Coordonnées",
-              "path": "/pagse/a-propos#coordonnées"
+              "name": "Agenda",
+              "path": "https://festivalzigzag.fr/agenda"
+            }
+          ]
+        },
+        {
+          "label": "Suivre le festival",
+          "links": [
+            {
+              "name": "Journal du festival",
+              "path": "https://festivalzigzag.fr/journal"
+            },
+            {
+              "name": "Facebook",
+              "path": "https://www.facebook.com/zigzagfestivalarchitecture"
+            },
+            {
+              "name": "Instagram",
+              "path": "https://www.instagram.com/festival_zigzag/"
             }
           ]
         }
@@ -34,8 +59,8 @@
     },
     {
       "template": "bloc-content",
-      "title": "Exemple d'Ours",
-      "content": "# Festival Zigzag\n\n_Le long de la Vallée de la Seine._\n\n## Coordination\n\n* Anne Le Bellego\n* Frédérique Mougeot\n* Marion Vandaele\n* Lucile Tijon\n\n## Coordonnées\n\n* Adresse : 48 rue Victor Hugo 76000 Rouen\n* 02 35 03 40 31\n* [contact@man-leforum.fr](mailto:contact@man-leforum.fr)\n* [man-leforum.fr](http://man-leforum.fr)\n* [LinkedIn](https://www.linkedin.com/company/maison-de-l-architecture-de-normandie-le-forum/)\n* [Facebook](https://www.facebook.com/maisondelarchitecturedenormandieleforum/)\n* [Instagram](https://www.instagram.com/man_leforum/)"
+      "title": "Le Forum",
+      "content": "#### Suivez l'actualité du Forum !\n\nDes expositions toute l'année en accès libre et une programmation culturelle :\n\n* [man-leforum.fr](http://man-leforum.fr/maison-de-l-architecture/)\n* [inscrivez-vous à la newsletter](http://man-leforum.fr/maison-de-l-architecture/infos-pratiques/s-abonner-a-la-newsletter/newsletters.html)\n\n#### Restez connectés !\n\nRejoignez le Forum sur :\n\n* [LinkedIn](https://www.linkedin.com/company/maison-de-l-architecture-de-normandie-le-forum/)\n* [Facebook](https://www.facebook.com/maisondelarchitecturedenormandieleforum/)\n* [Instagram](https://www.instagram.com/man_leforum/)\n\n_#touspourlarchi #zigzagfestivalarchitecture_"
     }
   ]
 }
