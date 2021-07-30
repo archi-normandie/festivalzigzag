@@ -5,9 +5,9 @@ categories:
 - Visites d’exposition
 featured: false
 cover:
-  src: ''
+  src: "/files/img_2399.JPG"
   alt: ''
-  legend: ''
+  legend: "###### © MuséoSeine, le musée de la Seine normande - Caux Seine agglo"
 booking:
   state: ''
   period: ''
