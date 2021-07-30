@@ -4,7 +4,7 @@ categories:
 - Balade paysagère
 featured: false
 cover:
-  src: ''
+  src: "/files/elbeuf.jpg"
   alt: ''
   legend: ''
 booking:
