@@ -112,6 +112,7 @@ fields:
   config: {}
   label: Galerie d'images
 pages:
+- static/events/a-la-decouverte-d-une-cite-jardin-emblematique.md
 - static/events/ambition-quartier-republique.md
 - static/events/balade-architecturale-et-paysagere-en-bord-de-seine.md
 - static/events/balade-quevillaise.md
@@ -135,4 +136,5 @@ pages:
 - static/events/seine-de-crime.md
 - static/events/un-ete-a-la-halle-aux-poissons.md
 - static/events/vues-de-haut.md
+- static/events/xxxxxxxxxxxxxx.md
 - static/events/xxxxxxxxxxxxxxxxxxx.md
