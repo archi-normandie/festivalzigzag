@@ -10,11 +10,13 @@ cover:
 booking:
   state: ''
   period: ''
-  dates: []
+  dates:
+  - date: 2021-09-26 15:00
+  - date: 2021-10-03 15:00
 address:
-  place: ''
-  lat: ''
-  lon: ''
+  place: Le Havre (76)
+  lat: "49.48768"
+  lon: "0.1279833"
 informations:
   note: 'Durée 2h. Tarifs : 7€ et 5 €.'
   rdv: 'RDV : Quai de la Réunion (devant les Bains des Docks) – 76 600 LE HAVRE'
