@@ -36,6 +36,11 @@ fields:
   type: field_group
   config: {}
   fields:
+  - name: link
+    type: text
+    config:
+      required: false
+    label: Lien de réservation
   - name: state
     type: text
     config:
@@ -63,11 +68,6 @@ fields:
       max: 
       labelField: 
     label: Dates
-  - name: link
-    type: text
-    config:
-      required: false
-    label: Lien de réservation
   label: Horaires & réservation
 - name: address
   type: field_group

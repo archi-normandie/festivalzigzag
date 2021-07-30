@@ -4,7 +4,7 @@ categories:
 - Balade architecturale
 featured: false
 cover:
-  src: "/files/caue-freneuse.jpg"
+  src: "/files/zz-caue-76-a-remplacer.jpg"
   alt: ''
   legend: "© C.A.U.E 76"
 booking:
@@ -12,6 +12,7 @@ booking:
   period: ''
   dates:
   - date: 2021-09-26 10:30
+  link: ''
 address:
   place: Freneuse (76)
   lat: "49.3129714"
