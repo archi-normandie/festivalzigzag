@@ -10,7 +10,8 @@ cover:
 booking:
   state: ''
   period: ''
-  dates: []
+  dates:
+  - date: 2021-10-10 10:30
 address:
   place: ''
   lat: ''
