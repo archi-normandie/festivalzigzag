@@ -4,9 +4,9 @@ categories:
 - Balade
 featured: false
 cover:
-  src: ''
+  src: "/files/vignes-christophe-beau-002.jpg"
   alt: ''
-  legend: ''
+  legend: Vignes © C.Beau
 booking:
   state: ''
   period: ''
