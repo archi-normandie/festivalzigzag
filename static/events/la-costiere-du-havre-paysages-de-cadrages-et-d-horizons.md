@@ -13,9 +13,9 @@ booking:
   dates:
   - date: 2021-10-09 10:00
 address:
-  place: ''
-  lat: ''
-  lon: ''
+  place: Le Havre (76)
+  lat: "49.4990472"
+  lon: "0.1061598"
 informations:
   note: ''
   rdv: ''
