@@ -27,10 +27,10 @@ gallery:
 - "/files/dsc_1740_lt.jpg"
 
 ---
-A quoi peut ressembler un écoquartier en milieu rural? 
+A quoi peut ressembler un écoquartier en milieu rural?
 
 Pour répondre à cette question, la visite aborde la genèse du projet livré en 2015 et conçu par l’Atelier XV architectes et Guénolé le Moaligou paysagiste-concepteur. Le parcours sera l’occasion de détailler les étapes stratégiques du projet, depuis l’élaboration du programme jusqu’à la réalisation du chantier, en passant par le montage opérationnel et la conception.
 
 Cette réalisation, qui a pour maître d’ouvrages Logeo Seine et la commune de la Mailleraye (commune nouvelle d’Arelaune-en-Seine), illustre la possibilité de construire en cœur de bourg avec une forte densité de logements, tout en préservant la qualité de vie, l’identité des lieux et les continuités écologiques.
 
-**Intervenants :** Guénolé LE MOALIGOU paysagiste-concepteur et consultant ville durable
+**Intervenant :** Guénolé LE MOALIGOU paysagiste-concepteur et consultant ville durable
