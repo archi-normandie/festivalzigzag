@@ -4,7 +4,7 @@ categories:
 - Parcours
 featured: false
 cover:
-  src: "/files/capture-d-ecran-2019-12-09-a-18-27-27.png"
+  src: "/files/zz-elbeuf-sur-seine-quartier-republique-2.jpg"
   alt: ''
   legend: Le programme de rénovation urbaine en 5 points ©Elbeuf-sur-Seine
 booking:
@@ -12,6 +12,7 @@ booking:
   period: ''
   dates:
   - date: 2021-10-01 18:00
+  link: ''
 address:
   place: Elbeuf-sur-Seine (76)
   lat: "49.2902443"
