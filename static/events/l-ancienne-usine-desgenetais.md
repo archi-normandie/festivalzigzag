@@ -1,11 +1,12 @@
 ---
 title: L’ancienne usine Desgenétais
-categories: []
+categories:
+- Visite
 featured: false
 cover:
-  src: ''
+  src: "/files/friche-desgenetais-c-caux-seine-agglo.jpg"
   alt: ''
-  legend: ''
+  legend: Friche Desgenétais © Caux Seine agglo
 booking:
   state: ''
   period: ''
