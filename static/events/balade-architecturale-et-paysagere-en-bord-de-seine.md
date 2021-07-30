@@ -4,9 +4,9 @@ categories:
 - Balade architecturale
 featured: false
 cover:
-  src: ''
+  src: "/files/caue-freneuse.jpg"
   alt: ''
-  legend: ''
+  legend: "© C.A.U.E 76"
 booking:
   state: ''
   period: ''
