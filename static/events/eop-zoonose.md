@@ -30,6 +30,6 @@ La photographe met en scène des animaux sauvages, des espèces rares et menacé
 
 Dans ses photos, les animaux semblent avoir repris leur territoire, celui d’un domaine sans présence humaine, une ville muette et déserte permettant à la vie sauvage de revenir et de s’épanouir. Christel Jeanne recréée un monde, joue avec l’imaginaire collectif, et interroge la place des animaux sauvages dans notre société, notre rapport à la ville et au monde. Zoonose, désigne littéralement des bactéries transmises des animaux vertébrés à l’homme et vice versa. Ici lion, autruche, girafe profitent du Trocadéro, de la place de la République, de la Bastille pour s’ébattre loin des préoccupations sanitaires.
 
-_Avec le soutien de la ville de Bois-Guillaume, la Métropole Rouen Normandie, le Club de la Vatine et Helio service._  
-   
-**Intervenant :** Visite commentée par Christel JEANNE et la Loge des auteurs photographes.
+_Avec le soutien de la ville de Bois-Guillaume, la Métropole Rouen Normandie, le Club de la Vatine et Helio service._
+
+**Intervenant :** Christel JEANNE et la Loge des auteurs photographes
