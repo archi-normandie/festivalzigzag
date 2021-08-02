@@ -11,35 +11,37 @@
           v-html="blockAgendaHeader.html"
         />
       </div>
-      <div class="events-filter buttons">
+      <div>
         <button
           class="button button-small"
-          :class="isCurrentCity(city) ? 'is-current' : null"
-          v-for="(city, index) in cities"
-          :key="index"
-          @click="setCurrentCity(city)"
+          :class="isSortedBy('city') ? 'is-current' : null"
+          @click="setSortedBy('city')"
         >
-          {{ city.name }}
+          Afficher par ville
         </button>
-      </div>
-      <div class="events-filter buttons">
         <button
           class="button button-small"
-          :class="isCurrentType(type) ? 'is-current' : null"
-          v-for="(type, index) in types"
-          :key="index"
-          @click="setCurrentType(type)"
+          :class="isSortedBy('date') ? 'is-current' : null"
+          @click="setSortedBy('date')"
         >
-          {{ type.name }}
+          Afficher par date
         </button>
       </div>
       <div class="events">
-        <EventTeaser
-          v-for="event in filteredEvents"
-          :key="event.slug"
-          :event="event"
-          :class="event.featured ? 'event-pinned is-featured' : null"
-        />
+        <div
+          v-for="(groupedEvents, index) in sortedEvents"
+          :key="index"
+        >
+          <h2 class="event event-pinned event-teaser">
+            {{ groupedEvents.name }}
+          </h2>
+          <EventTeaser
+            v-for="event in groupedEvents.events"
+            :key="event.slug"
+            :event="event"
+            :class="event.featured ? 'event-pinned is-featured' : null"
+          />
+        </div>
       </div>
     </div>
   </main>
@@ -55,9 +57,11 @@ export default {
   data () {
     this.defaultCity = { name: 'Toutes' }
     this.defaultType = { name: 'Tous' }
+    this.defaultSorted = 'date'
     return {
       currentCity: this.defaultCity,
-      currentType: this.defaultType
+      currentType: this.defaultType,
+      currentSorted: this.defaultSorted
     }
   },
   computed: {
@@ -66,8 +70,9 @@ export default {
       const events = Object.entries(contents)
         .filter(entry => entry[1].dir === 'events')
         .map(entry => entry[1])
+      return events
       // Featured first
-      return events.sort(event => !event.featured)
+      // return events.sort(event => !event.featured)
     },
     regularEvents () {
       return this.events
@@ -117,13 +122,73 @@ export default {
         return event.address.place === this.currentCity.name ||
         event.categories.includes(this.currentType.name)
       })
+    },
+    eventsByCity () {
+      const eventsByCity = this.events
+      eventsByCity.sort((a, b) => {
+        if (!a.address || !b.address) { return 0 }
+        if (a.address.place < b.address.place) { return -1 }
+        if (a.address.place > b.address.place) { return 1 }
+        return 0
+      })
+      return eventsByCity.reduce((previous, current) => {
+        if (!previous[current.address.place]) {
+          previous[current.address.place] = {
+            name: current.address.place,
+            events: []
+          }
+        }
+        previous[current.address.place].events.push(current)
+        return previous
+      }, {})
+    },
+    eventsByMonth () {
+      const eventsByMonth = this.events
+      eventsByMonth.sort((a, b) => {
+        if (!a.booking.dates[0] || !b.booking.dates[0]) { return 0 }
+        if (a.booking.dates[0] < b.booking.dates[0]) { return -1 }
+        if (a.booking.dates[0] > b.booking.dates[0]) { return 1 }
+        return 0
+      })
+      return eventsByMonth.reduce((previous, current) => {
+        let currentMonth = 'Non planifié'
+        if (current.booking.dates[0]) {
+          const formattedDate = new Date(current.booking.dates[0].date)
+            .toLocaleString('default', { year: 'numeric', month: 'long' })
+          currentMonth = formattedDate.charAt(0).toUpperCase() + formattedDate.slice(1)
+        }
+        if (!previous[currentMonth]) {
+          previous[currentMonth] = {
+            name: currentMonth,
+            events: []
+          }
+        }
+        previous[currentMonth].events.push(current)
+        return previous
+      }, {})
+    },
+    sortedEvents () {
+      switch (this.currentSorted) {
+        case 'date' :
+          return this.eventsByMonth
+        default :
+          return this.eventsByCity
+      }
     }
+  },
+  mounted () {
+    // this.sortedEvents = this.eventsByCity
   },
   methods: {
     isCurrentCity (city) { return city === this.currentCity },
     setCurrentCity (city) { this.currentCity = city },
     isCurrentType (type) { return type === this.currentType },
-    setCurrentType (type) { this.currentType = type }
+    setCurrentType (type) { this.currentType = type },
+
+    setSortedBy (by) { this.currentSorted = by },
+    isSortedBy (by) { return this.currentSorted === by },
+    setEventsByCity () { this.sortedEvents = this.eventsByCity },
+    setEventsByMonth () { this.sortedEvents = this.eventsByMonth }
   },
   head () {
     const url = process.env.url + '/agenda'
