@@ -1,5 +1,5 @@
 ---
-title: 'Zigzag - festival d’architecture et des arts de l’espace '
+title: 'Festival d’architecture et des arts de l’espace '
 description: Festival Zigzag 2021, édito.
 
 ---
