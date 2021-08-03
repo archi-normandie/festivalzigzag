@@ -5,7 +5,7 @@ categories:
 - Atelier
 featured: false
 cover:
-  src: "/files/3-pecher-a-bord-du-tatihou-au-dessus-des-plages-englouties-jbilley-ajacquin-epirot-ecole-nationale-superieure-de-paysage.jpg"
+  src: "/files/zz-la-caravane-des-paysages-odyssee.jpg"
   alt: ''
   legend: Pêcher à bord du Tatihou au-dessus des plages englouties © JBilley, AJacquin,
     EPirot, École nationale supérieure de paysage
@@ -14,6 +14,7 @@ booking:
   period: ''
   dates:
   - date: 2021-10-06 14:00
+  link: ''
 address:
   place: Rouen (76)
   lat: "49.4397217"

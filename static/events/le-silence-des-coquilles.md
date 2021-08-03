@@ -5,7 +5,7 @@ categories:
 - Rencontre
 featured: false
 cover:
-  src: "/files/julia-borderie-eloise-le-gallo-pascal-trannoy.jpg"
+  src: "/files/zz-le-silence-des-coquilles-le-havre.jpg"
   alt: ''
   legend: Julia Borderie & Eloïse Le Gallo © Pascal Trannoy
 booking:
@@ -13,6 +13,7 @@ booking:
   period: ''
   dates:
   - date: 2021-10-09 10:00
+  link: ''
 address:
   place: Le Havre (76)
   lat: "49.484545"

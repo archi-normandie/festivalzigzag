@@ -4,7 +4,7 @@ categories:
 - Expositions
 featured: false
 cover:
-  src: "/files/1-imaginons-la-vallee-de-la-seine-de-demain-j-billey-a-jacquin-e-pirot-ecole-nationale-superieure-de-paysage.jpg"
+  src: "/files/zz-la-caravane-des-paysages.jpg"
   alt: ''
   legend: Imaginons la Vallée de la Seine de demain © J.Billey, A. Jacquin, E. Pirot,
     École nationale supérieure de paysage
@@ -12,6 +12,7 @@ booking:
   state: ''
   period: Du 25 septembre au 10 octobre 2021
   dates: []
+  link: ''
 address:
   place: Rouen (76)
   lat: "49.4397217"

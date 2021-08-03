@@ -4,7 +4,7 @@ categories:
 - Visite architecturale
 featured: false
 cover:
-  src: "/files/les-franciscaines-2021-pierre-olivier-deschamps-vu-basse-def.jpg"
+  src: "/files/zz-deauville-les-franciscaines.jpg"
   alt: ''
   legend: 'Les Franciscaines © Pierre-Olivier Deschamps '
 booking:
@@ -12,6 +12,7 @@ booking:
   period: ''
   dates:
   - date: 2021-10-03 11:00
+  link: ''
 address:
   place: Deauville (14)
   lat: "49.3544178"
