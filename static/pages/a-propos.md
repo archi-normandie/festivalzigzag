@@ -46,11 +46,11 @@ Depuis 2019, la MaN coordonne Zigzag - festival d’architecture et des arts de 
 
 #### Coordination
 
-* Anne Le Bellego
-* Frédérique Mougeot
-* Marion Vandaele
-* Léa Quénet
-* Gilles Plouchard
+* Anne Le Bellego, directrice
+* Frédérique Mougeot, chargée de mission
+* Marion Vandaele, chargée de communication et de médiation culturelle
+* Léa Quénet, volontaire en service civique
+* Gilles Plouchard, chargé de mission
 
 #### Contact
 
