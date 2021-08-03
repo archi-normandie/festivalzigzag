@@ -4,13 +4,13 @@ title: Mentions légales
 ---
 Le site **festivalzigzag.fr** est édité par **la Maison de l'architecture de Normandie - le Forum** :
 
-Directeur de publication : Pascal Victor, président de la MaN - le Forum  
+Directeur de publication : Paterne Bulcourt, président de la MaN - le Forum  
 Coordination éditoriale : Anne Le Bellégo, directrice de la MaN - le Forum  
-Textes : Frédérique Mougeot, Lucile Tijon, Marion Vandaele  
+Textes : Frédérique Mougeot, Marion Vandaele, Léa Quénet  
 Réalisation : Maison de l'architecture de Normandie - le Forum
 
-Développement web : [Alexandre Ronsaut, ApolloNet](https://apollonet.fr/)  
-Graphisme : Buildozer  
+Conception Web : [Ziopod](https://github.com/ziopod)  
+Identité graphique : [Agence Buildozer](http://www.buildozer.fr/)  
 Le site est hébergé par OVH
 
 **Droit d'auteur et copyright**  
