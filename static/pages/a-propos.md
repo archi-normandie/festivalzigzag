@@ -25,7 +25,7 @@ Plus de trente événements sont programmés d’Achères à Deauville pour appr
 * GONFREVILLE-L’ORCHER (76)
 * GRAND QUEVILLY (76)
 * LA CHAPELLE-LONGUEVILLE (27)
-* LA FRETTE-SUR-SEINE (95) 
+* LA FRETTE-SUR-SEINE (95)
 * LE HAVRE (76)
 * MONTIVILLIERS (76)
 * NOTRE-DAME-DE-BLIQUETUIT (76)
@@ -42,7 +42,7 @@ La Maison de l’architecture de Normandie - le Forum est une structure de médi
 
 La MaN située au cœur du quartier Saint-Marc à Rouen, est un lieu culturel dédié à l’architecture. Il conjugue simultanément une programmation saisonnière dans et hors les murs à l’échelle régionale. L’ensemble de sa programmation est au croisement de divers champs artistiques et disciplinaires dans un dialogue permanent avec les acteurs de l’acte de construire et de la culture. Il décline : expositions, rencontres, visites, cours, voyages d’étude, résidences, actions pédagogiques...
 
-Depuis 2019, la MaN coordonne Zigzag - festival d’architecture et des arts de l’espace mené dans une démarche créative et participative. Il a enregistré plus de 1800 visiteurs en 2020.
+**Depuis 2019, la MaN coordonne Zigzag - festival d’architecture et des arts de l’espace mené dans une démarche créative et participative. Il a enregistré plus de 1800 visiteurs en 2020.**
 
 #### Coordination
 
@@ -54,10 +54,10 @@ Depuis 2019, la MaN coordonne Zigzag - festival d’architecture et des arts de 
 
 #### Contact
 
-* 48 rue Victor Hugo, 76000 Rouen 
-* 02 35 03 40 31 
+* 48 rue Victor Hugo, 76000 Rouen
+* 02 35 03 40 31
 * contact@man-leforum.fr
 
 [**man-leforum.fr**](http://man-leforum.fr/maison-de-l-architecture/ "Site web le Forum")
 
-[**#touspourlarchi **](https://www.facebook.com/hashtag/touspourlarchi)[**#zigzagfestivalarchitecture**](https://www.facebook.com/hashtag/zigzagfestivalarchitecture)
+[__#touspourlarchi **__](https://www.facebook.com/hashtag/touspourlarchi)[#zigzagfestivalarchitecture**](https://www.facebook.com/hashtag/zigzagfestivalarchitecture)
