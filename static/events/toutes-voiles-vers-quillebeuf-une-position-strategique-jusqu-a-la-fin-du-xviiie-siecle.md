@@ -5,7 +5,7 @@ categories:
 - Visites d’exposition
 featured: false
 cover:
-  src: "/files/img_2399.JPG"
+  src: "/files/zz-museoseine-rives-en-seine.jpg"
   alt: ''
   legend: "###### © MuséoSeine, le musée de la Seine normande - Caux Seine agglo"
 booking:
@@ -14,6 +14,7 @@ booking:
   dates:
   - date: 2021-09-29 16:00
   - date: 2021-09-29 16:45
+  link: ''
 address:
   place: Rives-en-Seine (76)
   lat: "49.5243844"

@@ -4,14 +4,15 @@ categories:
 - Jeu d'enquête à vélo
 featured: false
 cover:
-  src: "/files/img_20201018_162827.jpg"
+  src: "/files/zz-seine-de-crime-jeu-d-enquete.jpg"
   alt: ''
-  legend: "©Pole métropolitain Rouen Seine-Eure"
+  legend: "© Pole métropolitain Rouen Seine-Eure"
 booking:
   state: ''
   period: ''
   dates:
   - date: 2021-10-03 13:30
+  link: ''
 address:
   place: Elbeuf-sur-Seine (76) – Les Damps (27)
   lat: "49.2847242"

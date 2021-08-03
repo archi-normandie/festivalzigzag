@@ -4,7 +4,7 @@ categories:
 - Visite
 featured: false
 cover:
-  src: "/files/bruyeres-0043.jpg"
+  src: "/files/zz-le-parc-des-bruyere.jpg"
   alt: ''
   legend: ''
 booking:
@@ -12,6 +12,7 @@ booking:
   period: ''
   dates:
   - date: 2021-09-25 14:30
+  link: ''
 address:
   place: Rouen (76)
   lat: "49.4091385"

@@ -4,7 +4,7 @@ categories:
 - Visite
 featured: false
 cover:
-  src: "/files/img_0392.JPG"
+  src: "/files/zz-vues-de-haut.jpg"
   alt: ''
   legend: "© Vues de haut - Zigzag 2020"
 booking:
@@ -15,6 +15,7 @@ booking:
   - date: 2021-10-09 14:00
   - date: 2021-10-09 15:30
   - date: 2021-10-09 17:00
+  link: ''
 address:
   place: Grand Quevilly (76)
   lat: "49.4065425"
@@ -40,4 +41,4 @@ _En collaboration avec Quevilly Habitat et la ville de Grand Quevilly._
 
 * Mairie Annexe - Centre Culturel Marx Dormoy - RDV place Gabriel Péri : 11H30 / 14H / 15H30 / 17H
 * Hôtel de Ville - RDV Esplanade Tony Larue : 11H30 / 14H / 15H30 / 17H
-* Immeuble Nymphéas - RDV 1 rue Eugène Boudin : 11H30 / 14H / 15H30 / 17H 
+* Immeuble Nymphéas - RDV 1 rue Eugène Boudin : 11H30 / 14H / 15H30 / 17H

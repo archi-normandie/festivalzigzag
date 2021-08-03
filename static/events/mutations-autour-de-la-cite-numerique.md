@@ -4,7 +4,7 @@ categories:
 - Visite
 featured: false
 cover:
-  src: "/files/30.jpg"
+  src: "/files/zz-label-pays-art-et-histoire-le-havre.jpg"
   alt: ''
   legend: ''
 booking:
@@ -13,6 +13,7 @@ booking:
   dates:
   - date: 2021-09-26 15:00
   - date: 2021-10-03 15:00
+  link: ''
 address:
   place: Le Havre (76)
   lat: "49.48768"

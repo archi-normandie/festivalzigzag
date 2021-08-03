@@ -4,7 +4,7 @@ categories:
 - Table ronde
 featured: false
 cover:
-  src: "/files/l1110661-floriandelon.jpg"
+  src: "/files/zz-la-halle-aux-poissons-le-havre.jpg"
   alt: ''
   legend: "© Florian Delon"
 booking:
@@ -12,6 +12,7 @@ booking:
   period: ''
   dates:
   - date: 2021-10-01 18:00
+  link: ''
 address:
   place: Le Havre (76)
   lat: "49.4873787"
