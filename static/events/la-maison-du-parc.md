@@ -4,7 +4,7 @@ categories:
 - Visite de chantier
 featured: false
 cover:
-  src: "/files/pers_a_ouest_box_inox_a4.jpg"
+  src: "/files/zz-pnr-boucle-de-la-seine.jpg"
   alt: ''
   legend: ''
 booking:
@@ -12,6 +12,7 @@ booking:
   period: ''
   dates:
   - date: 2021-09-25 10:30
+  link: ''
 address:
   place: Notre-Dame-de-Bliquetuit (76)
   lat: "49.497661"

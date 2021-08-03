@@ -4,7 +4,7 @@ categories:
 - Balade
 featured: false
 cover:
-  src: "/files/vignes-christophe-beau-002.jpg"
+  src: "/files/zz-la-chapelle-longuevilel-vignes.jpg"
   alt: ''
   legend: Vignes © C.Beau
 booking:
@@ -12,6 +12,7 @@ booking:
   period: ''
   dates:
   - date: 2021-10-09 14:00
+  link: ''
 address:
   place: La Chapelle-Longueville (27)
   lat: "49.1191888"

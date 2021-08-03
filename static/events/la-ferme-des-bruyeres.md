@@ -4,7 +4,7 @@ categories:
 - Visite
 featured: false
 cover:
-  src: "/files/bruyeres-0038.jpg"
+  src: "/files/zz-ferme-des-bruyeres.jpg"
   alt: ''
   legend: ''
 booking:
@@ -12,6 +12,7 @@ booking:
   period: ''
   dates:
   - date: 2021-10-10 10:30
+  link: ''
 address:
   place: Saint-Étienne-du-Rouvray (76)
   lat: "49.4057341"
