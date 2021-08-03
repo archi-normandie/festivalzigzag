@@ -4,7 +4,7 @@ categories:
 - Promenade paysagère
 featured: false
 cover:
-  src: "/files/la-costiere-du-havre-2-franck-gaillet.jpg"
+  src: "/files/zzcostiere-du-havre.jpg"
   alt: ''
   legend: "© Franck Gaillet"
 booking:
@@ -12,6 +12,7 @@ booking:
   period: ''
   dates:
   - date: 2021-10-09 10:00
+  link: ''
 address:
   place: Le Havre (76)
   lat: "49.4990472"

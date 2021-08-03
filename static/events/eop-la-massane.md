@@ -4,7 +4,7 @@ categories:
 - Parcours photographique
 featured: false
 cover:
-  src: "/files/mhl_4252_bd.jpg"
+  src: "/files/zz-eop-la-massane.jpg"
   alt: ''
   legend: " La Massane © Marie-Hélène Labat"
 booking:
@@ -12,6 +12,7 @@ booking:
   period: ''
   dates:
   - date: '2021-09-25'
+  link: ''
 address:
   place: Rouen (76)
   lat: "49.4399102"

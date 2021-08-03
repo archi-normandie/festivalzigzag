@@ -18,7 +18,7 @@ informations:
     (autres accès possibles pour les personnes à mobilité réduite, par le parking de la médiathèque Renée Anquetil et par les stationnements publics dans l’opération de logements)
 cover:
   blocs: []
-  src: "/files/visite_ecoquartier_arelaune-en-seine-1-g-_le_moaligou.jpg"
+  src: "/files/zz-la-mailleraye-ecoquartier.jpg"
   alt: Description de l'image
   legend: "© G. Le Moaligou"
 featured: false

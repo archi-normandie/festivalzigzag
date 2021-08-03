@@ -4,7 +4,7 @@ categories:
 - Parcours photographique
 featured: false
 cover:
-  src: "/files/zoonose-montage-photographique-christel-jeanne.jpg"
+  src: "/files/zz-eop-zoonose.jpg"
   alt: ''
   legend: ZOOnose © Christel Jeanne
 booking:
@@ -12,6 +12,7 @@ booking:
   period: ''
   dates:
   - date: 2021-09-26 11:00
+  link: ''
 address:
   place: Bois-Guillaume (76)
   lat: "49.48006"
