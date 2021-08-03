@@ -9,8 +9,9 @@ cover:
   legend: ''
 booking:
   state: ''
-  period: 'Du 25 septembre au 10 octobre '
+  period: Du 25 septembre au 10 octobre 2021
   dates: []
+  link: ''
 address:
   place: Le Havre (76)
   lat: "49.4892706"
