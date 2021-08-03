@@ -2,7 +2,7 @@
 title: Les paysages de la Seine
 categories:
 - Expositions
-featured: false
+featured: true
 cover:
   src: "/files/zz-la-caravane-des-paysages.jpg"
   alt: ''
@@ -10,7 +10,7 @@ cover:
     École nationale supérieure de paysage
 booking:
   state: ''
-  period: Du 25 septembre au 10 octobre 2021
+  period: du 25 septembre au 10 octobre 2021
   dates: []
   link: ''
 address:
