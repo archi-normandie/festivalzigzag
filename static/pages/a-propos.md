@@ -1,17 +1,13 @@
 ---
-title: Zigzag 2020
-description: Festival Zigzag 2020, édito.
+title: Zigzag 2021
+description: Festival Zigzag 2021, édito.
 
 ---
-## Télécharger le programme
-
-<a class="button" download href="/files/zig-zag-2020-affiche-programme-40x60-web-vdef.pdf">Télécharger</a>
-
 ## À propos
 
 **Visiter, arpenter, explorer l’espace, questionner la perspective, les dimensions et les échelles, le réel et l’imaginaire.**
 
-**La seconde édition de _Zigzag – festival d’architecture et des arts de l’espace_, fort du succès de l’an dernier, est une nouvelle invitation à découvrir, comprendre et participer aux transformations d’un territoire en mouvement, celui de la vallée de la Seine.**
+**La troisième édition de _Zigzag – festival d’architecture et des arts de l’espace_, fort du succès de l’an dernier, est une nouvelle invitation à découvrir, comprendre et participer aux transformations d’un territoire en mouvement, celui de la vallée de la Seine.**
 
 La Seine dessine des paysages variés, où villes, campagnes et zones industrielles s’égrènent dans leur diversité de tailles, d’identités ou d’enjeux. Elles s’ancrent dans des réalités historiques, géographiques, économiques diverses dont les usages et les inter-relations évoluent et se ré-inventent. Comment les regarder ? Comment s’approprier ces espaces en transformation ? Comment en faire des lieux de vie pour demain ?
 
@@ -19,23 +15,28 @@ Plus de trente événements sont programmés d’Achères à Deauville pour appr
 
 ## Le long de la Vallée de la Seine
 
-* Achères, 78
-* Deauville, 14
-* Elbeuf-sur-Seine, 76
-* Gaillon, 27
-* Goustranville, 14
-* Grand Quevilly, 76
-* La Bouille, 76
-* La Mailleraye-sur-Seine, 76
-* Le Havre, 76
-* Moulineaux, 76
-* Port-Mort, 27
-* Quillebeuf-sur-Seine, 76
-* Rives-en-Seine, 76
-* Rouen, 76
-* Saint-Arnoult, 76
-* Val-de-Reuil, 27
-* Vernon, 27
+* ACHÈRES (78)
+* ARELAUNE-EN-SEINE (76)
+* BEUZEVILLE (27)
+* BOIS-GUILLAUME (76)
+* BOLBEC (76)
+* DEAUVILLE (14)
+* ELBEUF-SUR-SEINE (76)
+* LES DAMPS (27)
+* FRENEUSE (76)
+* GONFREVILLE-L’ORCHER (76)
+* GRAND QUEVILLY (76)
+* LA CHAPELLE-LONGUEVILLE (27)
+* LA FRETTE-SUR-SEINE (95) 
+* LE HAVRE (76)
+* MONTIVILLIERS (76)
+* NOTRE-DAME-DE-BLIQUETUIT (76)
+* PONT-AUDEMER (27)
+* PORT-JÉRÔME-SUR-SEINE (76)
+* RIVES-EN-SEINE (76)
+* ROUEN (76)
+* SAINT-ÉTIENNE-DU-ROUVRAY (76)
+* VERNON (27)
 
 ## Le Forum, Maison de l'Architecture de Normandie
 
