@@ -55,14 +55,5 @@ Nous remercions toutes les personnes qui ont permis la mise en œuvre de ce fest
 * Anne Le Bellego
 * Frédérique Mougeot
 * Marion Vandaele
-* Lucile Tijon
-
-### Coordonnées
-
-* Adresse : 48 rue Victor Hugo 76000 Rouen
-* 02 35 03 40 31
-* [contact@man-leforum.fr](mailto:contact@man-leforum.fr)
-* [man-leforum.fr](http://man-leforum.fr)
-* [LinkedIn](https://www.linkedin.com/company/maison-de-l-architecture-de-normandie-le-forum/)
-* [Facebook](https://www.facebook.com/maisondelarchitecturedenormandieleforum/)
-* [Instagram](https://www.instagram.com/man_leforum/)
+* Léa Quénet
+* Gilles Plouchard
