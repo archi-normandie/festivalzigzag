@@ -4,7 +4,7 @@ categories:
 - Parcours urbain
 featured: false
 cover:
-  src: "/files/zz2021_centre_ville_montivilliers_cred_google_earth-002.jpg"
+  src: "/files/zz-montivilliers.jpg"
   alt: ''
   legend: ''
 booking:
@@ -12,6 +12,7 @@ booking:
   period: ''
   dates:
   - date: 2021-10-10 10:00
+  link: ''
 address:
   place: Montivilliers (76)
   lat: "49.5510838"

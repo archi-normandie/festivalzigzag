@@ -4,7 +4,7 @@ categories:
 - Visite architecturale
 featured: false
 cover:
-  src: "/files/cinema-zigzag-1-002.jpg"
+  src: "/files/zz-le-cine-pont-audemer.jpg"
   alt: ''
   legend: ''
 booking:
@@ -12,6 +12,7 @@ booking:
   period: ''
   dates:
   - date: 2021-10-02 10:00
+  link: ''
 address:
   place: Pont-Audemer (27)
   lat: "49.3511212"
