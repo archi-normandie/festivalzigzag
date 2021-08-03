@@ -60,4 +60,6 @@ La MaN située au cœur du quartier Saint-Marc à Rouen, est un lieu culturel d�
 
 [**man-leforum.fr**](http://man-leforum.fr/maison-de-l-architecture/ "Site web le Forum")
 
-[__#touspourlarchi **__](https://www.facebook.com/hashtag/touspourlarchi)[#zigzagfestivalarchitecture**](https://www.facebook.com/hashtag/zigzagfestivalarchitecture)
+[**#touspourlarchi**](https://www.facebook.com/hashtag/touspourlarchi)
+
+[**#zigzagfestivalarchitecture**]( https://www.facebook.com/hashtag/zigzagfestivalarchitecture)
