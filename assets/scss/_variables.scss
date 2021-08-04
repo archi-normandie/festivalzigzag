@@ -24,6 +24,7 @@ $bold: 700;
 $primary: #2d8d9d;
 $secondary: #056B87;
 $tertiary: #f1e63c;
+$primary-invert: $tertiary;
 
 $white: #fff;
 $grey-light: #f4f4f4;
@@ -33,6 +34,7 @@ $black-light: #222;
 $black: #000;
 
 $text-color: #054059;
+$text-color-invert: $white;
 
 // Margins, paddings, borders.
 
@@ -43,9 +45,10 @@ $margins-large: 0 0 $line-height * 2 0;
 $margins-compact: 0 0 0.5rem 0;
 $padding: 1.25rem;
 $paddings-small: 0.35rem 0.8rem 0.2rem;
-$paddings: 0.6rem 0.8rem 0.5rem;
+$paddings: 0.6rem 0.8rem 0.4rem;
 $paddings-large: 1.6rem 1.5rem 1.5rem;
-$border: 4 * $onepix;
+$border: $onepix * 3 solid transparent;
+$border-radius: 4 * $onepix;
 
 // Media queries
 

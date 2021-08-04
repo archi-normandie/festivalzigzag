@@ -12,20 +12,20 @@
         />
       </div>
       <div>
-        <button
-          class="button button-small"
+        <Button
+          class="button is-small"
           :class="isSortedBy('city') ? 'is-current' : null"
-          @click="setSortedBy('city')"
+          @click.native="setSortedBy('city')"
         >
           Afficher par ville
-        </button>
-        <button
-          class="button button-small"
+        </Button>
+        <Button
+          class="button is-small"
           :class="isSortedBy('date') ? 'is-current' : null"
-          @click="setSortedBy('date')"
+          @click.native="setSortedBy('date')"
         >
           Afficher par date
-        </button>
+        </Button>
       </div>
       <div class="events">
         <div
@@ -49,10 +49,12 @@
 
 <script>
 import EventTeaser from '~/components/Event/Teaser'
+import Button from '~/components/Elements/Button'
 export default {
   name: 'Agenda',
   components: {
-    EventTeaser
+    EventTeaser,
+    Button
   },
   data () {
     this.defaultCity = { name: 'Toutes' }
@@ -124,6 +126,7 @@ export default {
       })
     },
     eventsByCity () {
+      console.log('BY CITY')
       const eventsByCity = this.events
       eventsByCity.sort((a, b) => {
         if (!a.address || !b.address) { return 0 }

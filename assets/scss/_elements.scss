@@ -249,47 +249,47 @@ a {
 
 // Button
 
-button,
-.button,
-.more-link {
-  display: inline-block;
-  margin-bottom: $margin/2;
-  padding: $margin/2 $margin;
-  background-color: $tertiary;
-  border: 0;
-  border-radius: $border;
-  color: $primary;
-  font-size: $fs18;
-  text-transform: uppercase;
-  text-decoration: none;
-  box-shadow: 0 -1px 0 $tertiary, 0 $onepix*2 0 darken($tertiary, 10%);
-  cursor: pointer;
+// button,
+// .button,
+// .more-link {
+//   display: inline-block;
+//   margin-bottom: $margin/2;
+//   padding: $margin/2 $margin;
+//   background-color: $tertiary;
+//   border: 0;
+//   border-radius: $border-radius;
+//   color: $primary;
+//   font-size: $fs18;
+//   text-transform: uppercase;
+//   text-decoration: none;
+//   box-shadow: 0 -1px 0 $tertiary, 0 $onepix*2 0 darken($tertiary, 10%);
+//   cursor: pointer;
 
-  &:focus,
-  &:hover,
-  &.is-current {
-    box-shadow: 0 -2px 0 $white, 0 $onepix 0 darken($tertiary, 12%);
-    color: $tertiary;
-    background-color: $primary;
-  }
+//   &:focus,
+//   &:hover,
+//   &.is-current {
+//     box-shadow: 0 -2px 0 $white, 0 $onepix 0 darken($tertiary, 12%);
+//     color: $tertiary;
+//     background-color: $primary;
+//   }
 
-  &.is-outlined {
-    background-color: transparent;
-    border: 2px solid $primary;
-    &:hover {
-      background-color: $primary;
-      color: $tertiary;
-    }
-  }
-}
+//   &.is-outlined {
+//     background-color: transparent;
+//     border: 2px solid $primary;
+//     &:hover {
+//       background-color: $primary;
+//       color: $tertiary;
+//     }
+//   }
+// }
 
-.button-small,
-.button.is-small {
-  padding: $margin/4 $margin/2;
-  text-transform: none;
-}
+// .button-small,
+// .button.is-small {
+//   padding: $margin/4 $margin/2;
+//   text-transform: none;
+// }
 
-.buttons .button:not(:last-child) { margin-right: $margin / 3; }
+// .buttons .button:not(:last-child) { margin-right: $margin / 3; }
 
 // Table
 

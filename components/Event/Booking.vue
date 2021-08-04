@@ -19,16 +19,20 @@
         {{ booking.state }}
       </p>
     </div>
-    <a
+    <Button
       v-if="booking.link"
       :href="booking.link"
-      class="button is-outlined is-small"
-    >Réserver</a>
+      class="button is-primary is-outlined is-small"
+    >
+      Réserver
+    </Button>
   </div>
 </template>
 <script>
+import Button from '~/components/Elements/Button'
 export default {
   name: 'EventBooking',
+  components: { Button },
   props: {
     booking: {
       type: Object,
