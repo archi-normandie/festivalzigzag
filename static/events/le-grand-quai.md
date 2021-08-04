@@ -4,14 +4,15 @@ categories:
 - Parcours paysage
 featured: false
 cover:
-  src: "/files/20201010_100409.jpg"
+  src: "/files/zz-le-grand-quai-le-havre.jpg"
   alt: ''
-  legend: ''
+  legend: "© Zigzag 2020"
 booking:
   state: ''
   period: ''
   dates:
   - date: 2021-10-02 14:30
+  link: ''
 address:
   place: Le Havre (76)
   lat: "49.4849699"

@@ -4,7 +4,7 @@ categories:
 - Visite
 featured: false
 cover:
-  src: "/files/friche-desgenetais-c-caux-seine-agglo.jpg"
+  src: "/files/zz-friche-desgenetais-musee.jpg"
   alt: ''
   legend: Friche Desgenétais © Caux Seine agglo
 booking:
@@ -12,6 +12,7 @@ booking:
   period: ''
   dates:
   - date: 2021-09-26 15:30
+  link: ''
 address:
   place: Bolbec (76)
   lat: "49.5773968"

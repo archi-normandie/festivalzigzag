@@ -4,7 +4,7 @@ categories:
 - Balade paysagère
 featured: false
 cover:
-  src: "/files/elbeuf.jpg"
+  src: "/files/zz-elbeuf-une-ville-qui-se-ressource-entre-les-trames-vertes-et-bleues.jpg"
   alt: ''
   legend: ''
 booking:
@@ -12,6 +12,7 @@ booking:
   period: ''
   dates:
   - date: 2021-10-02 14:00
+  link: ''
 address:
   place: 'Elbeuf-sur-Seine (76) '
   lat: "49.2912213"

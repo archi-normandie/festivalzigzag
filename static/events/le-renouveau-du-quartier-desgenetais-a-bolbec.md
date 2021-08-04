@@ -4,7 +4,7 @@ categories:
 - Visite
 featured: false
 cover:
-  src: "/files/pres_projet-friche-desgenetais-bolbec_02-2-002-basse-def.jpg"
+  src: "/files/zz-friche-desgenetais-renouvellement.jpg"
   alt: ''
   legend: Perspective du projet de la friche Desgenetais © Geoffrey Viard
 booking:
@@ -12,6 +12,7 @@ booking:
   period: ''
   dates:
   - date: 2021-09-26 14:00
+  link: ''
 address:
   place: Bolbec (76)
   lat: "49.5773968"

@@ -4,15 +4,16 @@ categories:
 - Randonnée
 featured: false
 cover:
-  src: "/files/herblay-la-vallee-de-la-seine-vers-la-frette-peniche-2.jpg"
+  src: "/files/zz-le-voyage-metropolitain.jpg"
   alt: ''
-  legend: _© La vallée de la Seine vers la Frette, vue à partir d’Herblay, ancienne
-    carte postale, non datée_
+  legend: "© La vallée de la Seine vers la Frette, vue à partir d’Herblay, ancienne
+    carte postale, non datée"
 booking:
   state: ''
   period: ''
   dates:
   - date: 2021-10-02 09:30
+  link: ''
 address:
   place: La Frette-sur-Seine (95) - Achères (78)
   lat: "48.97942"

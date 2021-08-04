@@ -2,15 +2,16 @@
 title: 'GENiUS 2021 : ça roule !'
 categories:
 - Installation éphémère
-featured: false
+featured: true
 cover:
-  src: "/files/img_2830.JPG"
+  src: "/files/zz-genius-2021.jpg"
   alt: ''
   legend: ''
 booking:
   state: ''
-  period: 'Du 25 septembre au 10 octobre '
+  period: du 25 septembre au 10 octobre 2021
   dates: []
+  link: ''
 address:
   place: Le Havre (76)
   lat: "49.4892706"
