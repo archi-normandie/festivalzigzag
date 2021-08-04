@@ -4,14 +4,14 @@
       <h1 class="title-main">
         Agenda
       </h1>
-      <div class="content-main--header">
+      <div class="container">
         <div
           :class="blockAgendaHeader.classes"
           class="is-primary"
           v-html="blockAgendaHeader.html"
         />
       </div>
-      <div>
+      <div class="container">
         <Button
           class="button is-small"
           :class="isSortedBy('city') ? 'is-current' : null"
@@ -216,7 +216,7 @@ export default {
 </script>
 <style lang="scss">
 .events {
-  padding: $paddings-large;
+  padding: $paddings;
   &-filter {
     padding-right: 1.5rem;
     padding-left: 1.5rem;

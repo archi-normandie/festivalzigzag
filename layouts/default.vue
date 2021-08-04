@@ -29,4 +29,5 @@ body {
 }
 main { background-color: rgba(255, 255, 255, 0.6); }
 .home main { background-color: transparent; }
+.container { padding: $paddings; }
 </style>
