@@ -3,15 +3,16 @@
     class="event"
     :class="event.featured ? 'is-featured' : null"
   >
+    <h1 class="event-title title-main">
+      {{ event.title }}
+    </h1>
     <div class="event-informations">
       <EventAddress :address="event.address" />
       <EventBooking :booking="event.booking" />
       <EventCategories :categories="event.categories" />
     </div>
+    <EventCover :cover="event.cover" />
     <div class="event-content">
-      <h1 class="title-main event-title">
-        {{ event.title }}
-      </h1>
       <div v-html="event.html" />
       <p class="event-informations-note">
         {{ event.informations.note }}
@@ -20,19 +21,7 @@
       <p class="event-informations-rdv">
         {{ event.informations.rdv }}
       </p>
-      <p class="buttons">
-        <a
-          v-for="button in content.buttons"
-          :key="button.url"
-          :href="button.url"
-          class="button"
-          target="_blank"
-        >
-          {{ button.text }}
-        </a>
-      </p>
     </div>
-    <EventCover :cover="event.cover" />
     <EventGallery :gallery="event.gallery" />
     <img v-if="staticMapSrc" :src="staticMapSrc" class="event-map"/>
   </article>
@@ -73,46 +62,81 @@ export default {
 }
 </script>
 <style lang="scss">
+// Mobile first < 769px
+// Tablet > 769px (48rem : 768px)
+// Desktop > 1024px (60rem : 1024px)
+// Widescreen > 1216px (76rem: 1216px)
+// Fullhd > 1408px (88rem: 1408px)
+// Utiliser les zones nommée de Grid Layout (plus de flexibilités en "design in browser")
 .event {
   padding-top: $padding;
+  &-title { grid-area: title; }
+  &-informations { grid-area: infos; }
+  &-cover { grid-area: cover; }
+  &-content { grid-area: content; }
+  &-gallery { grid-area: gallery; }
+  &-map { grid-area: map; }
+  // Mobile first
+  // Tablet
+  @media (min-width: 48rem) {}
+  // Desktop > 1024
+  @media (min-width: 60rem) {
+    // display: flex;
+    // flex-wrap: wrap;
+    display:  grid;
+    // grid-template-columns: 1.5rem repeat(6, 1fr) 1.5rem;
+    grid-template-columns: 1.5rem repeat(3, 1fr) 1.5rem;
+    // grid-auto-rows: minmax(100px, auto);
+    grid-template-areas:
+    ". title title title ."
+    ". infos cover cover ."
+    ". . content content ."
+    ". gallery gallery gallery ."
+    ". map map map .";
+  }
+  @media (min-width: 76rem) {
+    grid-template-areas:
+    ". title title title ."
+    ". infos cover cover ."
+    ". . content . ."
+    ". gallery gallery gallery ."
+    ". map map map .";
+  }
   &-title {
     text-align: center;
     text-transform: uppercase;
     font-weight: $bold;
-  }
-  @media (min-width: 50rem) {
-    // display: flex;
-    // flex-wrap: wrap;
-    display:  grid;
-    grid-template-columns: 1.5rem repeat(6, 1fr) 1.5rem;
-    grid-auto-rows: minmax(100px, auto);
+    // @media (min-width: 60rem) {
+    //   grid-column: 2 / 8;
+    //   grid-row: 1;
+    // }
   }
   &-informations {
     margin: 0 auto;
     padding: $paddings;
     // @media (min-width: 50rem) { flex-basis: 50%; }
-    @media (min-width: 50rem) {
-      grid-column: 2 / 4;
-      grid-row: 1;
-    }
-    @media (min-width: 90rem) {
-      grid-column: 2 / 3 ;
-      grid-row: 1;
-    }
+    // @media (min-width: 60rem) {
+    //   grid-column: 2 / 4;
+    //   grid-row: 2;
+    // }
+    // @media (min-width: 88rem) {
+    //   grid-column: 2 / 3 ;
+    //   grid-row: 2;
+    // }
   }
   &-content {
     margin: 0 auto;
     padding: $paddings;
     padding-bottom: $padding;
     // @media (min-width: 50rem) { flex-basis: 50%; }
-    @media (min-width: 50rem) {
-      grid-column: 2 / 4;
-      grid-row: 2;
-    }
-    @media (min-width: 90rem) {
-      grid-column: 3 / 5 ;
-      grid-row: 1;
-    }
+    // @media (min-width: 48rem) {
+    //   grid-column: 2 / 4;
+    //   grid-row: 3;
+    // }
+    // @media (min-width: 88rem) {
+    //   grid-column: 3 / 5 ;
+    //   grid-row: 2;
+    // }
   }
   &-separator {
     width: 2rem;
@@ -130,13 +154,13 @@ export default {
     max-height: 480px;
     object-fit: cover;
     margin-bottom: 1.5rem;
-    @media (min-width: 50rem) {
-      grid-column: 2 / 8;
-      grid-row: 3;
-    }
-    @media (min-width: 90rem) {
-      grid-row: 2;
-    }
+    // @media (min-width: 50rem) {
+    //   grid-column: 2 / 8;
+    //   grid-row: 4;
+    // }
+    // @media (min-width: 88rem) {
+    //   grid-row: 3;
+    // }
   }
 }
 </style>

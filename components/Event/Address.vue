@@ -1,10 +1,10 @@
 <template>
-  <div
+  <p
     v-if="address"
     class="event-address"
   >
     {{ address.place }}
-  </div>
+  </p>
 </template>
 <script>
 export default {

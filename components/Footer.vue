@@ -100,7 +100,7 @@ export default {
   &::before { @extend .footer::before; }
 }
 .subfooter :last-child { margin-bottom: 0; }
-@media (min-width: 50rem) {
+@media (min-width: 48rem) {
   // Limiter la largeur de bloc à 1/3
   .footer .menu-item {
     width: 33.334%;

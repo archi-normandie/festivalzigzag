@@ -45,6 +45,7 @@ export default {
   &:hover {
     background-color: $primary;
     color: $white;
+    border-color: $white;
   }
   &.event {
     text-decoration: none;
@@ -59,7 +60,7 @@ export default {
       }
       &-title { font-weight: $bold; }
     }
-    @media (min-width: 50rem) {
+    @media (min-width: 48rem) {
       // /!\ Utiliser table pour avoir un alignement de colonnes
       // display: flex;
       display: grid;

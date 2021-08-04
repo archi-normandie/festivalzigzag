@@ -1,6 +1,6 @@
 <template>
   <div class="event-booking">
-    <p v-if="booking.period">
+    <p v-if="booking.period" class="event-booking-dates">
       {{ booking.period }}
     </p>
     <ul v-else class="event-booking-dates">
@@ -19,13 +19,14 @@
         {{ booking.state }}
       </p>
     </div>
-    <Button
-      v-if="booking.link"
-      :href="booking.link"
-      class="button is-primary is-outlined is-small"
-    >
-      Réserver
-    </Button>
+    <p v-if="booking.link">
+      <Button
+        :href="booking.link"
+        class="button is-primary is-outlined is-small"
+      >
+        Réserver
+      </Button>
+    </p>
   </div>
 </template>
 <script>

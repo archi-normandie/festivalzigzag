@@ -137,7 +137,7 @@ main {
 ul.is-quiet,
 ul.is-inline,
 ul.is-inline-fancy {
-  margin: 0;
+  margin-left: 0;
   list-style: none;
   li {
     padding-left: 0;
@@ -153,7 +153,7 @@ ul.is-inline-fancy li:not(:last-child)::after {  content: " · "; }
 .menu-item,
 .menu-label {
   display: block;
-  margin: $margins-large;
+  margin: $margins-small;
   &:last-child { margin-right: 0; }
 }
 .menu-label {
@@ -161,7 +161,7 @@ ul.is-inline-fancy li:not(:last-child)::after {  content: " · "; }
   opacity: 0.8;
 }
 
-@media (min-width: 30rem) {
+@media (min-width: 48rem) {
   .menu,
   .menu-section-left,
   .menu-section-right {

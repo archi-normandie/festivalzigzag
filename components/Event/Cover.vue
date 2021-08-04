@@ -51,7 +51,7 @@ export default {
     grid-column: 4 / 8 ;
     grid-row: 1 / 3;
   }
-  @media (min-width: 90rem) {
+  @media (min-width: 88rem) {
     grid-column: 5 / 8 ;
     grid-row: 1 / 3;
   }

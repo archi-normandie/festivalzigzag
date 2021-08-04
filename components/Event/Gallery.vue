@@ -28,11 +28,11 @@ export default {
   display: flex;
   flex-wrap: wrap;
   margin-bottom: 1.5rem;
-  @media (min-width: 50rem) {
+  @media (min-width: 48rem) {
     grid-column: 2 / 8 ;
     grid-row: 4;
   }
-  @media (min-width: 90rem) {
+  @media (min-width: 88rem) {
     grid-column: 2 / 8 ;
     grid-row: 3;
   }
@@ -43,12 +43,16 @@ export default {
     max-height: 30rem;
     object-fit: cover;
     &.count-2,
-    &.count-3 {
+    &.count-3,
+    &.count-4,
+    &.count-5,
+    &.count-6 {
       width: 50%;
       // min-height: 15rem;
       // max-height: 30rem;
     }
-    &.count-3:last-of-type {
+    &.count-3:last-of-type,
+    &.count-5:last-of-type {
       width: 100%;
       min-height: 30rem;
       max-height: 60rem;
