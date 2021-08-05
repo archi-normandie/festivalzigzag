@@ -22,9 +22,7 @@ cover:
   alt: Description de l'image
   legend: "© G. Le Moaligou"
 featured: false
-gallery:
-- "/files/dsc_1741_lt.jpg"
-- "/files/dsc_1740_lt.jpg"
+gallery: []
 
 ---
 A quoi peut ressembler un écoquartier en milieu rural?
