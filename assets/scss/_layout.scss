@@ -153,7 +153,7 @@ ul.is-inline-fancy li:not(:last-child)::after {  content: " · "; }
 .menu-item,
 .menu-label {
   display: block;
-  margin: $margins-small;
+  // margin: $margins-small;
   &:last-child { margin-right: 0; }
 }
 .menu-label {
