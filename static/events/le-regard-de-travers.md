@@ -7,6 +7,7 @@ booking:
   dates:
   - date: 2021-09-25 14:00
   state: ''
+  link: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/ecoquartier-de-l-eglise-a-la-mailleraye
 address:
   place: Arelaune-en-Seine (76)
   lat: "49.47741"
