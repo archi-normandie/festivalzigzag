@@ -11,7 +11,7 @@ booking:
   state: ''
   period: ''
   dates:
-  - date: '2021-09-25'
+  - date: 2021-09-25 15:00
   link: ''
 address:
   place: Rouen (76)
