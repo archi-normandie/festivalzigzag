@@ -37,10 +37,10 @@ _En collaboration avec Quevilly Habitat et la ville de Grand Quevilly._
 
 **Intervenants :** comédiens et comédiennes
 
-**Réservation** - sélectionnez un créneau pour chaque visite et voyagez avec le Réseau Astuce de la Métropole Rouen Normandie :
+**Réservations** - sélectionnez un créneau pour chaque visite et voyagez avec le Réseau Astuce de la Métropole Rouen Normandie :
 
 * Mairie Annexe - Centre Culturel Marx Dormoy - RDV place Gabriel Péri (Bus 6 et 42 – arrêt Le Bourg) : **11H30 / 14H / 15H30 / 17H**
 * Hôtel de Ville - RDV Esplanade Tony Larue (Métro – arrêt Léon Blum // Bus 42 – arrêt Centre administratif) : **11H30 / 14H / 15H30 / 17H**
 * Immeuble Nymphéas - RDV 1 rue Eugène Boudin (Métro – arrêt Paul Cézanne) : **11H30 / 14H / 15H30 / 17H**
 
-_(Environ 20-25 minutes de marches entre chaque site)._
+_Environ 20-25 minutes de marches entre chaque site._
