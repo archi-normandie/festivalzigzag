@@ -14,7 +14,7 @@ address:
 informations:
   note: Tous publics
   rdv: |
-    RDV parking de l’église de la Mailleraye-sur-Seine (commune nouvelle d’Arelaune-en-Seine).
+    RDV : parking de l’église de la Mailleraye-sur-Seine (commune nouvelle d’Arelaune-en-Seine).
     (autres accès possibles pour les personnes à mobilité réduite, par le parking de la médiathèque Renée Anquetil et par les stationnements publics dans l’opération de logements)
 cover:
   blocs: []
