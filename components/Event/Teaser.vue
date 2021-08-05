@@ -59,6 +59,7 @@ export default {
         text-align: left;
       }
       &-title { font-weight: $bold; }
+      &-booking > :last-child { margin-bottom: 0; }
     }
     @media (min-width: 48rem) {
       // /!\ Utiliser table pour avoir un alignement de colonnes

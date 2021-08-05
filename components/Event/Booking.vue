@@ -3,14 +3,16 @@
     <p v-if="booking.period" class="event-booking-dates">
       {{ booking.period }}
     </p>
-    <ul v-else class="event-booking-dates">
-      <li
-        v-for="(date, index) in booking.dates"
-        :key="index"
-      >
-        {{ date.date | prettyDate }}
-      </li>
-    </ul>
+    <template v-else>
+      <ul v-if="booking.dates.length" class="event-booking-dates">
+        <li
+          v-for="(date, index) in booking.dates"
+          :key="index"
+        >
+          {{ date.date | prettyDate }}
+        </li>
+      </ul>
+    </template>
     <div
       v-if="booking.state"
       class="event-booking-state"
