@@ -17,8 +17,8 @@ address:
   lat: "49.4892706"
   lon: "0.1038183"
 informations:
-  note: En accès libre en extérieur
-  rdv: RDV place Albert René – Le Havre
+  note: Tous publics. En accès libre en extérieur.
+  rdv: 'RDV : place Albert René '
 gallery: []
 
 ---
