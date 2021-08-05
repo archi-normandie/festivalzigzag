@@ -61,7 +61,7 @@ export default {
   }
 }
 </script>
-<style lang="scss">
+<style lang="scss" scoped>
 // Mobile first < 769px
 // Tablet > 769px (48rem : 768px)
 // Desktop > 1024px (60rem : 1024px)
