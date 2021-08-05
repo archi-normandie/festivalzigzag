@@ -12,14 +12,14 @@ booking:
   period: ''
   dates:
   - date: 2021-10-03 15:00
-  link: ''
+  link: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/beuzeville-metamorphosee
 address:
   place: Beuzeville (27)
   lat: "49.34513"
   lon: "0.34111"
 informations:
-  note: Tout public
-  rdv: RDV devant la mairie de Beuzeville
+  note: Tous publics
+  rdv: 'RDV : devant la mairie de Beuzeville'
 gallery: []
 
 ---

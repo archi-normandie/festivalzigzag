@@ -12,16 +12,17 @@ booking:
   period: ''
   dates:
   - date: 2021-09-26 11:00
-  link: ''
+  link: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/eop-zoonose
 address:
   place: Bois-Guillaume (76)
   lat: "49.48006"
   lon: "1.11334"
 informations:
-  note: Tout public. Exposition en accès libre du 24 septembre 2021 au 8 novembre
+  note: Tous publics. Exposition en accès libre du 24 septembre 2021 au 8 novembre
     2021.
-  rdv: RDV devant l’école élémentaire Les Portes de la Forêt, place des Erables 76230
-    Bois-Guillaume
+  rdv: |-
+    RDV : devant l’école élémentaire Les Portes de la Forêt, place des Erables 76230 Bois-Guillaume
+    Voyagez avec le Réseau Astuce de la Métropole Rouen Normandie :  Bus 11 - arrêt Table de Pierre
 gallery: []
 
 ---
@@ -33,7 +34,7 @@ Dans ses photos, les animaux semblent avoir repris leur territoire, celui d’un
 
 _Avec le soutien de la ville de Bois-Guillaume, la Métropole Rouen Normandie, le Club de la Vatine et Helio service._
 
-**Intervenants :** Christel JEANNE et la Loge des auteurs photographes
+**Intervenant :** la Loge des auteurs photographes
 
 **EOP**, festival consacré à la photographie documentaire prend place en extérieur permettant aux passants de porter un regard neuf sur la ville, transforme l’espace urbain du quotidien, dans un rapport d’échelle et esthétique différent. La photographie se constitue en œuvre d’art accessible à tous, ouvrant un dialogue avec les visiteurs ou les simples passants. Cette première édition de EOP, s’attache à la biodiversité, et propose deux expositions à Rouen et à Bois-Guillaume.
 

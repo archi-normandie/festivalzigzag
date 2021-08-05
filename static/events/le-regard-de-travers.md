@@ -7,6 +7,7 @@ booking:
   dates:
   - date: 2021-09-25 14:00
   state: ''
+  link: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/ecoquartier-de-l-eglise-a-la-mailleraye
 address:
   place: Arelaune-en-Seine (76)
   lat: "49.47741"
@@ -14,7 +15,7 @@ address:
 informations:
   note: Tous publics
   rdv: |
-    RDV parking de l’église de la Mailleraye-sur-Seine (commune nouvelle d’Arelaune-en-Seine).
+    RDV : parking de l’église de la Mailleraye-sur-Seine (commune nouvelle d’Arelaune-en-Seine).
     (autres accès possibles pour les personnes à mobilité réduite, par le parking de la médiathèque Renée Anquetil et par les stationnements publics dans l’opération de logements)
 cover:
   blocs: []
@@ -22,9 +23,7 @@ cover:
   alt: Description de l'image
   legend: "© G. Le Moaligou"
 featured: false
-gallery:
-- "/files/dsc_1741_lt.jpg"
-- "/files/dsc_1740_lt.jpg"
+gallery: []
 
 ---
 A quoi peut ressembler un écoquartier en milieu rural?
