@@ -13,7 +13,7 @@ booking:
   period: ''
   dates:
   - date: 2021-10-02 09:30
-  link: ''
+  link: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/la-frette-montigny-acheres-pointil-et-hautil-le-voyage
 address:
   place: La Frette-sur-Seine (95) - Achères (78)
   lat: "48.97942"
@@ -23,7 +23,7 @@ informations:
     fin de la journée, vers 18h, nous prendrons un verre ensemble pour échanger sur
     le parcours et partager les impressions de chacun.
   rdv: 'RDV : L’exploration pédestre débute à 9h30 à la gare de La Frette-Montigny
-    (transilien J) et se termine vers 18h à Andrésy.'
+    (transilien J) et se termine vers 18h à Andrésy'
 gallery: []
 
 ---
