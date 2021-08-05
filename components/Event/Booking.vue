@@ -23,7 +23,7 @@
     </div>
     <p v-if="booking.link">
       <Button
-        :href="booking.link"
+        :to="booking.link"
         class="button is-primary is-outlined is-small"
       >
         Réserver

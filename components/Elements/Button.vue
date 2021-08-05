@@ -36,6 +36,7 @@ export default {
   border: $border;
   text-transform: uppercase;
   text-decoration: none;
+  font-weight: normal;
   cursor: pointer;
   &:focus,
   &:hover,
