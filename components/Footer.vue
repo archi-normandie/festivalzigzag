@@ -14,11 +14,15 @@
       </div>
     </section>
     <section class="subfooter">
-      <ul class="is-inline-fancy">
+      <ul class="subfooter-left is-inline-fancy">
         <li><nuxt-link to="pages/mentions-legales">Mentions légales</nuxt-link></li>
         <li>© Maison de l'architecture de Normandie — le Forum ({{ currentYear }}/{{ nextYear }})</li>
         <li>Identité graphique : <a href="http://www.buildozer.fr">Agence Buildozer</a></li>
         <li>Conception Web : <a href="https://github.com/ziopod">Ziopod</a></li>
+      </ul>
+      <ul class="subfooter-rigth is-inline-fancy is-align-right">
+        <li><a href="https://www.facebook.com/zigzagfestivalarchitecture">Facebook</a></li>
+        <li><a href="https://www.instagram.com/festival_zigzag/">Instagram</a></li>
       </ul>
     </section>
   </footer>
@@ -89,17 +93,20 @@ export default {
 }
 
 .subfooter {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
   position: relative;
   font-size: 0.8em;
   padding: $paddings;
   margin: -1.5rem;
-  // background-color: transparentize(($primary), 0.4);
-  // background-color: transparentize(darken($primary, 30), 0.4);
-  // color: $white;
-  // mix-blend-mode: multiply; // Obigation d'ajouter un bloc séparé pour cet effet (::before)
+  &-left { justify-content: flex-start; }
+  &-right { justify-content: flex-end; }
   &::before { @extend .footer::before; }
+  & :last-child { margin-bottom: 0; }
 }
-.subfooter :last-child { margin-bottom: 0; }
+// .subfooter :last-child { margin-bottom: 0; }
 @media (min-width: 48rem) {
   // Limiter la largeur de bloc à 1/3
   .footer .menu-item {
