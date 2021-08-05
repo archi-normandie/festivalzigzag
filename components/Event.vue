@@ -7,9 +7,9 @@
       {{ event.title }}
     </h1>
     <div class="event-informations">
+      <EventCategories :categories="event.categories" />
       <EventAddress :address="event.address" />
       <EventBooking :booking="event.booking" />
-      <EventCategories :categories="event.categories" />
     </div>
     <EventCover :cover="event.cover" />
     <div class="event-content">
@@ -95,15 +95,25 @@ export default {
     ". map map map .";
   }
   @media (min-width: 76rem) {
+    // grid-template-columns: 1.5rem repeat(6, 1fr) 1.5rem;
     grid-template-areas:
-    ". title title title ."
+    ". title title title  ."
     ". infos cover cover ."
     ". . content . ."
     ". gallery gallery gallery ."
     ". map map map .";
   }
+  @media (min-width: 88rem) {
+    grid-template-columns: 1.5rem repeat(6, 1fr) 1.5rem;
+    grid-template-areas:
+    ". title title title title title title ."
+    ". infos content content cover cover cover ."
+    ". . gallery gallery gallery gallery gallery ."
+    ". . map map map map map .";
+  }
   &-title {
     text-align: center;
+    text-align: left;
     text-transform: uppercase;
     font-weight: $bold;
     // @media (min-width: 60rem) {
@@ -112,7 +122,7 @@ export default {
     // }
   }
   &-informations {
-    margin: 0 auto;
+    // margin: 0 auto;
     padding: $paddings;
     // @media (min-width: 50rem) { flex-basis: 50%; }
     // @media (min-width: 60rem) {
@@ -124,6 +134,9 @@ export default {
     //   grid-row: 2;
     // }
   }
+  &-cover { padding: $paddings; }
+  &-gallery { padding: $paddings; }
+  &-map { padding: $paddings; }
   &-content {
     margin: 0 auto;
     padding: $paddings;
