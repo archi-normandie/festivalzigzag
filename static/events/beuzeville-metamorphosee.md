@@ -18,8 +18,8 @@ address:
   lat: "49.34513"
   lon: "0.34111"
 informations:
-  note: Tout public
-  rdv: RDV devant la mairie de Beuzeville
+  note: Tous publics
+  rdv: 'RDV : devant la mairie de Beuzeville'
 gallery: []
 
 ---
