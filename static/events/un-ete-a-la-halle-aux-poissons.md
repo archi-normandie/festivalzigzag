@@ -18,9 +18,9 @@ address:
   lat: "49.4873787"
   lon: "0.1101139"
 informations:
-  note: 'Tout public, normes ERP 5, accessibilité PMR. Accès piétons : Quai de l''île.
+  note: 'Tous publics, normes ERP 5, accessibilité PMR. Accès piétons : Quai de l''île.
     Bus 4 : arrêt St-François'
-  rdv: RDV à la Halle aux poissons, rue du Général Faidherbe 76620 Le Havre
+  rdv: 'RDV : à la Halle aux poissons, rue du Général Faidherbe '
 gallery: []
 
 ---
