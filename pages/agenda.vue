@@ -126,15 +126,15 @@ export default {
       })
     },
     eventsByCity () {
-      console.log('BY CITY')
-      const eventsByCity = this.events
-      eventsByCity.sort((a, b) => {
+      // console.log('BY CITY')
+      const events = this.events
+      events.sort((a, b) => {
         if (!a.address || !b.address) { return 0 }
         if (a.address.place < b.address.place) { return -1 }
         if (a.address.place > b.address.place) { return 1 }
         return 0
       })
-      return eventsByCity.reduce((previous, current) => {
+      const eventsByCity = events.reduce((previous, current) => {
         if (!previous[current.address.place]) {
           previous[current.address.place] = {
             name: current.address.place,
@@ -144,17 +144,28 @@ export default {
         previous[current.address.place].events.push(current)
         return previous
       }, {})
+      // .values().forEach((city) => {
+      //   })
+      for (const city in eventsByCity) {
+        eventsByCity[city].events.sort((a, b) => {
+          if (!a.booking.dates[0] || !b.booking.dates[0]) { return 0 }
+          if (a.booking.dates[0].date < b.booking.dates[0].date) { return -1 }
+          if (a.booking.dates[0].date > b.booking.dates[0].date) { return 1 }
+          return 0
+        })
+      }
+      return eventsByCity
     },
     eventsByMonth () {
-      const eventsByMonth = this.events
-      eventsByMonth.sort((a, b) => {
+      const events = this.events
+      events.sort((a, b) => {
         if (!a.booking.dates[0] || !b.booking.dates[0]) { return 0 }
-        if (a.booking.dates[0] < b.booking.dates[0]) { return -1 }
-        if (a.booking.dates[0] > b.booking.dates[0]) { return 1 }
+        if (a.booking.dates[0].date < b.booking.dates[0].date) { return -1 }
+        if (a.booking.dates[0].date > b.booking.dates[0].date) { return 1 }
         return 0
       })
-      return eventsByMonth.reduce((previous, current) => {
-        let currentMonth = 'Non planifié'
+      const eventsByMonth = events.reduce((previous, current) => {
+        let currentMonth = 'Évenements permanents'
         if (current.booking.dates[0]) {
           const formattedDate = new Date(current.booking.dates[0].date)
             .toLocaleString('default', { year: 'numeric', month: 'long' })
@@ -169,6 +180,15 @@ export default {
         previous[currentMonth].events.push(current)
         return previous
       }, {})
+      for (const month in eventsByMonth) {
+        eventsByMonth[month].events.sort((a, b) => {
+          if (!a.booking.dates[0] || !b.booking.dates[0]) { return 0 }
+          if (a.booking.dates[0].date < b.booking.dates[0].date) { return -1 }
+          if (a.booking.dates[0].date > b.booking.dates[0].date) { return 1 }
+          return 0
+        })
+      }
+      return eventsByMonth
     },
     sortedEvents () {
       switch (this.currentSorted) {
@@ -178,9 +198,6 @@ export default {
           return this.eventsByCity
       }
     }
-  },
-  mounted () {
-    // this.sortedEvents = this.eventsByCity
   },
   methods: {
     isCurrentCity (city) { return city === this.currentCity },
