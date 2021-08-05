@@ -12,16 +12,16 @@ booking:
   period: ''
   dates:
   - date: 2021-10-02 14:30
-  link: ''
+  link: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/le-grand-quai
 address:
   place: Le Havre (76)
   lat: "49.4849699"
   lon: "0.1034405"
 informations:
   note: ''
-  rdv: |
-    RDV : devant le Port Center, Espace André Graillot
-    Chaussée John Kennedy
+  rdv: 'RDV : devant le Port Center - 47 Chaussée John Kennedy
+
+'
 gallery: []
 
 ---
