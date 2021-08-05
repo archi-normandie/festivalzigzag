@@ -12,7 +12,7 @@ booking:
   period: ''
   dates:
   - date: 2021-10-03 13:30
-  link: ''
+  link: https://www.weezevent.com/seine-de-crime
 address:
   place: Elbeuf-sur-Seine (76) – Les Damps (27)
   lat: "49.2847242"
@@ -21,7 +21,8 @@ informations:
   note: |-
     Départs par groupes de 6 personnes toutes les 10 minutes entre 13h30 et 14h30. Attention à bien s’inscrire sur le créneau et le respecter. Possibilité de rapatriement en navette depuis l’arrivée jusqu’au point de départ.
     Jeu conseillé pour les enfants à partir de 10 ans.
-  rdv: 'RDV : Fabrique des savoirs - 7 cours Gambetta - 76500 Elbeuf-sur-Seine'
+  rdv: "RDV : Fabrique des savoirs - 7 cours Gambetta \nVoyagez avec le Réseau Astuce
+    de la Métropole Rouen Normandie : Bus E – arrêt IUT"
 gallery: []
 
 ---

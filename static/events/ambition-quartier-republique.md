@@ -12,7 +12,7 @@ booking:
   period: ''
   dates:
   - date: 2021-10-01 18:00
-  link: ''
+  link: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/ambition-quartier-republique
 address:
   place: Elbeuf-sur-Seine (76)
   lat: "49.2902443"
