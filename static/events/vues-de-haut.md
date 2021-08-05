@@ -24,9 +24,7 @@ informations:
   note: "Les visites empruntent plusieurs escaliers et ruelles en pente, un minimum
     de forme physique est demandé. Durée 30 à 40 minutes par visite (12 places par
     créneaux). \nPossibilité de faire les trois visites à la suite."
-  rdv: 'RDV selon la ou les visites choisies (4 créneaux par visites).
-
-'
+  rdv: 'RDV : selon la ou les visites choisies (4 créneaux par visites)'
 gallery: []
 
 ---
