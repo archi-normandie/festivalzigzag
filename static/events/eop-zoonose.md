@@ -18,10 +18,11 @@ address:
   lat: "49.48006"
   lon: "1.11334"
 informations:
-  note: Tout public. Exposition en accès libre du 24 septembre 2021 au 8 novembre
+  note: Tous publics. Exposition en accès libre du 24 septembre 2021 au 8 novembre
     2021.
-  rdv: RDV devant l’école élémentaire Les Portes de la Forêt, place des Erables 76230
-    Bois-Guillaume
+  rdv: |-
+    RDV : devant l’école élémentaire Les Portes de la Forêt, place des Erables 76230 Bois-Guillaume
+    Voyagez avec le Réseau Astuce de la Métropole Rouen Normandie :  Bus 11 - arrêt Table de Pierre
 gallery: []
 
 ---
