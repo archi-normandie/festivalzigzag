@@ -12,14 +12,16 @@ booking:
   period: ''
   dates:
   - date: 2021-10-10 10:30
-  link: ''
+  link: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/balade-quevillaise
 address:
   place: Grand Quevilly (76)
   lat: "49.4065425"
   lon: "1.0510607"
 informations:
-  note: Tout public
-  rdv: RDV esplanade de l’Hôtel de Ville
+  note: Tous publics
+  rdv: |-
+    RDV : esplanade de l’Hôtel de Ville
+    Voyagez avec le Réseau Astuce de la Métropole Rouen Normandie : Métro vers Georges Braque – arrêt Léon Blum // Bus 42 – arrêt Centre administratif
 gallery: []
 
 ---
