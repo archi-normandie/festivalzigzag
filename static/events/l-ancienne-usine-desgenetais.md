@@ -12,15 +12,15 @@ booking:
   period: ''
   dates:
   - date: 2021-09-26 15:30
-  link: ''
+  link: 'https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/l-ancienne-usine-desgenetais '
 address:
   place: Bolbec (76)
   lat: "49.5773968"
   lon: "0.4893916"
 informations:
-  note: Tout public. La visite peut se faire dans la continuité de celle de 14h ou
+  note: Tous publics. La visite peut se faire dans la continuité de celle de 14h ou
     indépendamment.
-  rdv: RDV 5 rue Auguste Desgenétais Bolbec
+  rdv: 'RDV : 5 rue Auguste Desgenétais Bolbec'
 gallery: []
 
 ---
