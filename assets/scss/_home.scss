@@ -36,7 +36,8 @@
   .hero-logo {
     display: block;
     height: 30rem;
-    margin: 2rem auto 0 auto;
+    margin: 1vh auto 0 auto;
+    filter: drop-shadow(0 0 3px rgba(0, 0, 0, 0.6));
   }
 
   main {

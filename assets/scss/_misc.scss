@@ -73,11 +73,13 @@
   }
 
   &.error {
-    border-color: red;
-    color: red;
-    &.is-reversed {
-      color: white;
-      background-color: red;
+    color: white;
+    background-color: red;
+    border-color: transparent;
+    &.is-outlined {
+      border-color: red;
+      color: red;
+      background-color: transparent;
     }
   }
   &.is-primary {

@@ -45,16 +45,12 @@ export default {
 }
 </script>
 <style lang="scss">
-.event.is-featured .messages.error {
-  color: white;
-  background-color: red;
-}
 .event-booking {
   text-align: center;
   font-weight: 700;
   &-dates {
     list-style: none;
-    margin: 0;
+    margin: $margins-small;
   }
 }
 

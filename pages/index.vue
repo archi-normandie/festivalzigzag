@@ -34,13 +34,13 @@ export default {
 body { min-height: 100vh; }
 .home {
   & .body {
-   min-height: 41rem;
+   min-height: 38rem;
    height: calc(100vh - 3rem);
   }
   &::before {
     content: " ";
     display: block;
-    min-height: 41rem;
+    min-height: 38rem;
     height: calc(100vh - 3rem);
     background-image:
     linear-gradient(0deg, rgba(5,107,135,1) 0%, rgba(255,255,255,1) 50%, rgba(5,107,135,1) 100%);
