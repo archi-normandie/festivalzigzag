@@ -1,5 +1,5 @@
 ---
-title: XX - Workshop Rouen
+title: Workshop au Forum
 categories:
 - Workshop
 featured: false
@@ -11,7 +11,7 @@ booking:
   state: ''
   period: ''
   dates: []
-  link: 'http:/:example.com'
+  link: http:/:example.com
 address:
   place: Rouen (76)
   lat: "49.4399137"
@@ -23,12 +23,6 @@ informations:
 gallery: []
 
 ---
-Description (800 caractères maximum avec espaces), pour du faux texte, utilisez : https://lipsum.com/feed/htm.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras imperdiet sed eros eu efficitur. Nam lobortis enim ipsum, eu ullamcorper orci vulputate vel.
-
-Donec rhoncus feugiat euismod. Nam egestas dignissim leo, et placerat elit elementum quis. Vivamus nec egestas ipsum. Maecenas semper arcu pellentesque, fermentum tellus non, faucibus quam. Aliquam erat volutpat. Nam vitae tellus in lacus dignissim malesuada.
-
-Cras dignissim, metus vel aliquam venenatis, felis tellus pretium turpis, ac lacinia leo tortor in nibh. Vestibulum interdum at sapien ac lobortis. Maecenas faucibus felis orci aliquam. 
+Détails et informations à venir.
 
 _Dans le cadre de Rouen capitale européenne de la culture._
