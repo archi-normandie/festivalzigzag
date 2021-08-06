@@ -9,7 +9,7 @@
       "template": "bloc-navigation",
       "navigation": [
         {
-          "label": "Découvrir le festival",
+          "label": "Découvrez le festival",
           "links": [
             {
               "name": "A propos",
@@ -30,7 +30,7 @@
           ]
         },
         {
-          "label": "S'inscrire aux événements",
+          "label": "Inscrivez-vous aux événements",
           "links": [
             {
               "path": "/lieux",
@@ -43,7 +43,7 @@
           ]
         },
         {
-          "label": "Suivre le festival",
+          "label": "Restez connectés !",
           "links": [
             {
               "name": "Facebook",
