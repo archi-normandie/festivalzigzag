@@ -12,15 +12,14 @@ booking:
   period: ''
   dates:
   - date: 2021-10-01 18:00
-  link: ''
+  link: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/un-ete-a-la-halle-aux-poissons
 address:
   place: Le Havre (76)
   lat: "49.4873787"
   lon: "0.1101139"
 informations:
-  note: 'Tous publics, normes ERP 5, accessibilité PMR. Accès piétons : Quai de l''île.
-    Bus 4 : arrêt St-François'
-  rdv: 'RDV : à la Halle aux poissons, rue du Général Faidherbe '
+  note: 'Tous publics, normes ERP 5, accessibilité PMR. Accès piétons : Quai de l''île. '
+  rdv: 'RDV : à la Halle aux poissons, rue du Général Faidherbe. Bus 4 : arrêt St-François'
 gallery: []
 
 ---
