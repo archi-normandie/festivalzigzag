@@ -21,9 +21,9 @@ address:
   lat: "49.4137966"
   lon: "1.0325395"
 informations:
-  note: "Les visites empruntent plusieurs escaliers et ruelles en pente, un minimum
-    de forme physique est demandé. Durée 30 à 40 minutes par visite (12 places par
-    créneaux). \nPossibilité de faire les trois visites à la suite."
+  note: |-
+    Les visites empruntent plusieurs escaliers et ruelles en pente, un minimum de forme physique est demandé. Durée 30 à 40 minutes par visite.
+    Possibilité de faire les trois visites à la suite (environ 20-25 minutes de marches entre chaque site).
   rdv: "RDV : Mairie Annexe - Centre Culturel Marx Dormoy - place Gabriel Péri \nVoyagez
     avec le Réseau Astuce de la Métropole Rouen Normandie : Bus 6 et 42 – arrêt Le
     Bourg"
@@ -35,11 +35,9 @@ Suivez-nous dans cette lecture urbaine insolite qui prend de la hauteur !
 
 _En collaboration avec Quevilly Habitat et la ville de Grand Quevilly._
 
-**Réservations** - sélectionnez un créneau et voyagez avec le Réseau Astuce de la Métropole Rouen Normandie :
+**Réservations** - sélectionnez un créneau :
 
-Mairie Annexe - Centre Culturel Marx Dormoy - RDV place Gabriel Péri (Bus 6 et 42 – arrêt Le Bourg) : **11H30 / 14H / 15H30 / 17H**
-
-* Hôtel de Ville - RDV Esplanade Tony Larue (Métro – arrêt Léon Blum // Bus 42 – arrêt Centre administratif) : **11H30 / 14H / 15H30 / 17H**
-* Immeuble Nymphéas - RDV 1 rue Eugène Boudin (Métro – arrêt Paul Cézanne) : **11H30 / 14H / 15H30 / 17H**
-
-_Environ 20-25 minutes de marches entre chaque site._
+* **11h30** : réserver
+* **14h00** : réserver
+* **15h30** : réserver 
+* **17h00** : réserver
