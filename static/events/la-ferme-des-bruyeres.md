@@ -18,9 +18,10 @@ address:
   lat: "49.4057341"
   lon: "1.0749842"
 informations:
-  note: ''
-  rdv: RDV au parc du Champ des Bruyères, devant l'entrée de la ferme, côté rue du
-    Madrillet au niveau de la rue Boiëldieu, Saint-Etienne-du-Rouvray
+  note: Tous publics
+  rdv: 'RDV : parc du Champ des Bruyères, devant l''entrée de la ferme, côté rue du
+    Madrillet au niveau de la rue Boiëldieu, Saint-Etienne-du-Rouvray. Métro – arrêt
+    Champ de Courses'
 gallery: []
 
 ---
