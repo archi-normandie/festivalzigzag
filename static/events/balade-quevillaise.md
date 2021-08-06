@@ -19,9 +19,8 @@ address:
   lon: "1.0510607"
 informations:
   note: Tous publics
-  rdv: |-
-    RDV : esplanade de l’Hôtel de Ville
-    Voyagez avec le Réseau Astuce de la Métropole Rouen Normandie : Métro vers Georges Braque – arrêt Léon Blum // Bus 42 – arrêt Centre administratif
+  rdv: 'RDV : esplanade de l’Hôtel de Ville. Métro vers Georges Braque – arrêt Léon
+    Blum // Bus 42 – arrêt Centre administratif'
 gallery: []
 
 ---

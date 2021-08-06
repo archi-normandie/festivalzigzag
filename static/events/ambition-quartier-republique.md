@@ -19,9 +19,8 @@ address:
   lon: "0.9994402"
 informations:
   note: Tous publics
-  rdv: "RDV : 25 rue de la république à Elbeuf-sur-Seine\nVoyagez avec le Réseau Astuce
-    de la Métropole Rouen Normandie : Bus A, B et F – arrêt Le Coq // Bus B et C –
-    arrêt Sevestre Aîné "
+  rdv: 'RDV : 25 rue de la république à Elbeuf-sur-Seine. Bus A, B et F – arrêt Le
+    Coq // Bus B et C – arrêt Sevestre Aîné '
 gallery: []
 
 ---

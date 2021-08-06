@@ -19,9 +19,7 @@ address:
   lon: "1.0068483"
 informations:
   note: Tous publics
-  rdv: |-
-    RDV place Aristide Briant (Hôtel de ville)
-    Voyagez avec le Réseau Astuce de la Métropole Rouen Normandie : Bus 32 et C – arrêt Mairie d’Elbeuf
+  rdv: RDV place Aristide Briant (Hôtel de ville). Bus 32 et C – arrêt Mairie d’Elbeuf
 gallery: []
 
 ---

@@ -19,9 +19,8 @@ address:
   lon: "1.0787956"
 informations:
   note: Tous publics
-  rdv: |-
-    RDV : Parking au-dessus du restaurant le Baillage et du monument aux morts
-    Voyagez avec le Réseau Astuce de la Métropole Rouen Normandie : AlloBus Freneuse – arrêt Bout de la ville
+  rdv: 'RDV : Parking au-dessus du restaurant le Baillage et du monument aux morts.
+    AlloBus Freneuse – arrêt Bout de la ville'
 gallery: []
 
 ---
