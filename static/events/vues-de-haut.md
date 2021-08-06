@@ -1,5 +1,5 @@
 ---
-title: Vues de haut
+title: Vues de haut - Immeuble Nymphéas
 categories:
 - Visite
 featured: false
@@ -18,8 +18,8 @@ booking:
   link: ''
 address:
   place: Grand Quevilly (76)
-  lat: "49.4065425"
-  lon: "1.0510607"
+  lat: "49.4024492"
+  lon: "1.0389093"
 informations:
   note: "Les visites empruntent plusieurs escaliers et ruelles en pente, un minimum
     de forme physique est demandé. Durée 30 à 40 minutes par visite (12 places par
