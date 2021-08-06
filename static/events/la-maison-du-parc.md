@@ -18,8 +18,8 @@ address:
   lat: "49.497661"
   lon: "0.7553065"
 informations:
-  note: Tout public
-  rdv: RDV à la maison du parc, 692 rue du petit pont, 76940 Notre-Dame-de-Bliquetuit
+  note: Tous publics
+  rdv: 'RDV : maison du parc, 692 rue du petit pont, 76940 Notre-Dame-de-Bliquetuit'
 gallery: []
 
 ---
