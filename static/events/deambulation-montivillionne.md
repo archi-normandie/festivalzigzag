@@ -22,7 +22,7 @@ informations:
     des passages non accessibles pour les personnes à mobilités réduites, merci de
     préciser lors de l’inscription vos éventuelles difficultés afin de prévoir un
     cheminement adapté.'
-  rdv: 'RDV : Mairie de Montivilliers, place François Mitterrand – 76690 Montivilliers.'
+  rdv: 'RDV : Mairie de Montivilliers, place François Mitterrand '
 gallery: []
 
 ---
