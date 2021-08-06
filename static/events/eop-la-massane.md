@@ -12,7 +12,7 @@ booking:
   period: ''
   dates:
   - date: 2021-09-25 15:00
-  link: ''
+  link: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/eop-la-massane
 address:
   place: Rouen (76)
   lat: "49.4399102"
