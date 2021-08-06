@@ -18,10 +18,11 @@ address:
   lat: "49.4399102"
   lon: "1.1008886"
 informations:
-  note: 'Tout public. Exposition en accès libre du 24 septembre 2021 au 8 novembre
+  note: 'Tous publics. Exposition en accès libre du 24 septembre 2021 au 8 novembre
     2021. '
-  rdv: RDV devant la Maison de l'architecture de Normandie - le Forum au 48 rue Victor
-    Hugo à Rouen
+  rdv: 'RDV : devant la Maison de l''architecture de Normandie - le Forum, 48 rue
+    Victor Hugo à Rouen. TEOR (lignes T1, T2 & T3) - arrêt place Saint-Marc // Bus
+    (lignes F2, 5, 11 & 13) - arrêt place Saint-Vivien'
 gallery: []
 
 ---
