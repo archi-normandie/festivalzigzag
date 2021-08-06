@@ -16,6 +16,10 @@
               "path": "/pages/a-propos"
             },
             {
+              "name": "Journal du festival",
+              "path": "/journal"
+            },
+            {
               "name": "Partenaires",
               "path": "/pages/partenaires"
             },
@@ -41,10 +45,6 @@
         {
           "label": "Suivre le festival",
           "links": [
-            {
-              "name": "Journal du festival",
-              "path": "/journal"
-            },
             {
               "name": "Facebook",
               "path": "https://www.facebook.com/zigzagfestivalarchitecture"
