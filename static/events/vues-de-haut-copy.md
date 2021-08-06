@@ -1,5 +1,5 @@
 ---
-title: Vues de haut-(copy)
+title: Vues de haut - Mairie Annexe
 categories:
 - Visite
 featured: false
@@ -18,13 +18,15 @@ booking:
   link: ''
 address:
   place: Grand Quevilly (76)
-  lat: "49.4065425"
-  lon: "1.0510607"
+  lat: "49.4137966"
+  lon: "1.0325395"
 informations:
   note: "Les visites empruntent plusieurs escaliers et ruelles en pente, un minimum
     de forme physique est demandé. Durée 30 à 40 minutes par visite (12 places par
     créneaux). \nPossibilité de faire les trois visites à la suite."
-  rdv: 'RDV : selon la ou les visites choisies (4 créneaux par visites)'
+  rdv: "RDV : Mairie Annexe - Centre Culturel Marx Dormoy - place Gabriel Péri \nVoyagez
+    avec le Réseau Astuce de la Métropole Rouen Normandie : Bus 6 et 42 – arrêt Le
+    Bourg"
 gallery: []
 
 ---
@@ -33,11 +35,10 @@ Suivez-nous dans cette lecture urbaine insolite qui prend de la hauteur !
 
 _En collaboration avec Quevilly Habitat et la ville de Grand Quevilly._
 
-**Intervenants :** comédiens et comédiennes
+**Réservations** - sélectionnez un créneau et voyagez avec le Réseau Astuce de la Métropole Rouen Normandie :
 
-**Réservations** - sélectionnez un créneau pour chaque visite et voyagez avec le Réseau Astuce de la Métropole Rouen Normandie :
+Mairie Annexe - Centre Culturel Marx Dormoy - RDV place Gabriel Péri (Bus 6 et 42 – arrêt Le Bourg) : **11H30 / 14H / 15H30 / 17H**
 
-* Mairie Annexe - Centre Culturel Marx Dormoy - RDV place Gabriel Péri (Bus 6 et 42 – arrêt Le Bourg) : **11H30 / 14H / 15H30 / 17H**
 * Hôtel de Ville - RDV Esplanade Tony Larue (Métro – arrêt Léon Blum // Bus 42 – arrêt Centre administratif) : **11H30 / 14H / 15H30 / 17H**
 * Immeuble Nymphéas - RDV 1 rue Eugène Boudin (Métro – arrêt Paul Cézanne) : **11H30 / 14H / 15H30 / 17H**
 
