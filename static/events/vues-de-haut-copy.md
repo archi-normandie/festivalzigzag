@@ -24,9 +24,8 @@ informations:
   note: |-
     Les visites empruntent plusieurs escaliers et ruelles en pente, un minimum de forme physique est demandé. Durée 30 à 40 minutes par visite.
     Possibilité de faire les trois visites à la suite (environ 20-25 minutes de marches entre chaque site).
-  rdv: "RDV : Mairie Annexe - Centre Culturel Marx Dormoy - place Gabriel Péri \nVoyagez
-    avec le Réseau Astuce de la Métropole Rouen Normandie : Bus 6 et 42 – arrêt Le
-    Bourg"
+  rdv: "RDV : Mairie Annexe - Centre Culturel Marx Dormoy - place Gabriel Péri. \nBus
+    6 et 42 – arrêt Le Bourg"
 gallery: []
 
 ---

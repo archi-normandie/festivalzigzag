@@ -24,9 +24,7 @@ informations:
   note: |-
     Les visites empruntent plusieurs escaliers et ruelles en pente, un minimum de forme physique est demandé. Durée 30 à 40 minutes par visite.
     Possibilité de faire les trois visites à la suite (environ 20-25 minutes de marches entre chaque site).
-  rdv: |-
-    RDV : 1 rue Eugène Boudin
-    Voyagez avec le Réseau Astuce de la Métropole Rouen Normandie : Métro – arrêt Paul Cézanne
+  rdv: 'RDV : 1 rue Eugène Boudin. Métro – arrêt Paul Cézanne'
 gallery: []
 
 ---
