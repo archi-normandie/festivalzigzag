@@ -38,6 +38,6 @@ _En collaboration avec Quevilly Habitat et la ville de Grand Quevilly._
 **Réservations - sélectionnez un créneau :**
 
 * **11h30 :** [réserver](https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/vues-de-haut-immeuble-nympheas-11h30)
-* **14h00 :** réserver
-* **15h30 :** réserver
-* **17h00 :** réserver
+* **14h00 :** [réserver](https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/vues-de-haut-immeuble-nympheas-14h)
+* **15h30 :** [réserver](https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/vues-de-haut-immeuble-nympheas-15h30)
+* **17h00 :** [réserver](https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/vues-de-haut-immeuble-nympheas-17h)
