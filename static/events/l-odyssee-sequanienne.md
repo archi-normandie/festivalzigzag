@@ -21,8 +21,9 @@ address:
   lon: "1.1009603"
 informations:
   note: ''
-  rdv: RDV à la Maison de l'architecture de Normandie - le Forum | 48 rue Victor Hugo
-    76000 ROUEN
+  rdv: 'RDV : Maison de l''architecture de Normandie - le Forum, 48 rue Victor Hugo
+    à Rouen. TEOR (lignes T1, T2 & T3) - arrêt place Saint-Marc // Bus (lignes F2,
+    5, 11 & 13) - arrêt place Saint-Vivien'
 gallery: []
 
 ---
