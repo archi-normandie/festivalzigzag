@@ -1,5 +1,5 @@
 ---
-title: Vues de haut-(copy)
+title: Vues de haut - Hôtel de Ville
 categories:
 - Visite
 featured: false
@@ -21,24 +21,23 @@ address:
   lat: "49.4065425"
   lon: "1.0510607"
 informations:
-  note: "Les visites empruntent plusieurs escaliers et ruelles en pente, un minimum
-    de forme physique est demandé. Durée 30 à 40 minutes par visite (12 places par
-    créneaux). \nPossibilité de faire les trois visites à la suite."
-  rdv: 'RDV : selon la ou les visites choisies (4 créneaux par visites)'
+  note: |-
+    Les visites empruntent plusieurs escaliers et ruelles en pente, un minimum de forme physique est demandé. Durée 30 à 40 minutes par visite.
+    Possibilité de faire les trois visites à la suite (environ 20-25 minutes de marches entre chaque site).
+  rdv: "RDV : Hôtel de Ville - Esplanade Tony Larue \nVoyagez avec le Réseau Astuce
+    de la Métropole Rouen Normandie : Métro – arrêt Léon Blum // Bus 42 – arrêt Centre
+    administratif"
 gallery: []
 
 ---
 Depuis les toits, la ville de Grand Quevilly offre un autre visage : les pics et les tours dessinent un skyline qui racontent le développement de la ville, tandis qu’au loin, les côteaux, les silos du port, les cheminées des usines et autres repères urbains composent le paysage de bord de Seine.  
-Suivez-nous dans cette lecture urbaine insolite qui prend de la hauteur !
+ Suivez-nous dans cette lecture urbaine insolite qui prend de la hauteur !
 
 _En collaboration avec Quevilly Habitat et la ville de Grand Quevilly._
 
-**Intervenants :** comédiens et comédiennes
+**Réservations - sélectionnez un créneau :**
 
-**Réservations** - sélectionnez un créneau pour chaque visite et voyagez avec le Réseau Astuce de la Métropole Rouen Normandie :
-
-* Mairie Annexe - Centre Culturel Marx Dormoy - RDV place Gabriel Péri (Bus 6 et 42 – arrêt Le Bourg) : **11H30 / 14H / 15H30 / 17H**
-* Hôtel de Ville - RDV Esplanade Tony Larue (Métro – arrêt Léon Blum // Bus 42 – arrêt Centre administratif) : **11H30 / 14H / 15H30 / 17H**
-* Immeuble Nymphéas - RDV 1 rue Eugène Boudin (Métro – arrêt Paul Cézanne) : **11H30 / 14H / 15H30 / 17H**
-
-_Environ 20-25 minutes de marches entre chaque site._
+* **11h30 :** réserver
+* **14h00 :** réserver
+* **15h30 :** réserver
+* **17h00 :** réserver
