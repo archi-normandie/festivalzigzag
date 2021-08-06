@@ -31,13 +31,13 @@ gallery: []
 
 ---
 Depuis les toits, la ville de Grand Quevilly offre un autre visage : les pics et les tours dessinent un skyline qui racontent le développement de la ville, tandis qu’au loin, les côteaux, les silos du port, les cheminées des usines et autres repères urbains composent le paysage de bord de Seine.  
- Suivez-nous dans cette lecture urbaine insolite qui prend de la hauteur !
+Suivez-nous dans cette lecture urbaine insolite qui prend de la hauteur !
 
 _En collaboration avec Quevilly Habitat et la ville de Grand Quevilly._
 
 **Réservations - sélectionnez un créneau :**
 
-* **11h30 :** réserver
+* **11h30 :** [réserver](https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/vues-de-haut-immeuble-nympheas-11h30)
 * **14h00 :** réserver
 * **15h30 :** réserver
 * **17h00 :** réserver
