@@ -18,7 +18,7 @@ address:
   lat: "49.4091385"
   lon: "1.0709751"
 informations:
-  note: ''
+  note: Tous publics
   rdv: 'RDV : parc du Champ des Bruyères, au niveau de l’entrée du stade Diochon,
     avenue des canadiens, Rouen. Bus T4, F1 et 41 – arrêt stade Diochon'
 gallery: []
