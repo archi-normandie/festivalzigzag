@@ -18,8 +18,8 @@ address:
   lat: "49.3511212"
   lon: "0.5133612"
 informations:
-  note: ''
-  rdv: RDV devant le cinéma Le Ciné - rue des Temps Modernes, 27500 Pont-Audemer
+  note: Tous publics
+  rdv: 'RDV  : devant le cinéma Le Ciné - rue des Temps Modernes'
 gallery: []
 
 ---
