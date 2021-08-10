@@ -13,3 +13,5 @@ Le Forum - Maison de l’architecture de Normandie
 * 48 rue Victor Hugo 76000 Rouen
 
 <a class="button"download href="/files/communique-de-presse_zigzag-2021.pdf">Télécharger le communiqué de presse</a>
+
+<a class="button"download href="/files/communique-de-presse_zigzag-2021.pdf">Télécharger le communiqué de presse</a>
