@@ -31,6 +31,8 @@
         <div
           v-for="(groupedEvents, index) in sortedEvents"
           :key="index"
+          class="event"
+          :class="index === 'Événements permanents' ? 'is-toplist' : null"
         >
           <h2 class="event event-pinned event-teaser">
             {{ groupedEvents.name }}
@@ -165,7 +167,7 @@ export default {
         return 0
       })
       const eventsByMonth = events.reduce((previous, current) => {
-        let currentMonth = 'Évenements permanents'
+        let currentMonth = 'Événements permanents'
         if (current.booking.dates[0]) {
           const formattedDate = new Date(current.booking.dates[0].date)
             .toLocaleString('default', { year: 'numeric', month: 'long' })
@@ -233,6 +235,14 @@ export default {
 </script>
 <style lang="scss">
 .events {
+  display: flex;
+  flex-direction: column;
+  .event {
+    order: 0;
+    &.is-toplist {
+      order: -1;
+    }
+  }
   padding: $paddings;
   &-filter {
     padding-right: 1.5rem;
