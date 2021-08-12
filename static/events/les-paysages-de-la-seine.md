@@ -20,8 +20,9 @@ address:
 informations:
   note: Entrée libre du mardi au vendredi de 14h à 18h // le samedi de 10h30 à 12h30
     et de 14h à 18h.
-  rdv: Maison de l'architecture de Normandie - le Forum | 48 rue Victor Hugo 76000
-    ROUEN
+  rdv: Maison de l'architecture de Normandie - le Forum, 48 rue Victor Hugo à Rouen.
+    TEOR (lignes T1, T2 & T3) - arrêt place Saint-Marc // Bus (lignes F2, 5, 11 &
+    13) - arrêt place Saint-Vivien
 gallery: []
 
 ---

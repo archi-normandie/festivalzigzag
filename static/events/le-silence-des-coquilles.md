@@ -13,14 +13,14 @@ booking:
   period: ''
   dates:
   - date: 2021-10-09 10:00
-  link: ''
+  link: https://www.billetweb.fr/le-silence-des-coquilles
 address:
   place: Le Havre (76)
   lat: "49.484545"
   lon: "0.1040891"
 informations:
   note: Accès PMR
-  rdv: 'RDV : LH Port Center – Chaussée John Kennedy – 76600 Le Havre'
+  rdv: 'RDV : LH Port Center – 47 Chaussée John Kennedy '
 gallery: []
 
 ---

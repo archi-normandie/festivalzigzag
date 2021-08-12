@@ -20,9 +20,8 @@ address:
 informations:
   note: Tous publics. Exposition en accès libre du 24 septembre 2021 au 8 novembre
     2021.
-  rdv: |-
-    RDV : devant l’école élémentaire Les Portes de la Forêt, place des Erables 76230 Bois-Guillaume
-    Voyagez avec le Réseau Astuce de la Métropole Rouen Normandie :  Bus 11 - arrêt Table de Pierre
+  rdv: 'RDV : devant l’école élémentaire Les Portes de la Forêt, place des Erables
+    76230 Bois-Guillaume. Bus 11 - arrêt Table de Pierre'
 gallery: []
 
 ---
@@ -39,3 +38,5 @@ _Avec le soutien de la ville de Bois-Guillaume, la Métropole Rouen Normandie, l
 **EOP**, festival consacré à la photographie documentaire prend place en extérieur permettant aux passants de porter un regard neuf sur la ville, transforme l’espace urbain du quotidien, dans un rapport d’échelle et esthétique différent. La photographie se constitue en œuvre d’art accessible à tous, ouvrant un dialogue avec les visiteurs ou les simples passants. Cette première édition de EOP, s’attache à la biodiversité, et propose deux expositions à Rouen et à Bois-Guillaume.
 
 **EOP** s’inscrit dans un projet porté par La Maison de l’architecture de Normandie - le Forum et La Loge des auteurs photographes, mettant leur intérêt pour la perception de l’espace traversé et vécu.
+
+_Commissariat d’exposition : Serge Périchon._

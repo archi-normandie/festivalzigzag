@@ -12,14 +12,14 @@ booking:
   period: ''
   dates:
   - date: 2021-10-02 14:00
-  link: ''
+  link: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/elbeuf-une-ville-qui-se-ressource-entre-les-trames-vertes-et-bleues
 address:
   place: 'Elbeuf-sur-Seine (76) '
   lat: "49.2912213"
   lon: "1.0068483"
 informations:
-  note: Tout public
-  rdv: RDV place Aristide Briant (Hôtel de ville)
+  note: Tous publics
+  rdv: RDV place Aristide Briant (Hôtel de ville). Bus 32 et C – arrêt Mairie d’Elbeuf
 gallery: []
 
 ---

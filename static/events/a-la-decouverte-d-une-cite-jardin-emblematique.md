@@ -12,13 +12,13 @@ booking:
   period: ''
   dates:
   - date: 2021-10-01 16:00
-  link: ''
+  link: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/a-la-decouverte-d-une-cite-jardin-emblematique
 address:
   place: Port-Jérôme-sur-Seine (76)
   lat: "49.4939895"
   lon: "0.5622333"
 informations:
-  note: Tout public
+  note: Tous publics
   rdv: 'RDV : Place de Normandie – Port-Jérôme-sur-Seine'
 gallery: []
 

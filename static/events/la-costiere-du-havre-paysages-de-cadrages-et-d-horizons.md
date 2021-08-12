@@ -12,7 +12,7 @@ booking:
   period: ''
   dates:
   - date: 2021-10-09 10:00
-  link: ''
+  link: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/la-costiere-du-havre-paysages-de-cadrages-et-d-horizons
 address:
   place: Le Havre (76)
   lat: "49.4990472"
@@ -20,8 +20,8 @@ address:
 informations:
   note: La visite emprunte plusieurs escaliers et ruelles en pente, un minimum de
     forme physique est demandé. Durée 1h30.
-  rdv: RDV parvis de la chapelle Saint-Michel d’Ingouville, accès rue Saint-Michel,
-    possibilité de stationner dans cette même rue
+  rdv: 'RDV : parvis de la chapelle Saint-Michel d’Ingouville, accès rue Saint-Michel,
+    possibilité de stationner dans cette même rue'
 gallery: []
 
 ---

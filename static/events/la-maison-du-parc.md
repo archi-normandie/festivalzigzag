@@ -12,14 +12,14 @@ booking:
   period: ''
   dates:
   - date: 2021-09-25 10:30
-  link: ''
+  link: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/la-maison-du-parc
 address:
   place: Notre-Dame-de-Bliquetuit (76)
   lat: "49.497661"
   lon: "0.7553065"
 informations:
-  note: Tout public
-  rdv: RDV à la maison du parc, 692 rue du petit pont, 76940 Notre-Dame-de-Bliquetuit
+  note: Tous publics
+  rdv: 'RDV : maison du parc, 692 rue du petit pont, 76940 Notre-Dame-de-Bliquetuit'
 gallery: []
 
 ---

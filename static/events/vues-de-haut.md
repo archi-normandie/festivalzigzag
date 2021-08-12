@@ -1,5 +1,5 @@
 ---
-title: Vues de haut
+title: Vues de haut - Immeuble Nymphéas
 categories:
 - Visite
 featured: false
@@ -18,27 +18,24 @@ booking:
   link: ''
 address:
   place: Grand Quevilly (76)
-  lat: "49.4065425"
-  lon: "1.0510607"
+  lat: "49.4024492"
+  lon: "1.0389093"
 informations:
-  note: "Les visites empruntent plusieurs escaliers et ruelles en pente, un minimum
-    de forme physique est demandé. Durée 30 à 40 minutes par visite (12 places par
-    créneaux). \nPossibilité de faire les trois visites à la suite."
-  rdv: 'RDV selon la ou les visites choisies (4 créneaux par visites).
-
-'
+  note: |-
+    Les visites empruntent plusieurs escaliers et ruelles en pente, un minimum de forme physique est demandé. Durée 30 à 40 minutes par visite.
+    Possibilité de faire les trois visites à la suite (environ 20-25 minutes de marches entre chaque site).
+  rdv: 'RDV : 1 rue Eugène Boudin. Métro – arrêt Paul Cézanne'
 gallery: []
 
 ---
 Depuis les toits, la ville de Grand Quevilly offre un autre visage : les pics et les tours dessinent un skyline qui racontent le développement de la ville, tandis qu’au loin, les côteaux, les silos du port, les cheminées des usines et autres repères urbains composent le paysage de bord de Seine.  
- Suivez-nous dans cette lecture urbaine insolite qui prend de la hauteur !
+Suivez-nous dans cette lecture urbaine insolite qui prend de la hauteur !
 
 _En collaboration avec Quevilly Habitat et la ville de Grand Quevilly._
 
-**Intervenants :** comédiens et comédiennes
+**Réservations - sélectionnez un créneau :**
 
-**Réservation** - **sélectionnez un créneau pour chaque visite :**
-
-* Mairie Annexe - Centre Culturel Marx Dormoy - RDV place Gabriel Péri : 11H30 / 14H / 15H30 / 17H
-* Hôtel de Ville - RDV Esplanade Tony Larue : 11H30 / 14H / 15H30 / 17H
-* Immeuble Nymphéas - RDV 1 rue Eugène Boudin : 11H30 / 14H / 15H30 / 17H
+* **11h30 :** [réserver](https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/vues-de-haut-immeuble-nympheas-11h30)
+* **14h00 :** [réserver](https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/vues-de-haut-immeuble-nympheas-14h)
+* **15h30 :** [réserver](https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/vues-de-haut-immeuble-nympheas-15h30)
+* **17h00 :** [réserver](https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/vues-de-haut-immeuble-nympheas-17h)

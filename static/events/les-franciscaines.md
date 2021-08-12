@@ -12,14 +12,14 @@ booking:
   period: ''
   dates:
   - date: 2021-10-03 11:00
-  link: ''
+  link: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/les-franciscaines-1
 address:
   place: Deauville (14)
   lat: "49.3544178"
   lon: "0.0644148"
 informations:
-  note: Tout public
-  rdv: 'RDV : Les Franciscaines - 145b Avenue de la République, 14800 Deauville'
+  note: Tous publics
+  rdv: 'RDV : Les Franciscaines - 145b Avenue de la République'
 gallery: []
 
 ---

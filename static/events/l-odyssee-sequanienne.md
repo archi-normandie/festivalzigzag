@@ -14,15 +14,16 @@ booking:
   period: ''
   dates:
   - date: 2021-10-06 14:00
-  link: ''
+  link: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/l-odyssee-sequanienne
 address:
   place: Rouen (76)
   lat: "49.4397217"
   lon: "1.1009603"
 informations:
   note: ''
-  rdv: RDV à la Maison de l'architecture de Normandie - le Forum | 48 rue Victor Hugo
-    76000 ROUEN
+  rdv: 'RDV : Maison de l''architecture de Normandie - le Forum, 48 rue Victor Hugo
+    à Rouen. TEOR (lignes T1, T2 & T3) - arrêt place Saint-Marc // Bus (lignes F2,
+    5, 11 & 13) - arrêt place Saint-Vivien'
 gallery: []
 
 ---

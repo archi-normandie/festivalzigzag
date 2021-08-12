@@ -3,48 +3,48 @@
     {
       "template": "bloc-content",
       "title": "Zigzag 2021",
-      "content": "#### Zigzag - festival d'architecture et des arts de l'espace\n\nDu 25 septembre au 10 octobre 2021\n\nLe long de la vallée de la Seine\n\ndéambulations, performances, installations, randonnées, expositions, parcours, balades, visites ... coordonnés par **le Forum - Maison de l’architecture de Normandie**\n\n* 48 rue Victor Hugo - 76000 ROUEN\n* 02 35 03 40 31\n* contact@man-leforum.fr"
+      "content": "**Le Forum -**   \n**Maison de l’architecture de Normandie**  \n48 rue Victor Hugo  \n76000 Rouen\n\n02 35 03 40 31  \ncontact@man-leforum.fr  \n[man-leforum.fr](http://man-leforum.fr/maison-de-l-architecture/ \"Site web du Forum\")\n\n**_#touspourlarchi_** \n\n**_#zigzagfestivalarchitecture_**"
     },
     {
       "template": "bloc-navigation",
       "navigation": [
         {
-          "label": "Découvrir le festival",
+          "label": "Découvrez le festival",
           "links": [
             {
               "name": "A propos",
-              "path": "https://festivalzigzag.fr/pages/a-propos"
+              "path": "/pages/a-propos"
+            },
+            {
+              "name": "Journal du festival",
+              "path": "/journal"
             },
             {
               "name": "Partenaires",
-              "path": "https://festivalzigzag.fr/pages/partenaires"
+              "path": "/pages/partenaires"
             },
             {
               "name": "Presse",
-              "path": "https://festivalzigzag.fr/pages/presse"
+              "path": "/pages/presse"
             }
           ]
         },
         {
-          "label": "S'inscrire aux événements",
+          "label": "Inscrivez-vous aux événements",
           "links": [
             {
-              "path": "https://festivalzigzag.fr/lieux",
+              "path": "/lieux",
               "name": "Lieux"
             },
             {
               "name": "Agenda",
-              "path": "https://festivalzigzag.fr/agenda"
+              "path": "/agenda"
             }
           ]
         },
         {
-          "label": "Suivre le festival",
+          "label": "Restez connectés !",
           "links": [
-            {
-              "name": "Journal du festival",
-              "path": "https://festivalzigzag.fr/journal"
-            },
             {
               "name": "Facebook",
               "path": "https://www.facebook.com/zigzagfestivalarchitecture"
@@ -60,7 +60,7 @@
     {
       "template": "bloc-content",
       "title": "Le Forum",
-      "content": "#### Suivez l'actualité du Forum !\n\nDes expositions toute l'année en accès libre et une programmation culturelle :\n\n* [man-leforum.fr](http://man-leforum.fr/maison-de-l-architecture/)\n* [inscrivez-vous à la newsletter](http://man-leforum.fr/maison-de-l-architecture/infos-pratiques/s-abonner-a-la-newsletter/newsletters.html)\n\n#### Restez connectés !\n\nRejoignez le Forum sur :\n\n* [LinkedIn](https://www.linkedin.com/company/maison-de-l-architecture-de-normandie-le-forum/)\n* [Facebook](https://www.facebook.com/maisondelarchitecturedenormandieleforum/)\n* [Instagram](https://www.instagram.com/man_leforum/)\n\n_#touspourlarchi #zigzagfestivalarchitecture_"
+      "content": "###### Suivez l'actualité du Forum\n\n* [Adhérez au Forum !](https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/adhesions/maison-de-l-architecture-de-normandie-le-forum-adhesion)\n* [Abonnez-vous à sa newsletter](http://man-leforum.fr/maison-de-l-architecture/infos-pratiques/s-abonner-a-la-newsletter/newsletters.html)\n\n###### et restez connectés !\n\n* [LinkedIn](https://www.linkedin.com/company/maison-de-l-architecture-de-normandie-le-forum/)\n* [Facebook](https://www.facebook.com/maisondelarchitecturedenormandieleforum/)\n* [Instagram](https://www.instagram.com/man_leforum/)"
     }
   ]
 }

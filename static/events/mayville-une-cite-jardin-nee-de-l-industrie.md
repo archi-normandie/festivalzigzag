@@ -12,14 +12,14 @@ booking:
   period: ''
   dates:
   - date: 2021-10-09 09:30
-  link: ''
+  link: 'https://reservations.activitour.fr/activity/visite-guidee-mayville-une-cite-jardin-nee-de-l-industrie '
 address:
   place: Gonfreville-l’Orcher (76)
   lat: "49.5071421"
   lon: "0.2329881"
 informations:
   note: Durée 2h – parcours de 5,3 km avec dénivelé – se munir de chaussures de marche.
-  rdv: RDV devant l’école Jacques-Eberhardt – 16 avenue De Gaulle – 76700 Gonfreville-l’Orcher
+  rdv: 'RDV : devant l’école Jacques-Eberhardt – 16 avenue De Gaulle '
 gallery: []
 
 ---

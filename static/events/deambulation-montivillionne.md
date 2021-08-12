@@ -12,7 +12,7 @@ booking:
   period: ''
   dates:
   - date: 2021-10-10 10:00
-  link: ''
+  link: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/deambulation-montivillionne
 address:
   place: Montivilliers (76)
   lat: "49.5510838"
@@ -22,7 +22,7 @@ informations:
     des passages non accessibles pour les personnes à mobilités réduites, merci de
     préciser lors de l’inscription vos éventuelles difficultés afin de prévoir un
     cheminement adapté.'
-  rdv: 'RDV : Mairie de Montivilliers, place François Mitterrand – 76690 Montivilliers.'
+  rdv: 'RDV : Mairie de Montivilliers, place François Mitterrand '
 gallery: []
 
 ---

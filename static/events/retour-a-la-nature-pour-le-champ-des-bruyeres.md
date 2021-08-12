@@ -12,15 +12,15 @@ booking:
   period: ''
   dates:
   - date: 2021-09-25 14:30
-  link: ''
+  link: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/retour-a-la-nature-pour-le-champ-des-bruyeres
 address:
   place: Rouen (76)
   lat: "49.4091385"
   lon: "1.0709751"
 informations:
-  note: ''
-  rdv: RDV au parc du Champ des Bruyères, au niveau de l’entrée du stade Diochon,
-    avenue des canadiens, Rouen
+  note: Tous publics
+  rdv: 'RDV : parc du Champ des Bruyères, au niveau de l’entrée du stade Diochon,
+    avenue des canadiens, Rouen. Bus T4, F1 et 41 – arrêt stade Diochon'
 gallery: []
 
 ---

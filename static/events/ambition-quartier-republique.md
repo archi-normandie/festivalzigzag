@@ -12,14 +12,15 @@ booking:
   period: ''
   dates:
   - date: 2021-10-01 18:00
-  link: ''
+  link: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/ambition-quartier-republique
 address:
   place: Elbeuf-sur-Seine (76)
   lat: "49.2902443"
   lon: "0.9994402"
 informations:
-  note: Tout public
-  rdv: RDV 25 rue de la république à Elbeuf-sur-Seine
+  note: Tous publics
+  rdv: 'RDV : 25 rue de la république à Elbeuf-sur-Seine. Bus A, B et F – arrêt Le
+    Coq // Bus B et C – arrêt Sevestre Aîné '
 gallery: []
 
 ---

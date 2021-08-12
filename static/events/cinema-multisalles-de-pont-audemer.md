@@ -12,14 +12,14 @@ booking:
   period: ''
   dates:
   - date: 2021-10-02 10:00
-  link: ''
+  link: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/cinema-multisalles-de-pont-audemer
 address:
   place: Pont-Audemer (27)
   lat: "49.3511212"
   lon: "0.5133612"
 informations:
-  note: ''
-  rdv: RDV devant le cinéma Le Ciné - rue des Temps Modernes, 27500 Pont-Audemer
+  note: Tous publics
+  rdv: 'RDV  : devant le cinéma Le Ciné - rue des Temps Modernes'
 gallery: []
 
 ---

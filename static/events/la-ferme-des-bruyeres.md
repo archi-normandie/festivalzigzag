@@ -12,15 +12,16 @@ booking:
   period: ''
   dates:
   - date: 2021-10-10 10:30
-  link: ''
+  link: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/la-ferme-des-bruyeres
 address:
   place: Saint-Étienne-du-Rouvray (76)
   lat: "49.4057341"
   lon: "1.0749842"
 informations:
-  note: ''
-  rdv: RDV au parc du Champ des Bruyères, devant l'entrée de la ferme, côté rue du
-    Madrillet au niveau de la rue Boiëldieu, Saint-Etienne-du-Rouvray
+  note: Tous publics
+  rdv: 'RDV : parc du Champ des Bruyères, devant l''entrée de la ferme, côté rue du
+    Madrillet au niveau de la rue Boiëldieu, Saint-Etienne-du-Rouvray. Métro – arrêt
+    Champ de Courses'
 gallery: []
 
 ---

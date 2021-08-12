@@ -12,15 +12,15 @@ booking:
   period: ''
   dates:
   - date: 2021-09-26 10:30
-  link: ''
+  link: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/balade-architecturale-et-paysagere-en-bord-de-seine
 address:
   place: Freneuse (76)
   lat: "49.3129714"
   lon: "1.0787956"
 informations:
-  note: Tout public
-  rdv: 'RDV : Parking au-dessus du restaurant le Baillage et du monument aux morts,
-    76410 Freneuse'
+  note: Tous publics
+  rdv: 'RDV : Parking au-dessus du restaurant le Baillage et du monument aux morts.
+    AlloBus Freneuse – arrêt Bout de la ville'
 gallery: []
 
 ---
