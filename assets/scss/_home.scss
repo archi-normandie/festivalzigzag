@@ -35,8 +35,10 @@
 
   .hero-logo {
     display: block;
-    height: 30rem;
-    margin: 1vh auto 0 auto;
+    // height: 30rem;
+    padding: 0 1.2rem;
+    max-height: calc(100vh - 3rem);
+    margin: 0 auto 0 auto;
     filter: drop-shadow(0 0 3px rgba(0, 0, 0, 0.6));
   }
 
