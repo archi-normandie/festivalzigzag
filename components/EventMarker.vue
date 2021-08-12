@@ -14,9 +14,21 @@
           <h1 class="event--title">
             {{ marker.title }}
           </h1>
-          <ul v-for="date in marker.dates" :key="date.render" class="event--dates">
-            <li>{{ date.render }}</li>
-          </ul>
+          <template v-if="marker.booking">
+            <p v-if="marker.booking.period" class="event-booking-dates">
+              {{ marker.booking.period }}
+            </p>
+            <template v-else>
+              <ul v-if="marker.booking.dates.length" class="event-booking-dates">
+                <li
+                  v-for="(date, index) in marker.booking.dates"
+                  :key="index"
+                >
+                  {{ date.date | prettyDate }}
+                </li>
+              </ul>
+            </template>
+          </template>
           <p class="event--category">
             {{ marker.categories[0] }}
           </p>
