@@ -1,6 +1,6 @@
 <template>
   <nav v-if="navigation">
-    <h3>Navigation</h3>
+    <h3>Zigzag 2021/2022</h3>
     <ul
       v-for="(group, index) in navigation"
       :key="index"
