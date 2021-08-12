@@ -1,21 +1,35 @@
 ---
-title: Le regard de [travers]
-address: Grand Quevilly
-category:
+title: Ecoquartier de l’église a la Mailleraye
+categories:
 - Parcours
-dates:
-- 2020-10-03 11:00
-lat: "49.41357"
-lon: "1.03372"
-image: "/files/grand-quevilly-in-fine-stego-quevilly-helene-leonard.jpg"
-message: Annulé
-avec: 'Accès libre et gratuit. Durée : 1H30.'
-rdv: Centre Marx Dormoy, Place Gabriel Péri.
-buttons: []
-copyright: Hélène Léonard
-countinuousdate: ''
+booking:
+  period: ''
+  dates:
+  - date: 2021-09-25 14:00
+  state: ''
+  link: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/ecoquartier-de-l-eglise-a-la-mailleraye
+address:
+  place: Arelaune-en-Seine (76)
+  lat: "49.47741"
+  lon: "0.77152"
+informations:
+  note: Tous publics
+  rdv: |
+    RDV : parking de l’église de la Mailleraye-sur-Seine (commune nouvelle d’Arelaune-en-Seine).
+    (autres accès possibles pour les personnes à mobilité réduite, par le parking de la médiathèque Renée Anquetil et par les stationnements publics dans l’opération de logements)
+cover:
+  blocs: []
+  src: "/files/zz-la-mailleraye-ecoquartier.jpg"
+  alt: Description de l'image
+  legend: "© G. Le Moaligou"
+featured: false
+gallery: []
 
 ---
-Plongez dans Le regard de \[travers\], une expérience interactive mariant art et numérique, créée par la compagnie In Fine (danse aérienne) et le studio de création Small Bang. Une balade étonnante et sensible au cours de laquelle votre regard percera les murs pour découvrir des chorégraphies imaginées pour le lieu.
+A quoi peut ressembler un écoquartier en milieu rural?
 
-Suivez le fil rouge, flashez les QR codes et laissez-vous emporter sur un chemin poétique et vivant, et appréhendez autrement ce patrimoine quevillais.
+Pour répondre à cette question, la visite aborde la genèse du projet livré en 2015 et conçu par l’Atelier XV architectes et Guénolé le Moaligou paysagiste-concepteur. Le parcours sera l’occasion de détailler les étapes stratégiques du projet, depuis l’élaboration du programme jusqu’à la réalisation du chantier, en passant par le montage opérationnel et la conception.
+
+Cette réalisation, qui a pour maître d’ouvrages Logeo Seine et la commune de la Mailleraye (commune nouvelle d’Arelaune-en-Seine), illustre la possibilité de construire en cœur de bourg avec une forte densité de logements, tout en préservant la qualité de vie, l’identité des lieux et les continuités écologiques.
+
+**Intervenant :** Guénolé LE MOALIGOU paysagiste-concepteur et consultant ville durable
