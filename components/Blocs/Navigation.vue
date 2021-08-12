@@ -4,11 +4,10 @@
     <ul
       v-for="(group, index) in navigation"
       :key="index"
-      class="is-quiet"
     >
       <li v-if="group.links.length">
         <span class="menu-label">{{ group.label }}</span>
-        <ul class="is-quiet">
+        <ul>
           <li
             v-for="(link, linkIndex) in group.links"
             :key="linkIndex"
