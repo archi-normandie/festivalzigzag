@@ -56,6 +56,6 @@ La MaN située au cœur du quartier Saint-Marc à Rouen, est un lieu culturel d�
 
 * 48 rue Victor Hugo, 76000 Rouen
 * 02 35 03 40 31
-* contact@man-leforum.fr
+* [contact@man-leforum.fr]( mailto:contact@man-leforum.fr)
 
 [**man-leforum.fr**](http://man-leforum.fr/maison-de-l-architecture/ "Site web le Forum")
