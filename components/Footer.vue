@@ -56,6 +56,7 @@ export default {
   h6 {
     color: $white;
     font-size: 1em;
+    margin-bottom: 1rem;
   }
 }
 .footer {
@@ -100,7 +101,7 @@ export default {
   position: relative;
   font-size: 0.8em;
   padding: $paddings;
-  margin: -1.5rem;
+  margin: 0 -1.5rem -1.5rem;
   &-left { justify-content: flex-start; }
   &-right { justify-content: flex-end; }
   &::before { @extend .footer::before; }
