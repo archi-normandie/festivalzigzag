@@ -52,6 +52,9 @@ export default {
     list-style: none;
     margin: $margins-small;
   }
+  .button {
+    margin-bottom: $margin;
+  }
 }
 
 </style>
