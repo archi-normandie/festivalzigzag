@@ -1,6 +1,6 @@
 ---
 title: Toutes voiles vers Quillebeuf ! Une position stratégique jusqu’à la fin du
-  XVIIIe siècle -(copy)
+  XVIIIe siècle
 categories:
 - Visites d’exposition
 featured: false
