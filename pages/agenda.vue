@@ -83,7 +83,7 @@ export default {
         .filter(event => !event.featured)
         .sort((a, b) => {
           if (!a.booking.dates[0] || !b.booking.dates[0]) { return 0 }
-          return new Date(a.booking.dates[0].date).getTime() - new Date(b.booking.dates[0].date).getTime()
+          return new Date(a.booking.dates[0].raw).getTime() - new Date(b.booking.dates[0].raw).getTime()
         })
     },
     featuredEvents () {
@@ -151,8 +151,8 @@ export default {
       for (const city in eventsByCity) {
         eventsByCity[city].events.sort((a, b) => {
           if (!a.booking.dates[0] || !b.booking.dates[0]) { return 0 }
-          if (a.booking.dates[0].date < b.booking.dates[0].date) { return -1 }
-          if (a.booking.dates[0].date > b.booking.dates[0].date) { return 1 }
+          if (a.booking.dates[0].raw < b.booking.dates[0].raw) { return -1 }
+          if (a.booking.dates[0].raw > b.booking.dates[0].raw) { return 1 }
           return 0
         })
       }
@@ -162,14 +162,14 @@ export default {
       const events = this.events
       events.sort((a, b) => {
         if (!a.booking.dates[0] || !b.booking.dates[0]) { return 0 }
-        if (a.booking.dates[0].date < b.booking.dates[0].date) { return -1 }
-        if (a.booking.dates[0].date > b.booking.dates[0].date) { return 1 }
+        if (a.booking.dates[0].raw < b.booking.dates[0].raw) { return -1 }
+        if (a.booking.dates[0].raw > b.booking.dates[0].raw) { return 1 }
         return 0
       })
       const eventsByMonth = events.reduce((previous, current) => {
         let currentMonth = 'Événements permanents'
         if (current.booking.dates[0]) {
-          const formattedDate = new Date(current.booking.dates[0].date)
+          const formattedDate = new Date(current.booking.dates[0].raw)
             .toLocaleString('default', { year: 'numeric', month: 'long' })
           currentMonth = formattedDate.charAt(0).toUpperCase() + formattedDate.slice(1)
         }
@@ -185,8 +185,8 @@ export default {
       for (const month in eventsByMonth) {
         eventsByMonth[month].events.sort((a, b) => {
           if (!a.booking.dates[0] || !b.booking.dates[0]) { return 0 }
-          if (a.booking.dates[0].date < b.booking.dates[0].date) { return -1 }
-          if (a.booking.dates[0].date > b.booking.dates[0].date) { return 1 }
+          if (a.booking.dates[0].raw < b.booking.dates[0].raw) { return -1 }
+          if (a.booking.dates[0].raw > b.booking.dates[0].raw) { return 1 }
           return 0
         })
       }

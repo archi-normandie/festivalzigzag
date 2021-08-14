@@ -9,7 +9,7 @@
           v-for="(date, index) in booking.dates"
           :key="index"
         >
-          {{ date.date | prettyDate }}
+          {{ date.formatted }}
         </li>
       </ul>
     </template>
