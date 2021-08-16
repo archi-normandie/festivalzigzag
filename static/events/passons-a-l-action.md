@@ -31,13 +31,20 @@ La Manuf’ propose d’inventer dans la durée une culture commune locale de la
 
 Nous vous proposons de participer à cette renaissance et de passer à l’action !
 
-* Au travers d’une représentation virtuelle historique du quartier et de l’ancien couvent fondé en 1613 par les moines Capucins,
+**TOUT EST REEMPLOI** 
+
+* **10h-11h et 11h-12h :** visites commentées du chantier de la réinvention du Couvent de la Manufacture des Capucins sur les thématiques du réemploi, du tiers-patrimoine, de la transmission et de la maintenance.
+
+**12h30 :** buffet offert sous les arbres
+
+**UN JARDIN DANS LA VILLE**
+
+* **14h-15h :** visite commentée et conversations autour du jardin et de son écosystème, biodiversité et agriculture urbaine.
 
 
-* Par un échange avec les concepteurs et les bénévoles du site,
+* **15h30-17h30 :** missions bénévoles au jardin
 
-
-* Par une mission bénévole autour de l’écosystème du jardin.
+**Toute la journée :** Projection commentée du site en réalité augmentée au XVIIIème siècle
 
 **Intervenants :** Magalie TEMPEZ paysagiste et chargée de mission du Jardin de la Manufacture des Capucins ; Alexandre REVEREND et Nicolas DESCHAMPS, concepteurs et réalisateurs du Drône temporel, Agence de Tourisme Temporel Vernonnaise ; Etienne LEMOINE co-fondateur et architecte de la Manufacture des Capucins, agence d’architecture MWAH
 
