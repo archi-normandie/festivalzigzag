@@ -29,7 +29,7 @@ Située au cœur de l’écoquartier Fieschi en centre-ville de Vernon, la Manuf
 
 La Manuf’ propose d’inventer dans la durée une culture commune locale de la résilience par la réinvention du couvent en tiers-patrimoine et par la maintenance du jardin.
 
-Nous vous proposons de participer à cette renaissance et de passer à l’action !
+Nous vous proposons de participer à cette renaissance et de passer à l’action!
 
 **TOUT EST REEMPLOI** 
 
