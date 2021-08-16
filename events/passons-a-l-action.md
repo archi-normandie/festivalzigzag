@@ -7,7 +7,7 @@ featured: false
 cover:
   src: ''
   alt: ''
-  legend: ''
+  legend: "© Manufacture des Capucins"
 booking:
   link: ''
   state: ''
