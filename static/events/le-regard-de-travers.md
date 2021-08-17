@@ -32,4 +32,4 @@ Pour répondre à cette question, la visite aborde la genèse du projet livré e
 
 Cette réalisation, qui a pour maître d’ouvrages Logeo Seine et la commune de la Mailleraye (commune nouvelle d’Arelaune-en-Seine), illustre la possibilité de construire en cœur de bourg avec une forte densité de logements, tout en préservant la qualité de vie, l’identité des lieux et les continuités écologiques.
 
-**Intervenant :** Guénolé LE MOALIGOU paysagiste-concepteur et consultant ville durable
+**Intervenant :** Guénolé Le Moaligou paysagiste-concepteur et consultant ville durable
