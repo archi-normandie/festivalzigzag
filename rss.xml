@@ -4,7 +4,7 @@
         <title></title>
         <link>https://festivalzigzag.fr/rss.xml</link>
         <description>Journal du Festival Zigzag</description>
-        <lastBuildDate>Tue, 17 Aug 2021 12:45:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Aug 2021 12:47:20 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
         <item>
@@ -212,6 +212,28 @@
 ]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Zigzag 2019 - Parcours urbain à Grand Quevilly]]></title>
+            <link>https://festivalzigzag.fr/stories/parcours-urbain-a-grand-quevilly</link>
+            <guid>https://festivalzigzag.fr/stories/parcours-urbain-a-grand-quevilly</guid>
+            <pubDate>Mon, 19 Jan 1970 06:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="balade-quevillaise">BALADE QUEVILLAISE</h2>
+<p>Inauguration de l&#39;itinéraire dessiné dans la ville de Grand Quevilly à l&#39;aide de 12 totems :</p>
+<p>En se promenant à Grand Quevilly, que voit-on de son patrimoine, de sa relation à la nature, au paysage ? Après la résidence d’architecte du Collectif Graphites, la ville de Grand Quevilly poursuit son travail d’exploration urbaine et livre un premier parcours sur l’architecture de la commune qui s’étend du bourg à l’extension. Comprendre Grand Quevilly dans sa dimension urbaine c’est se pencher sur son histoire, sa relation au fleuve, à l’activité des hommes. Que dit l’architecture de Grand Quevilly aujourd’hui ?</p>
+<p>Cette inauguration propose une déambulation dans le bourg, l’occasion d’orienter les regards vers l’architecture du quotidien, de comprendre la fabrication de la ville, de se l’approprier.</p>
+<blockquote>
+<p>initialement programmé dans le cadre du festival Zigzag le 28/09, la balade a été reportée au samedi 16/11</p>
+</blockquote>
+<blockquote>
+<p>recherches et rédaction du parcours : Maison de l&#39;architecture de Normandie</p>
+</blockquote>
+<p><strong>La carte du parcours est disponible à la Maison de l&#39;architecture de Normandie - le Forum au 48 rue Victor Hugo à Rouen :</strong></p>
+<ul>
+<li>du mardi au vendredi : 14:00 - 18:00</li>
+<li>le samedi : 10:30 - 12:30 / 14:00 - 18:00</li>
+</ul>
+]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Zigzag 2019 - Parcours à travers les paysages du Roumois]]></title>
             <link>https://festivalzigzag.fr/stories/parcours-a-travers-les-paysages-du-roumois</link>
             <guid>https://festivalzigzag.fr/stories/parcours-a-travers-les-paysages-du-roumois</guid>
@@ -254,28 +276,6 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Zigzag 2019 - Parcours urbain à Grand Quevilly]]></title>
-            <link>https://festivalzigzag.fr/stories/parcours-urbain-a-grand-quevilly</link>
-            <guid>https://festivalzigzag.fr/stories/parcours-urbain-a-grand-quevilly</guid>
-            <pubDate>Mon, 19 Jan 1970 06:16:45 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="balade-quevillaise">BALADE QUEVILLAISE</h2>
-<p>Inauguration de l&#39;itinéraire dessiné dans la ville de Grand Quevilly à l&#39;aide de 12 totems :</p>
-<p>En se promenant à Grand Quevilly, que voit-on de son patrimoine, de sa relation à la nature, au paysage ? Après la résidence d’architecte du Collectif Graphites, la ville de Grand Quevilly poursuit son travail d’exploration urbaine et livre un premier parcours sur l’architecture de la commune qui s’étend du bourg à l’extension. Comprendre Grand Quevilly dans sa dimension urbaine c’est se pencher sur son histoire, sa relation au fleuve, à l’activité des hommes. Que dit l’architecture de Grand Quevilly aujourd’hui ?</p>
-<p>Cette inauguration propose une déambulation dans le bourg, l’occasion d’orienter les regards vers l’architecture du quotidien, de comprendre la fabrication de la ville, de se l’approprier.</p>
-<blockquote>
-<p>initialement programmé dans le cadre du festival Zigzag le 28/09, la balade a été reportée au samedi 16/11</p>
-</blockquote>
-<blockquote>
-<p>recherches et rédaction du parcours : Maison de l&#39;architecture de Normandie</p>
-</blockquote>
-<p><strong>La carte du parcours est disponible à la Maison de l&#39;architecture de Normandie - le Forum au 48 rue Victor Hugo à Rouen :</strong></p>
-<ul>
-<li>du mardi au vendredi : 14:00 - 18:00</li>
-<li>le samedi : 10:30 - 12:30 / 14:00 - 18:00</li>
-</ul>
-]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Zigzag 2019 - Un parcours pédestre au Havre]]></title>
             <link>https://festivalzigzag.fr/stories/un-parcours-pedestre-au-havre</link>
             <guid>https://festivalzigzag.fr/stories/un-parcours-pedestre-au-havre</guid>
@@ -311,18 +311,6 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Zigzag 2020 - #annulations ]]></title>
-            <link>https://festivalzigzag.fr/stories/zigzag-2020-annulations</link>
-            <guid>https://festivalzigzag.fr/stories/zigzag-2020-annulations</guid>
-            <pubDate>Mon, 19 Jan 1970 13:28:23 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="un-festival-mouvemente">UN FESTIVAL MOUVEMENTE</h2>
-<p>En 2019, la première édition du festival Zigzag avait connu une programmation mouvementée, suite à l&#39;incendie de Lubrizol du 26 septembre ... avec des événements annulés dans la ville de Rouen.</p>
-<p>La Maison de l&#39;architecture de Normandie - le Forum préparait l&#39;édition 2020 depuis plusieurs mois, quand le confinement est passé par là et le télétravail de rigueur.<br>L&#39;équipe tient encore à remercier tous ses partenaires, qui étaient présents à tous les instants pour monter la programmation du festival, et à tous les participants pour leurs inscriptions aux événements Zigzag 2020 malgré la situation sanitaire.</p>
-<p>Toutes ces bonnes volontés n&#39;ont malheureusement pas permis de maintenir tous les événements, que tous auraient aimé vivre : le parcours chorégraphique et le rallye vélo à <strong>Grand Quevilly</strong>, la soirée projection d&#39;<strong>Echelle Inconnue</strong>, la randonnée curieuse à <strong>Rives-en-Seine</strong>, la balade fluviale à <strong>Rouen</strong>, la randonnée à <strong>Achères avec Le voyage métropolitain</strong> ou la balade patrimoniale à la <strong>Mailleraye-sur-Seine avec le Parc naturel régional des Boucles de la Seine Normande</strong>.</p>
-<p>L&#39;édition 2021 est déjà en préparation le long de la vallée de la Seine ... suivez et partagez <a href="https://www.facebook.com/zigzagfestivalarchitecture/" title="Lien Facebook">Zigzag - festival d&#39;architecture et des arts de l&#39;espace</a> sur les réseaux sociaux pour rester informé !!</p>
-]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Zigzag 2019 - Visites de chantier au Havre]]></title>
             <link>https://festivalzigzag.fr/stories/visites-de-chantier-au-havre</link>
             <guid>https://festivalzigzag.fr/stories/visites-de-chantier-au-havre</guid>
@@ -337,22 +325,15 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Zigzag 2020 - exposition ]]></title>
-            <link>https://festivalzigzag.fr/stories/zigzag-2020-exposition</link>
-            <guid>https://festivalzigzag.fr/stories/zigzag-2020-exposition</guid>
-            <pubDate>Mon, 19 Jan 1970 13:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="lexposition-utopie-fluviale-au-forum-jusquau-30-octobre">L&#39;EXPOSITION UTOPIE FLUVIALE AU FORUM JUSQU&#39;AU 30 OCTOBRE</h2>
-<p>Le collectif d’artistes et d’architectes <strong>&quot;Dans le Sens de Barge&quot;</strong> offre un cycle de programmation artistique (résidences, workshops, expositions, ateliers et fêtes) favorisant le lien social et culturel sur la Seine. A l’occasion du <strong>festival Zigzag 2020</strong>, le collectif propose <strong>“Utopie Fluviale”</strong> : un retour sur la génèse du projet, sa raison d&#39;être artistique puisée au sein du fleuve, de l’eau, de l’inertie, des traversées. Cette exposition sera l&#39;occasion de présenter l&#39;état d&#39;avancée du projet fluvio-maritime <strong>BARGE</strong> réalisé par l&#39;architecte Pierre Delion et de montrer les propositions élaborées par les étudiants en design et en architecture de l&#39;<strong>ENSCI - Les Ateliers et de l’ENSA-Normandie</strong>, autour des futures escales des embarcations.</p>
-<p><strong>Lors d’une rencontre le 9 octobre dernier</strong>, DSB avec le duo d’artistes Eloise Le Gallo &amp; Julia Borderie et les scientifiques impliqués, ont présenté leur réflexion commune sur le paysage séquanien façonné par les mouvements des couches sédimentaires et ses déplacements de terre que ce soit par l’action hydraulique, animale, ou encore humaine. Cet évènement a amorcé le projet artistique 2020-2022 : <strong>Le Silence des Coquilles</strong>.</p>
-<p><strong>Liste des partenaires :</strong> La Maison de l&#39;architecture de Normandie - le Forum, ENSCI - Les Ateliers, ENSA-Normandie, DRAC Ile-de-France, DRAC Normandie, Département de Seine-Maritime (sous réserve de financement), HAROPA, Parc naturel régional des Boucles de la Seine Normande, Caux-Seine Agglo.</p>
-<p><strong>Pour en savoir plus :</strong> <a href="https://barge.mobi/author/jameshbarge/"><strong>Barge</strong></a></p>
-<p>L&#39;exposition s&#39;inscrit dans la programmation de <strong>Zigzag - festival d&#39;architecture et des arts de l&#39;espace</strong> qui a eu lieu du 3 au 18 octobre 2020 le long de la vallée de la Seine.</p>
-<ul>
-<li>entrée libre et gratuite</li>
-<li>accueil des groupes sur rendez-vous : 02 35 03 40 31</li>
-<li>du mardi au vendredi : 14h - 18h // le samedi : 10h30 - 12h30 / 14h - 18h</li>
-<li>le Forum - Maison de l&#39;architecture de Normandie | 48 rue Victor Hugo, 76000 Rouen</li>
-</ul>
+            <title><![CDATA[Zigzag 2020 - #annulations ]]></title>
+            <link>https://festivalzigzag.fr/stories/zigzag-2020-annulations</link>
+            <guid>https://festivalzigzag.fr/stories/zigzag-2020-annulations</guid>
+            <pubDate>Mon, 19 Jan 1970 13:28:23 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="un-festival-mouvemente">UN FESTIVAL MOUVEMENTE</h2>
+<p>En 2019, la première édition du festival Zigzag avait connu une programmation mouvementée, suite à l&#39;incendie de Lubrizol du 26 septembre ... avec des événements annulés dans la ville de Rouen.</p>
+<p>La Maison de l&#39;architecture de Normandie - le Forum préparait l&#39;édition 2020 depuis plusieurs mois, quand le confinement est passé par là et le télétravail de rigueur.<br>L&#39;équipe tient encore à remercier tous ses partenaires, qui étaient présents à tous les instants pour monter la programmation du festival, et à tous les participants pour leurs inscriptions aux événements Zigzag 2020 malgré la situation sanitaire.</p>
+<p>Toutes ces bonnes volontés n&#39;ont malheureusement pas permis de maintenir tous les événements, que tous auraient aimé vivre : le parcours chorégraphique et le rallye vélo à <strong>Grand Quevilly</strong>, la soirée projection d&#39;<strong>Echelle Inconnue</strong>, la randonnée curieuse à <strong>Rives-en-Seine</strong>, la balade fluviale à <strong>Rouen</strong>, la randonnée à <strong>Achères avec Le voyage métropolitain</strong> ou la balade patrimoniale à la <strong>Mailleraye-sur-Seine avec le Parc naturel régional des Boucles de la Seine Normande</strong>.</p>
+<p>L&#39;édition 2021 est déjà en préparation le long de la vallée de la Seine ... suivez et partagez <a href="https://www.facebook.com/zigzagfestivalarchitecture/" title="Lien Facebook">Zigzag - festival d&#39;architecture et des arts de l&#39;espace</a> sur les réseaux sociaux pour rester informé !!</p>
 ]]></content:encoded>
         </item>
         <item>
@@ -381,6 +362,25 @@
 <li>Saint-Arnoult, 76</li>
 <li>Val-de-Reuil, 27</li>
 <li>Vernon, 27</li>
+</ul>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Zigzag 2020 - exposition ]]></title>
+            <link>https://festivalzigzag.fr/stories/zigzag-2020-exposition</link>
+            <guid>https://festivalzigzag.fr/stories/zigzag-2020-exposition</guid>
+            <pubDate>Mon, 19 Jan 1970 13:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="lexposition-utopie-fluviale-au-forum-jusquau-30-octobre">L&#39;EXPOSITION UTOPIE FLUVIALE AU FORUM JUSQU&#39;AU 30 OCTOBRE</h2>
+<p>Le collectif d’artistes et d’architectes <strong>&quot;Dans le Sens de Barge&quot;</strong> offre un cycle de programmation artistique (résidences, workshops, expositions, ateliers et fêtes) favorisant le lien social et culturel sur la Seine. A l’occasion du <strong>festival Zigzag 2020</strong>, le collectif propose <strong>“Utopie Fluviale”</strong> : un retour sur la génèse du projet, sa raison d&#39;être artistique puisée au sein du fleuve, de l’eau, de l’inertie, des traversées. Cette exposition sera l&#39;occasion de présenter l&#39;état d&#39;avancée du projet fluvio-maritime <strong>BARGE</strong> réalisé par l&#39;architecte Pierre Delion et de montrer les propositions élaborées par les étudiants en design et en architecture de l&#39;<strong>ENSCI - Les Ateliers et de l’ENSA-Normandie</strong>, autour des futures escales des embarcations.</p>
+<p><strong>Lors d’une rencontre le 9 octobre dernier</strong>, DSB avec le duo d’artistes Eloise Le Gallo &amp; Julia Borderie et les scientifiques impliqués, ont présenté leur réflexion commune sur le paysage séquanien façonné par les mouvements des couches sédimentaires et ses déplacements de terre que ce soit par l’action hydraulique, animale, ou encore humaine. Cet évènement a amorcé le projet artistique 2020-2022 : <strong>Le Silence des Coquilles</strong>.</p>
+<p><strong>Liste des partenaires :</strong> La Maison de l&#39;architecture de Normandie - le Forum, ENSCI - Les Ateliers, ENSA-Normandie, DRAC Ile-de-France, DRAC Normandie, Département de Seine-Maritime (sous réserve de financement), HAROPA, Parc naturel régional des Boucles de la Seine Normande, Caux-Seine Agglo.</p>
+<p><strong>Pour en savoir plus :</strong> <a href="https://barge.mobi/author/jameshbarge/"><strong>Barge</strong></a></p>
+<p>L&#39;exposition s&#39;inscrit dans la programmation de <strong>Zigzag - festival d&#39;architecture et des arts de l&#39;espace</strong> qui a eu lieu du 3 au 18 octobre 2020 le long de la vallée de la Seine.</p>
+<ul>
+<li>entrée libre et gratuite</li>
+<li>accueil des groupes sur rendez-vous : 02 35 03 40 31</li>
+<li>du mardi au vendredi : 14h - 18h // le samedi : 10h30 - 12h30 / 14h - 18h</li>
+<li>le Forum - Maison de l&#39;architecture de Normandie | 48 rue Victor Hugo, 76000 Rouen</li>
 </ul>
 ]]></content:encoded>
         </item>
@@ -469,22 +469,6 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Zigzag 2020 - week-end #JNArchi]]></title>
-            <link>https://festivalzigzag.fr/stories/zigzag-2020-week-end-jnarchi</link>
-            <guid>https://festivalzigzag.fr/stories/zigzag-2020-week-end-jnarchi</guid>
-            <pubDate>Mon, 19 Jan 1970 13:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="zigzag-et-les-journees-nationales-de-larchitecture">ZIGZAG ET LES JOURNEES NATIONALES DE L&#39;ARCHITECTURE</h2>
-<p><em>&quot;La crise sanitaire que nous venons de traverser a mis davantage encore en lumière l’importance d’un environnement de vie bien conçu et de qualité, et par conséquent le rôle essentiel de l’architecture. La 5e édition des Journées nationales de l’architecture se déroulera les 16, 17 et 18 octobre 2020. Organisées par le Ministère de la Culture, ces journées ont pour objectif de familiariser tous les publics aux enjeux de l’architecture et de leur fournir des clés de compréhension de cet art qui façonne nos territoires.&quot;<br>Roselyne Bachelot-Narquin, Ministre de la Culture</em></p>
-<p>Samedi matin, la Maison de l&#39;architecture de Normandie - le Forum et <strong>Le Havre Port Center</strong> vous ont invité à prendre le large pour découvrir la ville autrement. Une balade inédite, à bord de Normandie Navigation, accompagnée de guides du service <strong>Villes et Pays d’art et d’histoire</strong> du Havre et <strong>Haropa - Port du Havre</strong>.</p>
-<p>Au même moment, l&#39;équipe du Forum vous a donné rdv à <strong>Saint-Arnoult</strong>, en compagnie des architectes de l’<strong>Atelier Cosme,</strong> pour la visite de la nouvelle école au cœur du village : Au sein d’une commune en pleine mutation, l’école Henri Dès, devenue trop petite et vieillissante, a fait l’objet d’un projet de réhabilitation. Des travaux d’agrandissement et de restructuration, imaginés par l’Atelier Cosme Architecture, ont été réalisés dans une démarche à la fois ambitieuse et raisonnée, de sauvegarde et d’économie de moyens quant à la qualité d’usage. L’équipement scolaire se trouve ainsi placé au cœur d’une nouvelle perspective urbaine et paysagère, tout en s’inscrivant dans une dynamique d’attractivité du centre bourg.</p>
-<p>Pendant ce temps là à <strong>Rouen</strong>, le <strong>CAUE 76 et l&#39;Atelier de la Corderie</strong>, cabinet d&#39;architecture en charge de la rénovation, vous ont proposé un parcours urbain à travers l’architecture de la reconstruction, sur la rive gauche de Rouen, du cours Clémenceau à l’ISAI des Docks : Conçu il y a 70 ans, le patrimoine architectural de la reconstruction présente un style caractéristique qui structure un certain nombre de communes ou de quartiers en Seine-Maritime. Répondant aux principes constructifs d’une époque, ils font aujourd’hui partie de notre patrimoine. Un parcours pour découvrir l’histoire de ces bâtiments, de leur construction à leur rénovation.</p>
-<p>Dernière déambulation paysagère du jour à <strong>La Bouille</strong>, avec Jean-Christophe Goulier, architecte-paysagiste, <strong>CAUE 76</strong>  : Si les paysages de la vallée de la Seine apparaissent souvent emblématiques, ils fourmillent de singularités et de réjouissances pour qui sait en avoir une approche sensible. « Il faut pénétrer dans l’épaisseur du paysage » disait le paysagiste Jacques Simon. C’est une expérience poétique, sensorielle et documentaire que vous a proposé le CAUE 76 avec l’appui du <strong>PNR des Boucles de la Seine Normande</strong>. Un parcours donné comme un moyen de lire le paysage, de comprendre le fleuve et le lien particulier qu’entretient le village de La Bouille à ses rives.</p>
-<p>Et pour finir ce samedi en beauté, l&#39;équipe du Forum a passé l’après-midi avec le collectif <strong>Les Gens des Lieux et Les Cueilleurs d&#39;Histoire</strong> sur le site de <strong>Genius 2020 au Havre</strong>. Une belle façon de fêter la fin du festival dans un quartier en mutation : A l’interface du quartier Saint Nicolas et de la zone de l’Escaut, le collectif Les Gens des Lieux propose une scénographie urbaine éphémère. Par ses interventions, il ouvre des perspectives, renverse des points de vue, fait émerger un jardin sauvage au milieu d’une friche portuaire.</p>
-<p>Pour le dernier jour du festival Zigzag 2020, la Maison de l&#39;architecture de Normandie est retournée à <strong>la Manufacture des Capucins à Vernon</strong> : Jardinage, rencontre, expositions et journée d’étude étaient au programme. Merci aux participants, aux bénévoles de la Manufacture et à l’agence d&#39;architecture <strong>MWAH</strong> !</p>
-<p>Au même moment, l&#39;<strong>Agglomération Seine-Eure</strong> vous a invité pour un événement ludo-cyclo-patrimonial proposé dans le cadre de l’itinéraire <strong>Seine à Vélo</strong> : Laissez-vous embarquer dans l’aventure et menez l’enquête à vélo, en participant au jeu « Seine de Crime ». Une balade à deux roues ponctuées de points d’étapes, où vous ont attendu des comédiens pour vous guider dans votre parcours entre <strong>Elbeuf-sur-Seine et Les Damps</strong>. Trois heures à vélo pour découvrir les richesses du patrimoine architectural et naturel.</p>
-]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Zigzag 2021 - du 25 septembre au 10 octobre]]></title>
             <link>https://festivalzigzag.fr/stories/zigzag-2021-du-25-septembre-au-10-octobre</link>
             <guid>https://festivalzigzag.fr/stories/zigzag-2021-du-25-septembre-au-10-octobre</guid>
@@ -518,6 +502,22 @@
 <li>SAINT-ÉTIENNE-DU-ROUVRAY (76)</li>
 <li>VERNON (27)</li>
 </ul>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Zigzag 2020 - week-end #JNArchi]]></title>
+            <link>https://festivalzigzag.fr/stories/zigzag-2020-week-end-jnarchi</link>
+            <guid>https://festivalzigzag.fr/stories/zigzag-2020-week-end-jnarchi</guid>
+            <pubDate>Mon, 19 Jan 1970 13:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="zigzag-et-les-journees-nationales-de-larchitecture">ZIGZAG ET LES JOURNEES NATIONALES DE L&#39;ARCHITECTURE</h2>
+<p><em>&quot;La crise sanitaire que nous venons de traverser a mis davantage encore en lumière l’importance d’un environnement de vie bien conçu et de qualité, et par conséquent le rôle essentiel de l’architecture. La 5e édition des Journées nationales de l’architecture se déroulera les 16, 17 et 18 octobre 2020. Organisées par le Ministère de la Culture, ces journées ont pour objectif de familiariser tous les publics aux enjeux de l’architecture et de leur fournir des clés de compréhension de cet art qui façonne nos territoires.&quot;<br>Roselyne Bachelot-Narquin, Ministre de la Culture</em></p>
+<p>Samedi matin, la Maison de l&#39;architecture de Normandie - le Forum et <strong>Le Havre Port Center</strong> vous ont invité à prendre le large pour découvrir la ville autrement. Une balade inédite, à bord de Normandie Navigation, accompagnée de guides du service <strong>Villes et Pays d’art et d’histoire</strong> du Havre et <strong>Haropa - Port du Havre</strong>.</p>
+<p>Au même moment, l&#39;équipe du Forum vous a donné rdv à <strong>Saint-Arnoult</strong>, en compagnie des architectes de l’<strong>Atelier Cosme,</strong> pour la visite de la nouvelle école au cœur du village : Au sein d’une commune en pleine mutation, l’école Henri Dès, devenue trop petite et vieillissante, a fait l’objet d’un projet de réhabilitation. Des travaux d’agrandissement et de restructuration, imaginés par l’Atelier Cosme Architecture, ont été réalisés dans une démarche à la fois ambitieuse et raisonnée, de sauvegarde et d’économie de moyens quant à la qualité d’usage. L’équipement scolaire se trouve ainsi placé au cœur d’une nouvelle perspective urbaine et paysagère, tout en s’inscrivant dans une dynamique d’attractivité du centre bourg.</p>
+<p>Pendant ce temps là à <strong>Rouen</strong>, le <strong>CAUE 76 et l&#39;Atelier de la Corderie</strong>, cabinet d&#39;architecture en charge de la rénovation, vous ont proposé un parcours urbain à travers l’architecture de la reconstruction, sur la rive gauche de Rouen, du cours Clémenceau à l’ISAI des Docks : Conçu il y a 70 ans, le patrimoine architectural de la reconstruction présente un style caractéristique qui structure un certain nombre de communes ou de quartiers en Seine-Maritime. Répondant aux principes constructifs d’une époque, ils font aujourd’hui partie de notre patrimoine. Un parcours pour découvrir l’histoire de ces bâtiments, de leur construction à leur rénovation.</p>
+<p>Dernière déambulation paysagère du jour à <strong>La Bouille</strong>, avec Jean-Christophe Goulier, architecte-paysagiste, <strong>CAUE 76</strong>  : Si les paysages de la vallée de la Seine apparaissent souvent emblématiques, ils fourmillent de singularités et de réjouissances pour qui sait en avoir une approche sensible. « Il faut pénétrer dans l’épaisseur du paysage » disait le paysagiste Jacques Simon. C’est une expérience poétique, sensorielle et documentaire que vous a proposé le CAUE 76 avec l’appui du <strong>PNR des Boucles de la Seine Normande</strong>. Un parcours donné comme un moyen de lire le paysage, de comprendre le fleuve et le lien particulier qu’entretient le village de La Bouille à ses rives.</p>
+<p>Et pour finir ce samedi en beauté, l&#39;équipe du Forum a passé l’après-midi avec le collectif <strong>Les Gens des Lieux et Les Cueilleurs d&#39;Histoire</strong> sur le site de <strong>Genius 2020 au Havre</strong>. Une belle façon de fêter la fin du festival dans un quartier en mutation : A l’interface du quartier Saint Nicolas et de la zone de l’Escaut, le collectif Les Gens des Lieux propose une scénographie urbaine éphémère. Par ses interventions, il ouvre des perspectives, renverse des points de vue, fait émerger un jardin sauvage au milieu d’une friche portuaire.</p>
+<p>Pour le dernier jour du festival Zigzag 2020, la Maison de l&#39;architecture de Normandie est retournée à <strong>la Manufacture des Capucins à Vernon</strong> : Jardinage, rencontre, expositions et journée d’étude étaient au programme. Merci aux participants, aux bénévoles de la Manufacture et à l’agence d&#39;architecture <strong>MWAH</strong> !</p>
+<p>Au même moment, l&#39;<strong>Agglomération Seine-Eure</strong> vous a invité pour un événement ludo-cyclo-patrimonial proposé dans le cadre de l’itinéraire <strong>Seine à Vélo</strong> : Laissez-vous embarquer dans l’aventure et menez l’enquête à vélo, en participant au jeu « Seine de Crime ». Une balade à deux roues ponctuées de points d’étapes, où vous ont attendu des comédiens pour vous guider dans votre parcours entre <strong>Elbeuf-sur-Seine et Les Damps</strong>. Trois heures à vélo pour découvrir les richesses du patrimoine architectural et naturel.</p>
 ]]></content:encoded>
         </item>
     </channel>
