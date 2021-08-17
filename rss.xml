@@ -4,7 +4,7 @@
         <title></title>
         <link>https://festivalzigzag.fr/rss.xml</link>
         <description>Journal du Festival Zigzag</description>
-        <lastBuildDate>Tue, 17 Aug 2021 12:50:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Aug 2021 12:55:14 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
         <item>
@@ -186,6 +186,28 @@
 ]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Zigzag 2019 - Parcours urbain à Grand Quevilly]]></title>
+            <link>https://festivalzigzag.fr/stories/parcours-urbain-a-grand-quevilly</link>
+            <guid>https://festivalzigzag.fr/stories/parcours-urbain-a-grand-quevilly</guid>
+            <pubDate>Mon, 19 Jan 1970 06:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="balade-quevillaise">BALADE QUEVILLAISE</h2>
+<p>Inauguration de l&#39;itinéraire dessiné dans la ville de Grand Quevilly à l&#39;aide de 12 totems :</p>
+<p>En se promenant à Grand Quevilly, que voit-on de son patrimoine, de sa relation à la nature, au paysage ? Après la résidence d’architecte du Collectif Graphites, la ville de Grand Quevilly poursuit son travail d’exploration urbaine et livre un premier parcours sur l’architecture de la commune qui s’étend du bourg à l’extension. Comprendre Grand Quevilly dans sa dimension urbaine c’est se pencher sur son histoire, sa relation au fleuve, à l’activité des hommes. Que dit l’architecture de Grand Quevilly aujourd’hui ?</p>
+<p>Cette inauguration propose une déambulation dans le bourg, l’occasion d’orienter les regards vers l’architecture du quotidien, de comprendre la fabrication de la ville, de se l’approprier.</p>
+<blockquote>
+<p>initialement programmé dans le cadre du festival Zigzag le 28/09, la balade a été reportée au samedi 16/11</p>
+</blockquote>
+<blockquote>
+<p>recherches et rédaction du parcours : Maison de l&#39;architecture de Normandie</p>
+</blockquote>
+<p><strong>La carte du parcours est disponible à la Maison de l&#39;architecture de Normandie - le Forum au 48 rue Victor Hugo à Rouen :</strong></p>
+<ul>
+<li>du mardi au vendredi : 14:00 - 18:00</li>
+<li>le samedi : 10:30 - 12:30 / 14:00 - 18:00</li>
+</ul>
+]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Zigzag 2019 - Parcours urbain à Elbeuf-sur-Seine]]></title>
             <link>https://festivalzigzag.fr/stories/parcours-urbain-a-elbeuf-sur-seine</link>
             <guid>https://festivalzigzag.fr/stories/parcours-urbain-a-elbeuf-sur-seine</guid>
@@ -209,28 +231,6 @@
 <p>Découverte de la cohabitation fragile du bâti et des espaces naturels, des espaces de rétention, des efforts réalisés pour la biodiversité.</p>
 <p>Des paysages culturels évolutifs vivants ...</p>
 <p>Mise en valeur de quartiers en mutations profondes.</p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Zigzag 2019 - Parcours urbain à Grand Quevilly]]></title>
-            <link>https://festivalzigzag.fr/stories/parcours-urbain-a-grand-quevilly</link>
-            <guid>https://festivalzigzag.fr/stories/parcours-urbain-a-grand-quevilly</guid>
-            <pubDate>Mon, 19 Jan 1970 06:16:45 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="balade-quevillaise">BALADE QUEVILLAISE</h2>
-<p>Inauguration de l&#39;itinéraire dessiné dans la ville de Grand Quevilly à l&#39;aide de 12 totems :</p>
-<p>En se promenant à Grand Quevilly, que voit-on de son patrimoine, de sa relation à la nature, au paysage ? Après la résidence d’architecte du Collectif Graphites, la ville de Grand Quevilly poursuit son travail d’exploration urbaine et livre un premier parcours sur l’architecture de la commune qui s’étend du bourg à l’extension. Comprendre Grand Quevilly dans sa dimension urbaine c’est se pencher sur son histoire, sa relation au fleuve, à l’activité des hommes. Que dit l’architecture de Grand Quevilly aujourd’hui ?</p>
-<p>Cette inauguration propose une déambulation dans le bourg, l’occasion d’orienter les regards vers l’architecture du quotidien, de comprendre la fabrication de la ville, de se l’approprier.</p>
-<blockquote>
-<p>initialement programmé dans le cadre du festival Zigzag le 28/09, la balade a été reportée au samedi 16/11</p>
-</blockquote>
-<blockquote>
-<p>recherches et rédaction du parcours : Maison de l&#39;architecture de Normandie</p>
-</blockquote>
-<p><strong>La carte du parcours est disponible à la Maison de l&#39;architecture de Normandie - le Forum au 48 rue Victor Hugo à Rouen :</strong></p>
-<ul>
-<li>du mardi au vendredi : 14:00 - 18:00</li>
-<li>le samedi : 10:30 - 12:30 / 14:00 - 18:00</li>
-</ul>
 ]]></content:encoded>
         </item>
         <item>
