@@ -24,9 +24,9 @@ informations:
 gallery: []
 
 ---
-Le C.A.U.E 76 propose une balade architecturale et paysagère à la découverte du patrimoine traditionnel de la commune de Freneuse, située en amont d’Elbeuf-sur-Seine. Une occasion originale de découvrir la singularité de ce territoire entre Seine et coteaux, qui mêle éléments patrimoniaux et architectures diverses qui participent à la qualité du cadre de vie, ainsi que des paysages typiques des bords de Seine.   
+Le C.A.U.E 76 propose une balade architecturale et paysagère à la découverte du patrimoine traditionnel de la commune de Freneuse, située en amont d’Elbeuf-sur-Seine. Une occasion originale de découvrir la singularité de ce territoire entre Seine et coteaux, qui mêle éléments patrimoniaux et architectures diverses qui composent ces paysages typiques des bords de Seine et participent à la qualité du cadre de vie.  
  Vous y percevrez comment le village s’est développé entre le fleuve, ses débordements, et ses coteaux crayeux, ensoleillés, propices à la culture de la vigne et à la biodiversité !
 
-**Intervenants :** Clément DELAÎTRE, paysagiste-urbaniste conseiller et Sandrine LE DOARÉ, architecte conseillère du C.A.U.E 76
+**Intervenants :** Clément Delaître, paysagiste-urbaniste conseiller et Sandrine LE DOARÉ, architecte conseillère du C.A.U.E 76
 
 **Renseignements :** 02 35 72 94 50
