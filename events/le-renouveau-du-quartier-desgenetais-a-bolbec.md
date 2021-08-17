@@ -31,6 +31,4 @@ Le quartier Desgenétais de demain sera parcouru par une rivière aux méandres 
 
 Au-delà de ces programmes de bâtiments, une véritable recherche sur la qualité des espaces publics et sur son lien avec la nature, déjà très présente en bordures de site, est menée. La maîtrise d’œuvre est déjà en cours pour le dessin de ces espaces.
 
-Pour en savoir plus, il nous parait essentiel de découvrir le futur quartier en se projetant dans les années en venant suivre la visite guidée du site.
-
 **Intervenant :** Geoffrey Viard, architecte
