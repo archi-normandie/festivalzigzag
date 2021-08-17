@@ -27,4 +27,4 @@ A l’occasion de vastes projets, Beuzeville s’est lancée dans la reconquête
 
 Ce parcours permettra d’appréhender le rôle de l’architecture et du paysage dans la dynamique économique et le rayonnement d’une commune.
 
-**Intervenants :** le Maire de Beuzeville et de ses services, des paysagistes de Babylone et des architectes de Sunmetron. Accompagnés de Philippe Renault directeur de la Cidrerie.
+**Intervenants :** avec le Maire de Beuzeville et ses services, les paysagistes de Babylone et des architectes de Sunmetron. Accompagnés de Philippe Renault directeur de la Cidrerie.
