@@ -4,7 +4,7 @@
         <title></title>
         <link>https://festivalzigzag.fr/rss.xml</link>
         <description>Journal du Festival Zigzag</description>
-        <lastBuildDate>Tue, 17 Aug 2021 10:21:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Aug 2021 10:25:43 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
         <item>
@@ -212,19 +212,6 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Zigzag 2019 - Parcours à travers les paysages du Roumois]]></title>
-            <link>https://festivalzigzag.fr/stories/parcours-a-travers-les-paysages-du-roumois</link>
-            <guid>https://festivalzigzag.fr/stories/parcours-a-travers-les-paysages-du-roumois</guid>
-            <pubDate>Mon, 19 Jan 1970 06:16:30 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="une-marche-du-moulin-à-la-seine">UNE MARCHE DU MOULIN À LA SEINE</h2>
-<p>Le collectif Superoumois vous invite à venir vous balader à travers les paysages du Roumois: entre champs, plateau, hameaux ou bords de Seine, venez partager et croiser votre regard sur les paysages et les pépites de vos lieux de vie ! </p>
-<p>Depuis septembre 2019 ce collectif travaille avec la Communauté de communes Roumois Seine afin de révéler les visions partagées du territoire, autour de nouveaux formats de dialogue avec ses habitants. Grâce à l’animation de metteur en scène, urbaniste, paysagiste, chef de projet culturel, venez partager cette expérience inédite proche de chez vous !</p>
-<h3 id="parole-de-christine-boisseau">Parole de Christine Boisseau</h3>
-<p><em>Chargée de mission - Urbaniste - CAUE 27</em></p>
-<p>« La balade était intéressante, le format artistique a permis de bien susciter l’échange entre les participants. Nous étions peu nombreux, mais finalement pour la cohésion du groupe c’était intéressant. Le fait que nous transportions un gros objet a suscité de la curiosité auprès des gens rencontrés. La balade à pied, avec la lenteur que cela implique, a bien fait sentir le lien un peu complexe que ce territoire a avec la Seine. »</p>
-]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Zigzag 2019 - Parcours urbain à Grand Quevilly]]></title>
             <link>https://festivalzigzag.fr/stories/parcours-urbain-a-grand-quevilly</link>
             <guid>https://festivalzigzag.fr/stories/parcours-urbain-a-grand-quevilly</guid>
@@ -244,6 +231,19 @@
 <li>du mardi au vendredi : 14:00 - 18:00</li>
 <li>le samedi : 10:30 - 12:30 / 14:00 - 18:00</li>
 </ul>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Zigzag 2019 - Parcours à travers les paysages du Roumois]]></title>
+            <link>https://festivalzigzag.fr/stories/parcours-a-travers-les-paysages-du-roumois</link>
+            <guid>https://festivalzigzag.fr/stories/parcours-a-travers-les-paysages-du-roumois</guid>
+            <pubDate>Mon, 19 Jan 1970 06:16:30 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="une-marche-du-moulin-à-la-seine">UNE MARCHE DU MOULIN À LA SEINE</h2>
+<p>Le collectif Superoumois vous invite à venir vous balader à travers les paysages du Roumois: entre champs, plateau, hameaux ou bords de Seine, venez partager et croiser votre regard sur les paysages et les pépites de vos lieux de vie ! </p>
+<p>Depuis septembre 2019 ce collectif travaille avec la Communauté de communes Roumois Seine afin de révéler les visions partagées du territoire, autour de nouveaux formats de dialogue avec ses habitants. Grâce à l’animation de metteur en scène, urbaniste, paysagiste, chef de projet culturel, venez partager cette expérience inédite proche de chez vous !</p>
+<h3 id="parole-de-christine-boisseau">Parole de Christine Boisseau</h3>
+<p><em>Chargée de mission - Urbaniste - CAUE 27</em></p>
+<p>« La balade était intéressante, le format artistique a permis de bien susciter l’échange entre les participants. Nous étions peu nombreux, mais finalement pour la cohésion du groupe c’était intéressant. Le fait que nous transportions un gros objet a suscité de la curiosité auprès des gens rencontrés. La balade à pied, avec la lenteur que cela implique, a bien fait sentir le lien un peu complexe que ce territoire a avec la Seine. »</p>
 ]]></content:encoded>
         </item>
         <item>
@@ -289,28 +289,6 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Zigzag 2019 - Visite des nouvelles serres du Jardin des plantes de Rouen]]></title>
-            <link>https://festivalzigzag.fr/stories/visite-des-nouvelles-serres-du-jardin-des-plantes-de-rouen</link>
-            <guid>https://festivalzigzag.fr/stories/visite-des-nouvelles-serres-du-jardin-des-plantes-de-rouen</guid>
-            <pubDate>Mon, 19 Jan 1970 06:16:34 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="les-serres-du-jardin-des-plantes">LES SERRES DU JARDIN DES PLANTES</h2>
-<p>Construites au XIXe et XXe siècles, les serres du jardin des plantes menaçaient de s’écrouler. Après 17 mois de travaux, la serre centrale classée aux Monuments historiques a été restaurée pour abriter un parcours pédagogique. Les serres tropicales et un groupe de sept serres ont été quant à elles reconstruites. L’intervention architecturale sert le projet scientifique des serres et fait entrer ce patrimoine dans le XXI e siècle, en alliant conservation, mises aux normes multiples et interventions contemporaines.</p>
-<p>Avec Jeremy Thirel, architecte MVT.</p>
-<h3 id="les-visites-architecturales-et-de-chantiers">LES VISITES ARCHITECTURALES ET DE CHANTIERS</h3>
-<p>Au delà de la simple visite, sur l’ensemble du festival, d’autres questions sont posées :</p>
-<ul>
-<li>Existe-t-il une architecture normande ?</li>
-<li>Quelle(s) spécificité(s) de la vallée de la Seine ?</li>
-</ul>
-<p>Les points forts des projets architecturaux retenus sont plus liés au contexte qu’à la géographie :</p>
-<ul>
-<li>réhabilitation / requalification de patrimoine</li>
-<li>grands équipements publics pour une attractivité métropolitaine</li>
-<li>architecture respectueuse du développement durable</li>
-</ul>
-]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Zigzag 2019 - Visites de chantier au Havre]]></title>
             <link>https://festivalzigzag.fr/stories/visites-de-chantier-au-havre</link>
             <guid>https://festivalzigzag.fr/stories/visites-de-chantier-au-havre</guid>
@@ -334,6 +312,28 @@
 <p>La Maison de l&#39;architecture de Normandie - le Forum préparait l&#39;édition 2020 depuis plusieurs mois, quand le confinement est passé par là et le télétravail de rigueur.<br>L&#39;équipe tient encore à remercier tous ses partenaires, qui étaient présents à tous les instants pour monter la programmation du festival, et à tous les participants pour leurs inscriptions aux événements Zigzag 2020 malgré la situation sanitaire.</p>
 <p>Toutes ces bonnes volontés n&#39;ont malheureusement pas permis de maintenir tous les événements, que tous auraient aimé vivre : le parcours chorégraphique et le rallye vélo à <strong>Grand Quevilly</strong>, la soirée projection d&#39;<strong>Echelle Inconnue</strong>, la randonnée curieuse à <strong>Rives-en-Seine</strong>, la balade fluviale à <strong>Rouen</strong>, la randonnée à <strong>Achères avec Le voyage métropolitain</strong> ou la balade patrimoniale à la <strong>Mailleraye-sur-Seine avec le Parc naturel régional des Boucles de la Seine Normande</strong>.</p>
 <p>L&#39;édition 2021 est déjà en préparation le long de la vallée de la Seine ... suivez et partagez <a href="https://www.facebook.com/zigzagfestivalarchitecture/" title="Lien Facebook">Zigzag - festival d&#39;architecture et des arts de l&#39;espace</a> sur les réseaux sociaux pour rester informé !!</p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Zigzag 2019 - Visite des nouvelles serres du Jardin des plantes de Rouen]]></title>
+            <link>https://festivalzigzag.fr/stories/visite-des-nouvelles-serres-du-jardin-des-plantes-de-rouen</link>
+            <guid>https://festivalzigzag.fr/stories/visite-des-nouvelles-serres-du-jardin-des-plantes-de-rouen</guid>
+            <pubDate>Mon, 19 Jan 1970 06:16:34 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="les-serres-du-jardin-des-plantes">LES SERRES DU JARDIN DES PLANTES</h2>
+<p>Construites au XIXe et XXe siècles, les serres du jardin des plantes menaçaient de s’écrouler. Après 17 mois de travaux, la serre centrale classée aux Monuments historiques a été restaurée pour abriter un parcours pédagogique. Les serres tropicales et un groupe de sept serres ont été quant à elles reconstruites. L’intervention architecturale sert le projet scientifique des serres et fait entrer ce patrimoine dans le XXI e siècle, en alliant conservation, mises aux normes multiples et interventions contemporaines.</p>
+<p>Avec Jeremy Thirel, architecte MVT.</p>
+<h3 id="les-visites-architecturales-et-de-chantiers">LES VISITES ARCHITECTURALES ET DE CHANTIERS</h3>
+<p>Au delà de la simple visite, sur l’ensemble du festival, d’autres questions sont posées :</p>
+<ul>
+<li>Existe-t-il une architecture normande ?</li>
+<li>Quelle(s) spécificité(s) de la vallée de la Seine ?</li>
+</ul>
+<p>Les points forts des projets architecturaux retenus sont plus liés au contexte qu’à la géographie :</p>
+<ul>
+<li>réhabilitation / requalification de patrimoine</li>
+<li>grands équipements publics pour une attractivité métropolitaine</li>
+<li>architecture respectueuse du développement durable</li>
+</ul>
 ]]></content:encoded>
         </item>
         <item>
@@ -366,6 +366,22 @@
 ]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Zigzag 2020 - J-1]]></title>
+            <link>https://festivalzigzag.fr/stories/zigzag-2020-j-1</link>
+            <guid>https://festivalzigzag.fr/stories/zigzag-2020-j-1</guid>
+            <pubDate>Mon, 19 Jan 1970 12:53:46 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="ouverture-du-festival-le-samedi-3-octobre-">OUVERTURE DU FESTIVAL LE SAMEDI 3 OCTOBRE !</h2>
+<p>La Maison de l&#39;architecture de Normandie - le Forum rouvre ses portes ce samedi 3 octobre pour l&#39;exposition <strong>&quot;Utopie fluviale&quot;</strong> dans le cadre du festival d&#39;architecture Zigzag :</p>
+<p>Le collectif d’artistes et d’architectes <strong>Dans le Sens de Barge</strong> offre un cycle de programmation artistique (résidences, workshops, expositions, ateliers et fêtes) favorisant le lien social et culturel sur la Seine. A l’occasion du festival Zigzag 2020, le collectif propose “Utopie Fluviale” : un retour sur la génèse du projet, sa raison d&#39;être artistique puisée au sein du fleuve, de l’eau, de l’inertie, des traversées. Cette exposition sera l&#39;occasion de présenter l&#39;état d&#39;avancée du projet fluvio-maritime BARGE réalisé par l&#39;architecte Pierre Delion et de montrer les propositions élaborées par les étudiants en design et en architecture de l&#39;<strong>ENSCI - Les Ateliers</strong> et de l’<strong>ENSA Normandie</strong>, autour des futures escales des embarcations.</p>
+<ul>
+<li>Accès libre du 3 au 30 octobre au 48 rue Victor Hugo à Rouen</li>
+<li>Rencontre avec le collectif le 9 octobre à 18h : <a href="https://festivalzigzag.fr/events/le-silence-des-coquilles">LE SILENCE DES COQUILLES</a></li>
+</ul>
+<p>Ce week-end, retrouvez le festival Zigzag le long de la Seine pour des parcours et visites à Grand Quevilly, Quillebeuf-sur-Seine, Rives-en-Seine, Rouen, Moulineaux et Goustranville.</p>
+<p><strong>#zigzagfestivalarchitecture</strong></p>
+]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Zigzag 2020 - exposition ]]></title>
             <link>https://festivalzigzag.fr/stories/zigzag-2020-exposition</link>
             <guid>https://festivalzigzag.fr/stories/zigzag-2020-exposition</guid>
@@ -382,22 +398,6 @@
 <li>du mardi au vendredi : 14h - 18h // le samedi : 10h30 - 12h30 / 14h - 18h</li>
 <li>le Forum - Maison de l&#39;architecture de Normandie | 48 rue Victor Hugo, 76000 Rouen</li>
 </ul>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Zigzag 2020 - J-1]]></title>
-            <link>https://festivalzigzag.fr/stories/zigzag-2020-j-1</link>
-            <guid>https://festivalzigzag.fr/stories/zigzag-2020-j-1</guid>
-            <pubDate>Mon, 19 Jan 1970 12:53:46 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="ouverture-du-festival-le-samedi-3-octobre-">OUVERTURE DU FESTIVAL LE SAMEDI 3 OCTOBRE !</h2>
-<p>La Maison de l&#39;architecture de Normandie - le Forum rouvre ses portes ce samedi 3 octobre pour l&#39;exposition <strong>&quot;Utopie fluviale&quot;</strong> dans le cadre du festival d&#39;architecture Zigzag :</p>
-<p>Le collectif d’artistes et d’architectes <strong>Dans le Sens de Barge</strong> offre un cycle de programmation artistique (résidences, workshops, expositions, ateliers et fêtes) favorisant le lien social et culturel sur la Seine. A l’occasion du festival Zigzag 2020, le collectif propose “Utopie Fluviale” : un retour sur la génèse du projet, sa raison d&#39;être artistique puisée au sein du fleuve, de l’eau, de l’inertie, des traversées. Cette exposition sera l&#39;occasion de présenter l&#39;état d&#39;avancée du projet fluvio-maritime BARGE réalisé par l&#39;architecte Pierre Delion et de montrer les propositions élaborées par les étudiants en design et en architecture de l&#39;<strong>ENSCI - Les Ateliers</strong> et de l’<strong>ENSA Normandie</strong>, autour des futures escales des embarcations.</p>
-<ul>
-<li>Accès libre du 3 au 30 octobre au 48 rue Victor Hugo à Rouen</li>
-<li>Rencontre avec le collectif le 9 octobre à 18h : <a href="https://festivalzigzag.fr/events/le-silence-des-coquilles">LE SILENCE DES COQUILLES</a></li>
-</ul>
-<p>Ce week-end, retrouvez le festival Zigzag le long de la Seine pour des parcours et visites à Grand Quevilly, Quillebeuf-sur-Seine, Rives-en-Seine, Rouen, Moulineaux et Goustranville.</p>
-<p><strong>#zigzagfestivalarchitecture</strong></p>
 ]]></content:encoded>
         </item>
         <item>
