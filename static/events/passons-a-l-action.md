@@ -31,7 +31,7 @@ La Manuf’ propose d’inventer dans la durée une culture commune locale de la
 
 Nous vous proposons de participer à cette renaissance et de passer à l’action!
 
-**TOUT EST REEMPLOI** 
+**TOUT EST REEMPLOI**
 
 * **10h-11h et 11h-12h :** visites commentées du chantier de la réinvention du Couvent de la Manufacture des Capucins sur les thématiques du réemploi, du tiers-patrimoine, de la transmission et de la maintenance.
 
@@ -40,12 +40,10 @@ Nous vous proposons de participer à cette renaissance et de passer à l’actio
 **UN JARDIN DANS LA VILLE**
 
 * **14h-15h :** visite commentée et conversations autour du jardin et de son écosystème, biodiversité et agriculture urbaine.
-
-
 * **15h30-17h30 :** missions bénévoles au jardin
 
 **Toute la journée :** Projection commentée du site en réalité augmentée au XVIIIème siècle
 
-**Intervenants :** Magalie TEMPEZ paysagiste et chargée de mission du Jardin de la Manufacture des Capucins ; Alexandre REVEREND et Nicolas DESCHAMPS, concepteurs et réalisateurs du Drône temporel, Agence de Tourisme Temporel Vernonnaise ; Etienne LEMOINE co-fondateur et architecte de la Manufacture des Capucins, agence d’architecture MWAH
+**Intervenants :** Magalie TEMPEZ paysagiste et chargée de mission du Jardin de la Manufacture des Capucins ; Alexandre REVEREND et Nicolas DESCHAMPS, concepteurs et réalisateurs du Drône temporel, Agence de Tourisme Temporel Vernonnaise ; Thomas ROCHE, architecte chargé de la permanence architecturale et Etienne LEMOINE co-fondateur et architecte de la Manufacture des Capucins, agence d'architecture MWAH
 
 **Renseignements :** 02 32 21 22 12 - MWAH agence d’architecture
