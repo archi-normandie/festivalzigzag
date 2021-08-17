@@ -29,7 +29,7 @@ Aux Portes de la Forêt à Bois-Guillaume, l’exposition ZOOnose de la photogra
 
 La photographe met en scène des animaux sauvages, des espèces rares et menacées, échappés du Parc zoologique de Paris, pendant le temps suspendu du premier confinement.
 
-Dans ses photos, les animaux semblent avoir repris leur territoire, celui d’un domaine sans présence humaine, une ville muette et déserte permettant à la vie sauvage de revenir et de s’épanouir. Christel Jeanne recréée un monde, joue avec l’imaginaire collectif, et interroge la place des animaux sauvages dans notre société, notre rapport à la ville et au monde. Zoonose, désigne littéralement des bactéries transmises des animaux vertébrés à l’homme et vice versa. Ici lion, autruche, girafe profitent du Trocadéro, de la place de la République, de la Bastille pour s’ébattre loin des préoccupations sanitaires.
+Dans ses photos, les animaux semblent avoir repris leur territoire, celui d’un domaine sans présence humaine, une ville muette et déserte permettant à la vie sauvage de revenir et de s’épanouir. Christel JEANNE recréée un monde, joue avec l’imaginaire collectif, et interroge la place des animaux sauvages dans notre société, notre rapport à la ville et au monde. Zoonose, désigne littéralement des bactéries transmises des animaux vertébrés à l’homme et vice versa. Ici lion, autruche, girafe profitent du Trocadéro, de la place de la République, de la Bastille pour s’ébattre loin des préoccupations sanitaires.
 
 _Avec le soutien de la ville de Bois-Guillaume, la Métropole Rouen Normandie, le Club de la Vatine et Helio service._
 
