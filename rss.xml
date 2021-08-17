@@ -4,7 +4,7 @@
         <title></title>
         <link>https://festivalzigzag.fr/rss.xml</link>
         <description>Journal du Festival Zigzag</description>
-        <lastBuildDate>Tue, 17 Aug 2021 13:02:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Aug 2021 13:04:57 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
         <item>
@@ -167,6 +167,25 @@
 ]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Zigzag 2019 - Parcours au cœur d'une ville en chantier]]></title>
+            <link>https://festivalzigzag.fr/stories/parcours-urbain-au-coeur-d-un-beuzeville-en-chantier</link>
+            <guid>https://festivalzigzag.fr/stories/parcours-urbain-au-coeur-d-un-beuzeville-en-chantier</guid>
+            <pubDate>Mon, 19 Jan 1970 06:16:30 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="beuzeville-2020">BEUZEVILLE 2020</h2>
+<p>Beuzeville s’est lancée dans la reconquête de son cœur de ville, un projet urbain d’envergure qui, à travers la requalification du centre historique permettra de redynamiser l’ensemble de la ville et en changera durablement l’image. L’aménagement le plus important est celui du centre-bourg avec la création du pôle culturel de la cidrerie. La réhabilitation de cette friche industrielle désaffectée comprend un marché couvert alternatif, un foyer, un auditorium, une salle de spectacle et un silo-exposition.</p>
+<p>Aux côtés des paysagistes de Babylone et des architectes de Sunmetron, ce parcours permet d’appréhender le rôle de l’architecture et du paysage dans la dynamique économique et le rayonnement d’une commune.</p>
+<h3 id="les-visites-architecturales-et-de-chantiers">LES VISITES ARCHITECTURALES ET DE CHANTIERS</h3>
+<p>Ce qui est en jeu lors des visites :</p>
+<ul>
+<li>Donner à comprendre / à ressentir l’espace à l’échelle d’un bâtiment.</li>
+<li>Décrypter l’architecture dans les pas et les mots de l’architecte et de la maîtrise d’ouvrage.</li>
+<li>Comprendre le jeu de rôle, maîtres d’ouvrage / maîtres d’oeuvre / utilisateurs, permettant de mettre en lumière la complexité de la construction architecturale, la fabrication d’un projet.</li>
+<li>Appréhender le temps long du chantier.</li>
+</ul>
+<p>Les visites architecturales sont très plébiscitées par le public : elles donnent la possibilité d’entrer dans un bâtiment, comprendre sa fabrication, cheminer et appréhender l’articulation des espaces, les usages, la lumière, le parti architectural, les matériaux...</p>
+]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Zigzag 2019 - Parcours urbain à Elbeuf-sur-Seine]]></title>
             <link>https://festivalzigzag.fr/stories/parcours-urbain-a-elbeuf-sur-seine</link>
             <guid>https://festivalzigzag.fr/stories/parcours-urbain-a-elbeuf-sur-seine</guid>
@@ -193,25 +212,6 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Zigzag 2019 - Parcours au cœur d'une ville en chantier]]></title>
-            <link>https://festivalzigzag.fr/stories/parcours-urbain-au-coeur-d-un-beuzeville-en-chantier</link>
-            <guid>https://festivalzigzag.fr/stories/parcours-urbain-au-coeur-d-un-beuzeville-en-chantier</guid>
-            <pubDate>Mon, 19 Jan 1970 06:16:30 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="beuzeville-2020">BEUZEVILLE 2020</h2>
-<p>Beuzeville s’est lancée dans la reconquête de son cœur de ville, un projet urbain d’envergure qui, à travers la requalification du centre historique permettra de redynamiser l’ensemble de la ville et en changera durablement l’image. L’aménagement le plus important est celui du centre-bourg avec la création du pôle culturel de la cidrerie. La réhabilitation de cette friche industrielle désaffectée comprend un marché couvert alternatif, un foyer, un auditorium, une salle de spectacle et un silo-exposition.</p>
-<p>Aux côtés des paysagistes de Babylone et des architectes de Sunmetron, ce parcours permet d’appréhender le rôle de l’architecture et du paysage dans la dynamique économique et le rayonnement d’une commune.</p>
-<h3 id="les-visites-architecturales-et-de-chantiers">LES VISITES ARCHITECTURALES ET DE CHANTIERS</h3>
-<p>Ce qui est en jeu lors des visites :</p>
-<ul>
-<li>Donner à comprendre / à ressentir l’espace à l’échelle d’un bâtiment.</li>
-<li>Décrypter l’architecture dans les pas et les mots de l’architecte et de la maîtrise d’ouvrage.</li>
-<li>Comprendre le jeu de rôle, maîtres d’ouvrage / maîtres d’oeuvre / utilisateurs, permettant de mettre en lumière la complexité de la construction architecturale, la fabrication d’un projet.</li>
-<li>Appréhender le temps long du chantier.</li>
-</ul>
-<p>Les visites architecturales sont très plébiscitées par le public : elles donnent la possibilité d’entrer dans un bâtiment, comprendre sa fabrication, cheminer et appréhender l’articulation des espaces, les usages, la lumière, le parti architectural, les matériaux...</p>
-]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Zigzag 2019 - Parcours urbain à Grand Quevilly]]></title>
             <link>https://festivalzigzag.fr/stories/parcours-urbain-a-grand-quevilly</link>
             <guid>https://festivalzigzag.fr/stories/parcours-urbain-a-grand-quevilly</guid>
@@ -231,6 +231,19 @@
 <li>du mardi au vendredi : 14:00 - 18:00</li>
 <li>le samedi : 10:30 - 12:30 / 14:00 - 18:00</li>
 </ul>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Zigzag 2019 - Parcours à travers les paysages du Roumois]]></title>
+            <link>https://festivalzigzag.fr/stories/parcours-a-travers-les-paysages-du-roumois</link>
+            <guid>https://festivalzigzag.fr/stories/parcours-a-travers-les-paysages-du-roumois</guid>
+            <pubDate>Mon, 19 Jan 1970 06:16:30 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="une-marche-du-moulin-à-la-seine">UNE MARCHE DU MOULIN À LA SEINE</h2>
+<p>Le collectif Superoumois vous invite à venir vous balader à travers les paysages du Roumois: entre champs, plateau, hameaux ou bords de Seine, venez partager et croiser votre regard sur les paysages et les pépites de vos lieux de vie ! </p>
+<p>Depuis septembre 2019 ce collectif travaille avec la Communauté de communes Roumois Seine afin de révéler les visions partagées du territoire, autour de nouveaux formats de dialogue avec ses habitants. Grâce à l’animation de metteur en scène, urbaniste, paysagiste, chef de projet culturel, venez partager cette expérience inédite proche de chez vous !</p>
+<h3 id="parole-de-christine-boisseau">Parole de Christine Boisseau</h3>
+<p><em>Chargée de mission - Urbaniste - CAUE 27</em></p>
+<p>« La balade était intéressante, le format artistique a permis de bien susciter l’échange entre les participants. Nous étions peu nombreux, mais finalement pour la cohésion du groupe c’était intéressant. Le fait que nous transportions un gros objet a suscité de la curiosité auprès des gens rencontrés. La balade à pied, avec la lenteur que cela implique, a bien fait sentir le lien un peu complexe que ce territoire a avec la Seine. »</p>
 ]]></content:encoded>
         </item>
         <item>
@@ -263,30 +276,16 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Zigzag 2019 - Parcours à travers les paysages du Roumois]]></title>
-            <link>https://festivalzigzag.fr/stories/parcours-a-travers-les-paysages-du-roumois</link>
-            <guid>https://festivalzigzag.fr/stories/parcours-a-travers-les-paysages-du-roumois</guid>
-            <pubDate>Mon, 19 Jan 1970 06:16:30 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="une-marche-du-moulin-à-la-seine">UNE MARCHE DU MOULIN À LA SEINE</h2>
-<p>Le collectif Superoumois vous invite à venir vous balader à travers les paysages du Roumois: entre champs, plateau, hameaux ou bords de Seine, venez partager et croiser votre regard sur les paysages et les pépites de vos lieux de vie ! </p>
-<p>Depuis septembre 2019 ce collectif travaille avec la Communauté de communes Roumois Seine afin de révéler les visions partagées du territoire, autour de nouveaux formats de dialogue avec ses habitants. Grâce à l’animation de metteur en scène, urbaniste, paysagiste, chef de projet culturel, venez partager cette expérience inédite proche de chez vous !</p>
-<h3 id="parole-de-christine-boisseau">Parole de Christine Boisseau</h3>
-<p><em>Chargée de mission - Urbaniste - CAUE 27</em></p>
-<p>« La balade était intéressante, le format artistique a permis de bien susciter l’échange entre les participants. Nous étions peu nombreux, mais finalement pour la cohésion du groupe c’était intéressant. Le fait que nous transportions un gros objet a suscité de la curiosité auprès des gens rencontrés. La balade à pied, avec la lenteur que cela implique, a bien fait sentir le lien un peu complexe que ce territoire a avec la Seine. »</p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Zigzag 2019 - Visites de chantier au Havre]]></title>
-            <link>https://festivalzigzag.fr/stories/visites-de-chantier-au-havre</link>
-            <guid>https://festivalzigzag.fr/stories/visites-de-chantier-au-havre</guid>
-            <pubDate>Mon, 19 Jan 1970 06:16:34 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="la-cité-numérique">LA CITÉ NUMÉRIQUE</h2>
-<p>Entre ville et port, ce totem architectural conçu par l’agence Groupe 6 est un projet à 360 degrés, au centre du campus maritime, tourné vers le large, la ville, les quais, la marina et la gare. Sa silhouette élancée affirme ses plateaux, avec des formes simples et rectilignes inscrites dans l’histoire des Docks. Ses façades en résille métallique révèlent sa vie intérieure, via les interstices entre ses différents niveaux, laissant apparaître le cœur de l’École de Management de Normandie et de la Cité Du Numérique. Un projet dont le programme et l’usage ont fait l’objet d’une concertation avec les habitants.</p>
-<p>Avec les architectes du projet et de la CU du Havre Métropole.</p>
-<h3 id="parole-de-paterne-bulcourt">Parole de Paterne Bulcourt</h3>
-<p><em>Architecte associé - La Manufacture d&#39;Architecture et membre du conseil d&#39;administration de la Maison de l&#39;architecture de Normandie - le Forum</em> </p>
-<p>« De simples curieux, voisins ou assidus de la MaN-Le Forum sont impatients de débuter la visite de la future cité numérique. Le Maître d’ouvrage et l’architecte de l’opération présentent le programme initial et ses ambitions. Vient le moment de s’équiper : casques blancs, et chasubles jaunes et oranges sont indispensables à toute bonne visite de chantier.</p>
-<p>La procession multicolore se dirige alors de surprises en surprises : un hall impressionnant, une terrasse panoramique donnant sur le Havre, des bureaux et des salles de classes inondés d’une lumière tamisée, maîtrisée par la résille métallique travaillée en façade. Les visiteurs sont conquis : <em>comment d’une telle massivité apparente peut-on passer à une telle finesse de lumières et de vues depuis l’intérieur ? Les futurs occupants auront bien de la chance de travailler ici !</em> »</p>
+            <title><![CDATA[Zigzag 2019 - Un parcours pédestre au Havre]]></title>
+            <link>https://festivalzigzag.fr/stories/un-parcours-pedestre-au-havre</link>
+            <guid>https://festivalzigzag.fr/stories/un-parcours-pedestre-au-havre</guid>
+            <pubDate>Mon, 19 Jan 1970 06:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="port-sur-la-ville">Port sur la ville</h2>
+<p>Venez parcourir la couture de l’interface ville-port en visitant des installations portuaires actives et des bâtiments reconvertis. Cette visite à pied vous donnera l’occasion de franchir les portes, de découvrir des architectures, des lieux de vie actifs, productifs qui montrent combien l’interprétation et la réinterprétation des usages sont fertiles au sein d’espaces portuaires et urbains qui cohabitent dans une vision résolument hybridée de la &quot;ville&quot;.</p>
+<p>Avec le GPMH et l’AURH.</p>
+<h3 id="parole-de-jessy-oukoloff">Parole de Jessy Oukoloff</h3>
+<p><em>Directeur des études - AURH - Agence d’urbanisme de la région du Havre et de l’Estuaire de la Seine</em></p>
+<p>« Notre parcours entre ville et port s’est fait sous un temps Normand entre pluie battante et rayons de soleil ! Le public était au rdv malgré les conditions, nous étions tout de même une vingtaine. Cela montre que le grand public est en attente d’expériences, d’échanges pour comprendre les ressorts de l’évolution de ces paysages qui nous entourent et que nous voyons évoluer au quotidien. Le parcours s’est fait à 2 voix entre AURH et GPMH. J’en retiens notamment qu’entrer dans des lieux fermés au public est une expérience qui plaît, et qui ajoute à l’intérêt de notre exposé. Ce n’est pas un exercice inédit pour nous et nous sommes toujours très enthousiastes pour organiser ces visites avec le grand public, nous qui pratiquons plus généralement les professionnels de l’aménagement ou des étudiants. »</p>
 ]]></content:encoded>
         </item>
         <item>
@@ -312,16 +311,17 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Zigzag 2019 - Un parcours pédestre au Havre]]></title>
-            <link>https://festivalzigzag.fr/stories/un-parcours-pedestre-au-havre</link>
-            <guid>https://festivalzigzag.fr/stories/un-parcours-pedestre-au-havre</guid>
-            <pubDate>Mon, 19 Jan 1970 06:16:27 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="port-sur-la-ville">Port sur la ville</h2>
-<p>Venez parcourir la couture de l’interface ville-port en visitant des installations portuaires actives et des bâtiments reconvertis. Cette visite à pied vous donnera l’occasion de franchir les portes, de découvrir des architectures, des lieux de vie actifs, productifs qui montrent combien l’interprétation et la réinterprétation des usages sont fertiles au sein d’espaces portuaires et urbains qui cohabitent dans une vision résolument hybridée de la &quot;ville&quot;.</p>
-<p>Avec le GPMH et l’AURH.</p>
-<h3 id="parole-de-jessy-oukoloff">Parole de Jessy Oukoloff</h3>
-<p><em>Directeur des études - AURH - Agence d’urbanisme de la région du Havre et de l’Estuaire de la Seine</em></p>
-<p>« Notre parcours entre ville et port s’est fait sous un temps Normand entre pluie battante et rayons de soleil ! Le public était au rdv malgré les conditions, nous étions tout de même une vingtaine. Cela montre que le grand public est en attente d’expériences, d’échanges pour comprendre les ressorts de l’évolution de ces paysages qui nous entourent et que nous voyons évoluer au quotidien. Le parcours s’est fait à 2 voix entre AURH et GPMH. J’en retiens notamment qu’entrer dans des lieux fermés au public est une expérience qui plaît, et qui ajoute à l’intérêt de notre exposé. Ce n’est pas un exercice inédit pour nous et nous sommes toujours très enthousiastes pour organiser ces visites avec le grand public, nous qui pratiquons plus généralement les professionnels de l’aménagement ou des étudiants. »</p>
+            <title><![CDATA[Zigzag 2019 - Visites de chantier au Havre]]></title>
+            <link>https://festivalzigzag.fr/stories/visites-de-chantier-au-havre</link>
+            <guid>https://festivalzigzag.fr/stories/visites-de-chantier-au-havre</guid>
+            <pubDate>Mon, 19 Jan 1970 06:16:34 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="la-cité-numérique">LA CITÉ NUMÉRIQUE</h2>
+<p>Entre ville et port, ce totem architectural conçu par l’agence Groupe 6 est un projet à 360 degrés, au centre du campus maritime, tourné vers le large, la ville, les quais, la marina et la gare. Sa silhouette élancée affirme ses plateaux, avec des formes simples et rectilignes inscrites dans l’histoire des Docks. Ses façades en résille métallique révèlent sa vie intérieure, via les interstices entre ses différents niveaux, laissant apparaître le cœur de l’École de Management de Normandie et de la Cité Du Numérique. Un projet dont le programme et l’usage ont fait l’objet d’une concertation avec les habitants.</p>
+<p>Avec les architectes du projet et de la CU du Havre Métropole.</p>
+<h3 id="parole-de-paterne-bulcourt">Parole de Paterne Bulcourt</h3>
+<p><em>Architecte associé - La Manufacture d&#39;Architecture et membre du conseil d&#39;administration de la Maison de l&#39;architecture de Normandie - le Forum</em> </p>
+<p>« De simples curieux, voisins ou assidus de la MaN-Le Forum sont impatients de débuter la visite de la future cité numérique. Le Maître d’ouvrage et l’architecte de l’opération présentent le programme initial et ses ambitions. Vient le moment de s’équiper : casques blancs, et chasubles jaunes et oranges sont indispensables à toute bonne visite de chantier.</p>
+<p>La procession multicolore se dirige alors de surprises en surprises : un hall impressionnant, une terrasse panoramique donnant sur le Havre, des bureaux et des salles de classes inondés d’une lumière tamisée, maîtrisée par la résille métallique travaillée en façade. Les visiteurs sont conquis : <em>comment d’une telle massivité apparente peut-on passer à une telle finesse de lumières et de vues depuis l’intérieur ? Les futurs occupants auront bien de la chance de travailler ici !</em> »</p>
 ]]></content:encoded>
         </item>
         <item>
@@ -401,22 +401,6 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Zigzag 2020 - semaine #2]]></title>
-            <link>https://festivalzigzag.fr/stories/zigzag-2020-semaine-2</link>
-            <guid>https://festivalzigzag.fr/stories/zigzag-2020-semaine-2</guid>
-            <pubDate>Mon, 19 Jan 1970 13:14:21 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="une-semaine-entre-arts-et-paysages">UNE SEMAINE ENTRE ARTS ET PAYSAGES</h2>
-<p>Cette seconde semaine d&#39;événements a commencée mardi par une soirée théâtre-débat à <strong>Gaillon</strong>, avec <strong>la troupe Acaly</strong> qui présentait sa pièce « Les pieds dans l’eau » : <em>« L’histoire se déroule en 2060. Nous sommes chez Jeff, dans une petite maison en ville, accompagné de Cherka, l’intelligence artificielle qui a pour fonction de gérer le lieu. Mike arrive une nuit chez son ami Jeff, car tout est inondé dans le quartier. S’en suit alors un échange entre les deux amis pour trouver des solutions et dédramatiser la situation… ».</em></p>
-<p>Dans le cadre d’un cycle d’animations autour de la Seine et du risque inondation, proposé par l’<strong>Agglomération Seine Eure</strong>. Le spectacle était suivi d’un échange avec des maires de commune riveraine de Seine, pompier et associations. En présence de Bernard Leroy, Président de la Case.</p>
-<p>Mercredi, le festival Zigzag s&#39;est invité <strong>au Havre</strong> pour parcourir le parc de Rouelles, en compagnie de Franck Gaillet, paysagiste-concepteur, en partenariat avec la <strong>Fédération Française de Paysage, la Ville du Havre et la CU Le Havre Seine Métropole</strong>, et à <strong>Port-Mort</strong> pour la seconde balade photographique proposée et animée par le <strong>CAUE 27</strong>.</p>
-<p>Jeudi soir, retour <strong>au Havre</strong> pour une soirée au <strong>Hangar Zéro</strong>, avec le collectif <strong>Les Gens des Lieux</strong>, dans le cadre du projet <strong>Genius 2020</strong>, pour une soirée projection-rencontre :</p>
-<ul>
-<li>Projection du film de Laure Delamotte-Legrand sur les RIM, projet artistique coordonné par la compagnie <strong>Shifts art in movement</strong> en collaboration avec l’équipe du <strong>Phare - Centre chorégraphique national du Havre Normandie</strong>.</li>
-<li>La soirée c’est terminée par une rencontre sur le thème des démarches expérimentales en architecture, urbanisme, chorégraphie et dynamiques sociales.</li>
-</ul>
-]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Zigzag 2020 - semaine #1]]></title>
             <link>https://festivalzigzag.fr/stories/zigzag-2020-semaine-1</link>
             <guid>https://festivalzigzag.fr/stories/zigzag-2020-semaine-1</guid>
@@ -430,6 +414,22 @@
 </ul>
 <p>La semaine c&#39;est terminée avec une rencontre au Forum : <strong>Dans le Sens de Barge</strong> avec le duo d’artistes <strong>Eloise Le Gallo &amp; Julia Borderie</strong>, <strong>Marie-Laure Garnier</strong>, paysagiste et l’équipe du <strong>Parc Naturel Régional des Boucles de la Seine Normande</strong>, ont présenté leur réflexion commune sur le paysage séquanien façonné par les mouvements des couches sédimentaires et ses déplacements de terre que ce soit par l’action hydraulique, animale, ou encore humaine. Cet évènement amorcera le projet artistique 2020-2022 : <strong>Le Silence des Coquilles</strong>.</p>
 <p><em>L&#39;événement &quot;LA POLLUTION COMME PATRIMOINE : SYSTÈME LUBRIZOL ET MÉTROPOLISATION DE L&#39;AXE SEINE&quot;, organisé par le collectif Echelle Inconnue, a été malheureusement annulé suite aux nouvelles mesures sanitaires du gouvernement.</em></p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Zigzag 2020 - semaine #2]]></title>
+            <link>https://festivalzigzag.fr/stories/zigzag-2020-semaine-2</link>
+            <guid>https://festivalzigzag.fr/stories/zigzag-2020-semaine-2</guid>
+            <pubDate>Mon, 19 Jan 1970 13:14:21 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="une-semaine-entre-arts-et-paysages">UNE SEMAINE ENTRE ARTS ET PAYSAGES</h2>
+<p>Cette seconde semaine d&#39;événements a commencée mardi par une soirée théâtre-débat à <strong>Gaillon</strong>, avec <strong>la troupe Acaly</strong> qui présentait sa pièce « Les pieds dans l’eau » : <em>« L’histoire se déroule en 2060. Nous sommes chez Jeff, dans une petite maison en ville, accompagné de Cherka, l’intelligence artificielle qui a pour fonction de gérer le lieu. Mike arrive une nuit chez son ami Jeff, car tout est inondé dans le quartier. S’en suit alors un échange entre les deux amis pour trouver des solutions et dédramatiser la situation… ».</em></p>
+<p>Dans le cadre d’un cycle d’animations autour de la Seine et du risque inondation, proposé par l’<strong>Agglomération Seine Eure</strong>. Le spectacle était suivi d’un échange avec des maires de commune riveraine de Seine, pompier et associations. En présence de Bernard Leroy, Président de la Case.</p>
+<p>Mercredi, le festival Zigzag s&#39;est invité <strong>au Havre</strong> pour parcourir le parc de Rouelles, en compagnie de Franck Gaillet, paysagiste-concepteur, en partenariat avec la <strong>Fédération Française de Paysage, la Ville du Havre et la CU Le Havre Seine Métropole</strong>, et à <strong>Port-Mort</strong> pour la seconde balade photographique proposée et animée par le <strong>CAUE 27</strong>.</p>
+<p>Jeudi soir, retour <strong>au Havre</strong> pour une soirée au <strong>Hangar Zéro</strong>, avec le collectif <strong>Les Gens des Lieux</strong>, dans le cadre du projet <strong>Genius 2020</strong>, pour une soirée projection-rencontre :</p>
+<ul>
+<li>Projection du film de Laure Delamotte-Legrand sur les RIM, projet artistique coordonné par la compagnie <strong>Shifts art in movement</strong> en collaboration avec l’équipe du <strong>Phare - Centre chorégraphique national du Havre Normandie</strong>.</li>
+<li>La soirée c’est terminée par une rencontre sur le thème des démarches expérimentales en architecture, urbanisme, chorégraphie et dynamiques sociales.</li>
+</ul>
 ]]></content:encoded>
         </item>
         <item>
