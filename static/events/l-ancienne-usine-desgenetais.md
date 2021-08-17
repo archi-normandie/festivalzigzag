@@ -24,8 +24,10 @@ informations:
 gallery: []
 
 ---
-Longtemps le textile a marqué l’histoire de Bolbec. Situé au cœur de la vallée du commerce, surnommée la vallée d’or, le site porte l’héritage de cette activité flamboyante qui a fait vivre des milliers de famille.  
-La visite du Musée proposée, prolonge la présentation de la friche Désgénetais du début d’après-midi, en vous proposant de découvrir l’histoire du site, les métiers et le fonctionnement de l’usine.  
-Animé par d’anciens du textiles avec passion, le Musée reconstitue toute la chaîne de fabrication du tissu depuis la balle de coton, ces différentes étapes de transformations jusqu’au fameuses indiennes de Bolbec.
+Longtemps le textile a marqué l’histoire de Bolbec. Situé au cœur de la vallée du commerce, surnommée la vallée d’or, le site porte l’héritage de cette activité flamboyante qui a fait vivre des milliers de familles.
+
+La visite du Musée proposée, prolonge la présentation de la friche Désgénetais du début d’après-midi, en vous faisant découvrir l’histoire du site, les métiers et le fonctionnement de l’usine. 
+
+Animé par d’anciens du textiles avec passion, le Musée reconstitue toute la chaîne de fabrication du tissu depuis la balle de coton, ces différentes étapes de transformations jusqu’à la conception des fameuses indiennes de Bolbec.
 
 **Intervenant :** Monsieur Levaray, président du Musée
