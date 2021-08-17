@@ -23,7 +23,7 @@ informations:
 gallery: []
 
 ---
-Archétype de la cité ouvrière pensée par l’entreprise familiale Schneider lorsque celle-ci développe son activité en Normandie à la fin du 19e siècle, Mayville conserve des vestiges de cette époque qui permettent de saisir l’esprit paternaliste de l’industriel. Depuis ce quartier jusqu’aux Côtes blanches et leur panorama sur l’estuaire, cette visite permet de comprendre la conception et la situation particulière de cette cité-jardin de Gonfreville-l’Orcher.
+Archétype de la cité ouvrière pensée par l’entreprise familiale Schneider lorsque celle-ci développe son activité en Normandie à la fin du XIXe siècle, Mayville conserve des vestiges de cette époque qui permettent de saisir l’esprit paternaliste de l’industriel. Depuis ce quartier jusqu’aux Côtes blanches et leur panorama sur l’estuaire, cette visite permet de comprendre la conception et la situation particulière de cette cité-jardin de Gonfreville-l’Orcher.
 
 **Intervenants :** Pays d’art et d’histoire le Havre Seine Métropole, avec le service Patrimoine de la Ville de Gonfreville-l’Orcher
 

@@ -4,9 +4,9 @@ categories:
 - Balade architecturale
 featured: false
 cover:
-  src: "/files/zz-caue-76-a-remplacer.jpg"
+  src: "/files/freneuse.jpg"
   alt: ''
-  legend: "© C.A.U.E 76"
+  legend: ''
 booking:
   state: ''
   period: ''
