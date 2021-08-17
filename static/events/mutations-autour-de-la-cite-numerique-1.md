@@ -23,7 +23,7 @@ informations:
 gallery: []
 
 ---
-Le quartier de l’Eure poursuit sa mue et, chaque année, son paysage urbain évolue. Les immeubles, entrepôts et friches industrielles sont réhabilités tandis que de nouveaux édifices voient le jour. Autour de la Cité numérique, conçue par Groupe 6 associé à Champenois architectes, et dernier bâtiment construit, le parcours revient sur les plus emblématiques réalisations.
+Le quartier de l’Eure poursuit sa mue et, chaque année, son paysage urbain évolue. Les immeubles, entrepôts et friches industrielles sont réhabilités tandis que de nouveaux édifices voient le jour. Autour du dernier bâtiment construit, la Cité numérique, conçue par Groupe 6 associé à Champenois architectes, le parcours revient sur les plus emblématiques réalisations.
 
 **Intervenant :** Pays d’art et d’histoire le Havre Seine Métropole
 
