@@ -23,10 +23,10 @@ informations:
 gallery: []
 
 ---
-Le C.A.U.E 76 propose de découvrir le concept des cités-jardins en parcourant celle conçue au début des années 1930 à Port Jérôme sur Seine pour loger les employés de la raffinerie Standard ! Modèle urbain pensé avec un aspect rural, cette cité-jardin se déploie de manière originale autour d'une place centrale. Nous y découvrirons comment l'architecture de style néo-régionaliste, détournant des principes constructifs traditionnels, comme le pan de bois, le torchis, invente à l’époque un paysage unique.
+Le C.A.U.E 76 propose de découvrir le concept des cités-jardins en parcourant celle conçue au début des années 1930 à Port-Jérôme-sur-Seine pour loger les employés de la raffinerie Standard ! Modèle urbain pensé avec un aspect rural, cette cité-jardin se déploie de manière originale autour d'une place centrale. Nous y découvrirons comment l'architecture de style néo-régionaliste, détournant des principes constructifs traditionnels, comme le pan de bois, le torchis, invente à l’époque un paysage unique.
 
 Devenue patrimoniale, les interventions sur le bâti ou les jardins de cette « Petite Campagne » doivent aujourd’hui concilier les évolutions légitimes pour le cadre de vie des habitants tout en assurant le maintien de cet ensemble emblématique.
 
-**Intervenant :** Gilles PESQUET, architecte conseiller du C.A.U.E 76
+Intervenant : Gilles Pesquet, architecte conseiller du C.A.U.E 76
 
 **Renseignements :** 02 35 72 94 50
