@@ -4,7 +4,7 @@ categories:
 - Balade architecturale
 featured: false
 cover:
-  src: "/files/zz-caue-76.jpg"
+  src: "/files/caue-76.jpg"
   alt: ''
   legend: "© C.A.U.E 76"
 booking:
