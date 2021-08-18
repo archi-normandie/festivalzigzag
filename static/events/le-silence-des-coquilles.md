@@ -5,7 +5,7 @@ categories:
 - Rencontre
 featured: false
 cover:
-  src: "/files/zz-le-silence-des-coquilles-le-havre.jpg"
+  src: "/files/le-silence-des-coquilles-le-havre-ok.jpg"
   alt: ''
   legend: Julia Borderie & Eloïse Le Gallo © Pascal Trannoy
 booking:
