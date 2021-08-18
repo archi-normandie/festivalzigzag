@@ -4,7 +4,7 @@ categories:
 - Visite
 featured: false
 cover:
-  src: "/files/zz-vues-de-haut.jpg"
+  src: "/files/vues-de-haut.jpg"
   alt: ''
   legend: "© Vues de haut - Zigzag 2020"
 booking:

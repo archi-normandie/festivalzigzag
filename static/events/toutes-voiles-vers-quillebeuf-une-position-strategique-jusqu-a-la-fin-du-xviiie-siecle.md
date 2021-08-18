@@ -5,7 +5,7 @@ categories:
 - Visites d’exposition
 featured: false
 cover:
-  src: "/files/zz-museoseine-rives-en-seine.jpg"
+  src: "/files/museoseine-rives-en-seine.jpg"
   alt: ''
   legend: "###### © MuséoSeine, le musée de la Seine normande - Caux Seine agglo"
 booking:

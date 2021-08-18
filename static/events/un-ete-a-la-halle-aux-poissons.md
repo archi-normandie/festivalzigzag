@@ -4,7 +4,7 @@ categories:
 - Table ronde
 featured: false
 cover:
-  src: "/files/zz-la-halle-aux-poissons-le-havre.jpg"
+  src: "/files/la-halle-aux-poissons-le-havre.jpg"
   alt: ''
   legend: "© Florian Delon"
 booking:

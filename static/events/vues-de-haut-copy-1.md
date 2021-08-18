@@ -4,7 +4,7 @@ categories:
 - Visite
 featured: false
 cover:
-  src: "/files/zz-vue-de-haut-hotel-de-ville.jpg"
+  src: "/files/vue-de-haut-hotel-de-ville.jpg"
   alt: ''
   legend: "© Vues de haut - Zigzag 2020"
 booking:
