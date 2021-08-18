@@ -4,7 +4,7 @@ categories:
 - Visite
 featured: false
 cover:
-  src: "/files/zz-friche-desgenetais-renouvellement.jpg"
+  src: "/files/friche-desgenetais-renouvellement.jpg"
   alt: ''
   legend: Perspective du projet de la friche Desgenetais © Geoffrey Viard
 booking:
