@@ -4,7 +4,7 @@ categories:
 - Visite architecturale
 featured: false
 cover:
-  src: "/files/zz-deauville-les-franciscaines.jpg"
+  src: "/files/deauville-les-franciscaines.jpg"
   alt: ''
   legend: 'Les Franciscaines © Pierre-Olivier Deschamps '
 booking:
