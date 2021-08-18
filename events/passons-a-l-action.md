@@ -5,7 +5,7 @@ categories:
 - Mission bénévole
 featured: false
 cover:
-  src: "/files/zz-manufacture-des-capucins.jpg"
+  src: "/files/la-manufacture.jpg"
   alt: ''
   legend: "© Manufacture des Capucins"
 booking:
