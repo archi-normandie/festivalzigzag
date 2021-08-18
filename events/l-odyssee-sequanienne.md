@@ -5,7 +5,7 @@ categories:
 - Atelier
 featured: false
 cover:
-  src: "/files/zz-la-caravane-des-paysages-odyssee.jpg"
+  src: "/files/la-caravane-des-paysages-odyssee.jpg"
   alt: ''
   legend: Pêcher à bord du Tatihou au-dessus des plages englouties © JBilley, AJacquin,
     EPirot, École nationale supérieure de paysage
