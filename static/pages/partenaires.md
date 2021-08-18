@@ -5,7 +5,7 @@ description: ''
 ---
 ## Partenaires financiers
 
-![https://www.vdseine.fr/](/files/logos3.jpg)![https://www.culture.gouv.fr/Regions/Drac-Normandie/](/files/drac-normandie.jpg)![https://www.normandie.fr/](/files/logos.jpg)![https://www.seinemaritime.fr/](/files/logos5.jpg)![https://eureennormandie.fr/](/files/logos6.jpg)![](/files/logos2.jpg)![](/files/logos4.jpg)![](/files/logos9.jpg)![](/files/logos8.jpg)![](/files/bois-guillaume.jpg)![](/files/logos13.jpg)![](/files/logos10.jpg)![](/files/logeo-1.jpg)![](/files/dalkia-1.jpg)![](/files/engie.jpg)![](/files/la-vatine.jpg)![](/files/logos14.jpg)
+[![](/files/logos3.jpg)](https://www.vdseine.fr/)[![](/files/drac-normandie.jpg)](https://www.culture.gouv.fr/Regions/Drac-Normandie "Drac Normandie")[![](/files/logos.jpg)](https://www.normandie.fr/ "Région Normandie")[![](/files/logos5.jpg)](https://www.seinemaritime.fr/ "Département de Seine-Maritime")[![](/files/logos6.jpg)](https://eureennormandie.fr/ "Département de l'Eure")[![](/files/logos2.jpg)](https://www.metropole-rouen-normandie.fr/ "Métropole Rouen Normandie")[![](/files/logos4.jpg)](https://www.lehavreseinemetropole.fr/ "Le Havre Seine Métropole")![](/files/logos9.jpg)![](/files/logos8.jpg)![](/files/bois-guillaume.jpg)![](/files/logos13.jpg)![](/files/logos10.jpg)![](/files/logeo-1.jpg)![](/files/dalkia-1.jpg)![](/files/engie.jpg)![](/files/la-vatine.jpg)![](/files/logos14.jpg)
 
 ## Partenaires de projet
 
