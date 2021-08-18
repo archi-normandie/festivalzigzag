@@ -4,7 +4,7 @@ categories:
 - Visite architecturale
 featured: false
 cover:
-  src: "/files/zz-le-cine-pont-audemer.jpg"
+  src: "/files/le-cine-pont-audemer.jpg"
   alt: ''
   legend: ''
 booking:
