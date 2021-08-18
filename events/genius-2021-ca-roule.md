@@ -4,7 +4,7 @@ categories:
 - Installation éphémère
 featured: true
 cover:
-  src: "/files/zz-genius-2021.jpg"
+  src: "/files/genius-2021.jpg"
   alt: ''
   legend: ''
 booking:
