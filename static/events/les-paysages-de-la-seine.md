@@ -4,7 +4,7 @@ categories:
 - Expositions
 featured: true
 cover:
-  src: "/files/zz-la-caravane-des-paysages.jpg"
+  src: "/files/la-caravane-des-paysages.jpg"
   alt: ''
   legend: Imaginons la Vallée de la Seine de demain © J.Billey, A. Jacquin, E. Pirot,
     École nationale supérieure de paysage
