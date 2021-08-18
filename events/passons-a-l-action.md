@@ -46,6 +46,6 @@ Nous vous proposons de participer à cette renaissance et de passer à l’actio
 
 **Toute la journée :** Projection commentée du site en réalité augmentée au XVIIIème siècle
 
-**Intervenants :** Magalie Teampez paysagiste et chargée de mission du Jardin de la Manufacture des Capucins ; Alexandre Reverend et Nicolas Deschamps, concepteurs et réalisateurs du Drône temporel, Agence de Tourisme Temporel Vernonnaise ; Thomas Roche, architecte chargé de la permanence architecturale et Etienne Lemoine co-fondateur et architecte de la Manufacture des Capucins, agence d’architecture MWAH
+**Intervenants :** Magalie Tempez paysagiste et chargée de mission du Jardin de la Manufacture des Capucins ; Alexandre Révérend et Nicolas Deschamps, concepteurs et réalisateurs du Drône temporel, Agence de Tourisme Temporel Vernonnaise ; Thomas Roche, architecte chargé de la permanence architecturale et Etienne Lemoine co-fondateur et architecte de la Manufacture des Capucins, agence d’architecture MWAH
 
 **Renseignements :** 02 32 21 22 12 - MWAH agence d’architecture
