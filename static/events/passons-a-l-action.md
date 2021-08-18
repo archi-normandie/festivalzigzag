@@ -31,7 +31,7 @@ La Manuf’ propose d’inventer dans la durée une culture commune locale de la
 
 Nous vous proposons de participer à cette renaissance et de passer à l’action !
 
-**Inscription obligatoire - suivez le ou les liens "Réserver" :**
+**Inscription obligatoire - suivez les liens "Réserver" :**
 
 **TOUT EST REEMPLOI**
 
