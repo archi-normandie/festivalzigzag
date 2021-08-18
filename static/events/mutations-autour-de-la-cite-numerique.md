@@ -4,7 +4,7 @@ categories:
 - Visite
 featured: false
 cover:
-  src: "/files/zz-label-pays-art-et-histoire-le-havre.jpg"
+  src: "/files/label-pays-art-et-histoire-le-havre.jpg"
   alt: ''
   legend: ''
 booking:
