@@ -4,7 +4,7 @@ categories:
 - Balade
 featured: false
 cover:
-  src: "/files/zz-la-chapelle-longuevilel-vignes.jpg"
+  src: "/files/la-chapelle-longuevilel-vignes.jpg"
   alt: ''
   legend: Vignes © C.Beau
 booking:
