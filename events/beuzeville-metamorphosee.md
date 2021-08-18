@@ -4,7 +4,7 @@ categories:
 - Parcours urbain
 featured: false
 cover:
-  src: "/files/zz-beuzeville.jpg"
+  src: "/files/beuzeville-cidrerie.jpg"
   alt: ''
   legend: "© La Cidrerie"
 booking:
