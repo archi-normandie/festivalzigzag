@@ -19,7 +19,7 @@ informations:
     (autres accès possibles pour les personnes à mobilité réduite, par le parking de la médiathèque Renée Anquetil et par les stationnements publics dans l’opération de logements)
 cover:
   blocs: []
-  src: "/files/zz-la-mailleraye-ecoquartier.jpg"
+  src: "/files/la-mailleraye-ecoquartier.jpg"
   alt: Description de l'image
   legend: "© G. Le Moaligou"
 featured: false

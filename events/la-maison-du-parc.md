@@ -4,7 +4,7 @@ categories:
 - Visite de chantier
 featured: false
 cover:
-  src: "/files/zz-pnr-boucle-de-la-seine.jpg"
+  src: "/files/pnr-boucle-de-la-seine.jpg"
   alt: ''
   legend: ''
 booking:
