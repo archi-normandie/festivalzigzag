@@ -4,7 +4,7 @@ categories:
 - Jeu d'enquête à vélo
 featured: false
 cover:
-  src: "/files/zz-seine-de-crime-jeu-d-enquete.jpg"
+  src: "/files/seine-de-crime-jeu-d-enquete.jpg"
   alt: ''
   legend: "© Pole métropolitain Rouen Seine-Eure"
 booking:
