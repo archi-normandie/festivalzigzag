@@ -4,7 +4,7 @@ categories:
 - Parcours photographique
 featured: false
 cover:
-  src: "/files/zz-eop-la-massane.jpg"
+  src: "/files/eop-la-massane.jpg"
   alt: ''
   legend: " La Massane © Marie-Hélène Labat"
 booking:

@@ -4,7 +4,7 @@ categories:
 - Parcours urbain
 featured: false
 cover:
-  src: "/files/zz-montivilliers.jpg"
+  src: "/files/montivilliers-parcours.jpg"
   alt: ''
   legend: ''
 booking:

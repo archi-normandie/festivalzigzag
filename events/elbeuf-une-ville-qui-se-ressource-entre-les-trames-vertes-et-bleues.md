@@ -4,7 +4,7 @@ categories:
 - Balade paysagère
 featured: false
 cover:
-  src: "/files/zz-elbeuf-une-ville-qui-se-ressource-entre-les-trames-vertes-et-bleues.jpg"
+  src: "/files/elbeuf-une-ville-qui-se-ressource-entre-les-trames-vertes-et-bleues.jpg"
   alt: ''
   legend: ''
 booking:

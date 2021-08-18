@@ -4,7 +4,7 @@ categories:
 - Promenade paysagère
 featured: false
 cover:
-  src: "/files/zzcostiere-du-havre.jpg"
+  src: "/files/costiere-du-havre.jpg"
   alt: ''
   legend: "© Franck Gaillet"
 booking:
