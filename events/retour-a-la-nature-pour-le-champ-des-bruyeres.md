@@ -4,7 +4,7 @@ categories:
 - Visite
 featured: false
 cover:
-  src: "/files/zz-le-parc-des-bruyere.jpg"
+  src: "/files/le-parc-des-bruyere.jpg"
   alt: ''
   legend: ''
 booking:
