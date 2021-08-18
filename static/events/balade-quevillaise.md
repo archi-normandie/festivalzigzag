@@ -4,7 +4,7 @@ categories:
 - Parcours
 featured: false
 cover:
-  src: "/files/zz-balade-quevillaise.jpg"
+  src: "/files/balade-quevillaise.jpg"
   alt: ''
   legend: "© Balade quevillaise #1 en 2019"
 booking:
