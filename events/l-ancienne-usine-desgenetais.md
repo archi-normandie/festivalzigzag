@@ -4,7 +4,7 @@ categories:
 - Visite
 featured: false
 cover:
-  src: "/files/zz-friche-desgenetais-musee.jpg"
+  src: "/files/friche-desgenetais-musee.jpg"
   alt: ''
   legend: Friche Desgenétais © Caux Seine agglo
 booking:

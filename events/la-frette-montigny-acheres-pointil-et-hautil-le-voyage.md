@@ -4,7 +4,7 @@ categories:
 - Randonnée
 featured: false
 cover:
-  src: "/files/zz-le-voyage-metropolitain.jpg"
+  src: "/files/le-voyage-metropolitain.jpg"
   alt: ''
   legend: "© La vallée de la Seine vers la Frette, vue à partir d’Herblay, ancienne
     carte postale, non datée"

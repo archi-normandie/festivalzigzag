@@ -4,7 +4,7 @@ categories:
 - Visite
 featured: false
 cover:
-  src: "/files/zz-ferme-des-bruyeres.jpg"
+  src: "/files/ferme-des-bruyeres.jpg"
   alt: ''
   legend: ''
 booking:

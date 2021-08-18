@@ -4,7 +4,7 @@ categories:
 - Parcours paysage
 featured: false
 cover:
-  src: "/files/zz-le-grand-quai-le-havre.jpg"
+  src: "/files/le-grand-quai-le-havre.jpg"
   alt: ''
   legend: "© Zigzag 2020"
 booking:
