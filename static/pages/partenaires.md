@@ -5,7 +5,7 @@ description: ''
 ---
 ## Partenaires financiers
 
-![](/files/logos3.jpg)![](/files/logos7.jpg)![](/files/logos.jpg)![](/files/logos5.jpg)![](/files/logos6.jpg)![](/files/logos2.jpg)![](/files/logos4.jpg)![](/files/logos9.jpg)![](/files/logos8.jpg)![](/files/bois-guillaume.jpg)![](/files/logos13.jpg)![](/files/logos10.jpg)![](/files/logeo-1.jpg)![](/files/dalkia-1.jpg)![](/files/engie.jpg)![](/files/la-vatine.jpg)![](/files/logos14.jpg)
+![https://www.vdseine.fr/](/files/logos3.jpg)![](/files/drac-normandie.jpg)![](/files/logos.jpg)![](/files/logos5.jpg)![](/files/logos6.jpg)![](/files/logos2.jpg)![](/files/logos4.jpg)![](/files/logos9.jpg)![](/files/logos8.jpg)![](/files/bois-guillaume.jpg)![](/files/logos13.jpg)![](/files/logos10.jpg)![](/files/logeo-1.jpg)![](/files/dalkia-1.jpg)![](/files/engie.jpg)![](/files/la-vatine.jpg)![](/files/logos14.jpg)
 
 ## Partenaires de projet
 
