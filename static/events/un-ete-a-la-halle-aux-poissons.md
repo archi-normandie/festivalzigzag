@@ -23,7 +23,7 @@ informations:
 gallery: []
 
 ---
-Pour le Festival d’architecture Zigzag, la Halle aux Poissons dresse le bilan de son premier été de permanence architecturale.
+Dans le cadre du festival d'architecture et des arts de l'espace Zigzag, le Lieu Infini de la Halle aux Poissons réunit des architectes et urbanistes, ayant expérimenté un ralentissement du processus d'écriture de projet, se construisant dans l'attention au milieu.
 
 Que cache la Halle aux poissons ? Ce bâtiment régulier ne laisse rien percevoir, rien deviner de sa fonction, mais soulève de nombreuses interrogations. Située sur la presqu’île Saint-François, la Halle aux poissons demeure un lieu emblématique du quartier depuis le milieu du XXème siècle. Il se distingue du reste du paysage architectural par son toit terrasse ; un mystère à percer pour les curieux ! A l’occasion de cette visite vous pourrez découvrir ce que les lauréats de l’appel à projets « Réinventer Le Havre » ont imaginé pour tirer parti du bâtiment et de sa situation avantageuse.
 
