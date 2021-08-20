@@ -5,9 +5,9 @@ categories:
 - Rencontre
 featured: false
 cover:
-  src: "/files/le-silence-des-coquilles-le-havre-ok.jpg"
+  src: "/files/le-silence-des-coquilles-a-changer-eloise-le-gallo-julia-borderie.jpg"
   alt: ''
-  legend: Julia Borderie & Eloïse Le Gallo © Pascal Trannoy
+  legend: "© Eloïse Le Gallo & Julia Borderie"
 booking:
   state: ''
   period: ''
