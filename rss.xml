@@ -4,7 +4,7 @@
         <title></title>
         <link>https://festivalzigzag.fr/rss.xml</link>
         <description>Journal du Festival Zigzag</description>
-        <lastBuildDate>Mon, 23 Aug 2021 14:37:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Aug 2021 14:45:25 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
         <item>
@@ -167,6 +167,25 @@
 ]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Zigzag 2019 - Parcours au cœur d'une ville en chantier]]></title>
+            <link>https://festivalzigzag.fr/stories/parcours-urbain-au-coeur-d-un-beuzeville-en-chantier</link>
+            <guid>https://festivalzigzag.fr/stories/parcours-urbain-au-coeur-d-un-beuzeville-en-chantier</guid>
+            <pubDate>Mon, 19 Jan 1970 06:16:30 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="beuzeville-2020">BEUZEVILLE 2020</h2>
+<p>Beuzeville s’est lancée dans la reconquête de son cœur de ville, un projet urbain d’envergure qui, à travers la requalification du centre historique permettra de redynamiser l’ensemble de la ville et en changera durablement l’image. L’aménagement le plus important est celui du centre-bourg avec la création du pôle culturel de la cidrerie. La réhabilitation de cette friche industrielle désaffectée comprend un marché couvert alternatif, un foyer, un auditorium, une salle de spectacle et un silo-exposition.</p>
+<p>Aux côtés des paysagistes de Babylone et des architectes de Sunmetron, ce parcours permet d’appréhender le rôle de l’architecture et du paysage dans la dynamique économique et le rayonnement d’une commune.</p>
+<h3 id="les-visites-architecturales-et-de-chantiers">LES VISITES ARCHITECTURALES ET DE CHANTIERS</h3>
+<p>Ce qui est en jeu lors des visites :</p>
+<ul>
+<li>Donner à comprendre / à ressentir l’espace à l’échelle d’un bâtiment.</li>
+<li>Décrypter l’architecture dans les pas et les mots de l’architecte et de la maîtrise d’ouvrage.</li>
+<li>Comprendre le jeu de rôle, maîtres d’ouvrage / maîtres d’oeuvre / utilisateurs, permettant de mettre en lumière la complexité de la construction architecturale, la fabrication d’un projet.</li>
+<li>Appréhender le temps long du chantier.</li>
+</ul>
+<p>Les visites architecturales sont très plébiscitées par le public : elles donnent la possibilité d’entrer dans un bâtiment, comprendre sa fabrication, cheminer et appréhender l’articulation des espaces, les usages, la lumière, le parti architectural, les matériaux...</p>
+]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Zigzag 2019 - Parcours urbain à Elbeuf-sur-Seine]]></title>
             <link>https://festivalzigzag.fr/stories/parcours-urbain-a-elbeuf-sur-seine</link>
             <guid>https://festivalzigzag.fr/stories/parcours-urbain-a-elbeuf-sur-seine</guid>
@@ -190,25 +209,6 @@
 <p>Découverte de la cohabitation fragile du bâti et des espaces naturels, des espaces de rétention, des efforts réalisés pour la biodiversité.</p>
 <p>Des paysages culturels évolutifs vivants ...</p>
 <p>Mise en valeur de quartiers en mutations profondes.</p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Zigzag 2019 - Parcours au cœur d'une ville en chantier]]></title>
-            <link>https://festivalzigzag.fr/stories/parcours-urbain-au-coeur-d-un-beuzeville-en-chantier</link>
-            <guid>https://festivalzigzag.fr/stories/parcours-urbain-au-coeur-d-un-beuzeville-en-chantier</guid>
-            <pubDate>Mon, 19 Jan 1970 06:16:30 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="beuzeville-2020">BEUZEVILLE 2020</h2>
-<p>Beuzeville s’est lancée dans la reconquête de son cœur de ville, un projet urbain d’envergure qui, à travers la requalification du centre historique permettra de redynamiser l’ensemble de la ville et en changera durablement l’image. L’aménagement le plus important est celui du centre-bourg avec la création du pôle culturel de la cidrerie. La réhabilitation de cette friche industrielle désaffectée comprend un marché couvert alternatif, un foyer, un auditorium, une salle de spectacle et un silo-exposition.</p>
-<p>Aux côtés des paysagistes de Babylone et des architectes de Sunmetron, ce parcours permet d’appréhender le rôle de l’architecture et du paysage dans la dynamique économique et le rayonnement d’une commune.</p>
-<h3 id="les-visites-architecturales-et-de-chantiers">LES VISITES ARCHITECTURALES ET DE CHANTIERS</h3>
-<p>Ce qui est en jeu lors des visites :</p>
-<ul>
-<li>Donner à comprendre / à ressentir l’espace à l’échelle d’un bâtiment.</li>
-<li>Décrypter l’architecture dans les pas et les mots de l’architecte et de la maîtrise d’ouvrage.</li>
-<li>Comprendre le jeu de rôle, maîtres d’ouvrage / maîtres d’oeuvre / utilisateurs, permettant de mettre en lumière la complexité de la construction architecturale, la fabrication d’un projet.</li>
-<li>Appréhender le temps long du chantier.</li>
-</ul>
-<p>Les visites architecturales sont très plébiscitées par le public : elles donnent la possibilité d’entrer dans un bâtiment, comprendre sa fabrication, cheminer et appréhender l’articulation des espaces, les usages, la lumière, le parti architectural, les matériaux...</p>
 ]]></content:encoded>
         </item>
         <item>
@@ -289,6 +289,28 @@
 ]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Zigzag 2019 - Visite des nouvelles serres du Jardin des plantes de Rouen]]></title>
+            <link>https://festivalzigzag.fr/stories/visite-des-nouvelles-serres-du-jardin-des-plantes-de-rouen</link>
+            <guid>https://festivalzigzag.fr/stories/visite-des-nouvelles-serres-du-jardin-des-plantes-de-rouen</guid>
+            <pubDate>Mon, 19 Jan 1970 06:16:34 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="les-serres-du-jardin-des-plantes">LES SERRES DU JARDIN DES PLANTES</h2>
+<p>Construites au XIXe et XXe siècles, les serres du jardin des plantes menaçaient de s’écrouler. Après 17 mois de travaux, la serre centrale classée aux Monuments historiques a été restaurée pour abriter un parcours pédagogique. Les serres tropicales et un groupe de sept serres ont été quant à elles reconstruites. L’intervention architecturale sert le projet scientifique des serres et fait entrer ce patrimoine dans le XXI e siècle, en alliant conservation, mises aux normes multiples et interventions contemporaines.</p>
+<p>Avec Jeremy Thirel, architecte MVT.</p>
+<h3 id="les-visites-architecturales-et-de-chantiers">LES VISITES ARCHITECTURALES ET DE CHANTIERS</h3>
+<p>Au delà de la simple visite, sur l’ensemble du festival, d’autres questions sont posées :</p>
+<ul>
+<li>Existe-t-il une architecture normande ?</li>
+<li>Quelle(s) spécificité(s) de la vallée de la Seine ?</li>
+</ul>
+<p>Les points forts des projets architecturaux retenus sont plus liés au contexte qu’à la géographie :</p>
+<ul>
+<li>réhabilitation / requalification de patrimoine</li>
+<li>grands équipements publics pour une attractivité métropolitaine</li>
+<li>architecture respectueuse du développement durable</li>
+</ul>
+]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Zigzag 2019 - Visites de chantier au Havre]]></title>
             <link>https://festivalzigzag.fr/stories/visites-de-chantier-au-havre</link>
             <guid>https://festivalzigzag.fr/stories/visites-de-chantier-au-havre</guid>
@@ -312,28 +334,6 @@
 <p>La Maison de l&#39;architecture de Normandie - le Forum préparait l&#39;édition 2020 depuis plusieurs mois, quand le confinement est passé par là et le télétravail de rigueur.<br>L&#39;équipe tient encore à remercier tous ses partenaires, qui étaient présents à tous les instants pour monter la programmation du festival, et à tous les participants pour leurs inscriptions aux événements Zigzag 2020 malgré la situation sanitaire.</p>
 <p>Toutes ces bonnes volontés n&#39;ont malheureusement pas permis de maintenir tous les événements, que tous auraient aimé vivre : le parcours chorégraphique et le rallye vélo à <strong>Grand Quevilly</strong>, la soirée projection d&#39;<strong>Echelle Inconnue</strong>, la randonnée curieuse à <strong>Rives-en-Seine</strong>, la balade fluviale à <strong>Rouen</strong>, la randonnée à <strong>Achères avec Le voyage métropolitain</strong> ou la balade patrimoniale à la <strong>Mailleraye-sur-Seine avec le Parc naturel régional des Boucles de la Seine Normande</strong>.</p>
 <p>L&#39;édition 2021 est déjà en préparation le long de la vallée de la Seine ... suivez et partagez <a href="https://www.facebook.com/zigzagfestivalarchitecture/" title="Lien Facebook">Zigzag - festival d&#39;architecture et des arts de l&#39;espace</a> sur les réseaux sociaux pour rester informé !!</p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Zigzag 2019 - Visite des nouvelles serres du Jardin des plantes de Rouen]]></title>
-            <link>https://festivalzigzag.fr/stories/visite-des-nouvelles-serres-du-jardin-des-plantes-de-rouen</link>
-            <guid>https://festivalzigzag.fr/stories/visite-des-nouvelles-serres-du-jardin-des-plantes-de-rouen</guid>
-            <pubDate>Mon, 19 Jan 1970 06:16:34 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="les-serres-du-jardin-des-plantes">LES SERRES DU JARDIN DES PLANTES</h2>
-<p>Construites au XIXe et XXe siècles, les serres du jardin des plantes menaçaient de s’écrouler. Après 17 mois de travaux, la serre centrale classée aux Monuments historiques a été restaurée pour abriter un parcours pédagogique. Les serres tropicales et un groupe de sept serres ont été quant à elles reconstruites. L’intervention architecturale sert le projet scientifique des serres et fait entrer ce patrimoine dans le XXI e siècle, en alliant conservation, mises aux normes multiples et interventions contemporaines.</p>
-<p>Avec Jeremy Thirel, architecte MVT.</p>
-<h3 id="les-visites-architecturales-et-de-chantiers">LES VISITES ARCHITECTURALES ET DE CHANTIERS</h3>
-<p>Au delà de la simple visite, sur l’ensemble du festival, d’autres questions sont posées :</p>
-<ul>
-<li>Existe-t-il une architecture normande ?</li>
-<li>Quelle(s) spécificité(s) de la vallée de la Seine ?</li>
-</ul>
-<p>Les points forts des projets architecturaux retenus sont plus liés au contexte qu’à la géographie :</p>
-<ul>
-<li>réhabilitation / requalification de patrimoine</li>
-<li>grands équipements publics pour une attractivité métropolitaine</li>
-<li>architecture respectueuse du développement durable</li>
-</ul>
 ]]></content:encoded>
         </item>
         <item>
@@ -385,22 +385,6 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Zigzag 2020 - semaine #1]]></title>
-            <link>https://festivalzigzag.fr/stories/zigzag-2020-semaine-1</link>
-            <guid>https://festivalzigzag.fr/stories/zigzag-2020-semaine-1</guid>
-            <pubDate>Mon, 19 Jan 1970 13:08:24 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="une-semaine-dinteractions-artistiques">Une semaine d&#39;interactions artistiques</h2>
-<p>Zigzag - festival d&#39;architecture et des arts de l&#39;espace, ce sont 30 événements d&#39;Achères à Deauville le long de la vallée de la Seine jusqu&#39;au 18 octobre. Pour cette première semaine d&#39;événement, les danseurs et chorégraphes de la compagnie <strong>SHIFTS - art in movement</strong> ont bravé vent et pluie sur le site de <strong>Genius 2020</strong>. Retour sur une semaine de performance, chorégraphie, urbanisme, dynamiques sociales &amp; recherche collaborative in situ au Havre : <strong>RIM#2 SATELLITES - REDÉCOUVERTE DES INTERACTIONS QU’ON M</strong></p>
-<p>&quot;Les RIM sont un événement en mouvements, dialogues et constructions légères, élaboré par Malgven Gerbes et David Brandstätter / shifts - art in movement, artistes associés du <strong>Phare, Centre chorégraphique national du Havre Normandie</strong>. En 2019, 20 et 21, dans le cadre de notre association avec Le Phare, nous explorons l’espace extérieur comme vecteur de rencontres chorégraphiques, architecturales et sociales. Cette exploration est partagée chaque année à travers un temps fort, les RIM - collaborations intensives in-situ de chorégraphes et artistes invités. En octobre, nous élargissons notre laboratoire via des RIM satellites au sein du <strong>projet GENiUS</strong> du collectif d&#39;architectes et d&#39;urbanistes havrais <strong>Les Gens des Lieux</strong>&#39;, entre les Quais de la Meuse et de la Marne au Havre, ces RIM projettent une implantation virtuelle du Phare, CCN du Havre Normandie, en extérieur, à l’aide de piquets et de drisses tel un géomètre. En ces temps de restrictions sanitaires, nous avons décidé de nous installer cette semaine en extérieur, entre ces deux quais, de symboliser nos espaces de travail à l’aide de cordes et de piquets, et d’en profiter pour échanger !&quot;</p>
-<p>Cette semaine était aussi l&#39;occasion de participer à une balade photographique qui réinterprète des clichés anciens et propose aux participants de jouer les figurants. En compagnie de deux photographes, deux courtes balades commentées sont l’occasion de découvrir le village de <strong>Port-Mort</strong> et la butte voisine de Châteauneuf, un site pittoresque de la vallée de Seine. <strong>Alphonse Lavergne</strong>, libraire à Vernon, photographia les lieux à la Belle Époque. Ce créateur prodigue de cartes postales nous offre d’innombrables clichés qui servent de balisage aux balades. A leur intérêt documentaire s’ajoute l’intérêt des personnages représentés : proches parents, amis, passants ou travailleurs locaux. Le second photographe, <strong>Vincent Connétable</strong>, accompagne la balade pour réaliser un nouveau « journal d’excursion », à un siècle de distance, avec les participants prêts à jouer les figurants ! Evénement proposé et animé par le <strong>CAUE 27</strong>.</p>
-<ul>
-<li>Inscrivez-vous pour la seconde balade le 14 octobre : <a href="https://festivalzigzag.fr/events/a-port-mort-figurez-vous">A Port-Mort, figurez-vous !</a></li>
-</ul>
-<p>La semaine c&#39;est terminée avec une rencontre au Forum : <strong>Dans le Sens de Barge</strong> avec le duo d’artistes <strong>Eloise Le Gallo &amp; Julia Borderie</strong>, <strong>Marie-Laure Garnier</strong>, paysagiste et l’équipe du <strong>Parc Naturel Régional des Boucles de la Seine Normande</strong>, ont présenté leur réflexion commune sur le paysage séquanien façonné par les mouvements des couches sédimentaires et ses déplacements de terre que ce soit par l’action hydraulique, animale, ou encore humaine. Cet évènement amorcera le projet artistique 2020-2022 : <strong>Le Silence des Coquilles</strong>.</p>
-<p><em>L&#39;événement &quot;LA POLLUTION COMME PATRIMOINE : SYSTÈME LUBRIZOL ET MÉTROPOLISATION DE L&#39;AXE SEINE&quot;, organisé par le collectif Echelle Inconnue, a été malheureusement annulé suite aux nouvelles mesures sanitaires du gouvernement.</em></p>
-]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Zigzag 2020 - J-1]]></title>
             <link>https://festivalzigzag.fr/stories/zigzag-2020-j-1</link>
             <guid>https://festivalzigzag.fr/stories/zigzag-2020-j-1</guid>
@@ -414,6 +398,22 @@
 </ul>
 <p>Ce week-end, retrouvez le festival Zigzag le long de la Seine pour des parcours et visites à Grand Quevilly, Quillebeuf-sur-Seine, Rives-en-Seine, Rouen, Moulineaux et Goustranville.</p>
 <p><strong>#zigzagfestivalarchitecture</strong></p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Zigzag 2020 - semaine #1]]></title>
+            <link>https://festivalzigzag.fr/stories/zigzag-2020-semaine-1</link>
+            <guid>https://festivalzigzag.fr/stories/zigzag-2020-semaine-1</guid>
+            <pubDate>Mon, 19 Jan 1970 13:08:24 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="une-semaine-dinteractions-artistiques">Une semaine d&#39;interactions artistiques</h2>
+<p>Zigzag - festival d&#39;architecture et des arts de l&#39;espace, ce sont 30 événements d&#39;Achères à Deauville le long de la vallée de la Seine jusqu&#39;au 18 octobre. Pour cette première semaine d&#39;événement, les danseurs et chorégraphes de la compagnie <strong>SHIFTS - art in movement</strong> ont bravé vent et pluie sur le site de <strong>Genius 2020</strong>. Retour sur une semaine de performance, chorégraphie, urbanisme, dynamiques sociales &amp; recherche collaborative in situ au Havre : <strong>RIM#2 SATELLITES - REDÉCOUVERTE DES INTERACTIONS QU’ON M</strong></p>
+<p>&quot;Les RIM sont un événement en mouvements, dialogues et constructions légères, élaboré par Malgven Gerbes et David Brandstätter / shifts - art in movement, artistes associés du <strong>Phare, Centre chorégraphique national du Havre Normandie</strong>. En 2019, 20 et 21, dans le cadre de notre association avec Le Phare, nous explorons l’espace extérieur comme vecteur de rencontres chorégraphiques, architecturales et sociales. Cette exploration est partagée chaque année à travers un temps fort, les RIM - collaborations intensives in-situ de chorégraphes et artistes invités. En octobre, nous élargissons notre laboratoire via des RIM satellites au sein du <strong>projet GENiUS</strong> du collectif d&#39;architectes et d&#39;urbanistes havrais <strong>Les Gens des Lieux</strong>&#39;, entre les Quais de la Meuse et de la Marne au Havre, ces RIM projettent une implantation virtuelle du Phare, CCN du Havre Normandie, en extérieur, à l’aide de piquets et de drisses tel un géomètre. En ces temps de restrictions sanitaires, nous avons décidé de nous installer cette semaine en extérieur, entre ces deux quais, de symboliser nos espaces de travail à l’aide de cordes et de piquets, et d’en profiter pour échanger !&quot;</p>
+<p>Cette semaine était aussi l&#39;occasion de participer à une balade photographique qui réinterprète des clichés anciens et propose aux participants de jouer les figurants. En compagnie de deux photographes, deux courtes balades commentées sont l’occasion de découvrir le village de <strong>Port-Mort</strong> et la butte voisine de Châteauneuf, un site pittoresque de la vallée de Seine. <strong>Alphonse Lavergne</strong>, libraire à Vernon, photographia les lieux à la Belle Époque. Ce créateur prodigue de cartes postales nous offre d’innombrables clichés qui servent de balisage aux balades. A leur intérêt documentaire s’ajoute l’intérêt des personnages représentés : proches parents, amis, passants ou travailleurs locaux. Le second photographe, <strong>Vincent Connétable</strong>, accompagne la balade pour réaliser un nouveau « journal d’excursion », à un siècle de distance, avec les participants prêts à jouer les figurants ! Evénement proposé et animé par le <strong>CAUE 27</strong>.</p>
+<ul>
+<li>Inscrivez-vous pour la seconde balade le 14 octobre : <a href="https://festivalzigzag.fr/events/a-port-mort-figurez-vous">A Port-Mort, figurez-vous !</a></li>
+</ul>
+<p>La semaine c&#39;est terminée avec une rencontre au Forum : <strong>Dans le Sens de Barge</strong> avec le duo d’artistes <strong>Eloise Le Gallo &amp; Julia Borderie</strong>, <strong>Marie-Laure Garnier</strong>, paysagiste et l’équipe du <strong>Parc Naturel Régional des Boucles de la Seine Normande</strong>, ont présenté leur réflexion commune sur le paysage séquanien façonné par les mouvements des couches sédimentaires et ses déplacements de terre que ce soit par l’action hydraulique, animale, ou encore humaine. Cet évènement amorcera le projet artistique 2020-2022 : <strong>Le Silence des Coquilles</strong>.</p>
+<p><em>L&#39;événement &quot;LA POLLUTION COMME PATRIMOINE : SYSTÈME LUBRIZOL ET MÉTROPOLISATION DE L&#39;AXE SEINE&quot;, organisé par le collectif Echelle Inconnue, a été malheureusement annulé suite aux nouvelles mesures sanitaires du gouvernement.</em></p>
 ]]></content:encoded>
         </item>
         <item>
