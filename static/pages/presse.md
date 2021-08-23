@@ -14,8 +14,6 @@ Le Forum - Maison de l’architecture de Normandie
 
 <a class="button download" href="/files/dossier-de-presse_zigzag-doubles-pages.pdf">Télécharger le dossier de presse</a>
 
-/files/dossier-de-presse_zigzag-doubles-pages.pdf
-
 <a class="button download" href="/files/kit-com-zz2021.zip">Télécharger le kit de communication</a>
 
 <a class="button download" href="/files/photos-officielles-zigzag.zip">Télécharger les photos officielles</a>
