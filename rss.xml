@@ -4,7 +4,7 @@
         <title></title>
         <link>https://festivalzigzag.fr/rss.xml</link>
         <description>Journal du Festival Zigzag</description>
-        <lastBuildDate>Wed, 01 Sep 2021 08:06:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Sep 2021 08:09:53 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
         <item>
@@ -136,6 +136,18 @@
 ]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Zigzag 2019 - Parcours en kayak à Pont-Audemer]]></title>
+            <link>https://festivalzigzag.fr/stories/parcours-en-kayak-a-pont-audemer</link>
+            <guid>https://festivalzigzag.fr/stories/parcours-en-kayak-a-pont-audemer</guid>
+            <pubDate>Mon, 19 Jan 1970 06:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="pont-audemer-au-fil-de-leau">PONT-AUDEMER AU FIL DE L&#39;EAU</h2>
+<p>La ville de Pont-Audemer s’est construite autour de la présence de l’eau, des bras de la Risle et de ses canaux. La balade en kayak invite à de nouvelles perspectives, à découvrir des points de vue insolites sur la ville médiévale, le paysage urbain. Une façon de prendre la mesure de l’importance de la nature dans la ville.</p>
+<h3 id="parole-de-anne-sophie-oberson">Parole de Anne-Sophie Oberson</h3>
+<p><em>Chargée de mission patrimoine - Pont-Audemer Val de Risle</em></p>
+<p>« Au Moyen Age, les rivières et cours d’eau urbains sont navigables et sont parcourus par divers types d’embarcations. Les barques à fond plat, barges, petites péniches, appelées « escaudes » ou « échaudes » à Pont-Audemer, apportent jusqu’au centre de la ville les produits les plus lourds, pierre, chaux, sable, bois, grains, alimentant les chantiers de construction et les marchés. Ainsi la ville ne se voyait pas uniquement depuis la rue et offrait un autre visage depuis l’eau. La ville de Pont-Audemer a donc souhaité donner aux habitants et aux touristes la possibilité de découvrir cet envers du décor au fil d’une balade en kayak. Élaboré avec le club de kayak Les Castors Rislois, qui gère les réservations et mises à l’eau, ce parcours permet de retrouver l’ambiance de la ville d’autrefois, notamment en descendant le ruisseau des Pâtissiers avec ses nombreuses latrines, petits quais et accès aux propriétés. Mais c’est aussi l’occasion de découvrir son architecture contemporaine en remontant le bras nord de la Risle qui coule aux pieds de la médiathèque La Page ou du théâtre de l’éclat. Cette balade, où l’on constate à quel point l’eau est un élément fondateur de la ville, permet également de mettre valeur le label RAMSAR obtenu par Pont-Audemer en 2018. Ce label d’importance internationale récompense les territoires et les villes pour la qualité de leur gestion des zones humides. »</p>
+]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Zigzag 2019 - Parcours et ateliers le long de la Lézarde]]></title>
             <link>https://festivalzigzag.fr/stories/parcours-et-ateliers-en-famille-le-long-de-la-lezarde</link>
             <guid>https://festivalzigzag.fr/stories/parcours-et-ateliers-en-famille-le-long-de-la-lezarde</guid>
@@ -152,18 +164,6 @@
 <h3 id="parole-de-stéphanie-boin">Parole de Stéphanie Boin</h3>
 <p><em>Chargée de projets Architecture, paysages et politiques publiques - Direction Attractivité du territoire - Le Havre Seine Métropole</em></p>
 <p>« La démarche d’ateliers-paysages le long de la vallée de la Lézarde a permis de tester un format original sur un thème qui ne l’était pas moins. Permettre à des habitants de poser leur regard sur la vallée, parfois malmenée par des projets d’aménagement hétéroclites, et de re-découvrir la présence de l’eau, sa proximité, de prendre conscience d’un paysage au patrimoine riche et multiple, naturel comme historique, était un vrai pari. Le <em>géomètre et Lingénie</em> ont su embarquer les participants dans leurs univers, entre minéral et végétal, pour une expérience insolite et pleine de sensibilité. »</p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Zigzag 2019 - Parcours en kayak à Pont-Audemer]]></title>
-            <link>https://festivalzigzag.fr/stories/parcours-en-kayak-a-pont-audemer</link>
-            <guid>https://festivalzigzag.fr/stories/parcours-en-kayak-a-pont-audemer</guid>
-            <pubDate>Mon, 19 Jan 1970 06:16:27 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="pont-audemer-au-fil-de-leau">PONT-AUDEMER AU FIL DE L&#39;EAU</h2>
-<p>La ville de Pont-Audemer s’est construite autour de la présence de l’eau, des bras de la Risle et de ses canaux. La balade en kayak invite à de nouvelles perspectives, à découvrir des points de vue insolites sur la ville médiévale, le paysage urbain. Une façon de prendre la mesure de l’importance de la nature dans la ville.</p>
-<h3 id="parole-de-anne-sophie-oberson">Parole de Anne-Sophie Oberson</h3>
-<p><em>Chargée de mission patrimoine - Pont-Audemer Val de Risle</em></p>
-<p>« Au Moyen Age, les rivières et cours d’eau urbains sont navigables et sont parcourus par divers types d’embarcations. Les barques à fond plat, barges, petites péniches, appelées « escaudes » ou « échaudes » à Pont-Audemer, apportent jusqu’au centre de la ville les produits les plus lourds, pierre, chaux, sable, bois, grains, alimentant les chantiers de construction et les marchés. Ainsi la ville ne se voyait pas uniquement depuis la rue et offrait un autre visage depuis l’eau. La ville de Pont-Audemer a donc souhaité donner aux habitants et aux touristes la possibilité de découvrir cet envers du décor au fil d’une balade en kayak. Élaboré avec le club de kayak Les Castors Rislois, qui gère les réservations et mises à l’eau, ce parcours permet de retrouver l’ambiance de la ville d’autrefois, notamment en descendant le ruisseau des Pâtissiers avec ses nombreuses latrines, petits quais et accès aux propriétés. Mais c’est aussi l’occasion de découvrir son architecture contemporaine en remontant le bras nord de la Risle qui coule aux pieds de la médiathèque La Page ou du théâtre de l’éclat. Cette balade, où l’on constate à quel point l’eau est un élément fondateur de la ville, permet également de mettre valeur le label RAMSAR obtenu par Pont-Audemer en 2018. Ce label d’importance internationale récompense les territoires et les villes pour la qualité de leur gestion des zones humides. »</p>
 ]]></content:encoded>
         </item>
         <item>
@@ -234,6 +234,19 @@
 ]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Zigzag 2019 - Parcours à travers les paysages du Roumois]]></title>
+            <link>https://festivalzigzag.fr/stories/parcours-a-travers-les-paysages-du-roumois</link>
+            <guid>https://festivalzigzag.fr/stories/parcours-a-travers-les-paysages-du-roumois</guid>
+            <pubDate>Mon, 19 Jan 1970 06:16:30 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="une-marche-du-moulin-à-la-seine">UNE MARCHE DU MOULIN À LA SEINE</h2>
+<p>Le collectif Superoumois vous invite à venir vous balader à travers les paysages du Roumois: entre champs, plateau, hameaux ou bords de Seine, venez partager et croiser votre regard sur les paysages et les pépites de vos lieux de vie ! </p>
+<p>Depuis septembre 2019 ce collectif travaille avec la Communauté de communes Roumois Seine afin de révéler les visions partagées du territoire, autour de nouveaux formats de dialogue avec ses habitants. Grâce à l’animation de metteur en scène, urbaniste, paysagiste, chef de projet culturel, venez partager cette expérience inédite proche de chez vous !</p>
+<h3 id="parole-de-christine-boisseau">Parole de Christine Boisseau</h3>
+<p><em>Chargée de mission - Urbaniste - CAUE 27</em></p>
+<p>« La balade était intéressante, le format artistique a permis de bien susciter l’échange entre les participants. Nous étions peu nombreux, mais finalement pour la cohésion du groupe c’était intéressant. Le fait que nous transportions un gros objet a suscité de la curiosité auprès des gens rencontrés. La balade à pied, avec la lenteur que cela implique, a bien fait sentir le lien un peu complexe que ce territoire a avec la Seine. »</p>
+]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Zigzag 2019 - RedBall Project en ouverture du festival ]]></title>
             <link>https://festivalzigzag.fr/stories/redball-project</link>
             <guid>https://festivalzigzag.fr/stories/redball-project</guid>
@@ -260,19 +273,6 @@
 <blockquote>
 <p>« ... pour moi le contemporain c’est la boule rouge, on voit qu’elle a du mal dans le centre-ville ancien, elle est coincée, plissée, elle ne trouve pas bien sa place ! »</p>
 </blockquote>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Zigzag 2019 - Parcours à travers les paysages du Roumois]]></title>
-            <link>https://festivalzigzag.fr/stories/parcours-a-travers-les-paysages-du-roumois</link>
-            <guid>https://festivalzigzag.fr/stories/parcours-a-travers-les-paysages-du-roumois</guid>
-            <pubDate>Mon, 19 Jan 1970 06:16:30 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="une-marche-du-moulin-à-la-seine">UNE MARCHE DU MOULIN À LA SEINE</h2>
-<p>Le collectif Superoumois vous invite à venir vous balader à travers les paysages du Roumois: entre champs, plateau, hameaux ou bords de Seine, venez partager et croiser votre regard sur les paysages et les pépites de vos lieux de vie ! </p>
-<p>Depuis septembre 2019 ce collectif travaille avec la Communauté de communes Roumois Seine afin de révéler les visions partagées du territoire, autour de nouveaux formats de dialogue avec ses habitants. Grâce à l’animation de metteur en scène, urbaniste, paysagiste, chef de projet culturel, venez partager cette expérience inédite proche de chez vous !</p>
-<h3 id="parole-de-christine-boisseau">Parole de Christine Boisseau</h3>
-<p><em>Chargée de mission - Urbaniste - CAUE 27</em></p>
-<p>« La balade était intéressante, le format artistique a permis de bien susciter l’échange entre les participants. Nous étions peu nombreux, mais finalement pour la cohésion du groupe c’était intéressant. Le fait que nous transportions un gros objet a suscité de la curiosité auprès des gens rencontrés. La balade à pied, avec la lenteur que cela implique, a bien fait sentir le lien un peu complexe que ce territoire a avec la Seine. »</p>
 ]]></content:encoded>
         </item>
         <item>
