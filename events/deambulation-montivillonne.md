@@ -1,5 +1,5 @@
 ---
-title: Déambulation Montivillionne
+title: Déambulation Montivillonne
 categories:
 - Parcours urbain
 featured: false
