@@ -4,9 +4,9 @@ categories:
 - Parcours photographique
 featured: false
 cover:
-  src: "/files/eop-zoonose.jpg"
+  src: "/files/_cje9365-10x15.jpg"
   alt: ''
-  legend: ZOOnose © Christel Jeanne
+  legend: ZOOnose © Christel JEANNE
 booking:
   state: ''
   period: ''
