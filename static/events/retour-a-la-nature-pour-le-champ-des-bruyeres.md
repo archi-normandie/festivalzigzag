@@ -28,4 +28,4 @@ L’hippodrome, créé en 1861, fut tour à tour hôpital militaire anglais pend
 
 _Dans le cadre de Rouen Métropole Capitale du monde d’après._
 
-**Intervenants :** l’agence Mutabilis Paysage et Urbanisme et l’agence Philippe Madec.
+**Intervenants :** Bertrand Masson (directeur de l'aménagement et des grands projets Métropole Rouen Normandie), Nathalie Dectot (Atelier Philippe MADEC) et S. Buttier (artiste-paysagiste)
