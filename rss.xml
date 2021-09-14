@@ -4,7 +4,7 @@
         <title></title>
         <link>https://festivalzigzag.fr/rss.xml</link>
         <description>Journal du Festival Zigzag</description>
-        <lastBuildDate>Tue, 14 Sep 2021 09:51:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Sep 2021 10:44:56 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
         <item>
@@ -247,19 +247,6 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Zigzag 2019 - Un parcours pédestre au Havre]]></title>
-            <link>https://festivalzigzag.fr/stories/un-parcours-pedestre-au-havre</link>
-            <guid>https://festivalzigzag.fr/stories/un-parcours-pedestre-au-havre</guid>
-            <pubDate>Mon, 19 Jan 1970 06:16:27 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="port-sur-la-ville">Port sur la ville</h2>
-<p>Venez parcourir la couture de l’interface ville-port en visitant des installations portuaires actives et des bâtiments reconvertis. Cette visite à pied vous donnera l’occasion de franchir les portes, de découvrir des architectures, des lieux de vie actifs, productifs qui montrent combien l’interprétation et la réinterprétation des usages sont fertiles au sein d’espaces portuaires et urbains qui cohabitent dans une vision résolument hybridée de la &quot;ville&quot;.</p>
-<p>Avec le GPMH et l’AURH.</p>
-<h3 id="parole-de-jessy-oukoloff">Parole de Jessy Oukoloff</h3>
-<p><em>Directeur des études - AURH - Agence d’urbanisme de la région du Havre et de l’Estuaire de la Seine</em></p>
-<p>« Notre parcours entre ville et port s’est fait sous un temps Normand entre pluie battante et rayons de soleil ! Le public était au rdv malgré les conditions, nous étions tout de même une vingtaine. Cela montre que le grand public est en attente d’expériences, d’échanges pour comprendre les ressorts de l’évolution de ces paysages qui nous entourent et que nous voyons évoluer au quotidien. Le parcours s’est fait à 2 voix entre AURH et GPMH. J’en retiens notamment qu’entrer dans des lieux fermés au public est une expérience qui plaît, et qui ajoute à l’intérêt de notre exposé. Ce n’est pas un exercice inédit pour nous et nous sommes toujours très enthousiastes pour organiser ces visites avec le grand public, nous qui pratiquons plus généralement les professionnels de l’aménagement ou des étudiants. »</p>
-]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Zigzag 2019 - RedBall Project en ouverture du festival ]]></title>
             <link>https://festivalzigzag.fr/stories/redball-project</link>
             <guid>https://festivalzigzag.fr/stories/redball-project</guid>
@@ -286,6 +273,19 @@
 <blockquote>
 <p>« ... pour moi le contemporain c’est la boule rouge, on voit qu’elle a du mal dans le centre-ville ancien, elle est coincée, plissée, elle ne trouve pas bien sa place ! »</p>
 </blockquote>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Zigzag 2019 - Un parcours pédestre au Havre]]></title>
+            <link>https://festivalzigzag.fr/stories/un-parcours-pedestre-au-havre</link>
+            <guid>https://festivalzigzag.fr/stories/un-parcours-pedestre-au-havre</guid>
+            <pubDate>Mon, 19 Jan 1970 06:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="port-sur-la-ville">Port sur la ville</h2>
+<p>Venez parcourir la couture de l’interface ville-port en visitant des installations portuaires actives et des bâtiments reconvertis. Cette visite à pied vous donnera l’occasion de franchir les portes, de découvrir des architectures, des lieux de vie actifs, productifs qui montrent combien l’interprétation et la réinterprétation des usages sont fertiles au sein d’espaces portuaires et urbains qui cohabitent dans une vision résolument hybridée de la &quot;ville&quot;.</p>
+<p>Avec le GPMH et l’AURH.</p>
+<h3 id="parole-de-jessy-oukoloff">Parole de Jessy Oukoloff</h3>
+<p><em>Directeur des études - AURH - Agence d’urbanisme de la région du Havre et de l’Estuaire de la Seine</em></p>
+<p>« Notre parcours entre ville et port s’est fait sous un temps Normand entre pluie battante et rayons de soleil ! Le public était au rdv malgré les conditions, nous étions tout de même une vingtaine. Cela montre que le grand public est en attente d’expériences, d’échanges pour comprendre les ressorts de l’évolution de ces paysages qui nous entourent et que nous voyons évoluer au quotidien. Le parcours s’est fait à 2 voix entre AURH et GPMH. J’en retiens notamment qu’entrer dans des lieux fermés au public est une expérience qui plaît, et qui ajoute à l’intérêt de notre exposé. Ce n’est pas un exercice inédit pour nous et nous sommes toujours très enthousiastes pour organiser ces visites avec le grand public, nous qui pratiquons plus généralement les professionnels de l’aménagement ou des étudiants. »</p>
 ]]></content:encoded>
         </item>
         <item>
@@ -385,22 +385,6 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Zigzag 2020 - semaine #1]]></title>
-            <link>https://festivalzigzag.fr/stories/zigzag-2020-semaine-1</link>
-            <guid>https://festivalzigzag.fr/stories/zigzag-2020-semaine-1</guid>
-            <pubDate>Mon, 19 Jan 1970 13:08:24 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="une-semaine-dinteractions-artistiques">Une semaine d&#39;interactions artistiques</h2>
-<p>Zigzag - festival d&#39;architecture et des arts de l&#39;espace, ce sont 30 événements d&#39;Achères à Deauville le long de la vallée de la Seine jusqu&#39;au 18 octobre. Pour cette première semaine d&#39;événement, les danseurs et chorégraphes de la compagnie <strong>SHIFTS - art in movement</strong> ont bravé vent et pluie sur le site de <strong>Genius 2020</strong>. Retour sur une semaine de performance, chorégraphie, urbanisme, dynamiques sociales &amp; recherche collaborative in situ au Havre : <strong>RIM#2 SATELLITES - REDÉCOUVERTE DES INTERACTIONS QU’ON M</strong></p>
-<p>&quot;Les RIM sont un événement en mouvements, dialogues et constructions légères, élaboré par Malgven Gerbes et David Brandstätter / shifts - art in movement, artistes associés du <strong>Phare, Centre chorégraphique national du Havre Normandie</strong>. En 2019, 20 et 21, dans le cadre de notre association avec Le Phare, nous explorons l’espace extérieur comme vecteur de rencontres chorégraphiques, architecturales et sociales. Cette exploration est partagée chaque année à travers un temps fort, les RIM - collaborations intensives in-situ de chorégraphes et artistes invités. En octobre, nous élargissons notre laboratoire via des RIM satellites au sein du <strong>projet GENiUS</strong> du collectif d&#39;architectes et d&#39;urbanistes havrais <strong>Les Gens des Lieux</strong>&#39;, entre les Quais de la Meuse et de la Marne au Havre, ces RIM projettent une implantation virtuelle du Phare, CCN du Havre Normandie, en extérieur, à l’aide de piquets et de drisses tel un géomètre. En ces temps de restrictions sanitaires, nous avons décidé de nous installer cette semaine en extérieur, entre ces deux quais, de symboliser nos espaces de travail à l’aide de cordes et de piquets, et d’en profiter pour échanger !&quot;</p>
-<p>Cette semaine était aussi l&#39;occasion de participer à une balade photographique qui réinterprète des clichés anciens et propose aux participants de jouer les figurants. En compagnie de deux photographes, deux courtes balades commentées sont l’occasion de découvrir le village de <strong>Port-Mort</strong> et la butte voisine de Châteauneuf, un site pittoresque de la vallée de Seine. <strong>Alphonse Lavergne</strong>, libraire à Vernon, photographia les lieux à la Belle Époque. Ce créateur prodigue de cartes postales nous offre d’innombrables clichés qui servent de balisage aux balades. A leur intérêt documentaire s’ajoute l’intérêt des personnages représentés : proches parents, amis, passants ou travailleurs locaux. Le second photographe, <strong>Vincent Connétable</strong>, accompagne la balade pour réaliser un nouveau « journal d’excursion », à un siècle de distance, avec les participants prêts à jouer les figurants ! Evénement proposé et animé par le <strong>CAUE 27</strong>.</p>
-<ul>
-<li>Inscrivez-vous pour la seconde balade le 14 octobre : <a href="https://festivalzigzag.fr/events/a-port-mort-figurez-vous">A Port-Mort, figurez-vous !</a></li>
-</ul>
-<p>La semaine c&#39;est terminée avec une rencontre au Forum : <strong>Dans le Sens de Barge</strong> avec le duo d’artistes <strong>Eloise Le Gallo &amp; Julia Borderie</strong>, <strong>Marie-Laure Garnier</strong>, paysagiste et l’équipe du <strong>Parc Naturel Régional des Boucles de la Seine Normande</strong>, ont présenté leur réflexion commune sur le paysage séquanien façonné par les mouvements des couches sédimentaires et ses déplacements de terre que ce soit par l’action hydraulique, animale, ou encore humaine. Cet évènement amorcera le projet artistique 2020-2022 : <strong>Le Silence des Coquilles</strong>.</p>
-<p><em>L&#39;événement &quot;LA POLLUTION COMME PATRIMOINE : SYSTÈME LUBRIZOL ET MÉTROPOLISATION DE L&#39;AXE SEINE&quot;, organisé par le collectif Echelle Inconnue, a été malheureusement annulé suite aux nouvelles mesures sanitaires du gouvernement.</em></p>
-]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Zigzag 2020 - J-1]]></title>
             <link>https://festivalzigzag.fr/stories/zigzag-2020-j-1</link>
             <guid>https://festivalzigzag.fr/stories/zigzag-2020-j-1</guid>
@@ -414,6 +398,22 @@
 </ul>
 <p>Ce week-end, retrouvez le festival Zigzag le long de la Seine pour des parcours et visites à Grand Quevilly, Quillebeuf-sur-Seine, Rives-en-Seine, Rouen, Moulineaux et Goustranville.</p>
 <p><strong>#zigzagfestivalarchitecture</strong></p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Zigzag 2020 - semaine #1]]></title>
+            <link>https://festivalzigzag.fr/stories/zigzag-2020-semaine-1</link>
+            <guid>https://festivalzigzag.fr/stories/zigzag-2020-semaine-1</guid>
+            <pubDate>Mon, 19 Jan 1970 13:08:24 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="une-semaine-dinteractions-artistiques">Une semaine d&#39;interactions artistiques</h2>
+<p>Zigzag - festival d&#39;architecture et des arts de l&#39;espace, ce sont 30 événements d&#39;Achères à Deauville le long de la vallée de la Seine jusqu&#39;au 18 octobre. Pour cette première semaine d&#39;événement, les danseurs et chorégraphes de la compagnie <strong>SHIFTS - art in movement</strong> ont bravé vent et pluie sur le site de <strong>Genius 2020</strong>. Retour sur une semaine de performance, chorégraphie, urbanisme, dynamiques sociales &amp; recherche collaborative in situ au Havre : <strong>RIM#2 SATELLITES - REDÉCOUVERTE DES INTERACTIONS QU’ON M</strong></p>
+<p>&quot;Les RIM sont un événement en mouvements, dialogues et constructions légères, élaboré par Malgven Gerbes et David Brandstätter / shifts - art in movement, artistes associés du <strong>Phare, Centre chorégraphique national du Havre Normandie</strong>. En 2019, 20 et 21, dans le cadre de notre association avec Le Phare, nous explorons l’espace extérieur comme vecteur de rencontres chorégraphiques, architecturales et sociales. Cette exploration est partagée chaque année à travers un temps fort, les RIM - collaborations intensives in-situ de chorégraphes et artistes invités. En octobre, nous élargissons notre laboratoire via des RIM satellites au sein du <strong>projet GENiUS</strong> du collectif d&#39;architectes et d&#39;urbanistes havrais <strong>Les Gens des Lieux</strong>&#39;, entre les Quais de la Meuse et de la Marne au Havre, ces RIM projettent une implantation virtuelle du Phare, CCN du Havre Normandie, en extérieur, à l’aide de piquets et de drisses tel un géomètre. En ces temps de restrictions sanitaires, nous avons décidé de nous installer cette semaine en extérieur, entre ces deux quais, de symboliser nos espaces de travail à l’aide de cordes et de piquets, et d’en profiter pour échanger !&quot;</p>
+<p>Cette semaine était aussi l&#39;occasion de participer à une balade photographique qui réinterprète des clichés anciens et propose aux participants de jouer les figurants. En compagnie de deux photographes, deux courtes balades commentées sont l’occasion de découvrir le village de <strong>Port-Mort</strong> et la butte voisine de Châteauneuf, un site pittoresque de la vallée de Seine. <strong>Alphonse Lavergne</strong>, libraire à Vernon, photographia les lieux à la Belle Époque. Ce créateur prodigue de cartes postales nous offre d’innombrables clichés qui servent de balisage aux balades. A leur intérêt documentaire s’ajoute l’intérêt des personnages représentés : proches parents, amis, passants ou travailleurs locaux. Le second photographe, <strong>Vincent Connétable</strong>, accompagne la balade pour réaliser un nouveau « journal d’excursion », à un siècle de distance, avec les participants prêts à jouer les figurants ! Evénement proposé et animé par le <strong>CAUE 27</strong>.</p>
+<ul>
+<li>Inscrivez-vous pour la seconde balade le 14 octobre : <a href="https://festivalzigzag.fr/events/a-port-mort-figurez-vous">A Port-Mort, figurez-vous !</a></li>
+</ul>
+<p>La semaine c&#39;est terminée avec une rencontre au Forum : <strong>Dans le Sens de Barge</strong> avec le duo d’artistes <strong>Eloise Le Gallo &amp; Julia Borderie</strong>, <strong>Marie-Laure Garnier</strong>, paysagiste et l’équipe du <strong>Parc Naturel Régional des Boucles de la Seine Normande</strong>, ont présenté leur réflexion commune sur le paysage séquanien façonné par les mouvements des couches sédimentaires et ses déplacements de terre que ce soit par l’action hydraulique, animale, ou encore humaine. Cet évènement amorcera le projet artistique 2020-2022 : <strong>Le Silence des Coquilles</strong>.</p>
+<p><em>L&#39;événement &quot;LA POLLUTION COMME PATRIMOINE : SYSTÈME LUBRIZOL ET MÉTROPOLISATION DE L&#39;AXE SEINE&quot;, organisé par le collectif Echelle Inconnue, a été malheureusement annulé suite aux nouvelles mesures sanitaires du gouvernement.</em></p>
 ]]></content:encoded>
         </item>
         <item>
