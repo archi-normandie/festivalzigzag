@@ -6,9 +6,9 @@ categories:
 - Expositions
 featured: false
 cover:
-  src: "/files/festival-post-grand-quevilly.jpg"
+  src: "/files/festival-post-lksir.jpg"
   alt: ''
-  legend: "© Grand Quevilly"
+  legend: "© LKSIR"
 booking:
   link: ''
   state: ''
@@ -28,24 +28,24 @@ informations:
 gallery: []
 
 ---
-**_POST_**, c’est le nouveau festival qui met à l’honneur l’art urbain et la création artistique sous toutes ses formes (fresques, collages, peinture, graff, volumes,…) et avec pour thème le détournement urbain et le trompe l’œil. Au cœur d’un ancien centre de tri postal ressuscité pour l’occasion, une quinzaine d’artistes régionaux et nationaux invités et reconnus dans la discipline créent sous les yeux des visiteurs.
+**_POST_**, c’est le nouveau festival qui met à l’honneur l’art urbain et la création artistique sous toutes ses formes (fresques, collages, peinture, graff,vidéos…) et avec pour thème le détournement urbain et le trompe l’œil. Au cœur d’un ancien centre de tri postal ressuscité pour l’occasion, une quinzaine d’artistes régionaux et nationaux invités et reconnus dans la discipline créent sous les yeux des visiteurs.
 
-Venez découvrir et rencontrer ces typographes, affichistes, graffeurs, plasticiens et autres… lors de créations en direct ou d’ateliers participatifs à l’**ancien centre de tri derrière la Poste au 16 avenue Léon-Blum.**
+Venez découvrir et rencontrer ces typographes, affichistes, graffeurs, plasticiens et vidéastes, lors de créations en direct à l’**ancien centre de tri, derrière la Poste, au 16 avenue Léon-Blum.**
 
 **Week-end portes ouvertes avec :**
 
-Création artistique en direct par Jace, Idem, Arnaud Liard, Geneviève Gauckler & Fabrice Houdry, Arko, Gaspard Lieb, Nikodem, Jiem & Mary, Lison de Ridder, Hélène Marian, Bon pour un tour, Liz Ponio et inkOj.
+Création artistique en direct par Jace, Idem, Prisme, Geneviève Gauckler & Fabrice Houdry, Arko, Gaspard Lieb, Nikodem, Jiem & Mary, Lison de Ridder, Hélène Marian, Bon pour 1 tour, Liz Ponio, Nikodio, Fruit Confit et inkOj.
 
-Expositions photos de Julien Lelièvre, Perrine Flieckx, Lksir & Paatrice.
+Expositions photos de Julien Lelièvre, Perrine Fliecx, Lksir & Paatrice.
 
 Scénographie réalisée par le plasticien Marc Hamandjian.
 
-\+ projections vidéos, librairie éphémère, ateliers participatifs, food-truck pour boire un verre et manger sur place.
+\+ projections vidéos, librairie éphémère, food-trucks pour boire un verre et manger sur place.
 
 **Accès libre :**  
-Vendredi : 18h-22h  
-Samedi : 10h-22h  
-Dimanche : 11h-18h
+ Vendredi : 18h-22h  
+ Samedi : 10h-22h  
+ Dimanche : 11h-18h
 
 Suivez le festival sur l’[**_événement Facebook_**](https://www.facebook.com/events/373697151038322)
 
