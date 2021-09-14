@@ -4,7 +4,7 @@
         <title></title>
         <link>https://festivalzigzag.fr/rss.xml</link>
         <description>Journal du Festival Zigzag</description>
-        <lastBuildDate>Tue, 14 Sep 2021 09:38:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Sep 2021 09:51:57 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
         <item>
@@ -247,6 +247,19 @@
 ]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Zigzag 2019 - Un parcours pédestre au Havre]]></title>
+            <link>https://festivalzigzag.fr/stories/un-parcours-pedestre-au-havre</link>
+            <guid>https://festivalzigzag.fr/stories/un-parcours-pedestre-au-havre</guid>
+            <pubDate>Mon, 19 Jan 1970 06:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="port-sur-la-ville">Port sur la ville</h2>
+<p>Venez parcourir la couture de l’interface ville-port en visitant des installations portuaires actives et des bâtiments reconvertis. Cette visite à pied vous donnera l’occasion de franchir les portes, de découvrir des architectures, des lieux de vie actifs, productifs qui montrent combien l’interprétation et la réinterprétation des usages sont fertiles au sein d’espaces portuaires et urbains qui cohabitent dans une vision résolument hybridée de la &quot;ville&quot;.</p>
+<p>Avec le GPMH et l’AURH.</p>
+<h3 id="parole-de-jessy-oukoloff">Parole de Jessy Oukoloff</h3>
+<p><em>Directeur des études - AURH - Agence d’urbanisme de la région du Havre et de l’Estuaire de la Seine</em></p>
+<p>« Notre parcours entre ville et port s’est fait sous un temps Normand entre pluie battante et rayons de soleil ! Le public était au rdv malgré les conditions, nous étions tout de même une vingtaine. Cela montre que le grand public est en attente d’expériences, d’échanges pour comprendre les ressorts de l’évolution de ces paysages qui nous entourent et que nous voyons évoluer au quotidien. Le parcours s’est fait à 2 voix entre AURH et GPMH. J’en retiens notamment qu’entrer dans des lieux fermés au public est une expérience qui plaît, et qui ajoute à l’intérêt de notre exposé. Ce n’est pas un exercice inédit pour nous et nous sommes toujours très enthousiastes pour organiser ces visites avec le grand public, nous qui pratiquons plus généralement les professionnels de l’aménagement ou des étudiants. »</p>
+]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Zigzag 2019 - RedBall Project en ouverture du festival ]]></title>
             <link>https://festivalzigzag.fr/stories/redball-project</link>
             <guid>https://festivalzigzag.fr/stories/redball-project</guid>
@@ -273,19 +286,6 @@
 <blockquote>
 <p>« ... pour moi le contemporain c’est la boule rouge, on voit qu’elle a du mal dans le centre-ville ancien, elle est coincée, plissée, elle ne trouve pas bien sa place ! »</p>
 </blockquote>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Zigzag 2019 - Un parcours pédestre au Havre]]></title>
-            <link>https://festivalzigzag.fr/stories/un-parcours-pedestre-au-havre</link>
-            <guid>https://festivalzigzag.fr/stories/un-parcours-pedestre-au-havre</guid>
-            <pubDate>Mon, 19 Jan 1970 06:16:27 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="port-sur-la-ville">Port sur la ville</h2>
-<p>Venez parcourir la couture de l’interface ville-port en visitant des installations portuaires actives et des bâtiments reconvertis. Cette visite à pied vous donnera l’occasion de franchir les portes, de découvrir des architectures, des lieux de vie actifs, productifs qui montrent combien l’interprétation et la réinterprétation des usages sont fertiles au sein d’espaces portuaires et urbains qui cohabitent dans une vision résolument hybridée de la &quot;ville&quot;.</p>
-<p>Avec le GPMH et l’AURH.</p>
-<h3 id="parole-de-jessy-oukoloff">Parole de Jessy Oukoloff</h3>
-<p><em>Directeur des études - AURH - Agence d’urbanisme de la région du Havre et de l’Estuaire de la Seine</em></p>
-<p>« Notre parcours entre ville et port s’est fait sous un temps Normand entre pluie battante et rayons de soleil ! Le public était au rdv malgré les conditions, nous étions tout de même une vingtaine. Cela montre que le grand public est en attente d’expériences, d’échanges pour comprendre les ressorts de l’évolution de ces paysages qui nous entourent et que nous voyons évoluer au quotidien. Le parcours s’est fait à 2 voix entre AURH et GPMH. J’en retiens notamment qu’entrer dans des lieux fermés au public est une expérience qui plaît, et qui ajoute à l’intérêt de notre exposé. Ce n’est pas un exercice inédit pour nous et nous sommes toujours très enthousiastes pour organiser ces visites avec le grand public, nous qui pratiquons plus généralement les professionnels de l’aménagement ou des étudiants. »</p>
 ]]></content:encoded>
         </item>
         <item>
@@ -385,22 +385,6 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Zigzag 2020 - J-1]]></title>
-            <link>https://festivalzigzag.fr/stories/zigzag-2020-j-1</link>
-            <guid>https://festivalzigzag.fr/stories/zigzag-2020-j-1</guid>
-            <pubDate>Mon, 19 Jan 1970 12:53:46 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="ouverture-du-festival-le-samedi-3-octobre-">OUVERTURE DU FESTIVAL LE SAMEDI 3 OCTOBRE !</h2>
-<p>La Maison de l&#39;architecture de Normandie - le Forum rouvre ses portes ce samedi 3 octobre pour l&#39;exposition <strong>&quot;Utopie fluviale&quot;</strong> dans le cadre du festival d&#39;architecture Zigzag :</p>
-<p>Le collectif d’artistes et d’architectes <strong>Dans le Sens de Barge</strong> offre un cycle de programmation artistique (résidences, workshops, expositions, ateliers et fêtes) favorisant le lien social et culturel sur la Seine. A l’occasion du festival Zigzag 2020, le collectif propose “Utopie Fluviale” : un retour sur la génèse du projet, sa raison d&#39;être artistique puisée au sein du fleuve, de l’eau, de l’inertie, des traversées. Cette exposition sera l&#39;occasion de présenter l&#39;état d&#39;avancée du projet fluvio-maritime BARGE réalisé par l&#39;architecte Pierre Delion et de montrer les propositions élaborées par les étudiants en design et en architecture de l&#39;<strong>ENSCI - Les Ateliers</strong> et de l’<strong>ENSA Normandie</strong>, autour des futures escales des embarcations.</p>
-<ul>
-<li>Accès libre du 3 au 30 octobre au 48 rue Victor Hugo à Rouen</li>
-<li>Rencontre avec le collectif le 9 octobre à 18h : <a href="https://festivalzigzag.fr/events/le-silence-des-coquilles">LE SILENCE DES COQUILLES</a></li>
-</ul>
-<p>Ce week-end, retrouvez le festival Zigzag le long de la Seine pour des parcours et visites à Grand Quevilly, Quillebeuf-sur-Seine, Rives-en-Seine, Rouen, Moulineaux et Goustranville.</p>
-<p><strong>#zigzagfestivalarchitecture</strong></p>
-]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Zigzag 2020 - semaine #1]]></title>
             <link>https://festivalzigzag.fr/stories/zigzag-2020-semaine-1</link>
             <guid>https://festivalzigzag.fr/stories/zigzag-2020-semaine-1</guid>
@@ -414,6 +398,22 @@
 </ul>
 <p>La semaine c&#39;est terminée avec une rencontre au Forum : <strong>Dans le Sens de Barge</strong> avec le duo d’artistes <strong>Eloise Le Gallo &amp; Julia Borderie</strong>, <strong>Marie-Laure Garnier</strong>, paysagiste et l’équipe du <strong>Parc Naturel Régional des Boucles de la Seine Normande</strong>, ont présenté leur réflexion commune sur le paysage séquanien façonné par les mouvements des couches sédimentaires et ses déplacements de terre que ce soit par l’action hydraulique, animale, ou encore humaine. Cet évènement amorcera le projet artistique 2020-2022 : <strong>Le Silence des Coquilles</strong>.</p>
 <p><em>L&#39;événement &quot;LA POLLUTION COMME PATRIMOINE : SYSTÈME LUBRIZOL ET MÉTROPOLISATION DE L&#39;AXE SEINE&quot;, organisé par le collectif Echelle Inconnue, a été malheureusement annulé suite aux nouvelles mesures sanitaires du gouvernement.</em></p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Zigzag 2020 - J-1]]></title>
+            <link>https://festivalzigzag.fr/stories/zigzag-2020-j-1</link>
+            <guid>https://festivalzigzag.fr/stories/zigzag-2020-j-1</guid>
+            <pubDate>Mon, 19 Jan 1970 12:53:46 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="ouverture-du-festival-le-samedi-3-octobre-">OUVERTURE DU FESTIVAL LE SAMEDI 3 OCTOBRE !</h2>
+<p>La Maison de l&#39;architecture de Normandie - le Forum rouvre ses portes ce samedi 3 octobre pour l&#39;exposition <strong>&quot;Utopie fluviale&quot;</strong> dans le cadre du festival d&#39;architecture Zigzag :</p>
+<p>Le collectif d’artistes et d’architectes <strong>Dans le Sens de Barge</strong> offre un cycle de programmation artistique (résidences, workshops, expositions, ateliers et fêtes) favorisant le lien social et culturel sur la Seine. A l’occasion du festival Zigzag 2020, le collectif propose “Utopie Fluviale” : un retour sur la génèse du projet, sa raison d&#39;être artistique puisée au sein du fleuve, de l’eau, de l’inertie, des traversées. Cette exposition sera l&#39;occasion de présenter l&#39;état d&#39;avancée du projet fluvio-maritime BARGE réalisé par l&#39;architecte Pierre Delion et de montrer les propositions élaborées par les étudiants en design et en architecture de l&#39;<strong>ENSCI - Les Ateliers</strong> et de l’<strong>ENSA Normandie</strong>, autour des futures escales des embarcations.</p>
+<ul>
+<li>Accès libre du 3 au 30 octobre au 48 rue Victor Hugo à Rouen</li>
+<li>Rencontre avec le collectif le 9 octobre à 18h : <a href="https://festivalzigzag.fr/events/le-silence-des-coquilles">LE SILENCE DES COQUILLES</a></li>
+</ul>
+<p>Ce week-end, retrouvez le festival Zigzag le long de la Seine pour des parcours et visites à Grand Quevilly, Quillebeuf-sur-Seine, Rives-en-Seine, Rouen, Moulineaux et Goustranville.</p>
+<p><strong>#zigzagfestivalarchitecture</strong></p>
 ]]></content:encoded>
         </item>
         <item>

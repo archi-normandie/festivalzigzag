@@ -6,9 +6,9 @@ categories:
 - Expositions
 featured: false
 cover:
-  src: ''
+  src: "/files/festival-post-grand-quevilly.jpg"
   alt: ''
-  legend: ''
+  legend: "© Grand Quevilly"
 booking:
   link: ''
   state: ''
@@ -18,12 +18,13 @@ booking:
   - date: 2021-10-02 10:00
   - date: 2021-10-03 11:00
 address:
-  place: ''
-  lat: ''
-  lon: ''
+  place: Grand Quevilly (76)
+  lat: "49.405668"
+  lon: "1.0496587"
 informations:
   note: Tous publics
-  rdv: 'RDV : '
+  rdv: 'RDV : Ancien centre de tri postal - 16 avenue Léon-Blum, Grand Quevilly (derrière
+    la Poste). Métro – arrêt Léon Blum // Bus 42 – arrêt Centre administratif'
 gallery: []
 
 ---
