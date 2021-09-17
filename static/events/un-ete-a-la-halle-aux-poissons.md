@@ -30,3 +30,7 @@ Que cache la Halle aux poissons ? Ce bâtiment régulier ne laisse rien percevoi
 **Intervenants :** Marion Dutoit, Enofi, Encore Heureux, Projet DD et les Bellevilles (sous réserve)
 
 **Renseignements :** contact@halleauxpoissons.org
+
+Et pour continuer la soirée, la Halle propose un dîner d’exception avec le chef étoilé Gabin Bouguet, le pâtissier Clément Mazzoni et des invités surprises. Menu unique à 60€ (Cocktail/amuses bouches/entrées/plat/dessert par Clément Mazzoni).
+
+* Réservez vos places : [A table les architectes !](https://festivalzigzag.fr/events/a-table-les-architectes)
