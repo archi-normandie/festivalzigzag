@@ -1,6 +1,8 @@
 ---
 title: "« A table les architectes ! »"
-categories: []
+categories:
+- 'Cocktail apéritif '
+- Dîner assis
 featured: false
 cover:
   src: "/files/maquereau-le-donjon-restaurant-etoile-en-normandie.jpg"
@@ -10,11 +12,12 @@ booking:
   link: ''
   state: ''
   period: ''
-  dates: []
+  dates:
+  - date: 2021-10-01 19:30
 address:
-  place: ''
-  lat: ''
-  lon: ''
+  place: Le Havre (76)
+  lat: "49.4873752"
+  lon: "0.1123026"
 informations:
   note: ''
   rdv: ''
