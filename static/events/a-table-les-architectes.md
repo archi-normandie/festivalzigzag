@@ -25,3 +25,6 @@ informations:
 gallery: []
 
 ---
+A la suite de la table-ronde "UN ÉTÉ À LA HALLE AUX POISSONS", la Halle propose un Dîner d’exception avec le chef étoilé Gabin Bouguet, le pâtissier Clément Mazzoni et des invités surprises. 
+
+En partenariat avec la Halle aux Poissons & Le Donjon.
