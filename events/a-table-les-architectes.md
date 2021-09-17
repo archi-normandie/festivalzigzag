@@ -19,8 +19,9 @@ address:
   lat: "49.4873752"
   lon: "0.1123026"
 informations:
-  note: ''
-  rdv: ''
+  note: Menu unique à 60€ (Cocktail/amuses bouches/entrées/plat/dessert par Clément
+    Mazzoni)
+  rdv: 'RDV : à la Halle aux poissons, rue du Général Faidherbe. Bus 4 : arrêt St-François'
 gallery: []
 
 ---
