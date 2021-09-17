@@ -9,7 +9,7 @@ cover:
   alt: ''
   legend: Maquereau @LE DONJON, RESTAURANT ÉTOILÉ EN NORMANDIE
 booking:
-  link: ''
+  link: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/a-table-les-architectes
   state: ''
   period: ''
   dates:
