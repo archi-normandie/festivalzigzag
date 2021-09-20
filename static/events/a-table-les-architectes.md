@@ -27,6 +27,8 @@ gallery: []
 ---
 Dans le cadre du festival d'architecture et des arts de l'espace Zigzag, le Lieu Infini de la Halle aux Poissons réunit des architectes et urbanistes, ayant expérimenté un ralentissement du processus d'écriture de projet, se construisant dans l'attention au milieu.
 
-A 19h30, à la suite de la table-ronde "UN ÉTÉ À LA HALLE AUX POISSONS", la Halle propose un Dîner d’exception avec le chef étoilé Gabin Bouguet, le pâtissier Clément Mazzoni et des invités surprises. 
+A 19h30, à la suite de la table-ronde "UN ÉTÉ À LA HALLE AUX POISSONS", la Halle propose un Dîner d’exception avec le chef étoilé Gabin Bouguet, le pâtissier Clément Mazzoni et des invités surprises.
 
 En partenariat avec la Halle aux Poissons & Le Donjon.
+
+* Inscrivez-vous à la rencontre de 18h : [Un été à la Halle aux poissons]( "https://festivalzigzag.fr/events/un-ete-a-la-halle-aux-poissons")
