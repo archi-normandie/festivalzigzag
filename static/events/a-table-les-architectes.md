@@ -13,7 +13,7 @@ booking:
   state: ''
   period: ''
   dates:
-  - date: 2021-10-01 19:30
+  - date: 2021-10-01 19:00
 address:
   place: Le Havre (76)
   lat: "49.4873752"
