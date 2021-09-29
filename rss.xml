@@ -4,7 +4,7 @@
         <title></title>
         <link>https://festivalzigzag.fr/rss.xml</link>
         <description>Journal du Festival Zigzag</description>
-        <lastBuildDate>Wed, 29 Sep 2021 13:37:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Sep 2021 13:42:42 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
         <item>
@@ -433,24 +433,6 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Zigzag 2020 - week-end #1]]></title>
-            <link>https://festivalzigzag.fr/stories/zigzag-2020-week-end-1</link>
-            <guid>https://festivalzigzag.fr/stories/zigzag-2020-week-end-1</guid>
-            <pubDate>Mon, 19 Jan 1970 13:00:58 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="un-premier-week-end-en-zigzag">Un premier week-end en Zigzag</h2>
-<p>Zigzag - festival d&#39;architecture et des arts de l&#39;espace, ce sont 30 événements d&#39;Achères à Deauville le long de la vallée de la Seine jusqu&#39;au 18 octobre, en passant par la Ville de Rouen à la Maison de l&#39;architecture de Normandie - le Forum pour l&#39;exposition : <strong>Utopie fluviale</strong>.</p>
-<p>Cette exposition, réalisée par le collectif <strong>Dans le Sens de Barge</strong>, est l&#39;occasion de présenter l&#39;état d&#39;avancée du projet fluvio-maritime BARGE réalisé par l&#39;architecte Pierre Delion et de montrer les propositions élaborées par les étudiants en design et en architecture de l&#39;<strong>ENSCI - Les Ateliers</strong> et de l’<strong>ENSA Normandie</strong>, autour des futures escales des embarcations, à découvrir jusqu&#39;au 30 octobre !</p>
-<p><strong>Autour de l&#39;exposition :</strong></p>
-<ul>
-<li>venez découvrir le module SHEDART, conçu et réalisé en 2017 par les étudiants en architecture de l’ENSA-Normandie, sur les quais de Seine, rive droite face au 108</li>
-<li>inscrivez-vous pour la rencontre avec le collectif et leurs invités le 9 octobre à 18h : <a href="https://festivalzigzag.fr/events/le-silence-des-coquilles">Le silence des coquilles</a></li>
-</ul>
-<p>Samedi 3 octobre, pour le 1er jour du festival, on a pris de la hauteur à <strong>Grand Quevilly</strong> pour des visites accompagnées de comédiennes. Des lectures insolites pour découvrir la ville autrement par des personnages et des témoignages. Son industrie, son bourg, ses tours, ses arbres et ses nouveaux quartiers d’habitation … Grand Quevilly nous a livré presque tous ses secrets ! En partenariat avec <strong>Quevilly Habitat</strong>. Puis direction <strong>Quillebeuf-sur-Seine</strong> pour une lecture paysagère de la vallée de la Seine avec Boris Menguy, paysagiste-urbaniste du <strong>CAUE 76</strong>.  </p>
-<p>Dimanche 4 octobre, l’équipe de la Maison de l&#39;architecture de Normandie - le Forum vous a donné rendez-vous pour un parcours du patrimoine de la reconstruction à <strong>Rives-en-Seine</strong>, la visite de <strong>la Friche Lucien</strong> à <strong>Rouen</strong> pour son dernier jour d’ouverture 2020, à <strong>Moulineaux</strong> pour découvrir les paysages stratégiques du site de Robert le Diable et à <strong>Goustranville</strong>, dans le Calvados, pour la visite exceptionnelle du campus équin international.</p>
-<p><em>Les événements &quot;Le Regards de [Travers]&quot; et &quot;Grand Quevilly à vélo&quot;, organisés par la ville de Grand Quevilly, ont été malheureusement annulés suite aux nouvelles mesures sanitaires du gouvernement.</em></p>
-]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Zigzag 2020 - week-end #2]]></title>
             <link>https://festivalzigzag.fr/stories/zigzag-2020-week-end-2</link>
             <guid>https://festivalzigzag.fr/stories/zigzag-2020-week-end-2</guid>
@@ -466,6 +448,24 @@
 <li>Prochain rendez-vous GENiUS 2020 : <strong>jeudi 15 octobre, 18h30 au Hangar Zéro</strong> Projection du film de Laure Delamotte-Legrand sur les RIM, suivie d’une rencontre sur le thème des démarches expérimentales en architecture, urbanisme, chorégraphie et dynamiques sociales au Havre.</li>
 </ul>
 <p>Dimanche, la dernière visite du week-end nous faisait découvrir une énigme de la reconstruction au Havre, proposée et animée par le <strong>CAUE 76, Boris Menguy</strong>, paysagiste-urbaniste. Que cache la Halle aux poissons ? Ce bâtiment régulier ne laisse rien percevoir, rien deviner de sa fonction, mais soulève de nombreuses interrogations. Située sur la presqu’île Saint-François, la Halle aux poissons demeure un lieu emblématique du quartier depuis le milieu du XXème siècle. Il se distingue du reste du paysage architectural par son toit terrasse ; un mystère à percer pour les curieux ! A l’occasion de cette visite, découverte des <strong>lauréats de l’appel à projets « Réinventer Le Havre »</strong> et ce qu&#39;ils ont imaginé pour tirer parti du bâtiment et de sa situation avantageuse.</p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Zigzag 2020 - week-end #1]]></title>
+            <link>https://festivalzigzag.fr/stories/zigzag-2020-week-end-1</link>
+            <guid>https://festivalzigzag.fr/stories/zigzag-2020-week-end-1</guid>
+            <pubDate>Mon, 19 Jan 1970 13:00:58 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="un-premier-week-end-en-zigzag">Un premier week-end en Zigzag</h2>
+<p>Zigzag - festival d&#39;architecture et des arts de l&#39;espace, ce sont 30 événements d&#39;Achères à Deauville le long de la vallée de la Seine jusqu&#39;au 18 octobre, en passant par la Ville de Rouen à la Maison de l&#39;architecture de Normandie - le Forum pour l&#39;exposition : <strong>Utopie fluviale</strong>.</p>
+<p>Cette exposition, réalisée par le collectif <strong>Dans le Sens de Barge</strong>, est l&#39;occasion de présenter l&#39;état d&#39;avancée du projet fluvio-maritime BARGE réalisé par l&#39;architecte Pierre Delion et de montrer les propositions élaborées par les étudiants en design et en architecture de l&#39;<strong>ENSCI - Les Ateliers</strong> et de l’<strong>ENSA Normandie</strong>, autour des futures escales des embarcations, à découvrir jusqu&#39;au 30 octobre !</p>
+<p><strong>Autour de l&#39;exposition :</strong></p>
+<ul>
+<li>venez découvrir le module SHEDART, conçu et réalisé en 2017 par les étudiants en architecture de l’ENSA-Normandie, sur les quais de Seine, rive droite face au 108</li>
+<li>inscrivez-vous pour la rencontre avec le collectif et leurs invités le 9 octobre à 18h : <a href="https://festivalzigzag.fr/events/le-silence-des-coquilles">Le silence des coquilles</a></li>
+</ul>
+<p>Samedi 3 octobre, pour le 1er jour du festival, on a pris de la hauteur à <strong>Grand Quevilly</strong> pour des visites accompagnées de comédiennes. Des lectures insolites pour découvrir la ville autrement par des personnages et des témoignages. Son industrie, son bourg, ses tours, ses arbres et ses nouveaux quartiers d’habitation … Grand Quevilly nous a livré presque tous ses secrets ! En partenariat avec <strong>Quevilly Habitat</strong>. Puis direction <strong>Quillebeuf-sur-Seine</strong> pour une lecture paysagère de la vallée de la Seine avec Boris Menguy, paysagiste-urbaniste du <strong>CAUE 76</strong>.  </p>
+<p>Dimanche 4 octobre, l’équipe de la Maison de l&#39;architecture de Normandie - le Forum vous a donné rendez-vous pour un parcours du patrimoine de la reconstruction à <strong>Rives-en-Seine</strong>, la visite de <strong>la Friche Lucien</strong> à <strong>Rouen</strong> pour son dernier jour d’ouverture 2020, à <strong>Moulineaux</strong> pour découvrir les paysages stratégiques du site de Robert le Diable et à <strong>Goustranville</strong>, dans le Calvados, pour la visite exceptionnelle du campus équin international.</p>
+<p><em>Les événements &quot;Le Regards de [Travers]&quot; et &quot;Grand Quevilly à vélo&quot;, organisés par la ville de Grand Quevilly, ont été malheureusement annulés suite aux nouvelles mesures sanitaires du gouvernement.</em></p>
 ]]></content:encoded>
         </item>
         <item>
@@ -526,16 +526,10 @@
             <guid>https://festivalzigzag.fr/stories/zigzag-2021-week-end-1-suite</guid>
             <pubDate>Mon, 19 Jan 1970 21:35:20 GMT</pubDate>
             <content:encoded><![CDATA[<h2 id="zigzag---1er-week-end">ZIGZAG - 1er WEEK-END</h2>
-<p>Vendredi soir, on a lancé le festival en compagnie des partenaires Zigzag 2021 ; on a découvert les expositions sur les paysages de la Seine avec l&#39;<strong>Ecole nationale supérieure de paysage</strong> et l&#39;<strong>AURH</strong> au Forum ; on a visité l&#39;exposition La Massage avec <strong>La loge des auteurs photographes</strong> rue Victor Hugo à Ville de Rouen dans le cadre d&#39;EOP.</p>
-<ul>
-<li>Les expositions : <a href="https://festivalzigzag.fr/events/les-paysages-de-la-seine">Les paysages de la Seine</a></li>
-<li>Le projet EOP : <a href="http://man-leforum.fr/maison-de-l-architecture/projets-hors-les-murs/eop/">EOP - Espaces d&#39;Œuvres Photographiques</a></li>
-</ul>
-<p>Samedi, on a fait la fête à roulettes avec <strong>Les Gens des Lieux</strong> pour inaugurer GENiUS 2021 au Havre ; on est passé à l&#39;action à <strong>La Manufacture des Capucins</strong> à Vernon ; on a visité le chantier de la maison du <strong>Parc naturel régional des Boucles de la Seine Normande</strong> ; on a compris le rôle d&#39;un écoquartier en milieu rural avec <strong>Guénolé Le Moaligou</strong> ; on a respiré au parc du Champ des Bruyères avec la <strong>Métropole Rouen Normandie</strong> et l&#39;<strong>Atelier Philippe Madec</strong>.</p>
-<ul>
-<li>Le projet <a href="https://festivalzigzag.fr/events/genius-2021-ca-roule">GENiUS 2021 : ça roule !</a></li>
-</ul>
-<p>Et dimanche… </p>
+<p>Et dimanche, on s&#39;est baladé à Freneuse avec le <strong>CAUE de la Seine-Maritime</strong> ; on a découvert les photos de <strong>Christel Jeanne</strong> à Bois-Guillaume dans le cadre d&#39;EOP ; on a visité l&#39;ancienne <strong>usine Desgenétais</strong> à Bolbec et le renouveau de ce quartier ; on s&#39;est laissé guidé par le <strong>Pays d&#39;art et d&#39;histoire de la CU Le Havre Seine Métropole</strong> dans le quartier de l&#39;Eure.</p>
+<p>Merci à tous pour ces belles journées Zigzag et rendez-vous dès mercredi pour la suite des événements : <a href="https://festivalzigzag.fr/agenda">festivalzigzag.fr</a></p>
+<p><strong><em>#zigzagfestivalarchitecture</em></strong> est porté par la <a href="http://man-leforum.fr/maison-de-l-architecture/">Maison de l&#39;architecture de Normandie - le Forum</a></p>
+<p><strong><em>#touspourlarchi</em></strong></p>
 ]]></content:encoded>
         </item>
         <item>
