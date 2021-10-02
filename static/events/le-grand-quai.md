@@ -5,7 +5,7 @@ categories:
 featured: false
 cover:
   src: "/files/le-grand-quai-le-havre.jpg"
-  alt: ''
+  alt: Annulé
   legend: "© Zigzag 2020"
 booking:
   state: ''
