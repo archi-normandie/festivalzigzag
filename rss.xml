@@ -4,7 +4,7 @@
         <title></title>
         <link>https://festivalzigzag.fr/rss.xml</link>
         <description>Journal du Festival Zigzag</description>
-        <lastBuildDate>Mon, 04 Oct 2021 10:13:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Oct 2021 10:16:28 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
         <item>
@@ -186,32 +186,6 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Zigzag 2019 - Parcours urbain à Elbeuf-sur-Seine]]></title>
-            <link>https://festivalzigzag.fr/stories/parcours-urbain-a-elbeuf-sur-seine</link>
-            <guid>https://festivalzigzag.fr/stories/parcours-urbain-a-elbeuf-sur-seine</guid>
-            <pubDate>Mon, 19 Jan 1970 06:16:34 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="cueillir-la-ville-de-la-seine-à-la-forêt">CUEILLIR LA VILLE, DE LA SEINE À LA FORÊT</h2>
-<p>Cette déambulation propose de découvrir la ville d’Elbeuf par le prisme de son paysage et de la relation étroite qu’elle entretien avec son fleuve. Le temps long de la géologie est important pour comprendre Elbeuf, sa relation à la Seine, à sa vallée et aux forêts. La déambulation explore le temps, les éléments, le sensible du quotidien. Quelle relation à sa ville ? </p>
-<p>Les participants sont invités à cueillir la ville et se saisir ainsi de ce qui fait le paysage d’Elbeuf : des fragments, des extraits, des petits bouts de choses, de souvenirs qui une fois assemblés collectivement forment un tableau : un récit de la ville d’Elbeuf.</p>
-<p>Avec La Fabrique des Savoirs, la MJC d’Elbeuf et la Locomotive, Mathilde Métral et Pauline Broquin, paysagistes.</p>
-<h3 id="les-parcours---balades---explorations">LES PARCOURS - BALADES - EXPLORATIONS</h3>
-<p><strong>Ce qui est en jeu lors des parcours :</strong></p>
-<p>Questionner le rapport au territoire, au patrimoine, à sa mémoire, relier le contexte géographique, l’activité économique, les moyens de transport.</p>
-<p>Proposer une lecture des éléments construits et naturels, et les mettre en relation.</p>
-<p><strong>Les thèmes soulevés :</strong></p>
-<ul>
-<li>Comment conjuguer habitat et présence de l’eau ?</li>
-<li>Comment habiter et préserver ?</li>
-<li>Quelle relation port et ville ?</li>
-<li>Quelle dynamique de territoire dans une vallée ?</li>
-</ul>
-<p><strong>Ce qui a été mis en avant :</strong></p>
-<p>Découverte de la cohabitation fragile du bâti et des espaces naturels, des espaces de rétention, des efforts réalisés pour la biodiversité.</p>
-<p>Des paysages culturels évolutifs vivants ...</p>
-<p>Mise en valeur de quartiers en mutations profondes.</p>
-]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Zigzag 2019 - Parcours urbain à Grand Quevilly]]></title>
             <link>https://festivalzigzag.fr/stories/parcours-urbain-a-grand-quevilly</link>
             <guid>https://festivalzigzag.fr/stories/parcours-urbain-a-grand-quevilly</guid>
@@ -244,6 +218,32 @@
 <h3 id="parole-de-christine-boisseau">Parole de Christine Boisseau</h3>
 <p><em>Chargée de mission - Urbaniste - CAUE 27</em></p>
 <p>« La balade était intéressante, le format artistique a permis de bien susciter l’échange entre les participants. Nous étions peu nombreux, mais finalement pour la cohésion du groupe c’était intéressant. Le fait que nous transportions un gros objet a suscité de la curiosité auprès des gens rencontrés. La balade à pied, avec la lenteur que cela implique, a bien fait sentir le lien un peu complexe que ce territoire a avec la Seine. »</p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Zigzag 2019 - Parcours urbain à Elbeuf-sur-Seine]]></title>
+            <link>https://festivalzigzag.fr/stories/parcours-urbain-a-elbeuf-sur-seine</link>
+            <guid>https://festivalzigzag.fr/stories/parcours-urbain-a-elbeuf-sur-seine</guid>
+            <pubDate>Mon, 19 Jan 1970 06:16:34 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="cueillir-la-ville-de-la-seine-à-la-forêt">CUEILLIR LA VILLE, DE LA SEINE À LA FORÊT</h2>
+<p>Cette déambulation propose de découvrir la ville d’Elbeuf par le prisme de son paysage et de la relation étroite qu’elle entretien avec son fleuve. Le temps long de la géologie est important pour comprendre Elbeuf, sa relation à la Seine, à sa vallée et aux forêts. La déambulation explore le temps, les éléments, le sensible du quotidien. Quelle relation à sa ville ? </p>
+<p>Les participants sont invités à cueillir la ville et se saisir ainsi de ce qui fait le paysage d’Elbeuf : des fragments, des extraits, des petits bouts de choses, de souvenirs qui une fois assemblés collectivement forment un tableau : un récit de la ville d’Elbeuf.</p>
+<p>Avec La Fabrique des Savoirs, la MJC d’Elbeuf et la Locomotive, Mathilde Métral et Pauline Broquin, paysagistes.</p>
+<h3 id="les-parcours---balades---explorations">LES PARCOURS - BALADES - EXPLORATIONS</h3>
+<p><strong>Ce qui est en jeu lors des parcours :</strong></p>
+<p>Questionner le rapport au territoire, au patrimoine, à sa mémoire, relier le contexte géographique, l’activité économique, les moyens de transport.</p>
+<p>Proposer une lecture des éléments construits et naturels, et les mettre en relation.</p>
+<p><strong>Les thèmes soulevés :</strong></p>
+<ul>
+<li>Comment conjuguer habitat et présence de l’eau ?</li>
+<li>Comment habiter et préserver ?</li>
+<li>Quelle relation port et ville ?</li>
+<li>Quelle dynamique de territoire dans une vallée ?</li>
+</ul>
+<p><strong>Ce qui a été mis en avant :</strong></p>
+<p>Découverte de la cohabitation fragile du bâti et des espaces naturels, des espaces de rétention, des efforts réalisés pour la biodiversité.</p>
+<p>Des paysages culturels évolutifs vivants ...</p>
+<p>Mise en valeur de quartiers en mutations profondes.</p>
 ]]></content:encoded>
         </item>
         <item>
@@ -366,6 +366,22 @@
 ]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Zigzag 2020 - J-1]]></title>
+            <link>https://festivalzigzag.fr/stories/zigzag-2020-j-1</link>
+            <guid>https://festivalzigzag.fr/stories/zigzag-2020-j-1</guid>
+            <pubDate>Mon, 19 Jan 1970 12:53:46 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="ouverture-du-festival-le-samedi-3-octobre-">OUVERTURE DU FESTIVAL LE SAMEDI 3 OCTOBRE !</h2>
+<p>La Maison de l&#39;architecture de Normandie - le Forum rouvre ses portes ce samedi 3 octobre pour l&#39;exposition <strong>&quot;Utopie fluviale&quot;</strong> dans le cadre du festival d&#39;architecture Zigzag :</p>
+<p>Le collectif d’artistes et d’architectes <strong>Dans le Sens de Barge</strong> offre un cycle de programmation artistique (résidences, workshops, expositions, ateliers et fêtes) favorisant le lien social et culturel sur la Seine. A l’occasion du festival Zigzag 2020, le collectif propose “Utopie Fluviale” : un retour sur la génèse du projet, sa raison d&#39;être artistique puisée au sein du fleuve, de l’eau, de l’inertie, des traversées. Cette exposition sera l&#39;occasion de présenter l&#39;état d&#39;avancée du projet fluvio-maritime BARGE réalisé par l&#39;architecte Pierre Delion et de montrer les propositions élaborées par les étudiants en design et en architecture de l&#39;<strong>ENSCI - Les Ateliers</strong> et de l’<strong>ENSA Normandie</strong>, autour des futures escales des embarcations.</p>
+<ul>
+<li>Accès libre du 3 au 30 octobre au 48 rue Victor Hugo à Rouen</li>
+<li>Rencontre avec le collectif le 9 octobre à 18h : <a href="https://festivalzigzag.fr/events/le-silence-des-coquilles">LE SILENCE DES COQUILLES</a></li>
+</ul>
+<p>Ce week-end, retrouvez le festival Zigzag le long de la Seine pour des parcours et visites à Grand Quevilly, Quillebeuf-sur-Seine, Rives-en-Seine, Rouen, Moulineaux et Goustranville.</p>
+<p><strong>#zigzagfestivalarchitecture</strong></p>
+]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Zigzag 2020 - exposition ]]></title>
             <link>https://festivalzigzag.fr/stories/zigzag-2020-exposition</link>
             <guid>https://festivalzigzag.fr/stories/zigzag-2020-exposition</guid>
@@ -382,22 +398,6 @@
 <li>du mardi au vendredi : 14h - 18h // le samedi : 10h30 - 12h30 / 14h - 18h</li>
 <li>le Forum - Maison de l&#39;architecture de Normandie | 48 rue Victor Hugo, 76000 Rouen</li>
 </ul>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Zigzag 2020 - J-1]]></title>
-            <link>https://festivalzigzag.fr/stories/zigzag-2020-j-1</link>
-            <guid>https://festivalzigzag.fr/stories/zigzag-2020-j-1</guid>
-            <pubDate>Mon, 19 Jan 1970 12:53:46 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="ouverture-du-festival-le-samedi-3-octobre-">OUVERTURE DU FESTIVAL LE SAMEDI 3 OCTOBRE !</h2>
-<p>La Maison de l&#39;architecture de Normandie - le Forum rouvre ses portes ce samedi 3 octobre pour l&#39;exposition <strong>&quot;Utopie fluviale&quot;</strong> dans le cadre du festival d&#39;architecture Zigzag :</p>
-<p>Le collectif d’artistes et d’architectes <strong>Dans le Sens de Barge</strong> offre un cycle de programmation artistique (résidences, workshops, expositions, ateliers et fêtes) favorisant le lien social et culturel sur la Seine. A l’occasion du festival Zigzag 2020, le collectif propose “Utopie Fluviale” : un retour sur la génèse du projet, sa raison d&#39;être artistique puisée au sein du fleuve, de l’eau, de l’inertie, des traversées. Cette exposition sera l&#39;occasion de présenter l&#39;état d&#39;avancée du projet fluvio-maritime BARGE réalisé par l&#39;architecte Pierre Delion et de montrer les propositions élaborées par les étudiants en design et en architecture de l&#39;<strong>ENSCI - Les Ateliers</strong> et de l’<strong>ENSA Normandie</strong>, autour des futures escales des embarcations.</p>
-<ul>
-<li>Accès libre du 3 au 30 octobre au 48 rue Victor Hugo à Rouen</li>
-<li>Rencontre avec le collectif le 9 octobre à 18h : <a href="https://festivalzigzag.fr/events/le-silence-des-coquilles">LE SILENCE DES COQUILLES</a></li>
-</ul>
-<p>Ce week-end, retrouvez le festival Zigzag le long de la Seine pour des parcours et visites à Grand Quevilly, Quillebeuf-sur-Seine, Rives-en-Seine, Rouen, Moulineaux et Goustranville.</p>
-<p><strong>#zigzagfestivalarchitecture</strong></p>
 ]]></content:encoded>
         </item>
         <item>
