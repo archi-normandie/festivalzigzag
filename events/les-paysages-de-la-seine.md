@@ -30,6 +30,10 @@ Le temps du festival, le Forum présente deux expositions consacrées aux paysag
 
 **La caravane des paysages** questionne sur les aléas liés au changement climatique, invite à penser l’adaptation des territoires et leurs évolutions possibles à long terme. Sous la forme d’un immense poster, différentes scénettes représentent la vallée de la Seine que chacun peut s’approprier et réagir.
 
+_La Caravane des paysages a sillonné le territoire de la vallée de la Seine, ses plateaux, ses vallées secondaires et son littoral, du 12 au 23 avril 2021 :_
+
+* _Découvrez la vidéo :_ [_La Caravane des paysages – Regards croisés_](https://www.youtube.com/watch?v=EtrN9oFfHl8)
+
 **De l’autre côté de l’autre 355km de Seine** retranscrit les travaux d’une quinzaine d‘étudiants de différents établissements d’enseignement supérieur de la vallée et de la baie de la Seine, sur le paysage de la Seine de Paris au Havre. Ces travaux appréhendent le paysage comme un outil de développement et de renfort de l’attrait touristique de la Seine et de la mer. Ils portent un regard sur les problématiques de mobilités fluviales et maritimes tant à l’échelle locale qu’à l’échelle d’un grand territoire. Ils sont accompagnés de présentations de la flore et du paysage des coteaux.
 
 Conçus par l’Agence d’Urbanisme Le Havre - Estuaire de la Seine (AURH) et l’École natio­nale supérieure de paysage de Versailles (ENSP).
