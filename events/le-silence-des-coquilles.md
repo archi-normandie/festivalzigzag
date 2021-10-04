@@ -24,19 +24,29 @@ informations:
 gallery: []
 
 ---
-La prouesse des sédiments c'est de réunir des artistes et des travailleurs de l'estuaire la Seine autour de leur présence à la fois géologique et urbaine. Ils font l’objet de recherches et d’études, véritables enjeux de fonctionnement des ports et de valorisation tant économique qu’environnementale.
+Le Havre Port Center propose une journée portes ouvertes le samedi 9 octobre de 10 h à 18 h. Celle-ci s’inscrit dans la programmation de l’exposition « A l’origine des sables ». Démonstration, ateliers participatifs, animations, conférence et approches artistiques seront à l’ordre du jour dont la thématique traite des sédiments de dragage et des différents types de valorisation.
 
-Découvrez au Port Center « Le Silence des coquilles », une création à la fois scientifique et artistique, produite par le collectif Dans le Sens de Barge et portée par le duo d'artistes Julia Borderie & Eloïse Le Gallo. Cette exploration au fil de l'eau des sous-sols du bassin de la Seine, façonnés par la sédimentation de la vie animale de l’ancienne mer est menée en lien avec des spécialistes, archéologue, paysagiste, géologue... et les travailleurs du fleuve.
+* __A 10h : Une démonstration en direct de la drague Gambe d’Amfard*__
 
-* **À 10h :** démonstration de la drague Gambe d’Amfard : mise en lumière et explications de son fonctionnement et son rôle par des professionnels
+Afin de permettre aux publics de comprendre le fonctionnement d’une drague et vivre une vraie expérience en direct, le Service Dragage d’HAROPA-Port stationnera la drague « Gambe d’Amfard » dans le Bassin de la Manche devant le LH Port Center. Son fonctionnement pourra être explicité par des membres de l’équipe de dragage pendant une séance d’opération de 20 à 40 minutes. _*Démonstration susceptible d’être annulée en fonction de la météo ou des urgences en lien avec les opérations portuaires._
 
+* **A 11h : Conférence sur la valorisation artistique et environnementale des sédiments**
 
-* **À 11h :** projection du film film _Eaux Noires / eaux grises / eaux blanches_ qui nous fait vivre, l’espace de 20 minutes, au rythme de l’équipage de la drague Jean Ango, un navire qui extrait la vase, dans l’estuaire de la Seine. Son anatomie complexe opère une action perpétuelle : la drague creuse le lit de la rivière afin de récupérer les sédiments et de les jeter plus loin, dans les profondeurs de la Manche*
+Une conférence à quatre voix permettra aux artistes Julia BORDERIE & Eloïse LE GALLO d’expliquer leur approche artistique dans la réalisation du film « Eaux noires, eaux grises, eaux blanches », projeté au LH Port Center du 25 septembre au 10 octobre. Ce film valorise les sédiments en les mettant en tête d’affiche.
 
+En parallèle, Sandrine SAMSON, Directrice du Projet transition Ecologique à HAROPA-Port et Hervé HOUIS, Chef du Service dragage à HAROPA-Port du Havre expliqueront les enjeux et applications de la valorisation des sédiments dans les ports d’HAROPA.
 
-* **À 11h20 :** table-ronde et échanges entre artistes, professionnels, usagers, porteurs de projets et le public présent
+* **Suivez également cette matinée en ligne :**  [www.beekast.live/a8yu](http://www.beekast.live/a8yu)
 
-_*Le film Eaux Noires / eaux grises / eaux blanches sera visible tous les weekends à partir du 25 septembre pendant le festival ZIGZAG_
+Connectez-vous dès 10h40 sur la plateforme Beekast avec laquelle nous retransmettrons les évènements suivants :
+
+**A 10h40 : Les courts-métrages.** Nous vous proposons une série de vidéos afin de mieux comprendre, le dragage, ses enjeux, son importance et ses métiers :
+
+* « Les sédiments, une ressource durable au cœur d’une économie circulaire » réalisé par Voie Navigable de France.
+* « Dragage et gestion des sédiments : défis et enjeux », réalisé par Crea Nostra pour HAROPA – Port de Rouen
+* « Dragueur » réalisé par les élèves de 3è du Collège de la Hève de Saint-Adresse avec la bienveillance de Jean-Marie Chatelier, dans le cadre de _Parcours métiers – Je filme le métier qui me plait,_ édition 2019. Le film a été primé à cette occasion.
+
+**A 11h : Conférence sur la valorisation artistique et environnementale des sédiments**
 
 **Intervenants :** Julia Borderie & Eloïse Le Gallo, artistes, Hervé Houis, chef du service accès et environnement maritime en charge du projet SEDIBRIC, Sandrine Samson, directrice du projet transition écologique chez HAROPA
 
