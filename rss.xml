@@ -4,7 +4,7 @@
         <title></title>
         <link>https://festivalzigzag.fr/rss.xml</link>
         <description>Journal du Festival Zigzag</description>
-        <lastBuildDate>Mon, 04 Oct 2021 08:11:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Oct 2021 08:13:09 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
         <item>
@@ -337,25 +337,6 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Zigzag 2020 - exposition ]]></title>
-            <link>https://festivalzigzag.fr/stories/zigzag-2020-exposition</link>
-            <guid>https://festivalzigzag.fr/stories/zigzag-2020-exposition</guid>
-            <pubDate>Mon, 19 Jan 1970 13:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="lexposition-utopie-fluviale-au-forum-jusquau-30-octobre">L&#39;EXPOSITION UTOPIE FLUVIALE AU FORUM JUSQU&#39;AU 30 OCTOBRE</h2>
-<p>Le collectif d’artistes et d’architectes <strong>&quot;Dans le Sens de Barge&quot;</strong> offre un cycle de programmation artistique (résidences, workshops, expositions, ateliers et fêtes) favorisant le lien social et culturel sur la Seine. A l’occasion du <strong>festival Zigzag 2020</strong>, le collectif propose <strong>“Utopie Fluviale”</strong> : un retour sur la génèse du projet, sa raison d&#39;être artistique puisée au sein du fleuve, de l’eau, de l’inertie, des traversées. Cette exposition sera l&#39;occasion de présenter l&#39;état d&#39;avancée du projet fluvio-maritime <strong>BARGE</strong> réalisé par l&#39;architecte Pierre Delion et de montrer les propositions élaborées par les étudiants en design et en architecture de l&#39;<strong>ENSCI - Les Ateliers et de l’ENSA-Normandie</strong>, autour des futures escales des embarcations.</p>
-<p><strong>Lors d’une rencontre le 9 octobre dernier</strong>, DSB avec le duo d’artistes Eloise Le Gallo &amp; Julia Borderie et les scientifiques impliqués, ont présenté leur réflexion commune sur le paysage séquanien façonné par les mouvements des couches sédimentaires et ses déplacements de terre que ce soit par l’action hydraulique, animale, ou encore humaine. Cet évènement a amorcé le projet artistique 2020-2022 : <strong>Le Silence des Coquilles</strong>.</p>
-<p><strong>Liste des partenaires :</strong> La Maison de l&#39;architecture de Normandie - le Forum, ENSCI - Les Ateliers, ENSA-Normandie, DRAC Ile-de-France, DRAC Normandie, Département de Seine-Maritime (sous réserve de financement), HAROPA, Parc naturel régional des Boucles de la Seine Normande, Caux-Seine Agglo.</p>
-<p><strong>Pour en savoir plus :</strong> <a href="https://barge.mobi/author/jameshbarge/"><strong>Barge</strong></a></p>
-<p>L&#39;exposition s&#39;inscrit dans la programmation de <strong>Zigzag - festival d&#39;architecture et des arts de l&#39;espace</strong> qui a eu lieu du 3 au 18 octobre 2020 le long de la vallée de la Seine.</p>
-<ul>
-<li>entrée libre et gratuite</li>
-<li>accueil des groupes sur rendez-vous : 02 35 03 40 31</li>
-<li>du mardi au vendredi : 14h - 18h // le samedi : 10h30 - 12h30 / 14h - 18h</li>
-<li>le Forum - Maison de l&#39;architecture de Normandie | 48 rue Victor Hugo, 76000 Rouen</li>
-</ul>
-]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Zigzag 2020 - du 3 au 18 octobre]]></title>
             <link>https://festivalzigzag.fr/stories/zigzag-2020-du-3-au-18-octobre</link>
             <guid>https://festivalzigzag.fr/stories/zigzag-2020-du-3-au-18-octobre</guid>
@@ -381,6 +362,25 @@
 <li>Saint-Arnoult, 76</li>
 <li>Val-de-Reuil, 27</li>
 <li>Vernon, 27</li>
+</ul>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Zigzag 2020 - exposition ]]></title>
+            <link>https://festivalzigzag.fr/stories/zigzag-2020-exposition</link>
+            <guid>https://festivalzigzag.fr/stories/zigzag-2020-exposition</guid>
+            <pubDate>Mon, 19 Jan 1970 13:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="lexposition-utopie-fluviale-au-forum-jusquau-30-octobre">L&#39;EXPOSITION UTOPIE FLUVIALE AU FORUM JUSQU&#39;AU 30 OCTOBRE</h2>
+<p>Le collectif d’artistes et d’architectes <strong>&quot;Dans le Sens de Barge&quot;</strong> offre un cycle de programmation artistique (résidences, workshops, expositions, ateliers et fêtes) favorisant le lien social et culturel sur la Seine. A l’occasion du <strong>festival Zigzag 2020</strong>, le collectif propose <strong>“Utopie Fluviale”</strong> : un retour sur la génèse du projet, sa raison d&#39;être artistique puisée au sein du fleuve, de l’eau, de l’inertie, des traversées. Cette exposition sera l&#39;occasion de présenter l&#39;état d&#39;avancée du projet fluvio-maritime <strong>BARGE</strong> réalisé par l&#39;architecte Pierre Delion et de montrer les propositions élaborées par les étudiants en design et en architecture de l&#39;<strong>ENSCI - Les Ateliers et de l’ENSA-Normandie</strong>, autour des futures escales des embarcations.</p>
+<p><strong>Lors d’une rencontre le 9 octobre dernier</strong>, DSB avec le duo d’artistes Eloise Le Gallo &amp; Julia Borderie et les scientifiques impliqués, ont présenté leur réflexion commune sur le paysage séquanien façonné par les mouvements des couches sédimentaires et ses déplacements de terre que ce soit par l’action hydraulique, animale, ou encore humaine. Cet évènement a amorcé le projet artistique 2020-2022 : <strong>Le Silence des Coquilles</strong>.</p>
+<p><strong>Liste des partenaires :</strong> La Maison de l&#39;architecture de Normandie - le Forum, ENSCI - Les Ateliers, ENSA-Normandie, DRAC Ile-de-France, DRAC Normandie, Département de Seine-Maritime (sous réserve de financement), HAROPA, Parc naturel régional des Boucles de la Seine Normande, Caux-Seine Agglo.</p>
+<p><strong>Pour en savoir plus :</strong> <a href="https://barge.mobi/author/jameshbarge/"><strong>Barge</strong></a></p>
+<p>L&#39;exposition s&#39;inscrit dans la programmation de <strong>Zigzag - festival d&#39;architecture et des arts de l&#39;espace</strong> qui a eu lieu du 3 au 18 octobre 2020 le long de la vallée de la Seine.</p>
+<ul>
+<li>entrée libre et gratuite</li>
+<li>accueil des groupes sur rendez-vous : 02 35 03 40 31</li>
+<li>du mardi au vendredi : 14h - 18h // le samedi : 10h30 - 12h30 / 14h - 18h</li>
+<li>le Forum - Maison de l&#39;architecture de Normandie | 48 rue Victor Hugo, 76000 Rouen</li>
 </ul>
 ]]></content:encoded>
         </item>
