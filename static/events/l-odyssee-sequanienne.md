@@ -39,4 +39,4 @@ Une conférence montée par l’École nationale supérieure de paysage et l’a
 
 **Intervenants :** Joséphine Billey et Agnès Jacquin de l’École nationale supérieure de paysage de Versailles
 
-**Renseignements :** Agnès Jacquin 01 39 24 62 25 
+**Renseignements :** Agnès Jacquin 01 39 24 62 25
