@@ -36,7 +36,7 @@ _En collaboration avec Quevilly Habitat et la ville de Grand Quevilly._
 
 **Réservations - sélectionnez un créneau :**
 
-* **11h30 :** [réserver](https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/vues-de-haut-hotel-de-ville-11h30)
-* **14h00 :** [réserver](https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/vues-de-haut-hotel-de-ville-14h)
+* **11h30 :** [réserver](https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/vues-de-haut-hotel-de-ville-11h30) - complet 
+* **14h00 :** [réserver](https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/vues-de-haut-hotel-de-ville-14h) - complet 
 * **15h30 :** [réserver](https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/vues-de-haut-hotel-de-ville-15h30)
-* **17h00 :** [réserver](https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/vues-de-haut-hotel-de-ville-17h)
+* **17h00 :** [réserver](https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/vues-de-haut-hotel-de-ville-17h) 
