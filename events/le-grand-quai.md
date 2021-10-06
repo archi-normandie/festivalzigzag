@@ -5,10 +5,10 @@ categories:
 featured: false
 cover:
   src: "/files/le-grand-quai-le-havre.jpg"
-  alt: Annulé
+  alt: ''
   legend: "© Zigzag 2020"
 booking:
-  state: ''
+  state: Annulé
   period: ''
   dates:
   - date: 2021-10-02 14:30
