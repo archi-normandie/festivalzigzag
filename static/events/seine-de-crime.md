@@ -8,7 +8,7 @@ cover:
   alt: ''
   legend: "© Pole métropolitain Rouen Seine-Eure"
 booking:
-  state: ''
+  state: Reporté
   period: ''
   dates:
   - date: 2021-10-03 13:30
