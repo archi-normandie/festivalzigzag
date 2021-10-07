@@ -8,7 +8,7 @@ cover:
   alt: ''
   legend: ''
 booking:
-  state: ''
+  state: Complet
   period: ''
   dates:
   - date: 2021-10-10 10:30
