@@ -12,7 +12,7 @@ booking:
   period: ''
   dates:
   - date: 2021-09-26 11:00
-  link: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/eop-zoonose
+  link: ''
 address:
   place: Bois-Guillaume (76)
   lat: "49.48006"

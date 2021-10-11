@@ -12,7 +12,7 @@ booking:
   period: ''
   dates:
   - date: 2021-10-10 10:30
-  link: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/la-ferme-des-bruyeres
+  link: ''
 address:
   place: Saint-Étienne-du-Rouvray (76)
   lat: "49.4057341"

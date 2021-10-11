@@ -12,7 +12,7 @@ booking:
   period: ''
   dates:
   - date: 2021-10-02 10:00
-  link: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/cinema-multisalles-de-pont-audemer
+  link: ''
 address:
   place: Pont-Audemer (27)
   lat: "49.3511212"

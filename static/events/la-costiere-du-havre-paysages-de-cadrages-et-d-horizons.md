@@ -12,7 +12,7 @@ booking:
   period: ''
   dates:
   - date: 2021-10-09 10:00
-  link: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/la-costiere-du-havre-paysages-de-cadrages-et-d-horizons
+  link: ''
 address:
   place: Le Havre (76)
   lat: "49.4990472"

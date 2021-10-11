@@ -12,7 +12,7 @@ booking:
   period: ''
   dates:
   - date: 2021-10-10 10:00
-  link: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/deambulation-montivillionne
+  link: ''
 address:
   place: Montivilliers (76)
   lat: "49.5510838"
