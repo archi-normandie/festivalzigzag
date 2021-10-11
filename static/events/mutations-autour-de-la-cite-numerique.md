@@ -12,7 +12,7 @@ booking:
   period: ''
   dates:
   - date: 2021-10-03 15:00
-  link: https://reservations.activitour.fr/activity/visite-guidee-mutations-autour-de-la-cite-numerique
+  link: ''
 address:
   place: Le Havre (76)
   lat: "49.48768"

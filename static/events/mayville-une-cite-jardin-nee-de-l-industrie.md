@@ -12,7 +12,7 @@ booking:
   period: ''
   dates:
   - date: 2021-10-09 09:30
-  link: 'https://reservations.activitour.fr/activity/visite-guidee-mayville-une-cite-jardin-nee-de-l-industrie '
+  link: ''
 address:
   place: Gonfreville-l’Orcher (76)
   lat: "49.5071421"

@@ -14,7 +14,7 @@ booking:
   period: ''
   dates:
   - date: 2021-10-06 14:00
-  link: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/l-odyssee-sequanienne
+  link: ''
 address:
   place: Rouen (76)
   lat: "49.4397217"
