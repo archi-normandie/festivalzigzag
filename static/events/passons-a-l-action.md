@@ -35,18 +35,18 @@ Nous vous proposons de participer à cette renaissance et de passer à l’actio
 
 **TOUT EST REEMPLOI**
 
-* **10h-11h et 11h-12h** **:** visites commentées du chantier de la réinvention du Couvent de la Manufacture des Capucins sur les thématiques du réemploi, du tiers-patrimoine, de la transmission et de la maintenance. [**Réserver**](https://www.weezevent.com/visite-commentee-du-chantier-de-la-manufacture-des-capucins)
+* **10h-11h et 11h-12h** **:** visites commentées du chantier de la réinvention du Couvent de la Manufacture des Capucins sur les thématiques du réemploi, du tiers-patrimoine, de la transmission et de la maintenance.
 
-**BUFFET SOUS LES ARBRES** 
+**BUFFET SOUS LES ARBRES**
 
-* **12h30 :** pour les visiteurs de la journée Zigzag. [**Réserver**](https://www.weezevent.com/buffet-sous-les-arbres-pour-les-visiteurs-de-la-journee-zigzag)
+* **12h30 :** pour les visiteurs de la journée Zigzag. 
 
 **UN JARDIN DANS LA VILLE**
 
-* **14h-15h** **:** visite commentée et conversations autour du jardin et de son écosystème, biodiversité et agriculture urbaine. [**Réserver**](https://www.weezevent.com/visite-guidee-du-jardin-de-la-manufacture)
-* **15h30-17h30** **:** missions bénévoles au jardin. [**Réserver**](https://calendly.com/benevolat/jardin?month=2021-09)
+* **14h-15h** **:** visite commentée et conversations autour du jardin et de son écosystème, biodiversité et agriculture urbaine. 
+* **15h30-17h30** **:** missions bénévoles au jardin. 
 
-**TOUTE LA JOURNÉE :** Projection commentée du site en réalité augmentée au XVIIIème siècle. **Accès libre**
+**TOUTE LA JOURNÉE :** Projection commentée du site en réalité augmentée au XVIIIème siècle. 
 
 **Intervenants :** Magalie Tempez paysagiste et chargée de mission du Jardin de la Manufacture des Capucins ; Alexandre Révérend et Nicolas Deschamps, concepteurs et réalisateurs du Drône temporel, Agence de Tourisme Temporel Vernonnaise ; Thomas Roche, architecte chargé de la permanence architecturale et Etienne Lemoine co-fondateur et architecte de la Manufacture des Capucins, agence d’architecture MWAH
 
