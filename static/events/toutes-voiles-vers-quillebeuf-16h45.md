@@ -13,7 +13,7 @@ booking:
   period: ''
   dates:
   - date: 2021-09-29 16:45
-  link: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/toutes-voiles-vers-quillebeuf-16h45
+  link: ''
 address:
   place: Rives-en-Seine (76)
   lat: "49.5243844"

@@ -12,7 +12,7 @@ booking:
   period: ''
   dates:
   - date: 2021-09-25 14:30
-  link: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/retour-a-la-nature-pour-le-champ-des-bruyeres
+  link: ''
 address:
   place: Rouen (76)
   lat: "49.4091385"
