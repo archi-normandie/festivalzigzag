@@ -12,7 +12,7 @@ booking:
   period: ''
   dates:
   - date: 2021-10-10 10:30
-  link: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/balade-quevillaise
+  link: ''
 address:
   place: Grand Quevilly (76)
   lat: "49.4065425"

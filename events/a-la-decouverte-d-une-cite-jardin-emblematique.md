@@ -12,7 +12,7 @@ booking:
   period: ''
   dates:
   - date: 2021-10-01 16:00
-  link: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/a-la-decouverte-d-une-cite-jardin-emblematique
+  link: ''
 address:
   place: Port-Jérôme-sur-Seine (76)
   lat: "49.4939895"

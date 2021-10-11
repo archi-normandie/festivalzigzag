@@ -8,7 +8,7 @@ cover:
   alt: ''
   legend: "© Folius écopaysage"
 booking:
-  link: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/au-fil-de-la-risle
+  link: ''
   state: ''
   period: ''
   dates:
