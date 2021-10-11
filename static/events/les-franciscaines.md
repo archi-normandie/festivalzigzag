@@ -12,7 +12,7 @@ booking:
   period: ''
   dates:
   - date: 2021-10-03 11:00
-  link: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/les-franciscaines-1
+  link: ''
 address:
   place: Deauville (14)
   lat: "49.3544178"

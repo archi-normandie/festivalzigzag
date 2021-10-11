@@ -12,7 +12,7 @@ booking:
   period: ''
   dates:
   - date: 2021-10-02 14:30
-  link: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/le-grand-quai
+  link: ''
 address:
   place: Le Havre (76)
   lat: "49.4849699"

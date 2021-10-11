@@ -12,7 +12,7 @@ booking:
   period: ''
   dates:
   - date: 2021-10-09 14:00
-  link: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/le-retour-de-la-vigne-sur-les-coteaux-de-seine
+  link: ''
 address:
   place: La Chapelle-Longueville (27)
   lat: "49.1191888"
