@@ -36,8 +36,6 @@ Une conférence à quatre voix permettra aux artistes Julia BORDERIE & Eloïse L
 
 En parallèle, Sandrine SAMSON, Directrice du Projet transition Ecologique à HAROPA-Port et Hervé HOUIS, Chef du Service dragage à HAROPA-Port du Havre expliqueront les enjeux et applications de la valorisation des sédiments dans les ports d’HAROPA.
 
-* **Suivez également cette matinée en ligne :**  [www.beekast.live/a8yu](http://www.beekast.live/a8yu)
-
 Connectez-vous dès 10h40 sur la plateforme Beekast avec laquelle nous retransmettrons les évènements suivants :
 
 **A 10h40 : Les courts-métrages.** Nous vous proposons une série de vidéos afin de mieux comprendre, le dragage, ses enjeux, son importance et ses métiers :
