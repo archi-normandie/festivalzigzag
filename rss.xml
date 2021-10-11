@@ -4,24 +4,9 @@
         <title></title>
         <link>https://festivalzigzag.fr/rss.xml</link>
         <description>Journal du Festival Zigzag</description>
-        <lastBuildDate>Fri, 08 Oct 2021 15:59:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Oct 2021 08:59:46 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
-        <item>
-            <title><![CDATA[Zigzag 2019 - Balade fluviale au départ de Vernon]]></title>
-            <link>https://festivalzigzag.fr/stories/balade-fluviale-au-depart-de-vernon</link>
-            <guid>https://festivalzigzag.fr/stories/balade-fluviale-au-depart-de-vernon</guid>
-            <pubDate>Mon, 19 Jan 1970 06:16:30 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="à-la-découverte-des-îles-seine">À LA DÉCOUVERTE DES ÎLES SEINE</h2>
-<p>Embarquez avec deux paysagistes, sur le bateau pour une exploration au fil des flots, sur les traces des îles séquaniennes entre Vernon et Notre-Dame-de-la-Garenne. La Seine contribue à la formation et à la disparition des îles selon un cycle naturel. Fruits du fleuve, elles sont expressives et témoignent de l’ancienne liberté de la Seine. Elles sont boisées, refuge pour la faune et la flore ou expérimentales, accueillant verger et bovins, autant d’exemples racontant la nécessité des îles et leurs potentiels d’usages.</p>
-<p>Avec Marie Perra &amp; Mégane Millet Lacombe, paysagistes, collectif Alphonse. Travail mené en partenariat avec l’École de paysage de Versailles, le CAUE de l’Eure et le CPIER de la Vallée de la Seine.</p>
-<h3 id="parole-de-marie--mégane">Parole de Marie &amp; Mégane</h3>
-<p><em>Paysagistes concepteurs - collectif Alphonse</em></p>
-<p>« En 2017, pendant notre formation de paysagiste DPLG à l’École Nationale Supérieure du Paysage de Versailles, nous avons réalisé une étude (Atelier Pédagogique Régionale) sur les îles de la Seine en partenariat avec le CPIER de la Vallée de la Seine et le CAUE de l’Eure. Pour la première fois, nous avons proposé la vision d’un archipel remarquable en étroite interaction avec le territoire et la Vallée. En 2019, un article <em>La Seine d&#39;îles en îles. Récit d&#39;une exploration</em> est paru dans le volume n° 35 - Îles en projet, des Carnets du Paysage. Cette balade nous a permis de développer le travail de ces recherches.</p>
-<p>Pour le paysagiste, l’arpentage est une étape primordiale dans la découverte et la compréhension du paysage. Dans ce sens, la balade est un bon outil pour convier les habitants et acteurs du territoire à porter un autre regard sur le paysage et à partager les connaissances de chacun. Ici, elle nous a permis d&#39;amener les participants à se questionner sur la place des îles, sujet souvent peu abordé. ll nous est apparu essentiel qu&#39;elle se déroule sur l&#39;eau pour changer de points de vue sur ces motifs paysagers principalement perçus depuis les berges. Nous avons donc proposé un voyage en dix points, depuis la formation des îles jusqu’à leurs apports au territoire et à la liberté qu’elles apportent à la Vallée de la Seine, point essentiel de notre démarche.</p>
-<p>Une soixantaine de personnes sont venues naviguer avec nous sur le bateau Guillaume Le Conquérant. Le format, plusieurs petites interventions ponctuelles sur des sujets précis par différents professionnels, nous a permis d&#39;avoir des temps collectifs d&#39;informations et des temps libres où chacun pouvait observer le paysage séquanien et solliciter les professionnels individuellement. Les retours ont été très positifs et la démarche appréciée et comprise. Une expérience à renouveler. »</p>
-]]></content:encoded>
-        </item>
         <item>
             <title><![CDATA[Zigzag 2019 - Chasse au trésor dans la Forêt monumentale]]></title>
             <link>https://festivalzigzag.fr/stories/chasse-au-tresor-dans-la-foret-monumentale</link>
@@ -40,6 +25,21 @@
 <li>Tarkett </li>
 <li>CEMEX</li>
 </ul>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Zigzag 2019 - Balade fluviale au départ de Vernon]]></title>
+            <link>https://festivalzigzag.fr/stories/balade-fluviale-au-depart-de-vernon</link>
+            <guid>https://festivalzigzag.fr/stories/balade-fluviale-au-depart-de-vernon</guid>
+            <pubDate>Mon, 19 Jan 1970 06:16:30 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="à-la-découverte-des-îles-seine">À LA DÉCOUVERTE DES ÎLES SEINE</h2>
+<p>Embarquez avec deux paysagistes, sur le bateau pour une exploration au fil des flots, sur les traces des îles séquaniennes entre Vernon et Notre-Dame-de-la-Garenne. La Seine contribue à la formation et à la disparition des îles selon un cycle naturel. Fruits du fleuve, elles sont expressives et témoignent de l’ancienne liberté de la Seine. Elles sont boisées, refuge pour la faune et la flore ou expérimentales, accueillant verger et bovins, autant d’exemples racontant la nécessité des îles et leurs potentiels d’usages.</p>
+<p>Avec Marie Perra &amp; Mégane Millet Lacombe, paysagistes, collectif Alphonse. Travail mené en partenariat avec l’École de paysage de Versailles, le CAUE de l’Eure et le CPIER de la Vallée de la Seine.</p>
+<h3 id="parole-de-marie--mégane">Parole de Marie &amp; Mégane</h3>
+<p><em>Paysagistes concepteurs - collectif Alphonse</em></p>
+<p>« En 2017, pendant notre formation de paysagiste DPLG à l’École Nationale Supérieure du Paysage de Versailles, nous avons réalisé une étude (Atelier Pédagogique Régionale) sur les îles de la Seine en partenariat avec le CPIER de la Vallée de la Seine et le CAUE de l’Eure. Pour la première fois, nous avons proposé la vision d’un archipel remarquable en étroite interaction avec le territoire et la Vallée. En 2019, un article <em>La Seine d&#39;îles en îles. Récit d&#39;une exploration</em> est paru dans le volume n° 35 - Îles en projet, des Carnets du Paysage. Cette balade nous a permis de développer le travail de ces recherches.</p>
+<p>Pour le paysagiste, l’arpentage est une étape primordiale dans la découverte et la compréhension du paysage. Dans ce sens, la balade est un bon outil pour convier les habitants et acteurs du territoire à porter un autre regard sur le paysage et à partager les connaissances de chacun. Ici, elle nous a permis d&#39;amener les participants à se questionner sur la place des îles, sujet souvent peu abordé. ll nous est apparu essentiel qu&#39;elle se déroule sur l&#39;eau pour changer de points de vue sur ces motifs paysagers principalement perçus depuis les berges. Nous avons donc proposé un voyage en dix points, depuis la formation des îles jusqu’à leurs apports au territoire et à la liberté qu’elles apportent à la Vallée de la Seine, point essentiel de notre démarche.</p>
+<p>Une soixantaine de personnes sont venues naviguer avec nous sur le bateau Guillaume Le Conquérant. Le format, plusieurs petites interventions ponctuelles sur des sujets précis par différents professionnels, nous a permis d&#39;avoir des temps collectifs d&#39;informations et des temps libres où chacun pouvait observer le paysage séquanien et solliciter les professionnels individuellement. Les retours ont été très positifs et la démarche appréciée et comprise. Une expérience à renouveler. »</p>
 ]]></content:encoded>
         </item>
         <item>
@@ -533,24 +533,6 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Zigzag 2021 - week-end #1]]></title>
-            <link>https://festivalzigzag.fr/stories/zigzag-2021-week-end-1</link>
-            <guid>https://festivalzigzag.fr/stories/zigzag-2021-week-end-1</guid>
-            <pubDate>Mon, 19 Jan 1970 21:35:20 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="zigzag---1er-week-end">ZIGZAG - 1er WEEK-END</h2>
-<p>Vendredi soir, on a lancé le festival en compagnie des partenaires Zigzag 2021 ; on a découvert les expositions sur les paysages de la Seine avec l&#39;<strong>Ecole nationale supérieure de paysage</strong> et l&#39;<strong>AURH</strong> au Forum ; on a visité l&#39;exposition La Massage avec <strong>La loge des auteurs photographes</strong> rue Victor Hugo à Ville de Rouen dans le cadre d&#39;EOP.</p>
-<ul>
-<li>Les expositions : <a href="https://festivalzigzag.fr/events/les-paysages-de-la-seine">Les paysages de la Seine</a></li>
-<li>Le projet EOP : <a href="http://man-leforum.fr/maison-de-l-architecture/projets-hors-les-murs/eop/">EOP - Espaces d&#39;Œuvres Photographiques</a></li>
-</ul>
-<p>Samedi, on a fait la fête à roulettes avec <strong>Les Gens des Lieux</strong> pour inaugurer GENiUS 2021 au Havre ; on est passé à l&#39;action à <strong>La Manufacture des Capucins</strong> à Vernon ; on a visité le chantier de la maison du <strong>Parc naturel régional des Boucles de la Seine Normande</strong> ; on a compris le rôle d&#39;un écoquartier en milieu rural avec <strong>Guénolé Le Moaligou</strong> ; on a respiré au parc du Champ des Bruyères avec la <strong>Métropole Rouen Normandie</strong> et l&#39;<strong>Atelier Philippe Madec</strong>.</p>
-<ul>
-<li>Le projet <a href="https://festivalzigzag.fr/events/genius-2021-ca-roule">GENiUS 2021 : ça roule !</a></li>
-</ul>
-<p>Et dimanche… </p>
-]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Zigzag 2021 - week-end #2 (suite)]]></title>
             <link>https://festivalzigzag.fr/stories/zigzag-2021-week-end-2-suite</link>
             <guid>https://festivalzigzag.fr/stories/zigzag-2021-week-end-2-suite</guid>
@@ -568,6 +550,24 @@
 <p>Merci à tous pour ces belles journées Zigzag et rendez-vous ce week-end pour les derniers événements : <a href="https://festivalzigzag.fr/agenda">festivalzigzag.fr</a></p>
 <p><strong><em>#zigzagfestivalarchitecture</em></strong> est porté par la <a href="http://man-leforum.fr/maison-de-l-architecture/">Maison de l&#39;architecture de Normandie - le Forum</a></p>
 <p><strong><em>#touspourlarchi</em></strong></p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Zigzag 2021 - week-end #1]]></title>
+            <link>https://festivalzigzag.fr/stories/zigzag-2021-week-end-1</link>
+            <guid>https://festivalzigzag.fr/stories/zigzag-2021-week-end-1</guid>
+            <pubDate>Mon, 19 Jan 1970 21:35:20 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="zigzag---1er-week-end">ZIGZAG - 1er WEEK-END</h2>
+<p>Vendredi soir, on a lancé le festival en compagnie des partenaires Zigzag 2021 ; on a découvert les expositions sur les paysages de la Seine avec l&#39;<strong>Ecole nationale supérieure de paysage</strong> et l&#39;<strong>AURH</strong> au Forum ; on a visité l&#39;exposition La Massage avec <strong>La loge des auteurs photographes</strong> rue Victor Hugo à Ville de Rouen dans le cadre d&#39;EOP.</p>
+<ul>
+<li>Les expositions : <a href="https://festivalzigzag.fr/events/les-paysages-de-la-seine">Les paysages de la Seine</a></li>
+<li>Le projet EOP : <a href="http://man-leforum.fr/maison-de-l-architecture/projets-hors-les-murs/eop/">EOP - Espaces d&#39;Œuvres Photographiques</a></li>
+</ul>
+<p>Samedi, on a fait la fête à roulettes avec <strong>Les Gens des Lieux</strong> pour inaugurer GENiUS 2021 au Havre ; on est passé à l&#39;action à <strong>La Manufacture des Capucins</strong> à Vernon ; on a visité le chantier de la maison du <strong>Parc naturel régional des Boucles de la Seine Normande</strong> ; on a compris le rôle d&#39;un écoquartier en milieu rural avec <strong>Guénolé Le Moaligou</strong> ; on a respiré au parc du Champ des Bruyères avec la <strong>Métropole Rouen Normandie</strong> et l&#39;<strong>Atelier Philippe Madec</strong>.</p>
+<ul>
+<li>Le projet <a href="https://festivalzigzag.fr/events/genius-2021-ca-roule">GENiUS 2021 : ça roule !</a></li>
+</ul>
+<p>Et dimanche… </p>
 ]]></content:encoded>
         </item>
         <item>
