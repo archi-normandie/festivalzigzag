@@ -13,7 +13,7 @@ booking:
   period: ''
   dates:
   - date: 2021-10-02 09:30
-  link: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/la-frette-montigny-acheres-pointil-et-hautil-le-voyage
+  link: ''
 address:
   place: La Frette-sur-Seine (95) - Achères (78)
   lat: "48.97942"
