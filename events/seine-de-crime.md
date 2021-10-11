@@ -12,7 +12,7 @@ booking:
   period: ''
   dates:
   - date: 2021-10-03 13:30
-  link: https://www.weezevent.com/seine-de-crime
+  link: ''
 address:
   place: Elbeuf-sur-Seine (76) – Les Damps (27)
   lat: "49.2847242"
