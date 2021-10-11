@@ -13,7 +13,7 @@ booking:
   period: ''
   dates:
   - date: 2021-10-09 10:00
-  link: https://www.billetweb.fr/le-silence-des-coquilles
+  link: ''
 address:
   place: Le Havre (76)
   lat: "49.484545"
