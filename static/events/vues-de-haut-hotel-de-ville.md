@@ -33,10 +33,3 @@ Depuis les toits, la ville de Grand Quevilly offre un autre visage : les pics et
 Suivez-nous dans cette lecture urbaine insolite qui prend de la hauteur !
 
 _En collaboration avec Quevilly Habitat et la ville de Grand Quevilly._
-
-**Réservations - sélectionnez un créneau :**
-
-* **11h30 :** [réserver](https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/vues-de-haut-hotel-de-ville-11h30)
-* **14h00 :** [réserver](https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/vues-de-haut-hotel-de-ville-14h) - complet
-* **15h30 :** [réserver](https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/vues-de-haut-hotel-de-ville-15h30) - complet
-* **17h00 :** [réserver](https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/vues-de-haut-hotel-de-ville-17h) - complet

@@ -12,7 +12,7 @@ booking:
   period: ''
   dates:
   - date: 2021-10-01 18:00
-  link: https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/evenements/un-ete-a-la-halle-aux-poissons
+  link: ''
 address:
   place: Le Havre (76)
   lat: "49.48738"
@@ -32,5 +32,3 @@ Que cache la Halle aux poissons ? Ce bâtiment régulier ne laisse rien percevoi
 **Renseignements :** contact@halleauxpoissons.org
 
 Et pour continuer la soirée, la Halle propose un dîner d’exception avec le chef étoilé Gabin Bouguet, le pâtissier Clément Mazzoni et des invités surprises. Menu unique à 60€ (Cocktail/amuses bouches/entrées/plat/dessert par Clément Mazzoni).
-
-* Réservez vos places : [A table les architectes !](https://festivalzigzag.fr/events/a-table-les-architectes)
