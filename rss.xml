@@ -4,7 +4,7 @@
         <title></title>
         <link>https://festivalzigzag.fr/rss.xml</link>
         <description>Journal du Festival Zigzag</description>
-        <lastBuildDate>Mon, 11 Oct 2021 09:56:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 15:04:21 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
         <item>
@@ -533,24 +533,6 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Zigzag 2021 - week-end #1]]></title>
-            <link>https://festivalzigzag.fr/stories/zigzag-2021-week-end-1</link>
-            <guid>https://festivalzigzag.fr/stories/zigzag-2021-week-end-1</guid>
-            <pubDate>Mon, 19 Jan 1970 21:35:20 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="zigzag---1er-week-end">ZIGZAG - 1er WEEK-END</h2>
-<p>Vendredi soir, on a lancé le festival en compagnie des partenaires Zigzag 2021 ; on a découvert les expositions sur les paysages de la Seine avec l&#39;<strong>Ecole nationale supérieure de paysage</strong> et l&#39;<strong>AURH</strong> au Forum ; on a visité l&#39;exposition La Massage avec <strong>La loge des auteurs photographes</strong> rue Victor Hugo à Ville de Rouen dans le cadre d&#39;EOP.</p>
-<ul>
-<li>Les expositions : <a href="https://festivalzigzag.fr/events/les-paysages-de-la-seine">Les paysages de la Seine</a></li>
-<li>Le projet EOP : <a href="http://man-leforum.fr/maison-de-l-architecture/projets-hors-les-murs/eop/">EOP - Espaces d&#39;Œuvres Photographiques</a></li>
-</ul>
-<p>Samedi, on a fait la fête à roulettes avec <strong>Les Gens des Lieux</strong> pour inaugurer GENiUS 2021 au Havre ; on est passé à l&#39;action à <strong>La Manufacture des Capucins</strong> à Vernon ; on a visité le chantier de la maison du <strong>Parc naturel régional des Boucles de la Seine Normande</strong> ; on a compris le rôle d&#39;un écoquartier en milieu rural avec <strong>Guénolé Le Moaligou</strong> ; on a respiré au parc du Champ des Bruyères avec la <strong>Métropole Rouen Normandie</strong> et l&#39;<strong>Atelier Philippe Madec</strong>.</p>
-<ul>
-<li>Le projet <a href="https://festivalzigzag.fr/events/genius-2021-ca-roule">GENiUS 2021 : ça roule !</a></li>
-</ul>
-<p>Et dimanche… </p>
-]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Zigzag 2021 - week-end #2 (suite)]]></title>
             <link>https://festivalzigzag.fr/stories/zigzag-2021-week-end-2-suite</link>
             <guid>https://festivalzigzag.fr/stories/zigzag-2021-week-end-2-suite</guid>
@@ -568,6 +550,24 @@
 <p>Merci à tous pour ces belles journées Zigzag et rendez-vous ce week-end pour les derniers événements : <a href="https://festivalzigzag.fr/agenda">festivalzigzag.fr</a></p>
 <p><strong><em>#zigzagfestivalarchitecture</em></strong> est porté par la <a href="http://man-leforum.fr/maison-de-l-architecture/">Maison de l&#39;architecture de Normandie - le Forum</a></p>
 <p><strong><em>#touspourlarchi</em></strong></p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Zigzag 2021 - week-end #1]]></title>
+            <link>https://festivalzigzag.fr/stories/zigzag-2021-week-end-1</link>
+            <guid>https://festivalzigzag.fr/stories/zigzag-2021-week-end-1</guid>
+            <pubDate>Mon, 19 Jan 1970 21:35:20 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="zigzag---1er-week-end">ZIGZAG - 1er WEEK-END</h2>
+<p>Vendredi soir, on a lancé le festival en compagnie des partenaires Zigzag 2021 ; on a découvert les expositions sur les paysages de la Seine avec l&#39;<strong>Ecole nationale supérieure de paysage</strong> et l&#39;<strong>AURH</strong> au Forum ; on a visité l&#39;exposition La Massage avec <strong>La loge des auteurs photographes</strong> rue Victor Hugo à Ville de Rouen dans le cadre d&#39;EOP.</p>
+<ul>
+<li>Les expositions : <a href="https://festivalzigzag.fr/events/les-paysages-de-la-seine">Les paysages de la Seine</a></li>
+<li>Le projet EOP : <a href="http://man-leforum.fr/maison-de-l-architecture/projets-hors-les-murs/eop/">EOP - Espaces d&#39;Œuvres Photographiques</a></li>
+</ul>
+<p>Samedi, on a fait la fête à roulettes avec <strong>Les Gens des Lieux</strong> pour inaugurer GENiUS 2021 au Havre ; on est passé à l&#39;action à <strong>La Manufacture des Capucins</strong> à Vernon ; on a visité le chantier de la maison du <strong>Parc naturel régional des Boucles de la Seine Normande</strong> ; on a compris le rôle d&#39;un écoquartier en milieu rural avec <strong>Guénolé Le Moaligou</strong> ; on a respiré au parc du Champ des Bruyères avec la <strong>Métropole Rouen Normandie</strong> et l&#39;<strong>Atelier Philippe Madec</strong>.</p>
+<ul>
+<li>Le projet <a href="https://festivalzigzag.fr/events/genius-2021-ca-roule">GENiUS 2021 : ça roule !</a></li>
+</ul>
+<p>Et dimanche… </p>
 ]]></content:encoded>
         </item>
         <item>
