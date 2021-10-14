@@ -24,8 +24,8 @@ informations:
     Fieschi, 27200 Vernon'
 gallery:
 - "/files/img_3565.JPG"
-- "/files/img_3627.JPG"
 - "/files/img_3688.JPG"
+- "/files/img_3627.JPG"
 
 ---
 Située au cœur de l’écoquartier Fieschi en centre-ville de Vernon, la Manufacture des Capucins est un tiers-lieu ouvert à tous, pour accompagner les changements des modes de vie, agir pour la transmission écologique et activer un nouveau territoire productif.
