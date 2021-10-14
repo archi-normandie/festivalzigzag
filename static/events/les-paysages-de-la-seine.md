@@ -23,7 +23,10 @@ informations:
   rdv: Maison de l'architecture de Normandie - le Forum, 48 rue Victor Hugo à Rouen.
     TEOR (lignes T1, T2 & T3) - arrêt place Saint-Marc // Bus (lignes F2, 5, 11 &
     13) - arrêt place Saint-Vivien
-gallery: []
+gallery:
+- "/files/img_4420.JPG"
+- "/files/img_3922.JPG"
+- "/files/img_3911.JPG"
 
 ---
 Le temps du festival, le Forum présente deux expositions consacrées aux paysages de la Seine, ses métamorphoses et les enjeux contemporains liés aux aménagements actuels :
