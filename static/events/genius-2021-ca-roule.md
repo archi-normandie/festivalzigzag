@@ -20,9 +20,9 @@ informations:
   note: Tous publics. En accès libre en extérieur.
   rdv: 'RDV : place Albert René '
 gallery:
-- "/files/img_4679.JPG"
 - "/files/img_4701.JPG"
 - "/files/dorothee-dsc_0083.JPG"
+- "/files/img_4679.JPG"
 
 ---
 Les Gens des Lieux interviennent pour la 4ème fois dans un espace ordinaire pour révéler par leurs interventions les qualités et poten­tialités, et en faire un espace de poésie, un lieu à voir, à découvrir et à partager.
