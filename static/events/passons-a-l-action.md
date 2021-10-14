@@ -22,7 +22,10 @@ informations:
   note: Tous publics. Gants, chapeaux et chaussures adaptés.
   rdv: 'RDV : entrée du Jardin de la Manufacture des Capucins, rue du Colonel Théodore
     Fieschi, 27200 Vernon'
-gallery: []
+gallery:
+- "/files/img_3565.JPG"
+- "/files/img_3627.JPG"
+- "/files/img_3688.JPG"
 
 ---
 Située au cœur de l’écoquartier Fieschi en centre-ville de Vernon, la Manufacture des Capucins est un tiers-lieu ouvert à tous, pour accompagner les changements des modes de vie, agir pour la transmission écologique et activer un nouveau territoire productif.
