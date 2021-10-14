@@ -23,7 +23,10 @@ cover:
   alt: Description de l'image
   legend: "© G. Le Moaligou"
 featured: false
-gallery: []
+gallery:
+- "/files/img_3700.JPG"
+- "/files/img_3699.JPG"
+- "/files/visite_ecoquartier_arelaune-en-seine-2-g-_le_moaligou.jpg"
 
 ---
 A quoi peut ressembler un écoquartier en milieu rural?
