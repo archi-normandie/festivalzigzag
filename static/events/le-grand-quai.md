@@ -19,7 +19,7 @@ address:
   lon: "0.1034405"
 informations:
   note: ''
-  rdv: 'RDV : devant le Port Center - 47 Chaussée John Kennedy
+  rdv: 'Ce rendez-vous à malheureusement était annulé.
 
 '
 gallery: []
