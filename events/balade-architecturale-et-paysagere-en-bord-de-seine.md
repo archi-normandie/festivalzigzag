@@ -20,7 +20,10 @@ address:
 informations:
   note: Tous publics
   rdv: 'RDV : Parking au-dessus du restaurant le Baillage et du monument aux morts'
-gallery: []
+gallery:
+- "/files/image-d-ios-25.jpg"
+- "/files/image-d-ios-27.jpg"
+- "/files/image-d-ios-16.jpg"
 
 ---
 Le C.A.U.E 76 propose une balade architecturale et paysagère à la découverte du patrimoine traditionnel de la commune de Freneuse, située en amont d’Elbeuf-sur-Seine. Une occasion originale de découvrir la singularité de ce territoire entre Seine et coteaux, qui mêle éléments patrimoniaux et architectures diverses qui composent ces paysages typiques des bords de Seine et participent à la qualité du cadre de vie.  

@@ -24,8 +24,9 @@ informations:
     Victor Hugo à Rouen. TEOR (lignes T1, T2 & T3) - arrêt place Saint-Marc // Bus
     (lignes F2, 5, 11 & 13) - arrêt place Saint-Vivien'
 gallery:
-- "/files/_cje6325.jpg"
+- "/files/_cje6320.jpg"
 - "/files/_cje6247.jpg"
+- "/files/_cje6325.jpg"
 
 ---
 L’exposition _La Massane_ est l’œuvre de Marie-Hélène Labat, photographe, dont le travail interroge la place de l’Homme dans son environnement, notre rapport au monde. Son regard porté sur la forêt de la Massane*, réserve naturelle nationale, met en exergue la richesse de cet écosystème et les fragilités de cette forêt d'exception aujourd'hui menacée par le réchauffement climatique. Depuis plus d’un siècle, La Massane n’est plus exploitée. Ce biotope du pourtour méditerranéen a accueilli depuis cinquante ans de nombreux scientifiques qui ont recensés à ce jour 8200 espèces sur 336 hectares d’un patrimoine biologique inestimable.
