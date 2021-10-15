@@ -20,7 +20,10 @@ address:
 informations:
   note: 'Tous publics, normes ERP 5, accessibilité PMR. Accès piétons : Quai de l''île. '
   rdv: 'RDV : à la Halle aux poissons, rue du Général Faidherbe. Bus 4 : arrêt St-François'
-gallery: []
+gallery:
+- "/files/img_3950.JPG"
+- "/files/img_4355.JPG"
+- "/files/img_4360.JPG"
 
 ---
 Dans le cadre du festival d'architecture et des arts de l'espace Zigzag, le Lieu Infini de la Halle aux Poissons réunit des architectes et urbanistes, ayant expérimenté un ralentissement du processus d'écriture de projet, se construisant dans l'attention au milieu.
