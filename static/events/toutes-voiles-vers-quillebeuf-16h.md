@@ -23,7 +23,10 @@ informations:
     Exposition gratuite jusqu’au 30 novembre – du mardi au dimanche de 13h à 18h30. Toutes les matinées sont réservées aux groupes adultes et scolaires.
     MuséoSeine est totalement accessible aux publics en situation de handicap. Des visites guidées adaptées sont proposées sur simple demande.
   rdv: 'RDV : rue Winston Churchill, 76490 Caudebec-en-Caux - Rives en Seine'
-gallery: []
+gallery:
+- "/files/image-d-ios-1.jpg"
+- "/files/img_2409.JPG"
+- "/files/image-d-ios.jpg"
 
 ---
 MuséoSeine, le musée de la Seine normande à Caudebec-en-Caux/Rives-en-Seine présente sa nouvelle exposition.  
