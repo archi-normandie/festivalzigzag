@@ -21,7 +21,10 @@ address:
 informations:
   note: Accès PMR
   rdv: 'RDV : LH Port Center – 47 Chaussée John Kennedy '
-gallery: []
+gallery:
+- "/files/lh-port-center2.jpg"
+- "/files/lh-port-center10.jpg"
+- "/files/lh-port-center5.jpg"
 
 ---
 Le Havre Port Center propose une journée portes ouvertes le samedi 9 octobre de 10 h à 18 h. Celle-ci s’inscrit dans la programmation de l’exposition « A l’origine des sables ». Démonstration, ateliers participatifs, animations, conférence et approches artistiques seront à l’ordre du jour dont la thématique traite des sédiments de dragage et des différents types de valorisation.
