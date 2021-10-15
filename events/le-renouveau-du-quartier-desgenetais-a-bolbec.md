@@ -20,7 +20,10 @@ address:
 informations:
   note: 'Adultes '
   rdv: 'RDV : 5 rue Auguste Desgenétais Bolbec'
-gallery: []
+gallery:
+- "/files/img_3777.JPG"
+- "/files/image-d-ios-12.jpg"
+- "/files/img_3715.JPG"
 
 ---
 L’artificialisation des sols, le réemploi des sites en friches, la remise au jours des cours d’eau et le recours à des sites plus perméables sont des sujets primordiaux pour le retour à une urbanisation plus en adéquation avec la nature, le bien-être et le mieux vivre.
