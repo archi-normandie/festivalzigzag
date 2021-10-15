@@ -20,7 +20,10 @@ address:
 informations:
   note: Tous publics
   rdv: 'RDV : devant la mairie de Beuzeville'
-gallery: []
+gallery:
+- "/files/img_4266.JPG"
+- "/files/img_4307.JPG"
+- "/files/img_4272.JPG"
 
 ---
 A l’occasion de vastes projets, Beuzeville s’est lancée dans la reconquête de son cœur de ville avec l’objectif d’en changer durablement l’image et de redynamiser la commune. La place de la République a ainsi été redessinée et l’ancienne friche industrielle de la Cidrerie a été requalifiée en pôle culturel, accueillant un marché couvert alternatif, un foyer, un auditorium, une salle de spectacle et un silo-exposition. Aujourd’hui la démarche engagée se poursuit avec la création prochaine d’un jardin public de 5000m² en centre-bourg, futur lieu de détente et de jeux, à proximité de l’Hôtel de ville et de la médiathèque, venant renforcer ainsi l’attractivité de Beuzeville.
