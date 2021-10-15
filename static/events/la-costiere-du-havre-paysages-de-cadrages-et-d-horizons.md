@@ -22,7 +22,9 @@ informations:
     forme physique est demandé. Durée 1h30.
   rdv: 'RDV : parvis de la chapelle Saint-Michel d’Ingouville, accès rue Saint-Michel,
     possibilité de stationner dans cette même rue'
-gallery: []
+gallery:
+- "/files/img_4474.JPG"
+- "/files/img_4475.JPG"
 
 ---
 Souvent méconnue, la costière constitue une bande de falaise habitée qui débute à Sainte-Adresse pour se terminer au détour de la vallée de la lézarde, ligne de transition entre le monde maritime et la campagne du pays de Caux.  
