@@ -20,7 +20,10 @@ address:
 informations:
   note: 'Durée 2h. Tarifs : 7€ et 5 €.'
   rdv: 'RDV : Quai de la Réunion (devant les Bains des Docks)'
-gallery: []
+gallery:
+- "/files/img_3840.JPG"
+- "/files/img_3838.JPG"
+- "/files/img_3839.JPG"
 
 ---
 Le quartier de l’Eure poursuit sa mue et, chaque année, son paysage urbain évolue. Les immeubles, entrepôts et friches industrielles sont réhabilités tandis que de nouveaux édifices voient le jour. Autour du dernier bâtiment construit, la Cité numérique, conçue par Groupe 6 associé à Champenois architectes, le parcours revient sur les plus emblématiques réalisations.
