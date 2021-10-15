@@ -4,7 +4,7 @@
         <title></title>
         <link>https://festivalzigzag.fr/rss.xml</link>
         <description>Journal du Festival Zigzag</description>
-        <lastBuildDate>Fri, 15 Oct 2021 14:44:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 14:47:28 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
         <item>
@@ -59,21 +59,6 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Zigzag 2019 - Déambulationnage pour découvrir la Manufacture des Capucins]]></title>
-            <link>https://festivalzigzag.fr/stories/deambulationnage-pour-decouvrir-la-manufacture-des-capucins</link>
-            <guid>https://festivalzigzag.fr/stories/deambulationnage-pour-decouvrir-la-manufacture-des-capucins</guid>
-            <pubDate>Mon, 19 Jan 1970 06:16:45 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="la-manufacture-des-capucins">LA MANUFACTURE DES CAPUCINS</h2>
-<p>Pour saisir la transformation du Couvent des Capucins, bâtiment emblématique du XVII e siècle en « tiers lieu », venez suivre les improvisations des clowns de la compagnie Étincelle Bouillasse ! </p>
-<p>La Manufacture des Capucins, fédératrice de talents au service de la transition écologique du territoire de Seine Normandie Agglomération est engagée dans le changement des modes de vie. Elle génère un brassage intergénérationnel inédit de populations, raccordant l’éco quartier Fieschi au centre de Vernon. Productrice d’une vision de long terme, la Manufacture est d’abord le lieu de ressource et de rencontre, convivial et décalé qui manque à la ville.</p>
-<p>En partenariat et avec le soutien de l’agence MWAH.</p>
-<p>Pour suivre le projet : <a href="https://www.facebook.com/LaManufactureDesCapucins/">La Manufacture des Capucins</a></p>
-<h3 id="parole-detienne-lemoine">Parole d&#39;Etienne Lemoine</h3>
-<p><em>Architecte - agence d&#39;architecte MWAH et membre du conseil d&#39;administration de la Maison de l&#39;architecture de Normandie - le Forum</em></p>
-<p>« La Manufacture des Capucins est un nouveau tiers lieu ouvert à toutes les initiatives citoyennes en vue de porter sur le territoire de Vernon et de ses alentours la transition écologique et les changements des modes de vie. Nez rouge évidemment, maquillage, vêtements mal ajustés sur un corps maladroit, les clowns d’Etincelle Bouillasse ont préfiguré par leurs improvisations les futurs usages de cet ancien couvent afin d’en révéler de nouvelles manières d’habiter. »</p>
-]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Zigzag 2019 - Deux parcours urbains proposés à Rouen]]></title>
             <link>https://festivalzigzag.fr/stories/deux-parcours-urbains-proposes-a-rouen</link>
             <guid>https://festivalzigzag.fr/stories/deux-parcours-urbains-proposes-a-rouen</guid>
@@ -95,6 +80,21 @@
 <p>C’est comme ça que nous avons l’idée de présenter 2 propositions :</p>
 <p>Une visite <em>Cœur de Métropole</em> par un guide conférencier et un agent technique de la Métropole. Cette visite allie un regard patrimonial sur la ville tout en présentant le parti pris contemporain des maîtres d’œuvre qui ont œuvré sur ce projet.</p>
 <p>La BD fait partie des œuvres artistiques qui sont intéressantes à mobiliser quand on parle de la Ville et <em>Rouen par 100 chemins différents</em> d’Emmanuel Lemaire était un beau prétexte d’allier le dessin de l’artiste à une déambulation dans les rues de Rouen. Une guide conférencière et l’auteur de BD se sont donc rencontrés pour confronter, interpréter, rechercher les liens entre les images de la BD et l’histoire de l’évolution urbanistique de la Ville. »</p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Zigzag 2019 - Déambulationnage pour découvrir la Manufacture des Capucins]]></title>
+            <link>https://festivalzigzag.fr/stories/deambulationnage-pour-decouvrir-la-manufacture-des-capucins</link>
+            <guid>https://festivalzigzag.fr/stories/deambulationnage-pour-decouvrir-la-manufacture-des-capucins</guid>
+            <pubDate>Mon, 19 Jan 1970 06:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="la-manufacture-des-capucins">LA MANUFACTURE DES CAPUCINS</h2>
+<p>Pour saisir la transformation du Couvent des Capucins, bâtiment emblématique du XVII e siècle en « tiers lieu », venez suivre les improvisations des clowns de la compagnie Étincelle Bouillasse ! </p>
+<p>La Manufacture des Capucins, fédératrice de talents au service de la transition écologique du territoire de Seine Normandie Agglomération est engagée dans le changement des modes de vie. Elle génère un brassage intergénérationnel inédit de populations, raccordant l’éco quartier Fieschi au centre de Vernon. Productrice d’une vision de long terme, la Manufacture est d’abord le lieu de ressource et de rencontre, convivial et décalé qui manque à la ville.</p>
+<p>En partenariat et avec le soutien de l’agence MWAH.</p>
+<p>Pour suivre le projet : <a href="https://www.facebook.com/LaManufactureDesCapucins/">La Manufacture des Capucins</a></p>
+<h3 id="parole-detienne-lemoine">Parole d&#39;Etienne Lemoine</h3>
+<p><em>Architecte - agence d&#39;architecte MWAH et membre du conseil d&#39;administration de la Maison de l&#39;architecture de Normandie - le Forum</em></p>
+<p>« La Manufacture des Capucins est un nouveau tiers lieu ouvert à toutes les initiatives citoyennes en vue de porter sur le territoire de Vernon et de ses alentours la transition écologique et les changements des modes de vie. Nez rouge évidemment, maquillage, vêtements mal ajustés sur un corps maladroit, les clowns d’Etincelle Bouillasse ont préfiguré par leurs improvisations les futurs usages de cet ancien couvent afin d’en révéler de nouvelles manières d’habiter. »</p>
 ]]></content:encoded>
         </item>
         <item>
@@ -311,6 +311,32 @@
 ]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Zigzag 2019 - Visites de chantier au Havre]]></title>
+            <link>https://festivalzigzag.fr/stories/visites-de-chantier-au-havre</link>
+            <guid>https://festivalzigzag.fr/stories/visites-de-chantier-au-havre</guid>
+            <pubDate>Mon, 19 Jan 1970 06:16:34 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="la-cité-numérique">LA CITÉ NUMÉRIQUE</h2>
+<p>Entre ville et port, ce totem architectural conçu par l’agence Groupe 6 est un projet à 360 degrés, au centre du campus maritime, tourné vers le large, la ville, les quais, la marina et la gare. Sa silhouette élancée affirme ses plateaux, avec des formes simples et rectilignes inscrites dans l’histoire des Docks. Ses façades en résille métallique révèlent sa vie intérieure, via les interstices entre ses différents niveaux, laissant apparaître le cœur de l’École de Management de Normandie et de la Cité Du Numérique. Un projet dont le programme et l’usage ont fait l’objet d’une concertation avec les habitants.</p>
+<p>Avec les architectes du projet et de la CU du Havre Métropole.</p>
+<h3 id="parole-de-paterne-bulcourt">Parole de Paterne Bulcourt</h3>
+<p><em>Architecte associé - La Manufacture d&#39;Architecture et membre du conseil d&#39;administration de la Maison de l&#39;architecture de Normandie - le Forum</em> </p>
+<p>« De simples curieux, voisins ou assidus de la MaN-Le Forum sont impatients de débuter la visite de la future cité numérique. Le Maître d’ouvrage et l’architecte de l’opération présentent le programme initial et ses ambitions. Vient le moment de s’équiper : casques blancs, et chasubles jaunes et oranges sont indispensables à toute bonne visite de chantier.</p>
+<p>La procession multicolore se dirige alors de surprises en surprises : un hall impressionnant, une terrasse panoramique donnant sur le Havre, des bureaux et des salles de classes inondés d’une lumière tamisée, maîtrisée par la résille métallique travaillée en façade. Les visiteurs sont conquis : <em>comment d’une telle massivité apparente peut-on passer à une telle finesse de lumières et de vues depuis l’intérieur ? Les futurs occupants auront bien de la chance de travailler ici !</em> »</p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Zigzag 2020 - #annulations ]]></title>
+            <link>https://festivalzigzag.fr/stories/zigzag-2020-annulations</link>
+            <guid>https://festivalzigzag.fr/stories/zigzag-2020-annulations</guid>
+            <pubDate>Mon, 19 Jan 1970 13:28:23 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="un-festival-mouvemente">UN FESTIVAL MOUVEMENTE</h2>
+<p>En 2019, la première édition du festival Zigzag avait connu une programmation mouvementée, suite à l&#39;incendie de Lubrizol du 26 septembre ... avec des événements annulés dans la ville de Rouen.</p>
+<p>La Maison de l&#39;architecture de Normandie - le Forum préparait l&#39;édition 2020 depuis plusieurs mois, quand le confinement est passé par là et le télétravail de rigueur.<br>L&#39;équipe tient encore à remercier tous ses partenaires, qui étaient présents à tous les instants pour monter la programmation du festival, et à tous les participants pour leurs inscriptions aux événements Zigzag 2020 malgré la situation sanitaire.</p>
+<p>Toutes ces bonnes volontés n&#39;ont malheureusement pas permis de maintenir tous les événements, que tous auraient aimé vivre : le parcours chorégraphique et le rallye vélo à <strong>Grand Quevilly</strong>, la soirée projection d&#39;<strong>Echelle Inconnue</strong>, la randonnée curieuse à <strong>Rives-en-Seine</strong>, la balade fluviale à <strong>Rouen</strong>, la randonnée à <strong>Achères avec Le voyage métropolitain</strong> ou la balade patrimoniale à la <strong>Mailleraye-sur-Seine avec le Parc naturel régional des Boucles de la Seine Normande</strong>.</p>
+<p>L&#39;édition 2021 est déjà en préparation le long de la vallée de la Seine ... suivez et partagez <a href="https://www.facebook.com/zigzagfestivalarchitecture/" title="Lien Facebook">Zigzag - festival d&#39;architecture et des arts de l&#39;espace</a> sur les réseaux sociaux pour rester informé !!</p>
+]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Zigzag 2020 - du 3 au 18 octobre]]></title>
             <link>https://festivalzigzag.fr/stories/zigzag-2020-du-3-au-18-octobre</link>
             <guid>https://festivalzigzag.fr/stories/zigzag-2020-du-3-au-18-octobre</guid>
@@ -340,48 +366,6 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Zigzag 2020 - #annulations ]]></title>
-            <link>https://festivalzigzag.fr/stories/zigzag-2020-annulations</link>
-            <guid>https://festivalzigzag.fr/stories/zigzag-2020-annulations</guid>
-            <pubDate>Mon, 19 Jan 1970 13:28:23 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="un-festival-mouvemente">UN FESTIVAL MOUVEMENTE</h2>
-<p>En 2019, la première édition du festival Zigzag avait connu une programmation mouvementée, suite à l&#39;incendie de Lubrizol du 26 septembre ... avec des événements annulés dans la ville de Rouen.</p>
-<p>La Maison de l&#39;architecture de Normandie - le Forum préparait l&#39;édition 2020 depuis plusieurs mois, quand le confinement est passé par là et le télétravail de rigueur.<br>L&#39;équipe tient encore à remercier tous ses partenaires, qui étaient présents à tous les instants pour monter la programmation du festival, et à tous les participants pour leurs inscriptions aux événements Zigzag 2020 malgré la situation sanitaire.</p>
-<p>Toutes ces bonnes volontés n&#39;ont malheureusement pas permis de maintenir tous les événements, que tous auraient aimé vivre : le parcours chorégraphique et le rallye vélo à <strong>Grand Quevilly</strong>, la soirée projection d&#39;<strong>Echelle Inconnue</strong>, la randonnée curieuse à <strong>Rives-en-Seine</strong>, la balade fluviale à <strong>Rouen</strong>, la randonnée à <strong>Achères avec Le voyage métropolitain</strong> ou la balade patrimoniale à la <strong>Mailleraye-sur-Seine avec le Parc naturel régional des Boucles de la Seine Normande</strong>.</p>
-<p>L&#39;édition 2021 est déjà en préparation le long de la vallée de la Seine ... suivez et partagez <a href="https://www.facebook.com/zigzagfestivalarchitecture/" title="Lien Facebook">Zigzag - festival d&#39;architecture et des arts de l&#39;espace</a> sur les réseaux sociaux pour rester informé !!</p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Zigzag 2019 - Visites de chantier au Havre]]></title>
-            <link>https://festivalzigzag.fr/stories/visites-de-chantier-au-havre</link>
-            <guid>https://festivalzigzag.fr/stories/visites-de-chantier-au-havre</guid>
-            <pubDate>Mon, 19 Jan 1970 06:16:34 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="la-cité-numérique">LA CITÉ NUMÉRIQUE</h2>
-<p>Entre ville et port, ce totem architectural conçu par l’agence Groupe 6 est un projet à 360 degrés, au centre du campus maritime, tourné vers le large, la ville, les quais, la marina et la gare. Sa silhouette élancée affirme ses plateaux, avec des formes simples et rectilignes inscrites dans l’histoire des Docks. Ses façades en résille métallique révèlent sa vie intérieure, via les interstices entre ses différents niveaux, laissant apparaître le cœur de l’École de Management de Normandie et de la Cité Du Numérique. Un projet dont le programme et l’usage ont fait l’objet d’une concertation avec les habitants.</p>
-<p>Avec les architectes du projet et de la CU du Havre Métropole.</p>
-<h3 id="parole-de-paterne-bulcourt">Parole de Paterne Bulcourt</h3>
-<p><em>Architecte associé - La Manufacture d&#39;Architecture et membre du conseil d&#39;administration de la Maison de l&#39;architecture de Normandie - le Forum</em> </p>
-<p>« De simples curieux, voisins ou assidus de la MaN-Le Forum sont impatients de débuter la visite de la future cité numérique. Le Maître d’ouvrage et l’architecte de l’opération présentent le programme initial et ses ambitions. Vient le moment de s’équiper : casques blancs, et chasubles jaunes et oranges sont indispensables à toute bonne visite de chantier.</p>
-<p>La procession multicolore se dirige alors de surprises en surprises : un hall impressionnant, une terrasse panoramique donnant sur le Havre, des bureaux et des salles de classes inondés d’une lumière tamisée, maîtrisée par la résille métallique travaillée en façade. Les visiteurs sont conquis : <em>comment d’une telle massivité apparente peut-on passer à une telle finesse de lumières et de vues depuis l’intérieur ? Les futurs occupants auront bien de la chance de travailler ici !</em> »</p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Zigzag 2020 - J-1]]></title>
-            <link>https://festivalzigzag.fr/stories/zigzag-2020-j-1</link>
-            <guid>https://festivalzigzag.fr/stories/zigzag-2020-j-1</guid>
-            <pubDate>Mon, 19 Jan 1970 12:53:46 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="ouverture-du-festival-le-samedi-3-octobre-">OUVERTURE DU FESTIVAL LE SAMEDI 3 OCTOBRE !</h2>
-<p>La Maison de l&#39;architecture de Normandie - le Forum rouvre ses portes ce samedi 3 octobre pour l&#39;exposition <strong>&quot;Utopie fluviale&quot;</strong> dans le cadre du festival d&#39;architecture Zigzag :</p>
-<p>Le collectif d’artistes et d’architectes <strong>Dans le Sens de Barge</strong> offre un cycle de programmation artistique (résidences, workshops, expositions, ateliers et fêtes) favorisant le lien social et culturel sur la Seine. A l’occasion du festival Zigzag 2020, le collectif propose “Utopie Fluviale” : un retour sur la génèse du projet, sa raison d&#39;être artistique puisée au sein du fleuve, de l’eau, de l’inertie, des traversées. Cette exposition sera l&#39;occasion de présenter l&#39;état d&#39;avancée du projet fluvio-maritime BARGE réalisé par l&#39;architecte Pierre Delion et de montrer les propositions élaborées par les étudiants en design et en architecture de l&#39;<strong>ENSCI - Les Ateliers</strong> et de l’<strong>ENSA Normandie</strong>, autour des futures escales des embarcations.</p>
-<ul>
-<li>Accès libre du 3 au 30 octobre au 48 rue Victor Hugo à Rouen</li>
-<li>Rencontre avec le collectif le 9 octobre à 18h : <a href="https://festivalzigzag.fr/events/le-silence-des-coquilles">LE SILENCE DES COQUILLES</a></li>
-</ul>
-<p>Ce week-end, retrouvez le festival Zigzag le long de la Seine pour des parcours et visites à Grand Quevilly, Quillebeuf-sur-Seine, Rives-en-Seine, Rouen, Moulineaux et Goustranville.</p>
-<p><strong>#zigzagfestivalarchitecture</strong></p>
-]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Zigzag 2020 - exposition ]]></title>
             <link>https://festivalzigzag.fr/stories/zigzag-2020-exposition</link>
             <guid>https://festivalzigzag.fr/stories/zigzag-2020-exposition</guid>
@@ -398,6 +382,22 @@
 <li>du mardi au vendredi : 14h - 18h // le samedi : 10h30 - 12h30 / 14h - 18h</li>
 <li>le Forum - Maison de l&#39;architecture de Normandie | 48 rue Victor Hugo, 76000 Rouen</li>
 </ul>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Zigzag 2020 - J-1]]></title>
+            <link>https://festivalzigzag.fr/stories/zigzag-2020-j-1</link>
+            <guid>https://festivalzigzag.fr/stories/zigzag-2020-j-1</guid>
+            <pubDate>Mon, 19 Jan 1970 12:53:46 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="ouverture-du-festival-le-samedi-3-octobre-">OUVERTURE DU FESTIVAL LE SAMEDI 3 OCTOBRE !</h2>
+<p>La Maison de l&#39;architecture de Normandie - le Forum rouvre ses portes ce samedi 3 octobre pour l&#39;exposition <strong>&quot;Utopie fluviale&quot;</strong> dans le cadre du festival d&#39;architecture Zigzag :</p>
+<p>Le collectif d’artistes et d’architectes <strong>Dans le Sens de Barge</strong> offre un cycle de programmation artistique (résidences, workshops, expositions, ateliers et fêtes) favorisant le lien social et culturel sur la Seine. A l’occasion du festival Zigzag 2020, le collectif propose “Utopie Fluviale” : un retour sur la génèse du projet, sa raison d&#39;être artistique puisée au sein du fleuve, de l’eau, de l’inertie, des traversées. Cette exposition sera l&#39;occasion de présenter l&#39;état d&#39;avancée du projet fluvio-maritime BARGE réalisé par l&#39;architecte Pierre Delion et de montrer les propositions élaborées par les étudiants en design et en architecture de l&#39;<strong>ENSCI - Les Ateliers</strong> et de l’<strong>ENSA Normandie</strong>, autour des futures escales des embarcations.</p>
+<ul>
+<li>Accès libre du 3 au 30 octobre au 48 rue Victor Hugo à Rouen</li>
+<li>Rencontre avec le collectif le 9 octobre à 18h : <a href="https://festivalzigzag.fr/events/le-silence-des-coquilles">LE SILENCE DES COQUILLES</a></li>
+</ul>
+<p>Ce week-end, retrouvez le festival Zigzag le long de la Seine pour des parcours et visites à Grand Quevilly, Quillebeuf-sur-Seine, Rives-en-Seine, Rouen, Moulineaux et Goustranville.</p>
+<p><strong>#zigzagfestivalarchitecture</strong></p>
 ]]></content:encoded>
         </item>
         <item>
@@ -583,18 +583,6 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Zigzag 2021 - week-end #3]]></title>
-            <link>https://festivalzigzag.fr/stories/zigzag-2021-week-end-3</link>
-            <guid>https://festivalzigzag.fr/stories/zigzag-2021-week-end-3</guid>
-            <pubDate>Mon, 19 Jan 1970 21:55:34 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="zigzag---dernier-week-end">ZIGZAG - DERNIER WEEK-END</h2>
-<p>Samedi 9 octobre, on a visité Gonfreville-l&#39;Orcher avec le <strong>Pays d’art et d’histoire Le Havre Seine Métropole</strong> et le <strong>service Patrimoine</strong> de la ville. Au même moment, on était en promenade paysagère au Havre avec <strong>Franck Gaillet de la Fédération Française du Paysage - Normandie</strong> et au <strong>Port Center</strong> avec <strong>Dans le Sens de Barge</strong> pour une matinée démonstration/rencontre.</p>
-<p>Toute la journée, on est monté sur les toits de <strong>Grand Quevilly</strong> pour une lecture insolite de cette ville bien verte et, entre-temps, on s&#39;est baladé avec le <strong>CAUE de l&#39;Eure</strong> à la Chapelle Longueville entre les vignes.</p>
-<p>Et à Rouen, on a profité du dernier jour des expositions sur les paysages de la Seine au Forum, conçues par l’<strong>Agence d’Urbanisme Le Havre - Estuaire de la Seine (AURH)</strong> et l’<strong>École natio­nale supérieure de paysage de Versailles (ENSP)</strong> !</p>
-<p>Et dimanche…</p>
-]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Zigzag 2021 - week-end #3 (suite et fin)]]></title>
             <link>https://festivalzigzag.fr/stories/zigzag-2021-week-end-3-suite-et-fin</link>
             <guid>https://festivalzigzag.fr/stories/zigzag-2021-week-end-3-suite-et-fin</guid>
@@ -605,6 +593,18 @@
 <p>Merci à tous pour ces belles journées Zigzag et rendez-vous en 2022 pour une nouvelle édition du festival !</p>
 <p><strong><em>#zigzagfestivalarchitecture</em></strong> est porté par la <a href="http://man-leforum.fr/maison-de-l-architecture/">Maison de l&#39;architecture de Normandie - le Forum</a></p>
 <p><strong><em>#touspourlarchi</em></strong></p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Zigzag 2021 - week-end #3]]></title>
+            <link>https://festivalzigzag.fr/stories/zigzag-2021-week-end-3</link>
+            <guid>https://festivalzigzag.fr/stories/zigzag-2021-week-end-3</guid>
+            <pubDate>Mon, 19 Jan 1970 21:55:34 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="zigzag---dernier-week-end">ZIGZAG - DERNIER WEEK-END</h2>
+<p>Samedi 9 octobre, on a visité Gonfreville-l&#39;Orcher avec le <strong>Pays d’art et d’histoire Le Havre Seine Métropole</strong> et le <strong>service Patrimoine</strong> de la ville. Au même moment, on était en promenade paysagère au Havre avec <strong>Franck Gaillet de la Fédération Française du Paysage - Normandie</strong> et au <strong>Port Center</strong> avec <strong>Dans le Sens de Barge</strong> pour une matinée démonstration/rencontre.</p>
+<p>Toute la journée, on est monté sur les toits de <strong>Grand Quevilly</strong> pour une lecture insolite de cette ville bien verte et, entre-temps, on s&#39;est baladé avec le <strong>CAUE de l&#39;Eure</strong> à la Chapelle Longueville entre les vignes.</p>
+<p>Et à Rouen, on a profité du dernier jour des expositions sur les paysages de la Seine au Forum, conçues par l’<strong>Agence d’Urbanisme Le Havre - Estuaire de la Seine (AURH)</strong> et l’<strong>École natio­nale supérieure de paysage de Versailles (ENSP)</strong> !</p>
+<p>Et dimanche…</p>
 ]]></content:encoded>
         </item>
     </channel>

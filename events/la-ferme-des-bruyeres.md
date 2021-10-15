@@ -22,7 +22,10 @@ informations:
   rdv: 'RDV : parc du Champ des Bruyères, devant l''entrée de la ferme, côté rue du
     Madrillet au niveau de la rue Boiëldieu, Saint-Etienne-du-Rouvray. Métro – arrêt
     Champ de Courses'
-gallery: []
+gallery:
+- "/files/image-d-ios-23.jpg"
+- "/files/image-d-ios-25.jpg"
+- "/files/image-d-ios-21.jpg"
 
 ---
 D’une surface de 28 hectares, le Champ des Bruyères offre un nouvel aménagement paysager composé de 5000 arbres plantés dont un verger conservatoire et une forêt comestible, une grande pelouse de 2 hectares, 3 aires de jeux de 1000 à 8000m², une réserve écologique permettant le développement d’espèces remarquables, un jardin partagé et une ferme pédagogique. Deux associations, Le Champ des Possibles et Triticum, par convention avec la Métropole Rouen Normandie gèrent la ferme des Bruyères, une ferme citoyenne et pédagogique en agroécologie.   
