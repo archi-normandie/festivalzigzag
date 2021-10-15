@@ -22,7 +22,10 @@ informations:
     2021.
   rdv: 'RDV : devant l’école élémentaire Les Portes de la Forêt, place des Erables
     76230 Bois-Guillaume. Bus 11 - arrêt Table de Pierre'
-gallery: []
+gallery:
+- "/files/dscf0303.jpg"
+- "/files/dscf0317.jpg"
+- "/files/image-d-ios-98.jpg"
 
 ---
 Aux Portes de la Forêt à Bois-Guillaume, l’exposition ZOOnose de la photographe Christel JEANNE, investit cheminement piéton et parc urbain.
