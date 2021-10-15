@@ -21,7 +21,7 @@ informations:
   note: |-
     Départs par groupes de 6 personnes toutes les 10 minutes entre 13h30 et 14h30. Attention à bien s’inscrire sur le créneau et le respecter. Possibilité de rapatriement en navette depuis l’arrivée jusqu’au point de départ.
     Jeu conseillé pour les enfants à partir de 10 ans.
-  rdv: 'RDV : Fabrique des savoirs - 7 cours Gambetta. Bus E – arrêt IUT'
+  rdv: Ce rendez-vous à malheureusement était annulé.
 gallery: []
 
 ---
