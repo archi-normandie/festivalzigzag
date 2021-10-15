@@ -21,7 +21,8 @@ informations:
   note: Tous publics. La visite peut se faire dans la continuité de celle de 14h ou
     indépendamment.
   rdv: 'RDV : 5 rue Auguste Desgenétais Bolbec'
-gallery: []
+gallery:
+- "/files/img_3868.JPG"
 
 ---
 Longtemps le textile a marqué l’histoire de Bolbec. Situé au cœur de la vallée du commerce, surnommée la vallée d’or, le site porte l’héritage de cette activité flamboyante qui a fait vivre des milliers de familles.
