@@ -21,7 +21,10 @@ informations:
   note: Tous publics
   rdv: 'RDV : 25 rue de la république à Elbeuf-sur-Seine. Bus A, B et F – arrêt Le
     Coq // Bus B et C – arrêt Sevestre Aîné '
-gallery: []
+gallery:
+- "/files/img_3970.JPG"
+- "/files/img_3968.JPG"
+- "/files/img_3964.JPG"
 
 ---
 Ancienne cité drapière, Elbeuf-sur-Seine possède un patrimoine industriel qui confère à son centre historique un caractère remarquable, avec ses maisons à colombages et d’anciennes manufactures. Le quartier République, situé en plein cœur de ville, s’engage dans un projet d’animation, de rénovation urbaine et de transformation, avec l’objectif d’ouvrir le quartier au reste de la ville et de renforcer son attractivité. Le projet _Quartier ambition République_ est mené dans une démarche participative pour imaginer avec les habitants de nouveaux usages et aménagements à venir.
