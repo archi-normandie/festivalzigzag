@@ -21,7 +21,10 @@ informations:
   note: Tous publics
   rdv: 'RDV : esplanade de l’Hôtel de Ville. Métro vers Georges Braque – arrêt Léon
     Blum // Bus 42 – arrêt Centre administratif'
-gallery: []
+gallery:
+- "/files/image-d-ios-15.jpg"
+- "/files/image-d-ios-14.jpg"
+- "/files/image-d-ios-19.jpg"
 
 ---
 Cette balade inaugure un nouvel itinéraire, jalonné de 12 cartels pour découvrir la ville et comprendre les différentes étapes de sa fabrication. La balade proposée démarre à l’esplanade de l’Hôtel de Ville, passe par la cité scolaire, empreinte le mail piéton jusqu’à la place Eugène Delacroix et le quartier Matisse… cette partie du parcours met en avant Grand Quevilly dans sa dimension contemporaine, la relation des équipements aux espaces publics et à la nature qui donnent à la ville sa qualité urbaine.
