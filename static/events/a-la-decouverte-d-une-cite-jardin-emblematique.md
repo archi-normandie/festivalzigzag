@@ -20,7 +20,10 @@ address:
 informations:
   note: Tous publics
   rdv: 'RDV : Place de Normandie – Port-Jérôme-sur-Seine'
-gallery: []
+gallery:
+- "/files/img_3943.JPG"
+- "/files/img_3941.JPG"
+- "/files/20211001_162141.jpg"
 
 ---
 Le C.A.U.E 76 propose de découvrir le concept des cités-jardins en parcourant celle conçue au début des années 1930 à Port-Jérôme-sur-Seine pour loger les employés de la raffinerie Standard ! Modèle urbain pensé avec un aspect rural, cette cité-jardin se déploie de manière originale autour d'une place centrale. Nous y découvrirons comment l'architecture de style néo-régionaliste, détournant des principes constructifs traditionnels, comme le pan de bois, le torchis, invente à l’époque un paysage unique.
