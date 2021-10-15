@@ -23,7 +23,10 @@ informations:
     préciser lors de l’inscription vos éventuelles difficultés afin de prévoir un
     cheminement adapté.'
   rdv: 'RDV : Mairie de Montivilliers, place François Mitterrand '
-gallery: []
+gallery:
+- "/files/img_4603.JPG"
+- "/files/img_4557.JPG"
+- "/files/img_4541.JPG"
 
 ---
 Venez (re)découvrir la richesse et le potentiel urbain du centre-ville de Montivilliers à travers une promenade spécialement conçue pour en approcher les multiples ambiances et nombreuses facettes. Des points d’arrêts choisis permettront d’échanger sur l’évolution des espaces, leurs qualités intrinsèques et points d’améliorations potentiels. Ces regards croisés, de grands ou petits connaisseurs, ne manqueront pas d’alimenter les réflexions de la future résidence d’architecture afin de (re)dynamiser cet ensemble historique pour les promeneurs et habitants du territoire.

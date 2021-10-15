@@ -4,7 +4,7 @@
         <title></title>
         <link>https://festivalzigzag.fr/rss.xml</link>
         <description>Journal du Festival Zigzag</description>
-        <lastBuildDate>Fri, 15 Oct 2021 14:39:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 14:41:22 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
         <item>
@@ -289,28 +289,6 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Zigzag 2019 - Visite des nouvelles serres du Jardin des plantes de Rouen]]></title>
-            <link>https://festivalzigzag.fr/stories/visite-des-nouvelles-serres-du-jardin-des-plantes-de-rouen</link>
-            <guid>https://festivalzigzag.fr/stories/visite-des-nouvelles-serres-du-jardin-des-plantes-de-rouen</guid>
-            <pubDate>Mon, 19 Jan 1970 06:16:34 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="les-serres-du-jardin-des-plantes">LES SERRES DU JARDIN DES PLANTES</h2>
-<p>Construites au XIXe et XXe siècles, les serres du jardin des plantes menaçaient de s’écrouler. Après 17 mois de travaux, la serre centrale classée aux Monuments historiques a été restaurée pour abriter un parcours pédagogique. Les serres tropicales et un groupe de sept serres ont été quant à elles reconstruites. L’intervention architecturale sert le projet scientifique des serres et fait entrer ce patrimoine dans le XXI e siècle, en alliant conservation, mises aux normes multiples et interventions contemporaines.</p>
-<p>Avec Jeremy Thirel, architecte MVT.</p>
-<h3 id="les-visites-architecturales-et-de-chantiers">LES VISITES ARCHITECTURALES ET DE CHANTIERS</h3>
-<p>Au delà de la simple visite, sur l’ensemble du festival, d’autres questions sont posées :</p>
-<ul>
-<li>Existe-t-il une architecture normande ?</li>
-<li>Quelle(s) spécificité(s) de la vallée de la Seine ?</li>
-</ul>
-<p>Les points forts des projets architecturaux retenus sont plus liés au contexte qu’à la géographie :</p>
-<ul>
-<li>réhabilitation / requalification de patrimoine</li>
-<li>grands équipements publics pour une attractivité métropolitaine</li>
-<li>architecture respectueuse du développement durable</li>
-</ul>
-]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Zigzag 2019 - Visites de chantier au Havre]]></title>
             <link>https://festivalzigzag.fr/stories/visites-de-chantier-au-havre</link>
             <guid>https://festivalzigzag.fr/stories/visites-de-chantier-au-havre</guid>
@@ -334,6 +312,28 @@
 <p>La Maison de l&#39;architecture de Normandie - le Forum préparait l&#39;édition 2020 depuis plusieurs mois, quand le confinement est passé par là et le télétravail de rigueur.<br>L&#39;équipe tient encore à remercier tous ses partenaires, qui étaient présents à tous les instants pour monter la programmation du festival, et à tous les participants pour leurs inscriptions aux événements Zigzag 2020 malgré la situation sanitaire.</p>
 <p>Toutes ces bonnes volontés n&#39;ont malheureusement pas permis de maintenir tous les événements, que tous auraient aimé vivre : le parcours chorégraphique et le rallye vélo à <strong>Grand Quevilly</strong>, la soirée projection d&#39;<strong>Echelle Inconnue</strong>, la randonnée curieuse à <strong>Rives-en-Seine</strong>, la balade fluviale à <strong>Rouen</strong>, la randonnée à <strong>Achères avec Le voyage métropolitain</strong> ou la balade patrimoniale à la <strong>Mailleraye-sur-Seine avec le Parc naturel régional des Boucles de la Seine Normande</strong>.</p>
 <p>L&#39;édition 2021 est déjà en préparation le long de la vallée de la Seine ... suivez et partagez <a href="https://www.facebook.com/zigzagfestivalarchitecture/" title="Lien Facebook">Zigzag - festival d&#39;architecture et des arts de l&#39;espace</a> sur les réseaux sociaux pour rester informé !!</p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Zigzag 2019 - Visite des nouvelles serres du Jardin des plantes de Rouen]]></title>
+            <link>https://festivalzigzag.fr/stories/visite-des-nouvelles-serres-du-jardin-des-plantes-de-rouen</link>
+            <guid>https://festivalzigzag.fr/stories/visite-des-nouvelles-serres-du-jardin-des-plantes-de-rouen</guid>
+            <pubDate>Mon, 19 Jan 1970 06:16:34 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="les-serres-du-jardin-des-plantes">LES SERRES DU JARDIN DES PLANTES</h2>
+<p>Construites au XIXe et XXe siècles, les serres du jardin des plantes menaçaient de s’écrouler. Après 17 mois de travaux, la serre centrale classée aux Monuments historiques a été restaurée pour abriter un parcours pédagogique. Les serres tropicales et un groupe de sept serres ont été quant à elles reconstruites. L’intervention architecturale sert le projet scientifique des serres et fait entrer ce patrimoine dans le XXI e siècle, en alliant conservation, mises aux normes multiples et interventions contemporaines.</p>
+<p>Avec Jeremy Thirel, architecte MVT.</p>
+<h3 id="les-visites-architecturales-et-de-chantiers">LES VISITES ARCHITECTURALES ET DE CHANTIERS</h3>
+<p>Au delà de la simple visite, sur l’ensemble du festival, d’autres questions sont posées :</p>
+<ul>
+<li>Existe-t-il une architecture normande ?</li>
+<li>Quelle(s) spécificité(s) de la vallée de la Seine ?</li>
+</ul>
+<p>Les points forts des projets architecturaux retenus sont plus liés au contexte qu’à la géographie :</p>
+<ul>
+<li>réhabilitation / requalification de patrimoine</li>
+<li>grands équipements publics pour une attractivité métropolitaine</li>
+<li>architecture respectueuse du développement durable</li>
+</ul>
 ]]></content:encoded>
         </item>
         <item>
@@ -533,24 +533,6 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Zigzag 2021 - week-end #1]]></title>
-            <link>https://festivalzigzag.fr/stories/zigzag-2021-week-end-1</link>
-            <guid>https://festivalzigzag.fr/stories/zigzag-2021-week-end-1</guid>
-            <pubDate>Mon, 19 Jan 1970 21:35:20 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="zigzag---1er-week-end">ZIGZAG - 1er WEEK-END</h2>
-<p>Vendredi soir, on a lancé le festival en compagnie des partenaires Zigzag 2021 ; on a découvert les expositions sur les paysages de la Seine avec l&#39;<strong>Ecole nationale supérieure de paysage</strong> et l&#39;<strong>AURH</strong> au Forum ; on a visité l&#39;exposition La Massage avec <strong>La loge des auteurs photographes</strong> rue Victor Hugo à Ville de Rouen dans le cadre d&#39;EOP.</p>
-<ul>
-<li>Les expositions : <a href="https://festivalzigzag.fr/events/les-paysages-de-la-seine">Les paysages de la Seine</a></li>
-<li>Le projet EOP : <a href="http://man-leforum.fr/maison-de-l-architecture/projets-hors-les-murs/eop/">EOP - Espaces d&#39;Œuvres Photographiques</a></li>
-</ul>
-<p>Samedi, on a fait la fête à roulettes avec <strong>Les Gens des Lieux</strong> pour inaugurer GENiUS 2021 au Havre ; on est passé à l&#39;action à <strong>La Manufacture des Capucins</strong> à Vernon ; on a visité le chantier de la maison du <strong>Parc naturel régional des Boucles de la Seine Normande</strong> ; on a compris le rôle d&#39;un écoquartier en milieu rural avec <strong>Guénolé Le Moaligou</strong> ; on a respiré au parc du Champ des Bruyères avec la <strong>Métropole Rouen Normandie</strong> et l&#39;<strong>Atelier Philippe Madec</strong>.</p>
-<ul>
-<li>Le projet <a href="https://festivalzigzag.fr/events/genius-2021-ca-roule">GENiUS 2021 : ça roule !</a></li>
-</ul>
-<p>Et dimanche… </p>
-]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Zigzag 2021 - week-end #2 (suite)]]></title>
             <link>https://festivalzigzag.fr/stories/zigzag-2021-week-end-2-suite</link>
             <guid>https://festivalzigzag.fr/stories/zigzag-2021-week-end-2-suite</guid>
@@ -568,6 +550,24 @@
 <p>Merci à tous pour ces belles journées Zigzag et rendez-vous ce week-end pour les derniers événements : <a href="https://festivalzigzag.fr/agenda">festivalzigzag.fr</a></p>
 <p><strong><em>#zigzagfestivalarchitecture</em></strong> est porté par la <a href="http://man-leforum.fr/maison-de-l-architecture/">Maison de l&#39;architecture de Normandie - le Forum</a></p>
 <p><strong><em>#touspourlarchi</em></strong></p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Zigzag 2021 - week-end #1]]></title>
+            <link>https://festivalzigzag.fr/stories/zigzag-2021-week-end-1</link>
+            <guid>https://festivalzigzag.fr/stories/zigzag-2021-week-end-1</guid>
+            <pubDate>Mon, 19 Jan 1970 21:35:20 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="zigzag---1er-week-end">ZIGZAG - 1er WEEK-END</h2>
+<p>Vendredi soir, on a lancé le festival en compagnie des partenaires Zigzag 2021 ; on a découvert les expositions sur les paysages de la Seine avec l&#39;<strong>Ecole nationale supérieure de paysage</strong> et l&#39;<strong>AURH</strong> au Forum ; on a visité l&#39;exposition La Massage avec <strong>La loge des auteurs photographes</strong> rue Victor Hugo à Ville de Rouen dans le cadre d&#39;EOP.</p>
+<ul>
+<li>Les expositions : <a href="https://festivalzigzag.fr/events/les-paysages-de-la-seine">Les paysages de la Seine</a></li>
+<li>Le projet EOP : <a href="http://man-leforum.fr/maison-de-l-architecture/projets-hors-les-murs/eop/">EOP - Espaces d&#39;Œuvres Photographiques</a></li>
+</ul>
+<p>Samedi, on a fait la fête à roulettes avec <strong>Les Gens des Lieux</strong> pour inaugurer GENiUS 2021 au Havre ; on est passé à l&#39;action à <strong>La Manufacture des Capucins</strong> à Vernon ; on a visité le chantier de la maison du <strong>Parc naturel régional des Boucles de la Seine Normande</strong> ; on a compris le rôle d&#39;un écoquartier en milieu rural avec <strong>Guénolé Le Moaligou</strong> ; on a respiré au parc du Champ des Bruyères avec la <strong>Métropole Rouen Normandie</strong> et l&#39;<strong>Atelier Philippe Madec</strong>.</p>
+<ul>
+<li>Le projet <a href="https://festivalzigzag.fr/events/genius-2021-ca-roule">GENiUS 2021 : ça roule !</a></li>
+</ul>
+<p>Et dimanche… </p>
 ]]></content:encoded>
         </item>
         <item>
