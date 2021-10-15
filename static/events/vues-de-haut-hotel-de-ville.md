@@ -26,7 +26,10 @@ informations:
     Possibilité de faire les trois visites à la suite (environ 20-25 minutes de marches entre chaque site).
   rdv: 'RDV : Hôtel de Ville - Esplanade Tony Larue. Métro – arrêt Léon Blum // Bus
     42 – arrêt Centre administratif'
-gallery: []
+gallery:
+- "/files/img_4476.JPG"
+- "/files/image-d-ios-3.jpg"
+- "/files/05.jpg"
 
 ---
 Depuis les toits, la ville de Grand Quevilly offre un autre visage : les pics et les tours dessinent un skyline qui racontent le développement de la ville, tandis qu’au loin, les côteaux, les silos du port, les cheminées des usines et autres repères urbains composent le paysage de bord de Seine.  
