@@ -22,7 +22,10 @@ informations:
     est demandé. Prévoir sa participation pour l’arrêt café et un pique-nique.
   rdv: 'RDV : 10h parking Decathlon av. Jean Monnet à Pont-Audemer - arrivée 16h mairie
     de Saint-Sulpice-de-Grimbouville, retour en voiture au parking Decathlon'
-gallery: []
+gallery:
+- "/files/photo.jpg"
+- "/files/3.jpg"
+- "/files/2.jpg"
 
 ---
 Le territoire de Pont-Audemer est depuis plusieurs dizaines d’années le théâtre d’un très grand dynamisme en termes d’architecture et de paysage. Les réalisations et projets sont nombreux, le fruit de tout ce travail est une richesse qui vient s’ajouter aux qualités de cette ville et de sa campagne que nous vous proposons de visiter.
