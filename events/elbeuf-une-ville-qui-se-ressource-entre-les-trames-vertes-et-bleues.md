@@ -20,7 +20,10 @@ address:
 informations:
   note: Tous publics
   rdv: RDV place Aristide Briant (Hôtel de ville). Bus 32 et C – arrêt Mairie d’Elbeuf
-gallery: []
+gallery:
+- "/files/img_4103.JPG"
+- "/files/img_4062.JPG"
+- "/files/xhtm3519.JPG"
 
 ---
 La ville d’Elbeuf-sur-Seine, au passé industriel particulièrement riche, est peu connue pour son patrimoine naturel. La commune est pourtant couverte à 70% d’espaces forestiers ainsi que de 34 hectares de parcs et jardins. Elle est également bordée en bord de Seine sur 3 kilomètres par une large berge. La commune souhaite mettre à profit cette belle continuité entre la trame verte et la trame bleue sur les espaces multiples qui composent la ville, par le projet : _1000 arbres pour Elbeuf_.

@@ -4,7 +4,7 @@
         <title></title>
         <link>https://festivalzigzag.fr/rss.xml</link>
         <description>Journal du Festival Zigzag</description>
-        <lastBuildDate>Fri, 15 Oct 2021 14:13:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 14:16:47 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
         <item>
@@ -167,6 +167,25 @@
 ]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Zigzag 2019 - Parcours au cœur d'une ville en chantier]]></title>
+            <link>https://festivalzigzag.fr/stories/parcours-urbain-au-coeur-d-un-beuzeville-en-chantier</link>
+            <guid>https://festivalzigzag.fr/stories/parcours-urbain-au-coeur-d-un-beuzeville-en-chantier</guid>
+            <pubDate>Mon, 19 Jan 1970 06:16:30 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="beuzeville-2020">BEUZEVILLE 2020</h2>
+<p>Beuzeville s’est lancée dans la reconquête de son cœur de ville, un projet urbain d’envergure qui, à travers la requalification du centre historique permettra de redynamiser l’ensemble de la ville et en changera durablement l’image. L’aménagement le plus important est celui du centre-bourg avec la création du pôle culturel de la cidrerie. La réhabilitation de cette friche industrielle désaffectée comprend un marché couvert alternatif, un foyer, un auditorium, une salle de spectacle et un silo-exposition.</p>
+<p>Aux côtés des paysagistes de Babylone et des architectes de Sunmetron, ce parcours permet d’appréhender le rôle de l’architecture et du paysage dans la dynamique économique et le rayonnement d’une commune.</p>
+<h3 id="les-visites-architecturales-et-de-chantiers">LES VISITES ARCHITECTURALES ET DE CHANTIERS</h3>
+<p>Ce qui est en jeu lors des visites :</p>
+<ul>
+<li>Donner à comprendre / à ressentir l’espace à l’échelle d’un bâtiment.</li>
+<li>Décrypter l’architecture dans les pas et les mots de l’architecte et de la maîtrise d’ouvrage.</li>
+<li>Comprendre le jeu de rôle, maîtres d’ouvrage / maîtres d’oeuvre / utilisateurs, permettant de mettre en lumière la complexité de la construction architecturale, la fabrication d’un projet.</li>
+<li>Appréhender le temps long du chantier.</li>
+</ul>
+<p>Les visites architecturales sont très plébiscitées par le public : elles donnent la possibilité d’entrer dans un bâtiment, comprendre sa fabrication, cheminer et appréhender l’articulation des espaces, les usages, la lumière, le parti architectural, les matériaux...</p>
+]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Zigzag 2019 - Parcours urbain à Elbeuf-sur-Seine]]></title>
             <link>https://festivalzigzag.fr/stories/parcours-urbain-a-elbeuf-sur-seine</link>
             <guid>https://festivalzigzag.fr/stories/parcours-urbain-a-elbeuf-sur-seine</guid>
@@ -190,25 +209,6 @@
 <p>Découverte de la cohabitation fragile du bâti et des espaces naturels, des espaces de rétention, des efforts réalisés pour la biodiversité.</p>
 <p>Des paysages culturels évolutifs vivants ...</p>
 <p>Mise en valeur de quartiers en mutations profondes.</p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Zigzag 2019 - Parcours au cœur d'une ville en chantier]]></title>
-            <link>https://festivalzigzag.fr/stories/parcours-urbain-au-coeur-d-un-beuzeville-en-chantier</link>
-            <guid>https://festivalzigzag.fr/stories/parcours-urbain-au-coeur-d-un-beuzeville-en-chantier</guid>
-            <pubDate>Mon, 19 Jan 1970 06:16:30 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="beuzeville-2020">BEUZEVILLE 2020</h2>
-<p>Beuzeville s’est lancée dans la reconquête de son cœur de ville, un projet urbain d’envergure qui, à travers la requalification du centre historique permettra de redynamiser l’ensemble de la ville et en changera durablement l’image. L’aménagement le plus important est celui du centre-bourg avec la création du pôle culturel de la cidrerie. La réhabilitation de cette friche industrielle désaffectée comprend un marché couvert alternatif, un foyer, un auditorium, une salle de spectacle et un silo-exposition.</p>
-<p>Aux côtés des paysagistes de Babylone et des architectes de Sunmetron, ce parcours permet d’appréhender le rôle de l’architecture et du paysage dans la dynamique économique et le rayonnement d’une commune.</p>
-<h3 id="les-visites-architecturales-et-de-chantiers">LES VISITES ARCHITECTURALES ET DE CHANTIERS</h3>
-<p>Ce qui est en jeu lors des visites :</p>
-<ul>
-<li>Donner à comprendre / à ressentir l’espace à l’échelle d’un bâtiment.</li>
-<li>Décrypter l’architecture dans les pas et les mots de l’architecte et de la maîtrise d’ouvrage.</li>
-<li>Comprendre le jeu de rôle, maîtres d’ouvrage / maîtres d’oeuvre / utilisateurs, permettant de mettre en lumière la complexité de la construction architecturale, la fabrication d’un projet.</li>
-<li>Appréhender le temps long du chantier.</li>
-</ul>
-<p>Les visites architecturales sont très plébiscitées par le public : elles donnent la possibilité d’entrer dans un bâtiment, comprendre sa fabrication, cheminer et appréhender l’articulation des espaces, les usages, la lumière, le parti architectural, les matériaux...</p>
 ]]></content:encoded>
         </item>
         <item>
