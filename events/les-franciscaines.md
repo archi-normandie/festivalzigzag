@@ -20,7 +20,10 @@ address:
 informations:
   note: Tous publics
   rdv: 'RDV : Les Franciscaines - 145b Avenue de la République'
-gallery: []
+gallery:
+- "/files/11210011.JPG"
+- "/files/11210007.JPG"
+- "/files/20211003_112153.jpg"
 
 ---
 L’ensemble patrimonial des Franciscaines s’est réinvesti d’une vie nouvelle. Sa monumentalité à l’échelle de la ville, le haut portail toujours ouvert signifie clairement son nouveau statut de lieu culturel public.
