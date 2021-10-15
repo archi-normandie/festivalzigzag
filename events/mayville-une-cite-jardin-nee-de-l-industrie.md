@@ -20,7 +20,10 @@ address:
 informations:
   note: Durée 2h – parcours de 5,3 km avec dénivelé – se munir de chaussures de marche.
   rdv: 'RDV : devant l’école Jacques-Eberhardt – 16 avenue De Gaulle '
-gallery: []
+gallery:
+- "/files/dsaj6101.JPG"
+- "/files/kthq6432.JPG"
+- "/files/ldeh6771.JPG"
 
 ---
 Archétype de la cité ouvrière pensée par l’entreprise familiale Schneider lorsque celle-ci développe son activité en Normandie à la fin du XIXe siècle, Mayville conserve des vestiges de cette époque qui permettent de saisir l’esprit paternaliste de l’industriel. Depuis ce quartier jusqu’aux Côtes blanches et leur panorama sur l’estuaire, cette visite permet de comprendre la conception et la situation particulière de cette cité-jardin de Gonfreville-l’Orcher.

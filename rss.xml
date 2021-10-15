@@ -4,7 +4,7 @@
         <title></title>
         <link>https://festivalzigzag.fr/rss.xml</link>
         <description>Journal du Festival Zigzag</description>
-        <lastBuildDate>Fri, 15 Oct 2021 14:27:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 14:33:44 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
         <item>
@@ -83,21 +83,6 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Zigzag 2019 - Déambulationnage pour découvrir la Manufacture des Capucins]]></title>
-            <link>https://festivalzigzag.fr/stories/deambulationnage-pour-decouvrir-la-manufacture-des-capucins</link>
-            <guid>https://festivalzigzag.fr/stories/deambulationnage-pour-decouvrir-la-manufacture-des-capucins</guid>
-            <pubDate>Mon, 19 Jan 1970 06:16:45 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="la-manufacture-des-capucins">LA MANUFACTURE DES CAPUCINS</h2>
-<p>Pour saisir la transformation du Couvent des Capucins, bâtiment emblématique du XVII e siècle en « tiers lieu », venez suivre les improvisations des clowns de la compagnie Étincelle Bouillasse ! </p>
-<p>La Manufacture des Capucins, fédératrice de talents au service de la transition écologique du territoire de Seine Normandie Agglomération est engagée dans le changement des modes de vie. Elle génère un brassage intergénérationnel inédit de populations, raccordant l’éco quartier Fieschi au centre de Vernon. Productrice d’une vision de long terme, la Manufacture est d’abord le lieu de ressource et de rencontre, convivial et décalé qui manque à la ville.</p>
-<p>En partenariat et avec le soutien de l’agence MWAH.</p>
-<p>Pour suivre le projet : <a href="https://www.facebook.com/LaManufactureDesCapucins/">La Manufacture des Capucins</a></p>
-<h3 id="parole-detienne-lemoine">Parole d&#39;Etienne Lemoine</h3>
-<p><em>Architecte - agence d&#39;architecte MWAH et membre du conseil d&#39;administration de la Maison de l&#39;architecture de Normandie - le Forum</em></p>
-<p>« La Manufacture des Capucins est un nouveau tiers lieu ouvert à toutes les initiatives citoyennes en vue de porter sur le territoire de Vernon et de ses alentours la transition écologique et les changements des modes de vie. Nez rouge évidemment, maquillage, vêtements mal ajustés sur un corps maladroit, les clowns d’Etincelle Bouillasse ont préfiguré par leurs improvisations les futurs usages de cet ancien couvent afin d’en révéler de nouvelles manières d’habiter. »</p>
-]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Zigzag 2019 - Installation éphémère au Havre : Genius]]></title>
             <link>https://festivalzigzag.fr/stories/genius-2019-installation-ephemere-au-havre</link>
             <guid>https://festivalzigzag.fr/stories/genius-2019-installation-ephemere-au-havre</guid>
@@ -120,6 +105,21 @@
 </ul>
 <p><em>Dorothée Navarre, collectif Les Gens des Lieux</em></p>
 <p><strong>Genius revient en 2020 au Havre, suivez la page du collectif :</strong> <a href="https://www.facebook.com/Nouslesgensdeslieux/">Les Gens des Lieux</a></p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Zigzag 2019 - Déambulationnage pour découvrir la Manufacture des Capucins]]></title>
+            <link>https://festivalzigzag.fr/stories/deambulationnage-pour-decouvrir-la-manufacture-des-capucins</link>
+            <guid>https://festivalzigzag.fr/stories/deambulationnage-pour-decouvrir-la-manufacture-des-capucins</guid>
+            <pubDate>Mon, 19 Jan 1970 06:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="la-manufacture-des-capucins">LA MANUFACTURE DES CAPUCINS</h2>
+<p>Pour saisir la transformation du Couvent des Capucins, bâtiment emblématique du XVII e siècle en « tiers lieu », venez suivre les improvisations des clowns de la compagnie Étincelle Bouillasse ! </p>
+<p>La Manufacture des Capucins, fédératrice de talents au service de la transition écologique du territoire de Seine Normandie Agglomération est engagée dans le changement des modes de vie. Elle génère un brassage intergénérationnel inédit de populations, raccordant l’éco quartier Fieschi au centre de Vernon. Productrice d’une vision de long terme, la Manufacture est d’abord le lieu de ressource et de rencontre, convivial et décalé qui manque à la ville.</p>
+<p>En partenariat et avec le soutien de l’agence MWAH.</p>
+<p>Pour suivre le projet : <a href="https://www.facebook.com/LaManufactureDesCapucins/">La Manufacture des Capucins</a></p>
+<h3 id="parole-detienne-lemoine">Parole d&#39;Etienne Lemoine</h3>
+<p><em>Architecte - agence d&#39;architecte MWAH et membre du conseil d&#39;administration de la Maison de l&#39;architecture de Normandie - le Forum</em></p>
+<p>« La Manufacture des Capucins est un nouveau tiers lieu ouvert à toutes les initiatives citoyennes en vue de porter sur le territoire de Vernon et de ses alentours la transition écologique et les changements des modes de vie. Nez rouge évidemment, maquillage, vêtements mal ajustés sur un corps maladroit, les clowns d’Etincelle Bouillasse ont préfiguré par leurs improvisations les futurs usages de cet ancien couvent afin d’en révéler de nouvelles manières d’habiter. »</p>
 ]]></content:encoded>
         </item>
         <item>
@@ -571,18 +571,6 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Zigzag 2021 - week-end #2]]></title>
-            <link>https://festivalzigzag.fr/stories/zigzag-2021-week-end-2</link>
-            <guid>https://festivalzigzag.fr/stories/zigzag-2021-week-end-2</guid>
-            <pubDate>Mon, 19 Jan 1970 21:48:22 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="zigzag---2eme-week-end">ZIGZAG - 2EME WEEK-END</h2>
-<p>&lt; ZIGZAG - 2ème WEEK-END &gt;</p>
-<p>Le week-end a commencé vendredi avec la balade du <strong>CAUE de la Seine-Maritime</strong> &quot;À la découverte d’une cité jardin emblématique&quot; à Port-Jérôme. Le soir, on découvrait le projet du renouveau du quartier République à Elbeuf Sur Seine, avec la <strong>Métropole Rouen Normandie</strong> et <strong>Emmanuel Côme</strong>, architecte. Au même moment au Havre, on assistait à une table-ronde à <strong>La Halle aux Poissons</strong>, suivi d&#39;un dîner d&#39;exception de <strong>Le Donjon - Domaine Saint Clair</strong> !</p>
-<p>Samedi, on s&#39;est levé tôt pour une randonnée le long de la Seine avec <strong>Le voyage métropolitain</strong> et une visite architecturale à Pont-Audemer du nouveau cinéma conçu par les architectes des agences <strong>Jakob + MacFarlane</strong> et <strong>Atelier Des Deux Anges</strong>. Puis on est retourné à Elbeuf-sur-Seine pour une balade paysagère entre les trames vertes et bleues de la ville avec <strong>Denis Comont</strong>, paysagiste-concepteur <strong>agence Arc en terre</strong>, et le soutien de la <strong>Fédération Française du Paysage - Normandie</strong>.</p>
-<p>Et dimanche…</p>
-]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Zigzag 2021 - week-end #3 (suite et fin)]]></title>
             <link>https://festivalzigzag.fr/stories/zigzag-2021-week-end-3-suite-et-fin</link>
             <guid>https://festivalzigzag.fr/stories/zigzag-2021-week-end-3-suite-et-fin</guid>
@@ -593,6 +581,18 @@
 <p>Merci à tous pour ces belles journées Zigzag et rendez-vous en 2022 pour une nouvelle édition du festival !</p>
 <p><strong><em>#zigzagfestivalarchitecture</em></strong> est porté par la <a href="http://man-leforum.fr/maison-de-l-architecture/">Maison de l&#39;architecture de Normandie - le Forum</a></p>
 <p><strong><em>#touspourlarchi</em></strong></p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Zigzag 2021 - week-end #2]]></title>
+            <link>https://festivalzigzag.fr/stories/zigzag-2021-week-end-2</link>
+            <guid>https://festivalzigzag.fr/stories/zigzag-2021-week-end-2</guid>
+            <pubDate>Mon, 19 Jan 1970 21:48:22 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="zigzag---2eme-week-end">ZIGZAG - 2EME WEEK-END</h2>
+<p>&lt; ZIGZAG - 2ème WEEK-END &gt;</p>
+<p>Le week-end a commencé vendredi avec la balade du <strong>CAUE de la Seine-Maritime</strong> &quot;À la découverte d’une cité jardin emblématique&quot; à Port-Jérôme. Le soir, on découvrait le projet du renouveau du quartier République à Elbeuf Sur Seine, avec la <strong>Métropole Rouen Normandie</strong> et <strong>Emmanuel Côme</strong>, architecte. Au même moment au Havre, on assistait à une table-ronde à <strong>La Halle aux Poissons</strong>, suivi d&#39;un dîner d&#39;exception de <strong>Le Donjon - Domaine Saint Clair</strong> !</p>
+<p>Samedi, on s&#39;est levé tôt pour une randonnée le long de la Seine avec <strong>Le voyage métropolitain</strong> et une visite architecturale à Pont-Audemer du nouveau cinéma conçu par les architectes des agences <strong>Jakob + MacFarlane</strong> et <strong>Atelier Des Deux Anges</strong>. Puis on est retourné à Elbeuf-sur-Seine pour une balade paysagère entre les trames vertes et bleues de la ville avec <strong>Denis Comont</strong>, paysagiste-concepteur <strong>agence Arc en terre</strong>, et le soutien de la <strong>Fédération Française du Paysage - Normandie</strong>.</p>
+<p>Et dimanche…</p>
 ]]></content:encoded>
         </item>
         <item>
