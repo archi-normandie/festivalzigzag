@@ -4,7 +4,7 @@
         <title></title>
         <link>https://festivalzigzag.fr/rss.xml</link>
         <description>Journal du Festival Zigzag</description>
-        <lastBuildDate>Fri, 29 Oct 2021 08:03:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 08:05:47 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
         <item>
@@ -43,22 +43,6 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Zigzag 2019 - Deux parcours urbains accompagnés par le CAUE 76]]></title>
-            <link>https://festivalzigzag.fr/stories/deux-parcours-urbains-accompagnes-par-le-caue-76</link>
-            <guid>https://festivalzigzag.fr/stories/deux-parcours-urbains-accompagnes-par-le-caue-76</guid>
-            <pubDate>Mon, 19 Jan 1970 06:16:27 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="le-trait--les-défis-de-la-cité-jardin-pour-demain">LE TRAIT : LES DÉFIS DE LA CITÉ-JARDIN POUR DEMAIN</h2>
-<p>Conçu à l’origine comme un ensemble d’habitations de style régionaliste destiné à loger les employés du chantier naval, le paysage unique de cette vaste cité-jardin se confronte aujourd’hui à un risque de banalisation de son architecture. Les habitants souhaitent, comme dans d’autres lieux, agrandir leur logement, améliorer leur confort, diminuer leur facture d’énergie et personnaliser leur habitation. Comment, dans ce contexte, répondre à certaines de ces aspirations tout en conservant le sens et les caractéristiques qui rendent cette cité-jardin unique ?</p>
-<p>Avec Gaëlle Pottier du Parc Naturel Régional des Boucles de la Seine Normande et Gilles Pesquet du CAUE 76.</p>
-<h2 id="le-front-de-seine-de-duclair-se-réinvente">LE FRONT DE SEINE DE DUCLAIR SE RÉINVENTE</h2>
-<p>Au sein d’un réseau de voies de communication, la promenade du bord de Seine à Duclair s’étoffe : à deux pas, le parc des Eaux Mêlées permet de gérer les eaux pluviales en même temps qu’il constitue un réservoir de biodiversité. Sur le quai, la présence d’AMPLITUDE, œuvre artistique et repère de crues, va témoigner des fluctuations du niveau du fleuve à proximité de la cale du bac. Enfin, la halte touristique pour croisières fluviales et le réaménagement de la place principale illustrent le potentiel d’évolution lié à l’attractivité des bords de Seine. </p>
-<p>Avec Gilles Pesquet et Clément Delaitre du CAUE 76.</p>
-<h3 id="parole-de-gilles-pesquet">Parole de Gilles Pesquet</h3>
-<p><em>Architecte-conseiller - CAUE 76</em></p>
-<p>« Les visiteurs ont appris de nombreuses choses sur l&#39;architecture des Cité-jardins, de la Reconstruction, de l&#39;architecture vernaculaire de la vallée de Seine et des projets qui font avancer ces deux communes (notamment la voie verte, le bord de Seine, l&#39;aménagement paysager de l&#39;espace public...). »</p>
-]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Zigzag 2019 - Deux parcours urbains proposés à Rouen]]></title>
             <link>https://festivalzigzag.fr/stories/deux-parcours-urbains-proposes-a-rouen</link>
             <guid>https://festivalzigzag.fr/stories/deux-parcours-urbains-proposes-a-rouen</guid>
@@ -80,6 +64,22 @@
 <p>C’est comme ça que nous avons l’idée de présenter 2 propositions :</p>
 <p>Une visite <em>Cœur de Métropole</em> par un guide conférencier et un agent technique de la Métropole. Cette visite allie un regard patrimonial sur la ville tout en présentant le parti pris contemporain des maîtres d’œuvre qui ont œuvré sur ce projet.</p>
 <p>La BD fait partie des œuvres artistiques qui sont intéressantes à mobiliser quand on parle de la Ville et <em>Rouen par 100 chemins différents</em> d’Emmanuel Lemaire était un beau prétexte d’allier le dessin de l’artiste à une déambulation dans les rues de Rouen. Une guide conférencière et l’auteur de BD se sont donc rencontrés pour confronter, interpréter, rechercher les liens entre les images de la BD et l’histoire de l’évolution urbanistique de la Ville. »</p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Zigzag 2019 - Deux parcours urbains accompagnés par le CAUE 76]]></title>
+            <link>https://festivalzigzag.fr/stories/deux-parcours-urbains-accompagnes-par-le-caue-76</link>
+            <guid>https://festivalzigzag.fr/stories/deux-parcours-urbains-accompagnes-par-le-caue-76</guid>
+            <pubDate>Mon, 19 Jan 1970 06:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="le-trait--les-défis-de-la-cité-jardin-pour-demain">LE TRAIT : LES DÉFIS DE LA CITÉ-JARDIN POUR DEMAIN</h2>
+<p>Conçu à l’origine comme un ensemble d’habitations de style régionaliste destiné à loger les employés du chantier naval, le paysage unique de cette vaste cité-jardin se confronte aujourd’hui à un risque de banalisation de son architecture. Les habitants souhaitent, comme dans d’autres lieux, agrandir leur logement, améliorer leur confort, diminuer leur facture d’énergie et personnaliser leur habitation. Comment, dans ce contexte, répondre à certaines de ces aspirations tout en conservant le sens et les caractéristiques qui rendent cette cité-jardin unique ?</p>
+<p>Avec Gaëlle Pottier du Parc Naturel Régional des Boucles de la Seine Normande et Gilles Pesquet du CAUE 76.</p>
+<h2 id="le-front-de-seine-de-duclair-se-réinvente">LE FRONT DE SEINE DE DUCLAIR SE RÉINVENTE</h2>
+<p>Au sein d’un réseau de voies de communication, la promenade du bord de Seine à Duclair s’étoffe : à deux pas, le parc des Eaux Mêlées permet de gérer les eaux pluviales en même temps qu’il constitue un réservoir de biodiversité. Sur le quai, la présence d’AMPLITUDE, œuvre artistique et repère de crues, va témoigner des fluctuations du niveau du fleuve à proximité de la cale du bac. Enfin, la halte touristique pour croisières fluviales et le réaménagement de la place principale illustrent le potentiel d’évolution lié à l’attractivité des bords de Seine. </p>
+<p>Avec Gilles Pesquet et Clément Delaitre du CAUE 76.</p>
+<h3 id="parole-de-gilles-pesquet">Parole de Gilles Pesquet</h3>
+<p><em>Architecte-conseiller - CAUE 76</em></p>
+<p>« Les visiteurs ont appris de nombreuses choses sur l&#39;architecture des Cité-jardins, de la Reconstruction, de l&#39;architecture vernaculaire de la vallée de Seine et des projets qui font avancer ces deux communes (notamment la voie verte, le bord de Seine, l&#39;aménagement paysager de l&#39;espace public...). »</p>
 ]]></content:encoded>
         </item>
         <item>
@@ -244,6 +244,35 @@
 <h3 id="parole-de-christine-boisseau">Parole de Christine Boisseau</h3>
 <p><em>Chargée de mission - Urbaniste - CAUE 27</em></p>
 <p>« La balade était intéressante, le format artistique a permis de bien susciter l’échange entre les participants. Nous étions peu nombreux, mais finalement pour la cohésion du groupe c’était intéressant. Le fait que nous transportions un gros objet a suscité de la curiosité auprès des gens rencontrés. La balade à pied, avec la lenteur que cela implique, a bien fait sentir le lien un peu complexe que ce territoire a avec la Seine. »</p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Zigzag 2019 - RedBall Project en ouverture du festival ]]></title>
+            <link>https://festivalzigzag.fr/stories/redball-project</link>
+            <guid>https://festivalzigzag.fr/stories/redball-project</guid>
+            <pubDate>Mon, 19 Jan 1970 05:56:13 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="1ère-édition-du-27-sept-au-13-oct-2019">1ère édition du 27 sept. au 13 oct. 2019</h2>
+<p>Zigzag est un festival grand public, qui propose d’appréhender l’espace par un engagement du corps, afin de partager l’architecture, l’urbanisme et le paysage autrement, sur un territoire correspondant à la vallée de la Seine.</p>
+<p>Pour cette première édition, le Forum – Maison de l’architecture de Normandie a souhaité marquer les esprits avec un projet à la fois ludique et fort de sens. Il a convié en ouverture Kurt Perschke à investir les rues de Rouen. Artiste américain, il a conçu <strong>RedBall Project</strong>, une installation éphémère sculpturale de 4.5 mètres de diamètre et de 114 kg, elle voyage autour du monde et explore l’histoire et l’architecture de chaque ville.</p>
+<p>Avec humour Kurt Perschke place et compresse la RedBall entre divers immeubles, au-dessus de ponts accentuant des possibilités inattendues. Placée dans des espaces interstitiels, elle provoque la surprise, invite à lever la tête, révèle des lieux. La ville elle-même devient sa toile, pleine de potentialités. Le projet a été monté plus de 20 fois aux États-Unis, en Asie, en Australie et en Europe.</p>
+<p>A Rouen, la RedBall a été installée dans 6 lieux différents, du 27 septembre au 2 octobre 2019.<br>Pendant 6 jours, l’équipe du Forum était sur le terrain. Elle a pu observer le plaisir des passants, des familles, des touristes à découvrir cette boule rouge, à la croiser et pour certains, à prendre la pose devant elle. C’est là tout l’objet du travail de l&#39;artiste, très attentif à l’interaction que son projet suscite.</p>
+<p>Pour suivre RedBall Project : <a href="https://www.redballproject.com/">redballproject.com</a></p>
+<h3 id="paroles-de-passants">Paroles de passants</h3>
+<blockquote>
+<p>« Ça doit servir à tenir les maisons qui sont anciennes et qui s’écroulent. »</p>
+</blockquote>
+<blockquote>
+<p>« Ça fait du bien de voir ça dans l’’espace public. »</p>
+</blockquote>
+<blockquote>
+<p>« C’est quoi, c’est marrant ? »</p>
+</blockquote>
+<blockquote>
+<p>« Aujourd’hui au Kindarena, on ne la voit presque pas alors que rue du Gros horloge elle était trop grosse. »</p>
+</blockquote>
+<blockquote>
+<p>« ... pour moi le contemporain c’est la boule rouge, on voit qu’elle a du mal dans le centre-ville ancien, elle est coincée, plissée, elle ne trouve pas bien sa place ! »</p>
+</blockquote>
 ]]></content:encoded>
         </item>
         <item>
@@ -453,35 +482,6 @@
 <p>Et pour finir ce samedi en beauté, l&#39;équipe du Forum a passé l’après-midi avec le collectif <strong>Les Gens des Lieux et Les Cueilleurs d&#39;Histoire</strong> sur le site de <strong>Genius 2020 au Havre</strong>. Une belle façon de fêter la fin du festival dans un quartier en mutation : A l’interface du quartier Saint Nicolas et de la zone de l’Escaut, le collectif Les Gens des Lieux propose une scénographie urbaine éphémère. Par ses interventions, il ouvre des perspectives, renverse des points de vue, fait émerger un jardin sauvage au milieu d’une friche portuaire.</p>
 <p>Pour le dernier jour du festival Zigzag 2020, la Maison de l&#39;architecture de Normandie est retournée à <strong>la Manufacture des Capucins à Vernon</strong> : Jardinage, rencontre, expositions et journée d’étude étaient au programme. Merci aux participants, aux bénévoles de la Manufacture et à l’agence d&#39;architecture <strong>MWAH</strong> !</p>
 <p>Au même moment, l&#39;<strong>Agglomération Seine-Eure</strong> vous a invité pour un événement ludo-cyclo-patrimonial proposé dans le cadre de l’itinéraire <strong>Seine à Vélo</strong> : Laissez-vous embarquer dans l’aventure et menez l’enquête à vélo, en participant au jeu « Seine de Crime ». Une balade à deux roues ponctuées de points d’étapes, où vous ont attendu des comédiens pour vous guider dans votre parcours entre <strong>Elbeuf-sur-Seine et Les Damps</strong>. Trois heures à vélo pour découvrir les richesses du patrimoine architectural et naturel.</p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Zigzag 2019 - RedBall Project en ouverture du festival ]]></title>
-            <link>https://festivalzigzag.fr/stories/redball-project</link>
-            <guid>https://festivalzigzag.fr/stories/redball-project</guid>
-            <pubDate>Mon, 19 Jan 1970 05:56:13 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="1ère-édition-du-27-sept-au-13-oct-2019">1ère édition du 27 sept. au 13 oct. 2019</h2>
-<p>Zigzag est un festival grand public, qui propose d’appréhender l’espace par un engagement du corps, afin de partager l’architecture, l’urbanisme et le paysage autrement, sur un territoire correspondant à la vallée de la Seine.</p>
-<p>Pour cette première édition, le Forum – Maison de l’architecture de Normandie a souhaité marquer les esprits avec un projet à la fois ludique et fort de sens. Il a convié en ouverture Kurt Perschke à investir les rues de Rouen. Artiste américain, il a conçu <strong>RedBall Project</strong>, une installation éphémère sculpturale de 4.5 mètres de diamètre et de 114 kg, elle voyage autour du monde et explore l’histoire et l’architecture de chaque ville.</p>
-<p>Avec humour Kurt Perschke place et compresse la RedBall entre divers immeubles, au-dessus de ponts accentuant des possibilités inattendues. Placée dans des espaces interstitiels, elle provoque la surprise, invite à lever la tête, révèle des lieux. La ville elle-même devient sa toile, pleine de potentialités. Le projet a été monté plus de 20 fois aux États-Unis, en Asie, en Australie et en Europe.</p>
-<p>A Rouen, la RedBall a été installée dans 6 lieux différents, du 27 septembre au 2 octobre 2019.<br>Pendant 6 jours, l’équipe du Forum était sur le terrain. Elle a pu observer le plaisir des passants, des familles, des touristes à découvrir cette boule rouge, à la croiser et pour certains, à prendre la pose devant elle. C’est là tout l’objet du travail de l&#39;artiste, très attentif à l’interaction que son projet suscite.</p>
-<p>Pour suivre RedBall Project : <a href="https://www.redballproject.com/">redballproject.com</a></p>
-<h3 id="paroles-de-passants">Paroles de passants</h3>
-<blockquote>
-<p>« Ça doit servir à tenir les maisons qui sont anciennes et qui s’écroulent. »</p>
-</blockquote>
-<blockquote>
-<p>« Ça fait du bien de voir ça dans l’’espace public. »</p>
-</blockquote>
-<blockquote>
-<p>« C’est quoi, c’est marrant ? »</p>
-</blockquote>
-<blockquote>
-<p>« Aujourd’hui au Kindarena, on ne la voit presque pas alors que rue du Gros horloge elle était trop grosse. »</p>
-</blockquote>
-<blockquote>
-<p>« ... pour moi le contemporain c’est la boule rouge, on voit qu’elle a du mal dans le centre-ville ancien, elle est coincée, plissée, elle ne trouve pas bien sa place ! »</p>
-</blockquote>
 ]]></content:encoded>
         </item>
         <item>
