@@ -25,7 +25,10 @@ informations:
   note: Tous publics
   rdv: 'RDV : Ancien centre de tri postal - 16 avenue Léon-Blum, Grand Quevilly (derrière
     la Poste). Métro – arrêt Léon Blum // Bus 42 – arrêt Centre administratif'
-gallery: []
+gallery:
+- "/files/capture-4.JPG"
+- "/files/capture-5.JPG"
+- "/files/capture-8.JPG"
 
 ---
 **_POST_**, c’est le nouveau festival qui met à l’honneur l’art urbain et la création artistique sous toutes ses formes (fresques, collages, peinture, graff,vidéos…) et avec pour thème le détournement urbain et le trompe l’œil. Au cœur d’un ancien centre de tri postal ressuscité pour l’occasion, une quinzaine d’artistes régionaux et nationaux invités et reconnus dans la discipline créent sous les yeux des visiteurs.
