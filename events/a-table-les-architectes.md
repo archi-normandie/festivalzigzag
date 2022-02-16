@@ -34,4 +34,4 @@ A 19h, à la suite de la table ronde "UN ÉTÉ À LA HALLE AUX POISSONS", la Hal
 
 En partenariat avec la Halle aux Poissons & Le Donjon.
 
-* Inscrivez-vous à la table ronde de 18h : [Un été à la Halle aux poissons]( "https://festivalzigzag.fr/events/un-ete-a-la-halle-aux-poissons")
+* Inscrivez-vous à la table ronde de 18h : [Un été à la Halle aux poissons](https://festivalzigzag.fr/events/un-ete-a-la-halle-aux-poissons/ "https://festivalzigzag.fr/events/un-ete-a-la-halle-aux-poissons")
