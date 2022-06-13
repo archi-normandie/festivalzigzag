@@ -12,3 +12,5 @@ description: ''
 ![](/files/35_tema.jpg)![](/files/36_topophile.jpg)
 
 ## Partenaires de projet
+
+![](/files/1_agglo-seine-eure.jpg)![](/files/2_aurbse.jpg)![](/files/3_aurh.jpg)![](/files/4_bibliosna.jpg)![](/files/4_snac-la-culture-a-croquer.jpg)
