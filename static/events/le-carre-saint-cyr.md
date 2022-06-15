@@ -8,15 +8,15 @@ cover:
   alt: ''
   legend: "©Atelier Bettinger-Desplanques architectes"
 booking:
-  link: ''
+  link: https://www.billetweb.fr/le-carr-saint-cyr
   state: ''
   period: ''
   dates:
   - date: 2022-10-01 17:00
 address:
-  place: ''
-  lat: ''
-  lon: ''
+  place: Le Vaudreuil (27)
+  lat: "49.2556231"
+  lon: "1.2062271"
 informations:
   note: Accessibilité PMR
   rdv: RDV devant l’entrée de l’Eglise Saint-Cyr, 27 rue Arthur Papavoine
