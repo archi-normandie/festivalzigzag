@@ -13,12 +13,16 @@ booking:
   dates:
   - date: 2022-10-09 14:30
 address:
-  place: ''
-  lat: ''
-  lon: ''
+  place: Les Andelys (27)
+  lat: "49.2390239"
+  lon: "1.4050853"
 informations:
-  note: ''
-  rdv: ''
+  note: Prévoir chaussures de randonnée et vêtements adaptés à la météo, site non
+    accessible aux personnes à mobilité réduite et qui ont des difficultés à marcher
+  rdv: RDV parking du Château-Gaillard, au bout de l’allée du Roi de Rome
 gallery: []
 
 ---
+Chaussez-vous bien, vous partez en balade à la découverte d’un espace naturel extraordinaire. En longeant le sentier du Genévrier à Château-Gaillard aux Andelys, accompagné d’un guide expérimenté, vous contemplerez des paysages à couper le souffle, vous comprendrez la formation des coteaux calcaires, de la flore et de la faune et vous découvrirez les différentes techniques de pâturage utilisées.
+
+**Intervenante :** Marie Auckbur, chargée de mission éducation à l’environnement au Conservatoire d’Espaces Naturels.
