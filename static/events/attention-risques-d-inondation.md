@@ -8,7 +8,7 @@ cover:
   alt: ''
   legend: "©Louis Lac"
 booking:
-  link: ''
+  link: https://www.billetweb.fr/attention-risques-d-inondation
   state: ''
   period: ''
   dates:
