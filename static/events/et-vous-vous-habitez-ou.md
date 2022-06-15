@@ -8,18 +8,18 @@ cover:
   alt: ''
   legend: Le Trait ©MaN - le Forum
 booking:
-  link: ''
+  link: https://www.billetweb.fr/et-vous-vous-habitez-o
   state: ''
   period: ''
   dates:
   - date: 2022-10-01 17:00
 address:
-  place: ''
-  lat: ''
-  lon: ''
+  place: Rouen (76)
+  lat: "49.4400098"
+  lon: "1.1007679"
 informations:
   note: ''
-  rdv: ''
+  rdv: RDV Maison de l’architecture de Normandie – le Forum, 48 rue Victor Hugo
 gallery: []
 
 ---
