@@ -18,7 +18,7 @@ address:
   lat: "49.4798932"
   lon: "1.112822"
 informations:
-  note: ''
+  note: 'EOP : NENETS en accès libre du 23 septembre au 27 novembre 2022 '
   rdv: RDV devant l’école élémentaire Les Portes de la Forêt, 67 place des Erables
 gallery: []
 

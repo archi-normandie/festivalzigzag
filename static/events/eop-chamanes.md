@@ -18,7 +18,7 @@ address:
   lat: "49.4360609"
   lon: "1.0901518"
 informations:
-  note: ''
+  note: 'EOP : CHAMANES en accès libre du 1er octobre au 27 novembre 2022'
   rdv: RDV rive gauche pont Boieldieu en haut des escaliers Est
 gallery: []
 
