@@ -24,4 +24,8 @@ informations:
 gallery: []
 
 ---
-Avec Etienne Lemoine, architecte, agence MWAH, les équipes de la ville de Vernon et de la Maison de l’architecture de Normandie – le Forum.
+Vous resterez bien déjeuner dans les jardins de la Manufacture des capucins ?
+
+Une grande tablée installée sous les arbres vous attend pour partager un repas.
+
+**Avec Etienne Lemoine, architecte, agence MWAH, les équipes de la ville de Vernon et de la Maison de l’architecture de Normandie – le Forum.**
