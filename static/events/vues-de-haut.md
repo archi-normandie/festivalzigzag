@@ -8,7 +8,7 @@ cover:
   alt: ''
   legend: Zigzag 2021 ©MaN - le Forum
 booking:
-  link: ''
+  link: https://www.billetweb.fr/vues-de-haut
   state: ''
   period: ''
   dates:
@@ -21,8 +21,7 @@ address:
   lon: "1.0516328"
 informations:
   note: Durée 30 à 40 minutes par visite.
-  rdv: |-
-    RDV devant l’entrée de la mairie de Grand Quevilly côté parking, entrée av.
+  rdv: RDV devant l’entrée de la mairie de Grand Quevilly côté parking, entrée av.
     Léon Blum
 gallery: []
 
