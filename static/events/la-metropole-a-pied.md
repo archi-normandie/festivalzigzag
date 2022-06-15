@@ -26,3 +26,10 @@ informations:
 gallery: []
 
 ---
+De Grand Quevilly à Maromme, cette randonnée péri-urbaine explore tour à tour des paysages urbains et forestiers de la Métropole Rouen Normandie marqués par l’industrie, la présence du fleuve, d’anciennes usines, des parcs et la forêt. Une traversée en bac permettra de joindre les deux rives et de relier deux ambiances de ce territoire dans une approche sensible.
+
+Pendant une journée, poussons les portes de lieux inconnus, rencontrons des habitants et des acteurs locaux pour interroger nos façons d’habiter notre territoire et d’échanger nos connaissances.
+
+Randonnée proposée par Le voyage métropolitain, la Métropole Rouen Normandie, l’AURBSE et le CAUE 76.
+
+**Intervenant :** Jens Denissen, urbaniste et paysagiste, Le Voyage Métropolitain.
