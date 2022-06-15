@@ -8,18 +8,18 @@ cover:
   alt: ''
   legend: "©Louis Lac"
 booking:
-  link: ''
+  link: https://www.billetweb.fr/la-papeterie-et-la-fonderie-r-invent-es
   state: ''
   period: ''
   dates:
   - date: 2022-10-09 10:00
 address:
   place: Vernon (27)
-  lat: ''
-  lon: ''
+  lat: "49.1002603"
+  lon: "1.4708545"
 informations:
   note: ''
-  rdv: ''
+  rdv: RDV parc de la Fonderie, av. de Rouen
 gallery: []
 
 ---
