@@ -18,8 +18,8 @@ address:
   lat: "49.4448349"
   lon: "1.0934618"
 informations:
-  note: Sachez qu'avant la visite dans la ville, une visite de l’exposition est possible
-    à 15h (tarif réduit+3.5€, réserver au 02 76 30 39 18 directement avec le musée)
+  note: Avant la visite dans la ville, une visite de l’exposition est possible à 15h
+    (tarif réduit+3.5€, réserver au 02 76 30 39 18 directement avec le musée)
   rdv: RDV devant le Musée des Beaux-Arts, esplanade Marcel Duchamp
 gallery: []
 
