@@ -26,3 +26,5 @@ gallery: []
 Au cœur du centre ancien, une nouvelle allée piétonne relie désormais la gare du Havre à la Place Danton. Cette voie piétonne et cycliste, à la fois lieu de destination et de passage, s’inscrit dans le prolongement des récents aménagements de la place Danton, du Cours de la République et de la création de l’espace Simone Veil.
 
 L’allée a été dessinée comme une promenade jardin. L’îlot Haudry se compose de deux maisons de ville, de 36 logements, de commerces et d’un tiers-lieu, conçus par CBA architectes dont l’intention a été de recoudre la ville en tissant des liens pour ménager de la proximité.
+
+**Intervenants :** l’architecte du projet, agence CBA architectes et Logeo Seine.
