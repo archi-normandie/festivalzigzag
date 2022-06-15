@@ -8,7 +8,7 @@ cover:
   alt: ''
   legend: "©Le Voyage Métropolitain"
 booking:
-  link: ''
+  link: https://www.billetweb.fr/la-m-tropole-pied
   state: ''
   period: ''
   dates:
