@@ -23,3 +23,6 @@ informations:
 gallery: []
 
 ---
+Au cœur de la ville, un nouvel équipement dédié à l’accueil des enfants ouvrira prochainement, pour répondre à la demande croissante de garde collective. Accompagnés des élus et des architectes qui guideront vos pas et votre regard, vous mesurerez la pertinence et la justesse des réponses urbaines, écologiques et architecturales apportées par ce pôle enfance.
+
+**Intervenants :** (sous réserve) des représentants de l’agence En Act, Bruno Ardillon et Sandra Pattier, Interco Terre d’Auge, Hubert Courseaux, Christian Asse et Bruno Vay, ville de Pont-l’Evêque.
