@@ -118,6 +118,7 @@ fields:
   label: Galerie d'images
 pages:
 - static/events/eop-chamanes.md
+- static/events/et-vous-vous-habitez-ou.md
 - static/events/genius-portes-ouvertes.md
 - static/events/la-poudrerie-royale.md
 - static/events/lanimea-reconversion-animee.md
