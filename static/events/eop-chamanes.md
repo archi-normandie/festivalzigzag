@@ -23,3 +23,6 @@ informations:
 gallery: []
 
 ---
+Sur les quais bas rive gauche, entre les ponts Boieldieu et Corneille, EOP, Espaces d’œuvres photographiques, propose une nouvelle exposition éphémère consacrée à Flore-Aël Surun. Photographe connue pour son recours poétique à la couleur et à ses contrastes en faveur d’une culture humaniste de la non violence, elle présente des clichés issus de recherches qu’elle mène depuis plus d’une dizaine d’années sur les chamans, acteurs de paix.
+
+**Intervenants :** Flore-Aël Surun, photographe membre du collectif Floue, Marie-Hélène Labat, La loge des auteurs photographes et Serge Périchon, commissaire d’exposition.
