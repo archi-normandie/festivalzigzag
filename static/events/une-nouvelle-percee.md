@@ -14,12 +14,15 @@ booking:
   dates:
   - date: 2022-10-13 18:00
 address:
-  place: ''
-  lat: ''
-  lon: ''
+  place: Le Havre (76)
+  lat: "49.4940888"
+  lon: "0.1207949"
 informations:
-  note: ''
-  rdv: ''
+  note: La visite sera suivie d’un moment de convivialité et d’échanges
+  rdv: RDV devant l'espace Simone Veil, 25 Rue Lesueur
 gallery: []
 
 ---
+Au cœur du centre ancien, une nouvelle allée piétonne relie désormais la gare du Havre à la Place Danton. Cette voie piétonne et cycliste, à la fois lieu de destination et de passage, s’inscrit dans le prolongement des récents aménagements de la place Danton, du Cours de la République et de la création de l’espace Simone Veil.
+
+L’allée a été dessinée comme une promenade jardin. L’îlot Haudry se compose de deux maisons de ville, de 36 logements, de commerces et d’un tiers-lieu, conçus par CBA architectes dont l’intention a été de recoudre la ville en tissant des liens pour ménager de la proximité.
