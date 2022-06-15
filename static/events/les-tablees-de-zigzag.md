@@ -8,7 +8,7 @@ cover:
   alt: ''
   legend: Park(ing) Day 2020 - TERR'O ©MaN - le Forum
 booking:
-  link: ''
+  link: https://www.billetweb.fr/les-tabl-es-de-zigzag
   state: ''
   period: ''
   dates:
