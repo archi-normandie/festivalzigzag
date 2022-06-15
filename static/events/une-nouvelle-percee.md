@@ -8,7 +8,7 @@ cover:
   alt: ''
   legend: "©CBA"
 booking:
-  link: ''
+  link: https://www.billetweb.fr/une-nouvelle-perc-e
   state: ''
   period: ''
   dates:
