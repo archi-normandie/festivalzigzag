@@ -9,7 +9,7 @@ cover:
   legend: Panorama république - résidence d'architecture 2022 à Elbeuf-sur-Seine ©MaN
     - le Forum
 booking:
-  link: ''
+  link: https://www.billetweb.fr/panorama-r-publique
   state: ''
   period: ''
   dates:
