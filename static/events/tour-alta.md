@@ -8,7 +8,7 @@ cover:
   alt: ''
   legend: "©Hamonic Masson & Associés"
 booking:
-  link: ''
+  link: https://www.billetweb.fr/intervenant
   state: ''
   period: ''
   dates:
