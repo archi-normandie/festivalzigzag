@@ -8,7 +8,7 @@ cover:
   alt: ''
   legend: "©Flore-Aël Surun - Tendance Floue"
 booking:
-  link: ''
+  link: https://www.billetweb.fr/eop-chamanes
   state: ''
   period: ''
   dates:
