@@ -23,3 +23,8 @@ informations:
 gallery: []
 
 ---
+Embarquez vos crayons, vos feutres, votre carnet à dessin, vous partez pour une balade dessinée en compagnie de l’artiste Christophe Ronel. À ses côtés, parcourez la ville, arpentez les rues, traversez les places, flânez dans les jardins en dessinant.
+
+C’est une invitation à poser un regard différent, attentif, pour prendre le temps d’observer la ville intentionnellement.
+
+**Intervenant :** Christophe Ronel, artiste peintre.
