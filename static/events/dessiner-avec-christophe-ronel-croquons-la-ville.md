@@ -14,12 +14,12 @@ booking:
   dates:
   - date: 2022-10-02 14:30
 address:
-  place: ''
-  lat: ''
-  lon: ''
+  place: Grand Quevilly (76)
+  lat: "49.4062667"
+  lon: "1.0520751"
 informations:
   note: ''
-  rdv: ''
+  rdv: RDV esplanade Tony Larue
 gallery: []
 
 ---
