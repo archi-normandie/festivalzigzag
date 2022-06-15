@@ -15,8 +15,8 @@ booking:
   - date: 2022-10-02 10:00
 address:
   place: Grand Quevilly (76)
-  lat: ''
-  lon: ''
+  lat: "49.4063919"
+  lon: "1.0522106"
 informations:
   note: |-
     Prévoir un pique-nique pour le midi, verre de l’amitié offert en fin de
