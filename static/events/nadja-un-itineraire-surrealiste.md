@@ -8,7 +8,7 @@ cover:
   alt: ''
   legend: Image tirée de l'exposition Nadja un itinéraire surréaliste ©RMM
 booking:
-  link: ''
+  link: https://my.weezevent.com/la-ville-surrealiste
   state: ''
   period: ''
   dates:
@@ -18,8 +18,12 @@ address:
   lat: "49.4448349"
   lon: "1.0934618"
 informations:
-  note: ''
-  rdv: ''
+  note: Sachez qu'avant la visite dans la ville, une visite de l’exposition est possible
+    à 15h (tarif réduit+3.5€, réserver au 02 76 30 39 18 directement avec le musée)
+  rdv: RDV devant le Musée des Beaux-Arts, esplanade Marcel Duchamp
 gallery: []
 
 ---
+À l’occasion de l’exposition Nadja, un itinéraire surréaliste, présentée au Musée des Beaux-Arts, nous vous invitons à décaler votre regard pour mieux rêver la ville. Décor privilégié des romans surréalistes, la ville devient un terrain de jeu sensoriel, poétique entouré d’évocations surprenantes à découvrir ensemble.
+
+**Intervenant :** un guide du Musée des Beaux-Arts.
