@@ -11,14 +11,20 @@ booking:
   link: ''
   state: ''
   period: ''
-  dates: []
+  dates:
+  - date: 2022-10-02 10:00
 address:
-  place: ''
-  lat: ''
-  lon: ''
+  place: Courcelles-sur-Seine (27)
+  lat: "49.1784243"
+  lon: "1.3716704"
 informations:
   note: ''
-  rdv: ''
+  rdv: RDV parking du cimetière, rue du Château d’Eau
 gallery: []
 
 ---
+Ici, vous êtes au théâtre ! Diffuser, expliquer, sensibiliser, connaitre les bons gestes à adopter face à une telle situation, ce sont les comédiens qui prennent la parole !
+
+Et le « Boulier à crue » vous connaissez ? Cette œuvre d’art référente imaginée par Heidi Wood mesure d’une façon originale la montée des eaux et informe de manière ludique le grand public de leurs dangers.
+
+**Intervenante :** Pauline Bachelet, chargée de mission gestion des risques inondations Agglo Seine-Eure.

@@ -23,8 +23,8 @@ informations:
 gallery: []
 
 ---
-**Vous resterez bien dîner ?**
+Vous resterez bien dîner ?
 
 Et le Forum se transforme en tablée, le temps d’un repas, des tables, des chaises, pour passer un moment ensemble. Juste pour passer un moment ensemble…
 
-Avec l’équipe du Forum et les partenaires du festival.
+**Avec l’équipe du Forum et les partenaires du festival.**
