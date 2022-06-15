@@ -19,7 +19,12 @@ address:
   lon: "1.112822"
 informations:
   note: ''
-  rdv: ''
+  rdv: RDV devant l’école élémentaire Les Portes de la Forêt, 67 place des Erables
 gallery: []
 
 ---
+Aux Portes de la forêt, EOP, Espaces d’Œuvres Photographiques, installe pour la deuxième année une exposition d’Antoine Boureau consacrée aux Nenets.
+
+Engagé dans une photographie documentaire et passionné par la magie de la rencontre, Antoine Boureau révèle ce peuple autochtone du cercle polaire qui garde une relation ancestrale à la terre. Il crée un lien, saisit une sensibilité puis la partage avec le monde, grâce à la photographie.
+
+**Intervenants :** Antoine Boureau, photographe documentaire, Marie-Hélène Labat, La loge des auteurs photographes et Serge Perichon, commissaire d’exposition.
