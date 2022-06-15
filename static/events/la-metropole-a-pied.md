@@ -18,9 +18,8 @@ address:
   lat: "49.4063919"
   lon: "1.0522106"
 informations:
-  note: |-
-    Prévoir un pique-nique pour le midi, verre de l’amitié offert en fin de
-    parcours, connexion avec le TEOR pour le retour
+  note: Prévoir un pique-nique pour le midi, verre de l’amitié offert en fin de parcours
+    vers 16h30, connexion avec le TEOR pour le retour
   rdv: RDV devant l’entrée de la mairie de Grand Quevilly, côté parking, entrée av.
     Léon Blum
 gallery: []
