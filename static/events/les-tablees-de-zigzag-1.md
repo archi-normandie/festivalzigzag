@@ -8,7 +8,7 @@ cover:
   alt: ''
   legend: Zigzag 2021 ©MaN - le Forum
 booking:
-  link: ''
+  link: https://www.billetweb.fr/les-tabl-es-de-zigzag1
   state: ''
   period: ''
   dates:
