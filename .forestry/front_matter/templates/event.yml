@@ -117,6 +117,7 @@ fields:
   config: {}
   label: Galerie d'images
 pages:
+- static/events/attention-risques-d-inondation.md
 - static/events/eop-chamanes.md
 - static/events/et-vous-vous-habitez-ou.md
 - static/events/genius-portes-ouvertes.md
