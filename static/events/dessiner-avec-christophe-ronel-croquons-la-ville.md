@@ -8,7 +8,7 @@ cover:
   alt: ''
   legend: Dieppe ©Christophe Ronel
 booking:
-  link: ''
+  link: https://www.billetweb.fr/dessiner-avec-christophe-ronel-croquons-la-ville
   state: ''
   period: ''
   dates:
