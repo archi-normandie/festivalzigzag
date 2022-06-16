@@ -12,17 +12,23 @@ booking:
   state: ''
   period: ''
   dates:
-  - date: 2022-10-01 11:30
   - date: 2022-10-01 14:00
   - date: 2022-10-01 15:30
+  - date: 2022-10-01 17:00
 address:
   place: Grand Quevilly (76)
   lat: "49.4063909"
   lon: "1.0516328"
 informations:
-  note: Durée 30 à 40 minutes par visite.
-  rdv: RDV devant l’entrée de la mairie de Grand Quevilly côté parking, entrée av.
-    Léon Blum
+  note: Les visites empruntent plusieurs escaliers et ruelles en pente, un minimum
+    de forme physique est demandée. Durée 30 à 40 minutes par visite. Possibilité
+    de faire les trois visites à la suite (environ 20 à 25 minutes de marche entre
+    chaque site)
+  rdv: |
+    RDV 3 lieux - 3 toits
+    Mairie annexe : centre culturel Marx Dormoy, Place Gabriel Perri. Bus 6 et 42, arrêt le Bourg
+    Hôtel de ville : entrée de la mairie côté parking, av. Léon Blum. Métro, arrêt Léon Blum // Bus 42, arrêt centre administratif
+    Immeuble Nymphéa : 1 rue Eugène Boudin. Métro, arrêt Paul Cézanne
 gallery: []
 
 ---
