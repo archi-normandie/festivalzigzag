@@ -23,10 +23,8 @@ informations:
 gallery: []
 
 ---
-Engagée dans une opération qui vise à redynamiser son centre, Vernon connaît de nombreux chantiers depuis plusieurs mois. L’itinéraire proposé invite à prendre la mesure des transformations en cours qui visent une réappropriation de l’espace public par les habitants.
+Les chantiers engagés depuis plusieurs mois à Vernon visent à redynamiser son centre, en créant notamment des espaces publics accueillants, plus verts et flexibles aux multiples usages. Lors des travaux, des trésors archéologiques ont été découverts, livrant de nouveaux pans de l’histoire véronaise. 
 
-Vernon, ville historique, livre à cette occasion de nouvelles traces de son histoire avec des fouilles archéologiques préalables qui préservent son patrimoine.
+La déambulation à plusieurs voix invite à découvrir le centre-ville dans son épaisseur : son histoire ainsi revisitée, son présent avec les aménagements en cours qui mettent en perspective l’évolution des modes de vie et les attentes de ses habitants, les œuvres du parcours Courant d’art de l’été 2022.
 
-L’itinéraire invite à découvrir Vernon dans son épaisseur : son histoire revisitée, son présent avec les aménagements récents, les œuvres du parcours Courant d’art de l’été 2022 et son futur de ville modernisée.
-
-**Intervenants :** les architectes du projet et les archéologues du SDAP - Service Départemental de l'Architecture et du Patrimoine.
+**Intervenants :** les équipes de maîtrise d’œuvre du projet, les services concernés et les archéologues du SDAP - Service Départemental de l'Architecture et du Patrimoine.
