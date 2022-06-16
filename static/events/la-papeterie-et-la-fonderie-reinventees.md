@@ -19,7 +19,9 @@ address:
   lon: "1.4708545"
 informations:
   note: ''
-  rdv: RDV parc de la Fonderie, av. de Rouen
+  rdv: |-
+    RDV parc de la Fonderie, av. de Rouen
+    Bus 5 – arrêt Grosse Borne, direction Saint-Marcel - 11 novembre
 gallery: []
 
 ---
