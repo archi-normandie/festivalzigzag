@@ -23,9 +23,8 @@ informations:
 gallery: []
 
 ---
-Venez revisiter deux anciennes friches en bord de Seine laissant place à de nouveaux projets. À Vernon, sur le site de l’ancienne fonderie, un nouveau parc urbain imaginé par les architectes-paysagistes 22 degrés, replace la nature au cœur de la ville. 
-
-En face, l’ancienne papeterie entrera bientôt en chantier pour accueillir un complexe cinématographique doté de restaurants et d’un hôtel. Moteur de ce nouveau quartier, le complexe étendra le centre-ville jusqu’en bord de Seine et fera émerger une nouvelle zone d’attractivité.
+En bord de Seine, deux friches en bord laissent place à de nouveaux projets. Au lieu et place d’une ancienne fonderie, un nouveau parc urbain imaginé par les architectes-paysagistes 22 degrés, replace la nature au cœur de la ville.  
+ A proximité, l’ancienne papeterie entrera bientôt en chantier pour accueillir un complexe cinématographique doté de restaurants et d’un hôtel. Moteur de ce nouveau quartier, le complexe étendra le centre-ville jusqu’en bord de Seine et fera émerger une nouvelle zone d’attractivité.
 
 La déambulation interroge l’activité passée de Vernon, relie au présent, interroge l’avenir. Elle s’agrémente des œuvres des artistes contemporains qui composent le parcours Courant d’art de l’été 2022.
 

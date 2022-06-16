@@ -1,5 +1,5 @@
 ---
-title: Un cœur de ville plus vert
+title: UN COEUR DE VILLE PLUS VERT
 categories:
 - Déambulation
 featured: false

@@ -24,6 +24,8 @@ informations:
 gallery: []
 
 ---
-Située au cœur de l’écoquartier Fieschi en centre-ville de Vernon, la Manufacture des Capucins est un tiers-lieu ouvert à tous, pour accompagner les changements des modes de vie, agir pour la transmission écologique et activer un nouveau territoire productif.
+Située au cœur de l’écoquartier Fieschi en centre-ville de Vernon, la Manufacture des Capucins est un tiers-lieu dédié à la transition écologique. Ancien couvent aujourd’hui en chantier, le projet porte l’ambition de créer un lieu de vie pour échanger, apprendre, travailler autrement, cultiver, se divertir, se réunir, transmettre, se restaurer…
+
+ZIGZAG est l’occasion d’un retour sur le chemin parcouru, la démarche exemplaire des travaux, le succès du jardin pédagogique et participatif, l’activation d’un territoire productif. Une journée pour transmettre cette expérience et partager des moments de convivialité.
 
 **Intervenant :** Etienne Lemoine, architecte, agence MWAH.
