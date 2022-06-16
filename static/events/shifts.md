@@ -1,18 +1,20 @@
 ---
-title: SHIFTS
-categories: []
+title: Jeu de piste en famille
+categories:
+- Déambulation
 featured: false
 cover:
-  src: ''
+  src: "/files/19-o2-a-octeville-sur-mer-man-le-forum.jpg"
   alt: ''
   legend: ''
 booking:
   link: ''
   state: ''
   period: ''
-  dates: []
+  dates:
+  - date: 2022-10-08 9:00
 address:
-  place: ''
+  place: Octeville-sur-Mer (76)
   lat: ''
   lon: ''
 informations:
@@ -21,3 +23,12 @@ informations:
 gallery: []
 
 ---
+Venez participer à un parcours découverte au cours d’une promenade jalonnée d’énigmes et de surprises chorégraphiques et architecturales ! Un jeu de piste convivial invitant petits et grands à rechercher les indices qui vous mèneront sur les chemins, l’histoire et l’actualité d’Octeville-sur-Mer.
+
+Le Rallye des familles est organisé par la Commune d’Octeville-sur-Mer.
+
+Dans le cadre de **O2,** projet chorégraphique et architectural mené au plus près des habitants dans la commune d’Octeville-sur-Mer. Dispositif « Infusion / Effusion artistique en Normandie » initié par l’ODIA Normandie, avec la compagnie de danse shifts - art in movement et la Maison de l’architecture de Normandie – le Forum.
+
+**Intervenants :** Barbara Eudier, Malgven Gerbes, Dorothée Navarre-Vatinel, Margot Dorléans et Léonard Rainis.
+
+**Renseignements :** 02 35 54 62 95 - bibliotheque@octevillesurmer.fr
