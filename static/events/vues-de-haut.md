@@ -30,4 +30,4 @@ Prenez de la hauteur depuis les toits de Grand Quevilly : la ville révèle un n
 
 D’ici on voit une grande partie de la métropole, des lieux fréquentés, son école, son bureau, sa maison, des endroits qu’on aime…
 
-**En collaboration avec la ville de Grand Quevilly.**
+**En collaboration avec la ville de Grand Quevilly et Quevilly habitat.**
