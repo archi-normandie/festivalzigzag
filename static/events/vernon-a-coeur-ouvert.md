@@ -1,5 +1,5 @@
 ---
-title: VERNON À COEUR OUVERT
+title: Un cœur de ville plus vert
 categories:
 - Déambulation
 featured: false

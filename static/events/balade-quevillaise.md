@@ -19,7 +19,7 @@ address:
   lon: "1.0437583"
 informations:
   note: ''
-  rdv: RDV place Eugène Delacroix
+  rdv: RDV place Eugène Delacroix, sur le mail devant le marchand de journaux
 gallery: []
 
 ---
@@ -27,4 +27,4 @@ Cette balade propose un nouveau tronçon de l’itinéraire jalonné de 12 carte
 
 Cette partie du parcours met en avant Grand Quevilly dans sa dimension contemporaine, les différentes formes d’habitat, la relation aux espaces publics et à la nature qui donnent à la ville sa qualité urbaine.
 
-**Intervenants :** Stéphane Rioland, architecte et Anne Le Bellégo, directrice de la Maison de l’architecture de Normandie – le Forum.
+**Intervenant :** Stéphane Rioland, architecte.
