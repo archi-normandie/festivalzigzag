@@ -15,11 +15,13 @@ booking:
   - date: 2022-10-08 9:00
 address:
   place: Octeville-sur-Mer (76)
-  lat: ''
-  lon: ''
+  lat: "49.5554494"
+  lon: "0.1165946"
 informations:
-  note: ''
-  rdv: ''
+  note: Rallye familial tout public, chaussures confortables conseillées et vêtement
+    de pluie si besoin
+  rdv: RDV en face de l'Eglise, 6 rue Félix Faure (ou, en cas de pluie, sous le préau
+    de l’école Jules Verne, 7 route de Montivilliers)
 gallery: []
 
 ---
@@ -31,4 +33,6 @@ Dans le cadre de **O2,** projet chorégraphique et architectural mené au plus p
 
 **Intervenants :** Barbara Eudier, Malgven Gerbes, Dorothée Navarre-Vatinel, Margot Dorléans et Léonard Rainis.
 
-**Renseignements :** 02 35 54 62 95 - bibliotheque@octevillesurmer.fr
+**Renseignements :** 02 35 54 62 95
+
+**Réservation obligatoire à l’adresse suivante** : bibliotheque@octevillesurmer.fr
