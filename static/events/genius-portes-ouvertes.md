@@ -18,12 +18,12 @@ address:
   lon: "0.1102678"
 informations:
   note: Accès libre
-  rdv: RDV bassin du Roi au niveau du pont Notre Dame
+  rdv: RDV bassin du Roy au niveau du pont Notre Dame
 gallery: []
 
 ---
-Le long du bassin du Roi, les Gens des Lieux, collectif d’architectes et d’artistes havrais, s’installe pour révéler les potentialités du site, invite à regarder les bords de bassin et propose des installations pour y vivre autrement.
+Le long du bassin du Roy, les Gens des Lieux, collectif d’architectes, d'urbanistes et de paysagistes havrais, s’installe pour révéler les potentialités du site, invite à regarder les bords de bassin et propose des installations pour y vivre autrement.
 
-Cette année est l’occasion de mettre aussi en perspective le travail de quatre années mené dans des sites variés, avec une installation originale et ludique et l’idée d’ouvrir des imaginaires, de magnifier un espace, d’en faire surgir le génie du lieu.
+Cette année est l’occasion de mettre en perspective le travail de quatre années mené dans différents sites, avec une exposition originale et ludique qui ouvre des imaginaires, transforme l’espace, fait surgir le génie du lieu.
 
-**Le week-end du 15 et 16 octobre :** animation, guinguette, projections, brunch…
+**Le week-end du 15 et 16 octobre :** animation, musique, danse, projections, brunch...
