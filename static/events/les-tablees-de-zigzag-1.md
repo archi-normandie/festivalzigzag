@@ -1,5 +1,5 @@
 ---
-title: LES TABLÉES DE ZIGZAG
+title: Tablée à la Manufacture des Capucins
 categories:
 - Tablée festive
 featured: false
@@ -24,8 +24,8 @@ informations:
 gallery: []
 
 ---
-Vous resterez bien déjeuner dans les jardins de la Manufacture des capucins ?
+Autour d’un plateau de châtaigner dressé pour l’occasion en table de fête, les manufacturiers co-fondateurs du lieu, vous invitent à partager un moment de convivialité. Première implantation sur le site, la table ici déploie l’espace : elle rythme la vie à la Manufacture des Capucins, elle réunit et fédère. 
 
-Une grande tablée installée sous les arbres vous attend pour partager un repas.
+Participation ouverte à tous. Pique-nique sorti du sac, mis en partage autour de la table.
 
-**Avec Etienne Lemoine, architecte, agence MWAH, les équipes de la ville de Vernon et de la Maison de l’architecture de Normandie – le Forum.**
+**Avec Etienne Lemoine, architecte, agence d'architecture MWAH et les Manufacturiers.**
