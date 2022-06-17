@@ -8,7 +8,7 @@ cover:
   alt: ''
   legend: Travaux Maison du Parc Drône Novembre 2021 ©Jean-François FRERET
 booking:
-  link: ''
+  link: https://www.billetweb.fr/r-novation-de-la-maison-du-parc
   state: ''
   period: ''
   dates:
@@ -23,3 +23,6 @@ informations:
 gallery: []
 
 ---
+Après 30 ans d’utilisation, les locaux de la Maison du Parc souffraient de non-conformité. Engagés depuis novembre 2020, les travaux de rénovation-extension visent à réduire l’empreinte carbone du bâtiment par l’utilisation de matériaux locaux biosourcés et par un recours aux énergies renouvelables. Ainsi réhabilité, le bâtiment devient un lieu de démonstration en matière de sobriété énergétique.
+
+**Intervenant :** Frédéric Closset, architecte conseil, Parc Naturel Régional des Boucles de la Seine Normande.
