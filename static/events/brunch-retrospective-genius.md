@@ -1,5 +1,5 @@
 ---
-title: BRUNCH + RÉTROSPECTIVE GENIUS
+title: BRUNCH + RETROSPECTIVE GENIUS
 categories:
 - Tablée festive
 featured: false
@@ -8,18 +8,18 @@ cover:
   alt: ''
   legend: Genius 2019 ©Yann Monel
 booking:
-  link: ''
+  link: https://www.billetweb.fr/brunch-retrospective-genius
   state: ''
   period: ''
   dates:
   - date: 2022-10-16 12:00
 address:
-  place: ''
-  lat: ''
-  lon: ''
+  place: Le Havre (76)
+  lat: "49.4877725"
+  lon: "0.1104331"
 informations:
   note: ''
-  rdv: ''
+  rdv: RDV bassin du Roi, au niveau du pont Notre Dame
 gallery: []
 
 ---
