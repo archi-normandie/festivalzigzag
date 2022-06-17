@@ -8,18 +8,18 @@ cover:
   alt: ''
   legend: Résidence d'architecture à Montivilliers ©MaN - le Forum
 booking:
-  link: ''
+  link: https://www.billetweb.fr/la-rentr-e-du-lyc-e
   state: ''
   period: ''
   dates:
   - date: 2022-10-16 10:00
 address:
-  place: ''
-  lat: ''
-  lon: ''
+  place: Montivilliers (76)
+  lat: "49.5449083"
+  lon: "0.1931627"
 informations:
   note: ''
-  rdv: ''
+  rdv: RDV au local des résidents cour aux Poules
 gallery: []
 
 ---
