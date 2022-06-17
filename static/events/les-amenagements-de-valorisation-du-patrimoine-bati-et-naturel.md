@@ -8,7 +8,7 @@ cover:
   alt: ''
   legend: "©Maison de l'estuaire de la Seine"
 booking:
-  link: ''
+  link: https://www.billetweb.fr/un-port-au-coeur-de-l-estuaire
   state: ''
   period: ''
   dates:
