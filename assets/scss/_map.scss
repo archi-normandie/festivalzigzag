@@ -15,7 +15,7 @@
 
   p,
   ul {
-    margin: 0 0 $margin/2 0;
+    margin: 0 0 calc($margin / 2) 0;
   }
 
   li {
@@ -29,7 +29,7 @@
 
 .lieux .leaflet-popup-content {
   margin: 0;
-  padding: $margin $margin $margin*2 $margin;
+  padding: $margin $margin calc($margin * 2) $margin;
 }
 
 .event-map-popup {
@@ -48,7 +48,7 @@
       content: '+';
       display: block;
       position: absolute;
-      bottom: $margin/2;
+      bottom: calc($margin / 2);
       right: $margin;
       font-size: $fs24;
       font-weight: 700;
@@ -56,7 +56,7 @@
   }
 
   .event--title {
-    margin: 0 0 $margin/2 0;
+    margin: 0 0 calc($margin / 2) 0;
     font-size: $fs20;
     line-height: 1.25;
   }

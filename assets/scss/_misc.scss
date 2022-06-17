@@ -1,7 +1,7 @@
 // Date.
 
 .date {
-  margin-bottom: $margin/2;
+  margin-bottom: calc($margin / 2);
   color: $grey-dark;
 }
 
@@ -24,7 +24,7 @@
   li::after {
     content: '›';
     display: inline-block;
-    margin: 0 $margin/2;
+    margin: 0 calc($margin / 2);
   }
 }
 

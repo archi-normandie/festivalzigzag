@@ -35,7 +35,7 @@
 .event-full--txt .inner {
   max-width: 25rem;
   margin: 0 auto;
-  padding: $margin*3 $margin;
+  padding: calc($margin * 3) $margin;
 }
 
 .event-full--map {
@@ -64,7 +64,7 @@
   }
 
   .event--address {
-    margin-bottom: $margin/2;
+    margin-bottom: calc($margin / 2);
     text-transform: uppercase;
   }
 
@@ -108,7 +108,7 @@
     display: block;
     width: 2rem;
     height: $border-radius;
-    margin-bottom: $margin/2;
+    margin-bottom: calc($margin / 2);
     background-color: $secondary;
   }
 }

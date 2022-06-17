@@ -41,8 +41,8 @@ $text-color-invert: $white;
 $onepix: 0.0625rem;
 $margin: 1.25rem; // 20px
 $margins: 0 0 $line-height 0;
-$margins-large: 0 0 $line-height * 2 0;
-$margins-small: 0 0 $line-height / 2 0;
+$margins-large: 0 0 calc($line-height * 2) 0;
+$margins-small: 0 0 calc($line-height / 2) 0;
 $margins-compact: 0 0 0.5rem 0;
 $padding: 1.25rem;
 $paddings-small: 0.35rem 0.8rem 0.2rem;

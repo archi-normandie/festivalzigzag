@@ -104,7 +104,7 @@ export default {
   margin: 0 -1.5rem -1.5rem;
   &-left { justify-content: flex-start; }
   &-right { justify-content: flex-end; }
-  &::before { @extend .footer::before; }
+  &::before { @extend .footer, ::before; }
   & :last-child { margin-bottom: 0; }
 }
 // .subfooter :last-child { margin-bottom: 0; }

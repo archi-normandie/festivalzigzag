@@ -32,7 +32,7 @@
 
 .header .menu-item a {
   display: inline-block;
-  padding: $margin/4;
+  padding: calc($margin / 4);
   border-bottom: $onepix*2 solid $white;
   color: $white;
   text-decoration: none;
@@ -72,12 +72,12 @@ main {
   }
 
   &::before {
-    margin-bottom: $margin/2;
+    margin-bottom: calc($margin / 2);
     background-image: url("/img/h1-before.svg");
   }
 
   &::after {
-    margin-top: $margin/2;
+    margin-top: calc($margin / 2);
     background-image: url("/img/h1-after.svg");
   }
 }
@@ -85,53 +85,6 @@ main {
 .content-main--header {
   padding: 0 $margin;
 }
-
-// Footer.
-
-// .footer {
-//   // padding: $margin/2 0;
-//   // margin-top: $margin/2;
-//   background-color: $primary;
-//   color: $white;
-//   font-size: $fs14;
-
-//   // nav,
-//   // ul {
-//   //   width: 100%;
-//   // }
-
-//   // ul {
-//   //   justify-content: center;
-
-//   //   li {
-//   //     margin: 0 $margin/2 $margin/2 $margin/2;
-//   //   }
-//   // }
-
-//   a {
-//     color: $white;
-//     text-decoration: none;
-
-//     &:focus,
-//     &:hover {
-//       text-decoration: underline;
-//     }
-
-//     &:active {
-//       color: $tertiary;
-//     }
-//   }
-// }
-// header.wrapper
-  // .wrapper {
-  //   display: flex;
-  //   flex-wrap: wrap;
-  //   justify-content: center;
-  //   align-items: center;
-
-  //   @media (min-width: 36rem) {
-  //     justify-content: space-between;
-  //   }
 
 // List utilities
 ul.is-quiet,

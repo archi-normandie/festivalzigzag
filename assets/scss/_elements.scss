@@ -32,20 +32,20 @@ h6 {
 
 h1,
 .h1 {
-  margin-bottom: $margin*2;
+  margin-bottom: calc($margin * 2);
   font-size: $fs32;
   font-weight: 400;
 }
 
 h2,
 .h2 {
-  margin-top: $margin*2;
+  margin-top: calc($margin * 2);
   font-size: $fs24;
 }
 
 h3,
 .h3 {
-  margin-top: $margin*2;
+  margin-top: calc($margin * 2);
   font-size: $fs18;
 }
 
@@ -76,10 +76,6 @@ ol {
   list-style: decimal outside;
 }
 
-li {
-  // margin-bottom: $margin / 2;
-}
-
 li li {
   padding-left: $margin;
 }
@@ -98,7 +94,7 @@ dd {
 }
 
 .description {
-  padding-top: $margin / 2;
+  padding-top: calc($margin / 2);
   font-size: $fs14;
   color: #666;
 }
@@ -247,50 +243,6 @@ a {
   }
 }
 
-// Button
-
-// button,
-// .button,
-// .more-link {
-//   display: inline-block;
-//   margin-bottom: $margin/2;
-//   padding: $margin/2 $margin;
-//   background-color: $tertiary;
-//   border: 0;
-//   border-radius: $border-radius;
-//   color: $primary;
-//   font-size: $fs18;
-//   text-transform: uppercase;
-//   text-decoration: none;
-//   box-shadow: 0 -1px 0 $tertiary, 0 $onepix*2 0 darken($tertiary, 10%);
-//   cursor: pointer;
-
-//   &:focus,
-//   &:hover,
-//   &.is-current {
-//     box-shadow: 0 -2px 0 $white, 0 $onepix 0 darken($tertiary, 12%);
-//     color: $tertiary;
-//     background-color: $primary;
-//   }
-
-//   &.is-outlined {
-//     background-color: transparent;
-//     border: 2px solid $primary;
-//     &:hover {
-//       background-color: $primary;
-//       color: $tertiary;
-//     }
-//   }
-// }
-
-// .button-small,
-// .button.is-small {
-//   padding: $margin/4 $margin/2;
-//   text-transform: none;
-// }
-
-// .buttons .button:not(:last-child) { margin-right: $margin / 3; }
-
 // Table
 
 table {
@@ -315,7 +267,7 @@ tr {
 
 th,
 td {
-  padding: $margin / 2;
+  padding: calc($margin / 2);
   text-align: left;
   font-family: $akkurat-bold;
 }
