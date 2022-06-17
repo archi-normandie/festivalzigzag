@@ -14,12 +14,12 @@ booking:
   dates:
   - date: 2020-16-10 14:00
 address:
-  place: ''
-  lat: ''
-  lon: ''
+  place: Saint-Wandrille-Rançon (76)
+  lat: "49.527761"
+  lon: "0.7658175"
 informations:
   note: ''
-  rdv: ''
+  rdv: RDV place de l'Eglise
 gallery: []
 
 ---
