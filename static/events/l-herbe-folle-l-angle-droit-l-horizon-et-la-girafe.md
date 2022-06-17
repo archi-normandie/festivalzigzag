@@ -15,9 +15,9 @@ booking:
   dates:
   - date: 2022-10-15 15:00
 address:
-  place: ''
-  lat: ''
-  lon: ''
+  place: Le Havre (76)
+  lat: "49.4917888"
+  lon: "0.1030378"
 informations:
   note: Exposition présentée du 15 octobre 2022 au 29 janvier 2023
   rdv: RDV Maison du Patrimoine Le Havre Seine Métropole, 181 rue de Paris
