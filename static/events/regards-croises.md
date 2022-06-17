@@ -3,22 +3,21 @@ title: REGARDS CROISÉS
 categories: []
 featured: false
 cover:
-  src: ''
+  src: "/files/31-regards-croises-port-lh-haropa-port.jpg"
   alt: ''
-  legend: ''
+  legend: "©HAROPA-PORT"
 booking:
-  link: ''
+  link: https://www.billetweb.fr/regards-crois-s
   state: ''
   period: ''
-  dates: []
+  dates:
+  - date: 2022-10-15 15:00
 address:
   place: Le Havre (76)
   lat: "49.4846145"
   lon: "0.1050881"
 informations:
-  note: |-
-    Durée 2h30/3h, à partir de 10 ans, chaussures de marche
-    conseillées
+  note: Durée 2h30/3h, à partir de 10 ans, chaussures de marche conseillées
   rdv: RDV devant le Port Center, 49-51, chaussée John Kennedy
 gallery: []
 
