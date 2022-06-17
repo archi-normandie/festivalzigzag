@@ -18,7 +18,7 @@ address:
   lat: "49.0977368"
   lon: "1.4739566"
 informations:
-  note: ''
+  note: Visite du site de 10h à 16h
   rdv: RDV entrée par le jardin de la Manufacture des Capucins, rue du Colonel Théodore
     Fieschi
 gallery: []
