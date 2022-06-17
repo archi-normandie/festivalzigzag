@@ -8,7 +8,7 @@ cover:
   alt: ''
   legend: "©Alan Aubry - Métropole Rouen Normandie"
 booking:
-  link: ''
+  link: https://www.billetweb.fr/h-tel-de-ville-de-duclair
   state: ''
   period: ''
   dates:
