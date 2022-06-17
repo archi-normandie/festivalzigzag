@@ -19,7 +19,7 @@ address:
   lon: "0.2706608"
 informations:
   note: ''
-  rdv: ''
+  rdv: RDV devant la Maison de l'estuaire - parking du pont de Normandie
 gallery: []
 
 ---
