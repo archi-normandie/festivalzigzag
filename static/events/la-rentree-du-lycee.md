@@ -4,9 +4,9 @@ categories:
 - Atelier
 featured: false
 cover:
-  src: "/files/34-montivilliers-2-man-le-forum.jpg"
+  src: "/files/site-web-bavard-e-s.jpg"
   alt: ''
-  legend: Résidence d'architecture à Montivilliers ©MaN - le Forum
+  legend: "©bavard.e.s"
 booking:
   link: https://www.billetweb.fr/la-rentr-e-du-lyc-e
   state: ''
