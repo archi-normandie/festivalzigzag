@@ -1,5 +1,5 @@
 ---
-title: QUAIS EN LUMIÈRE !
+title: Quai en lumière !
 categories:
 - Déambulation nocturne
 featured: false

@@ -1,5 +1,5 @@
 ---
-title: TABLEE A LA MANUFACTURE DES CAPUCINS
+title: Tablée à la Manufacture des Capucins
 categories:
 - Tablée festive
 featured: false

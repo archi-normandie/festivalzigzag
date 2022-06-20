@@ -1,5 +1,5 @@
 ---
-title: RÉNOVATION DE LA MAISON DU PARC
+title: Rénovation de la maison du Parc
 categories:
 - Visite architecturale
 featured: false
