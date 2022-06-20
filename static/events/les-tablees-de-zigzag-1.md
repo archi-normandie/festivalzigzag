@@ -4,9 +4,9 @@ categories:
 - Tablée festive
 featured: false
 cover:
-  src: "/files/22-tablee-manufacture-vernon-man-le-forum.jpg"
+  src: "/files/site-web-repas-manufacture-des-capucins.jpg"
   alt: ''
-  legend: Zigzag 2021 ©MaN - le Forum
+  legend: "©Manufacture des Capucins"
 booking:
   link: https://www.billetweb.fr/les-tabl-es-de-zigzag1
   state: ''
