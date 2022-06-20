@@ -8,7 +8,7 @@ cover:
   alt: ''
   legend: Zigzag 2021
 booking:
-  link: ''
+  link: https://www.billetweb.fr/balade-quevillaise
   state: ''
   period: ''
   dates:
