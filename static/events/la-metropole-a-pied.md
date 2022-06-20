@@ -4,7 +4,7 @@ categories:
 - Randonnée urbaine
 featured: false
 cover:
-  src: "/files/11-la-metropole-a-pied-le-voyage-metropolitain.jpg"
+  src: "/files/site-web-le-voyage-metropolitain.JPG"
   alt: ''
   legend: "©Le Voyage Métropolitain"
 booking:
