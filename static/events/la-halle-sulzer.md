@@ -4,9 +4,9 @@ categories:
 - Visite de chantier
 featured: false
 cover:
-  src: ''
+  src: "/files/halle-sulzer.jpg"
   alt: ''
-  legend: ''
+  legend: "©EPAMSA"
 booking:
   link: ''
   state: ''
