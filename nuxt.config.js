@@ -10,7 +10,8 @@ const env = {
 
 export default {
   // mode: 'static',
-  ssr: true, // default value
+  target: 'static', // <- Nuxt 2.14
+  // ssr: true, // default value
   /*
   ** Env
   */
@@ -62,6 +63,7 @@ export default {
   ** Nuxt.js dev-modules
   */
   buildModules: [
+    '@nuxtjs/style-resources',
     '@nuxtjs/eslint-module'
   ],
   /*
@@ -84,12 +86,9 @@ export default {
   /*
   ** Build configuration
   */
-  build: {
-    styleResources: {
-      scss: './assets/scss/_variables.scss'
-    },
-    extend (config, { isClient }) {
-    }
+  build: {},
+  styleResources: {
+    scss: './assets/scss/_variables.scss'
   },
   /*
   ** Generate configuration
