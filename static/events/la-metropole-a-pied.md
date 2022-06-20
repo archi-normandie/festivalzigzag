@@ -12,7 +12,7 @@ booking:
   state: ''
   period: ''
   dates:
-  - date: 2022-10-02 10:00
+  - date: 2022-10-01 10:00
 address:
   place: Grand Quevilly (76)
   lat: "49.4063919"
