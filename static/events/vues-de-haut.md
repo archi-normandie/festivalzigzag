@@ -1,5 +1,5 @@
 ---
-title: VUES DE HAUT
+title: Vues de haut
 categories:
 - Visites
 featured: false

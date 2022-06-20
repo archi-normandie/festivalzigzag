@@ -1,5 +1,5 @@
 ---
-title: UN PORT AU COEUR DE L'ESTUAIRE
+title: Un port au cœur de l'estuaire
 categories:
 - Visite
 featured: false
