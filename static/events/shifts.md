@@ -12,7 +12,7 @@ booking:
   state: ''
   period: ''
   dates:
-  - date: 2022-10-08 9:00
+  - date: 2022-10-08 09:00
 address:
   place: Octeville-sur-Mer (76)
   lat: "49.5554494"
