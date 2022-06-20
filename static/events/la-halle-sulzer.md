@@ -8,7 +8,7 @@ cover:
   alt: ''
   legend: "©EPAMSA"
 booking:
-  link: ''
+  link: https://www.billetweb.fr/la-halle-sulzer
   state: ''
   period: ''
   dates:
