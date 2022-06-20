@@ -1,5 +1,5 @@
 ---
-title: LA RENTRÉE DU LYCÉE
+title: La rentrée du lycée
 categories:
 - Atelier
 featured: false

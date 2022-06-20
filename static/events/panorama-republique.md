@@ -1,5 +1,5 @@
 ---
-title: PANORAMA RÉPUBLIQUE
+title: Panorama République
 categories:
 - Déambulation
 featured: false

@@ -1,5 +1,5 @@
 ---
-title: LA PAPETERIE ET LA FONDERIE RÉINVENTÉES
+title: La papeterie et la fonderie réinventées
 categories:
 - Déambulation
 featured: false

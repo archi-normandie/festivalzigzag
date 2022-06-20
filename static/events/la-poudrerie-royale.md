@@ -1,5 +1,5 @@
 ---
-title: LA POUDRERIE ROYALE
+title: La poudrerie royale
 categories:
 - Visite architecturale
 featured: false

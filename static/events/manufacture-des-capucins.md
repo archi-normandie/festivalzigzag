@@ -1,5 +1,5 @@
 ---
-title: MANUFACTURE DES CAPUCINS
+title: Manufacture des Capucins
 categories:
 - Visite de chantier
 featured: false

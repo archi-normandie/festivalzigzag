@@ -1,5 +1,5 @@
 ---
-title: LE CARRÉ SAINT-CYR
+title: Le carré Saint-Cyr
 categories:
 - Visite de chantier
 featured: false

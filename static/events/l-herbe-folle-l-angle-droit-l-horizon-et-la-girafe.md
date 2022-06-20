@@ -1,5 +1,5 @@
 ---
-title: L’HERBE FOLLE, L’ANGLE DROIT, L’HORIZON ET LA GIRAFE
+title: L'herbe folle, l'angle droit, l'horizon et la girafe
 categories:
 - Visite
 - Vernissage

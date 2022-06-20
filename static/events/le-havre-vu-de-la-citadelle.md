@@ -1,5 +1,5 @@
 ---
-title: LE HAVRE VU DE LA CITADELLE
+title: Le Havre vu de la citadelle
 categories:
 - Déambulation
 featured: false

@@ -1,5 +1,5 @@
 ---
-title: LANIMEA RECONVERSION ANIMÉE
+title: LANIMEA reconversion animée
 categories:
 - Visite architecturale
 featured: false

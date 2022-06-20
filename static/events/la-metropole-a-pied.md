@@ -1,5 +1,5 @@
 ---
-title: LA MÉTROPOLE À PIED
+title: La Métropole à pied
 categories:
 - Randonnée urbaine
 featured: false
