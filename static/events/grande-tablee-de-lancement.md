@@ -1,5 +1,5 @@
 ---
-title: LES TABLÉES DE ZIGZAG
+title: Grande tablée de lancement
 categories:
 - Tablée festive
 featured: false
