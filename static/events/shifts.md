@@ -4,9 +4,9 @@ categories:
 - Déambulation
 featured: false
 cover:
-  src: "/files/19-o2-a-octeville-sur-mer-man-le-forum.jpg"
+  src: "/files/site-web-shifts.jpg"
   alt: ''
-  legend: ''
+  legend: "©SHIFTS"
 booking:
   link: ''
   state: ''
