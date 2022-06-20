@@ -1,5 +1,5 @@
 ---
-title: BRUNCH + RETROSPECTIVE GENIUS
+title: Brunch + rétrospective GENiUS
 categories:
 - Tablée festive
 featured: false

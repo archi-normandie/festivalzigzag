@@ -1,5 +1,5 @@
 ---
-title: BALADE QUEVILLAISE
+title: Balade quevillaise
 categories:
 - Parcours urbain
 featured: false

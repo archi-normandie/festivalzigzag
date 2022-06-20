@@ -1,5 +1,5 @@
 ---
-title: ATTENTION, RISQUES D’INONDATION !
+title: Attention, risques d'inondation !
 categories:
 - Déambulation théâtralisée
 featured: false

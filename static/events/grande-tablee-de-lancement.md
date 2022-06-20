@@ -1,5 +1,5 @@
 ---
-title: Grande tablée de lancement
+title: GRANDE TABLEE DE LANCEMENT
 categories:
 - Tablée festive
 featured: false

@@ -1,5 +1,5 @@
 ---
-title: 'La Halle Sulzer '
+title: LA HALLE SULZER
 categories:
 - Visite de chantier
 featured: false
