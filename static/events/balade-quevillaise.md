@@ -4,9 +4,9 @@ categories:
 - Parcours urbain
 featured: false
 cover:
-  src: "/files/10-balade-quevillaise-man-le-forum.jpg"
+  src: "/files/balade-quevillaise-2022.jpg"
   alt: ''
-  legend: Zigzag 2021 ©MaN - le Forum
+  legend: Zigzag 2021
 booking:
   link: ''
   state: ''
