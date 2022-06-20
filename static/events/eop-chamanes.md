@@ -1,5 +1,5 @@
 ---
-title: 'EOP : CHAMANES'
+title: 'EOP : Chamanes'
 categories:
 - Parcours photographique
 featured: false

@@ -1,5 +1,5 @@
 ---
-title: 'GENIUS : PORTES OUVERTES'
+title: 'GENiUS : portes ouvertes'
 categories:
 - Installation éphémère
 featured: true

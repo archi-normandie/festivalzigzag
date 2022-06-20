@@ -1,5 +1,5 @@
 ---
-title: EFFET DE SURPRISE
+title: Effet de surprise
 categories:
 - Visite de chantier
 featured: false

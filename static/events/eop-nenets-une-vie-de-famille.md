@@ -1,5 +1,5 @@
 ---
-title: 'EOP : NENETS, UNE VIE DE FAMILLE'
+title: 'EOP : Nenets, une vie de famille'
 categories:
 - Parcours photographique
 featured: false

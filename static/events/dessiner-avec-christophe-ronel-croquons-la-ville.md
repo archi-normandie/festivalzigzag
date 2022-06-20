@@ -1,5 +1,5 @@
 ---
-title: 'DESSINER AVEC CHRISTOPHE RONEL : CROQUONS LA VILLE !'
+title: 'Dessiner avec Christophe Ronel : croquons la ville !'
 categories:
 - Parcours dessiné
 featured: false

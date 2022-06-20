@@ -1,5 +1,5 @@
 ---
-title: JEU DE PISTE EN FAMILLE
+title: Jeu de piste en famille
 categories:
 - Déambulation
 featured: false

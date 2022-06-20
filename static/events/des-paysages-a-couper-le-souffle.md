@@ -1,5 +1,5 @@
 ---
-title: DES PAYSAGES À COUPER LE SOUFFLE !
+title: Des paysages à couper le souffle !
 categories: []
 featured: false
 cover:
