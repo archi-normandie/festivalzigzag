@@ -36,7 +36,9 @@ export default {
   components: { BlocContent, BlocNavigation },
   computed: {
     footerSettings () { return require('~/static/settings/footer.json') },
+    // @note Bug avec webpack et les blocs Marked
     blocs () { return this.footerSettings.blocs },
+    // blocs () { return [] },
     isHome () { return this.$route.name === 'index' },
     currentYear () { return new Date().getFullYear() },
     nextYear () { return this.currentYear + 1 }
