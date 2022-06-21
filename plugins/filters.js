@@ -1,5 +1,5 @@
 import Vue from 'vue'
-import Marked from 'marked'
+import { marked as Marked } from 'marked'
 
 export function markdownify (text) {
   return Marked(text, {
