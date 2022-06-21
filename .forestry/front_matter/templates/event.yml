@@ -116,6 +116,31 @@ fields:
   type: image_gallery
   config: {}
   label: Galerie d'images
+- name: itinerary
+  type: field_group_list
+  fields:
+  - name: label
+    type: text
+    config:
+      required: true
+    label: Label
+  - name: event
+    type: select
+    default: []
+    config:
+      required: true
+      options: []
+      source:
+        type: pages
+        section: evenements
+        file: 
+        path: 
+    label: Évenement
+  config:
+    min: 
+    max: 3
+    labelField: 
+  label: Itinéraire
 pages:
 - static/events/attention-risques-d-inondation.md
 - static/events/balade-quevillaise.md
