@@ -29,6 +29,11 @@ informations:
     Léon Blum. Métro, arrêt Léon Blum // Bus 42, arrêt centre administratif\nImmeuble
     Nymphéa : 1 rue Eugène Boudin. Métro, arrêt Paul Cézanne\n"
 gallery: []
+itinerary:
+- label: Prenez le temps de croquer la ville
+  event: static/events/dessiner-avec-christophe-ronel-croquons-la-ville.md
+- label: Une balade urbaine
+  event: static/events/la-metropole-a-pied.md
 
 ---
 Prenez de la hauteur depuis les toits de Grand Quevilly : la ville révèle un nouveau visage. Les pics et les tours dessinent une skyline qui racontent la ville, tandis qu’au loin, les coteaux, les silos du port, les cheminées des usines et autres repères urbains composent le paysage de bord de Seine.
