@@ -1,5 +1,5 @@
 ---
-title: TOUR ALTA
+title: Tour Alta
 categories:
 - Visite de chantier
 featured: false

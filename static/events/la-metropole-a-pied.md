@@ -1,10 +1,10 @@
 ---
-title: LA MÉTROPOLE À PIED
+title: La Métropole à pied
 categories:
 - Randonnée urbaine
 featured: false
 cover:
-  src: "/files/11-la-metropole-a-pied-le-voyage-metropolitain.jpg"
+  src: "/files/site-web-le-voyage-metropolitain.JPG"
   alt: ''
   legend: "©Le Voyage Métropolitain"
 booking:
@@ -12,7 +12,7 @@ booking:
   state: ''
   period: ''
   dates:
-  - date: 2022-10-02 10:00
+  - date: 2022-10-01 10:00
 address:
   place: Grand Quevilly (76)
   lat: "49.4063919"

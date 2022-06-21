@@ -1,10 +1,10 @@
 ---
-title: UN COEUR DE VILLE PLUS VERT
+title: Un cœur de ville plus vert
 categories:
 - Déambulation
 featured: false
 cover:
-  src: "/files/18-vernon-coeur-de-ville-ville-de-vernon.jpg"
+  src: "/files/site-web-jpg.jpg"
   alt: ''
   legend: "©ville de Vernon"
 booking:

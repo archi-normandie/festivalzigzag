@@ -1,18 +1,18 @@
 ---
-title: JEU DE PISTE EN FAMILLE
+title: Jeu de piste en famille
 categories:
 - Déambulation
 featured: false
 cover:
-  src: "/files/19-o2-a-octeville-sur-mer-man-le-forum.jpg"
+  src: "/files/site-web-shifts.jpg"
   alt: ''
-  legend: ''
+  legend: "©SHIFTS"
 booking:
   link: ''
   state: ''
   period: ''
   dates:
-  - date: 2022-10-08 9:00
+  - date: 2022-10-08 09:00
 address:
   place: Octeville-sur-Mer (76)
   lat: "49.5554494"

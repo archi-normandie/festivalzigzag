@@ -1,12 +1,12 @@
 ---
-title: BRUNCH + RETROSPECTIVE GENIUS
+title: Brunch + rétrospective GENiUS
 categories:
 - Tablée festive
 featured: false
 cover:
-  src: "/files/36-genius-2019_brunch-yann-monel.jpg"
+  src: "/files/brunch-genius.jpg"
   alt: ''
-  legend: Genius 2019 ©Yann Monel
+  legend: Genius 2019
 booking:
   link: https://www.billetweb.fr/brunch-retrospective-genius
   state: ''

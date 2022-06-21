@@ -1,5 +1,5 @@
 ---
-title: REGARDS CROISÉS
+title: Regards croisés
 categories: []
 featured: false
 cover:

@@ -1,5 +1,5 @@
 ---
-title: 'EOP : NENETS, UNE VIE DE FAMILLE'
+title: 'EOP : Nenets, une vie de famille'
 categories:
 - Parcours photographique
 featured: false
@@ -23,7 +23,7 @@ informations:
 gallery: []
 
 ---
-Aux Portes de la forêt, EOP, Espaces d’Œuvres Photographiques, installe pour la deuxième année une exposition d’Antoine Boureau consacrée aux Nenets.
+Pour la deuxième année, EOP, Espaces d’Œuvres Photographiques, s'installe aux Portes de la Forêt avec une exposition d’Antoine Boureau consacrée aux Nenets.
 
 Engagé dans une photographie documentaire et passionné par la magie de la rencontre, Antoine Boureau révèle ce peuple autochtone du cercle polaire qui garde une relation ancestrale à la terre. Il crée un lien, saisit une sensibilité puis la partage avec le monde, grâce à la photographie.
 

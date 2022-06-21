@@ -1,5 +1,5 @@
 ---
-title: PÔLE ENFANCE
+title: Pôle enfance
 categories:
 - Visite architecturale
 featured: false

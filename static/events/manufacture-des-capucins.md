@@ -1,12 +1,12 @@
 ---
-title: MANUFACTURE DES CAPUCINS
+title: Manufacture des Capucins
 categories:
 - Visite de chantier
 featured: false
 cover:
-  src: "/files/20-zigzag-2021-manufacture-man-le-forum.jpg"
+  src: "/files/site-web-manufacture-des-capucins.JPG"
   alt: ''
-  legend: Zigzag 2021 ©MaN - le Forum
+  legend: "©Manufacture des Capucins"
 booking:
   link: https://www.billetweb.fr/manufacture-des-capucins
   state: ''

@@ -1,5 +1,5 @@
 ---
-title: HÔTEL DE VILLE DE DUCLAIR
+title: Hôtel de ville de Duclair
 categories:
 - Visite architecturale
 featured: false

@@ -1,5 +1,5 @@
 ---
-title: 'GENIUS : PORTES OUVERTES'
+title: 'GENiUS : portes ouvertes'
 categories:
 - Installation éphémère
 featured: true
@@ -22,7 +22,7 @@ informations:
 gallery: []
 
 ---
-Le long du bassin du Roy, les Gens des Lieux, collectif d’architectes, d'urbanistes et de paysagistes havrais, s’installe pour révéler les potentialités du site, invite à regarder les bords de bassin et propose des installations pour y vivre autrement.
+Le long du bassin du Roy, les Gens des Lieux, collectif d’architectes urbanistes et paysagistes havrais, s’installe pour révéler les potentialités du site, invite à regarder les bords de bassin et propose des installations pour y vivre autrement.
 
 Cette année est l’occasion de mettre en perspective le travail de quatre années mené dans différents sites, avec une exposition originale et ludique qui ouvre des imaginaires, transforme l’espace, fait surgir le génie du lieu.
 

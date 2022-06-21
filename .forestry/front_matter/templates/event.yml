@@ -116,6 +116,31 @@ fields:
   type: image_gallery
   config: {}
   label: Galerie d'images
+- name: itinerary
+  type: field_group_list
+  fields:
+  - name: label
+    type: text
+    config:
+      required: true
+    label: Label
+  - name: event
+    type: select
+    default: []
+    config:
+      required: true
+      options: []
+      source:
+        type: pages
+        section: evenements
+        file: 
+        path: 
+    label: Évenement
+  config:
+    min: 
+    max: 3
+    labelField: 
+  label: Itinéraire
 pages:
 - static/events/attention-risques-d-inondation.md
 - static/events/balade-quevillaise.md
@@ -127,9 +152,11 @@ pages:
 - static/events/eop-nenets-une-vie-de-famille.md
 - static/events/et-vous-vous-habitez-ou.md
 - static/events/genius-portes-ouvertes.md
+- static/events/grande-tablee-de-lancement.md
 - static/events/hotel-de-ville-de-duclair.md
 - static/events/il-etait-une-fois-la-raff.md
 - static/events/l-herbe-folle-l-angle-droit-l-horizon-et-la-girafe.md
+- static/events/la-halle-sulzer.md
 - static/events/la-metropole-a-pied.md
 - static/events/la-papeterie-et-la-fonderie-reinventees.md
 - static/events/la-poudrerie-royale.md
@@ -139,10 +166,8 @@ pages:
 - static/events/le-havre-vu-de-la-citadelle.md
 - static/events/les-amenagements-de-valorisation-du-patrimoine-bati-et-naturel.md
 - static/events/les-tablees-de-zigzag-1.md
-- static/events/les-tablees-de-zigzag.md
 - static/events/manufacture-des-capucins.md
 - static/events/nadja-un-itineraire-surrealiste.md
-- static/events/operation-ppri-epamsa.md
 - static/events/panorama-republique.md
 - static/events/pole-enfance.md
 - static/events/quais-en-lumiere.md

@@ -1,13 +1,12 @@
 ---
-title: PANORAMA RÉPUBLIQUE
+title: Panorama République
 categories:
 - Déambulation
 featured: false
 cover:
-  src: "/files/16-panorama-republique-man-le-forum.jpg"
+  src: "/files/site-web-dorian-guerin-et-delphine-boeschlin.jpg"
   alt: ''
-  legend: Panorama république - résidence d'architecture 2022 à Elbeuf-sur-Seine ©MaN
-    - le Forum
+  legend: "©Dorian Guérin et Delphine Boeschlin"
 booking:
   link: https://www.billetweb.fr/panorama-r-publique
   state: ''

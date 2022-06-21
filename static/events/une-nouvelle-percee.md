@@ -1,5 +1,5 @@
 ---
-title: UNE NOUVELLE PERCÉE
+title: Une nouvelle percée
 categories:
 - Visite architecturale
 featured: false

@@ -1,5 +1,5 @@
 ---
-title: NADJA, UN ITINÉRAIRE SURRÉALISTE
+title: Nadja, un itinéraire surréaliste
 categories:
 - Visite multisensorielle
 featured: false

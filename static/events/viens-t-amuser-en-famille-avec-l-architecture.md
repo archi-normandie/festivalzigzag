@@ -1,10 +1,10 @@
 ---
-title: VIENS T’AMUSER EN FAMILLE AVEC L’ARCHITECTURE
+title: Viens t'amuser en famille avec l'architecture
 categories:
 - Atelier famille
 featured: false
 cover:
-  src: "/files/25-atelier-kapla-vernon-louis-lac.jpg"
+  src: "/files/louis-lac.JPG"
   alt: ''
   legend: "©Louis Lac"
 booking:
