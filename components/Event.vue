@@ -10,6 +10,7 @@
       <EventCategories :categories="event.categories" />
       <EventAddress :address="event.address" />
       <EventBooking :booking="event.booking" />
+      <EventItinerary :itinerary="event.itinerary || []" />
     </div>
     <EventCover :cover="event.cover" />
     <div class="event-content">
@@ -23,7 +24,7 @@
       </p>
     </div>
     <EventGallery :gallery="event.gallery" />
-    <img v-if="staticMapSrc" :src="staticMapSrc" class="event-map"/>
+    <img v-if="staticMapSrc" :src="staticMapSrc" class="event-map" />
   </article>
 </template>
 
@@ -33,6 +34,7 @@ import EventBooking from '~/components/Event/Booking'
 import EventAddress from '~/components/Event/Address'
 import EventCover from '~/components/Event/Cover'
 import EventGallery from '~/components/Event/Gallery'
+import EventItinerary from '~/components/Event/Itinerary'
 
 export default {
   name: 'Event',
@@ -41,7 +43,8 @@ export default {
     EventBooking,
     EventAddress,
     EventCover,
-    EventGallery
+    EventGallery,
+    EventItinerary
   },
   props: {
     content: {
