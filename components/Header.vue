@@ -10,7 +10,7 @@
               </nuxt-link>
             </h1>
             <p class="brand-slogan">
-              <em>Le long de la Vallée de la Seine</em>
+              Se décaler pour mieux regarder
             </p>
           </div>
         </div>
@@ -75,6 +75,8 @@ export default {
     &-slogan {
       margin-left: 6.2rem;
       margin-bottom: 0;
+      font-size: $fs14;
+      text-transform: uppercase;
     }
   }
   &::before{

@@ -31,8 +31,8 @@ export default {
 .button {
   display: inline-block;
   padding: $paddings;
-  background-color: $text-color-invert;
-  color: $text-color;
+  background-color: $brand-color-invert;
+  color: $brand-color;
   border: $border;
   text-transform: uppercase;
   text-decoration: none;
@@ -41,8 +41,8 @@ export default {
   &:focus,
   &:hover,
   &.is-current {
-    color: $text-color-invert;
-    background-color: $text-color;
+    color: $brand-color-invert;
+    background-color: $brand-color;
   }
   &.is-large { font-size: $fs20; }
   &.is-small { font-size: $fs14; }
@@ -50,14 +50,14 @@ export default {
     color: $primary;
     background-color: $primary-invert;
     &.is-outlined {
-      color: $text-color;
-      border-color: $text-color;
-      background-color: $text-color-invert;
+      color: $brand-color;
+      border-color: $brand-color;
+      background-color: $brand-color-invert;
       &:focus,
       &:hover,
       &.is-current {
-        color: $text-color-invert;
-        background-color: $text-color;
+        color: $brand-color-invert;
+        background-color: $brand-color;
       }
     }
     &:focus,
@@ -68,14 +68,14 @@ export default {
     }
   }
   &.is-outlined {
-    color: $text-color;
-    border-color: $text-color;
-    background-color: $text-color-invert;
+    color: $brand-color;
+    border-color: $brand-color;
+    background-color: $brand-color-invert;
     &:focus,
     &:hover,
     &.is-current {
-      color: $text-color-invert;
-      background-color: $text-color;
+      color: $brand-color-invert;
+      background-color: $brand-color;
     }
   }
 }

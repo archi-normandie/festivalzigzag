@@ -43,47 +43,28 @@ export default {
   }
 }
 </script>
-
 <style lang="scss">
-@import '~/assets/scss/_variables.scss';
 .footer,
-.subfooter {
+subfooter {
+  background-color: $brand-color;
+  color: $brand-color-invert;
   h1,
   h2,
   h3,
   h4,
   h5,
   h6 {
-    color: $white;
     font-size: 1em;
     margin-bottom: 1rem;
   }
-}
-.footer {
-  position: relative;
-  font-size: $fs14;
-  color: $white;
-  padding: $paddings-large;
-  // background-color: darken($primary, 3);
-  // background-blend-mode: multiply;
-  // mix-blend-mode: multiply;
-  &::before {
-    position : absolute;
-    content: " ";
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    z-index: -1;
-    mix-blend-mode: multiply;
-    background-color: darken($primary, 3);
-  }
+
   a {
     color: $white;
-    text-decoration: none;
+    text-decoration: underline;
 
     &:focus,
     &:hover {
+      color: $brand-color-secondary;
       text-decoration: underline;
     }
 
@@ -93,20 +74,31 @@ export default {
   }
 }
 
+.footer {
+  position: relative;
+  font-size: $fs14;
+  color: $white;
+  padding: $paddings-large;
+}
 .subfooter {
   display: flex;
   align-items: center;
   justify-content: space-between;
 
   position: relative;
-  font-size: 0.8em;
-  padding: $paddings;
-  margin: 0 -1.5rem -1.5rem;
+  font-size: $fs12;
   &-left { justify-content: flex-start; }
   &-right { justify-content: flex-end; }
-  &::before { @extend .footer, ::before; }
-  & :last-child { margin-bottom: 0; }
 }
+
+</style>
+<style lang="scss">
+
+.footer,
+.subfooter {
+
+}
+
 // .subfooter :last-child { margin-bottom: 0; }
 @media (min-width: 48rem) {
   // Limiter la largeur de bloc à 1/3

@@ -12,7 +12,7 @@ html {
 body {
   background-color: $white;
   color: $text-color;
-  font-family: $akkurat;
+  font-family: $brand-font;
   font-size: $fs16;
   line-height: 1.25;
 }
@@ -85,7 +85,7 @@ dl {
 }
 
 dt {
-  font-family: $akkurat-bold;
+  font-family: $brand-font-bold;
   font-size: $fs20;
 }
 
@@ -115,7 +115,7 @@ blockquote {
 
 q,
 cite {
-  font-family: $akkurat-italic;
+  font-family: $brand-font-italic;
 }
 
 q {
@@ -134,14 +134,14 @@ q {
 
 strong,
 b {
-  font-family: $akkurat-bold;
+  font-family: $brand-font-bold;
 }
 
 em,
 i,
 dfn,
 var {
-  font-family: $akkurat-italic;
+  font-family: $brand-font-italic;
 }
 
 code {
@@ -155,7 +155,7 @@ kbd {
   padding: 0 0.25rem;
   background-color: $grey-light;
   border:1px solid $grey;
-  font-family: $akkurat-bold;
+  font-family: $brand-font-bold;
 }
 
 samp,
@@ -219,7 +219,7 @@ figure {
 //   display: inline-block;
 //   padding: $margin 0;
 //   border-bottom: 1px solid $grey;
-//   font-family: $akkurat-italic;
+//   font-family: $brand-font-italic;
 // }
 
 audio,
@@ -254,7 +254,7 @@ caption {
   padding: $margin;
   background-color: $black;
   color: $white;
-  font-family: $akkurat-bold;
+  font-family: $brand-font-bold;
 }
 
 tr {
@@ -269,7 +269,7 @@ th,
 td {
   padding: calc($margin / 2);
   text-align: left;
-  font-family: $akkurat-bold;
+  font-family: $brand-font-bold;
 }
 
 // Hidden
