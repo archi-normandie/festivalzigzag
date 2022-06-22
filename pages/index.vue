@@ -43,5 +43,4 @@ export default {
     height: 60vh;
   }
 }
-main { max-height: 32rem; }
 </style>
