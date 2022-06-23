@@ -22,6 +22,8 @@ informations:
   rdv: RDV Maison de l’architecture de Normandie – le Forum, 48 rue Victor Hugo
 gallery: []
 itinerary:
+- label: 14h30 Parcours photographique sur les quais
+  event: []
 - label: 18h30 Une soirée festive au Forum
   event: static/events/grande-tablee-de-lancement.md
 
