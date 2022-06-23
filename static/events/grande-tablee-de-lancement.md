@@ -21,6 +21,13 @@ informations:
   note: Accessibilité PMR
   rdv: RDV Maison de l’architecture de Normandie – le Forum, 48 rue Victor Hugo
 gallery: []
+itinerary:
+- label: 10h Déambulation théâtralisée le lendemain matin
+  event: static/events/attention-risques-d-inondation.md
+- label: 10h Parcours urbain le lendemain matin
+  event: static/events/balade-quevillaise.md
+- label: 11h Parcours photographique le lendemain matin
+  event: static/events/eop-nenets-une-vie-de-famille.md
 
 ---
 Vous resterez bien dîner ?
