@@ -21,6 +21,13 @@ informations:
   note: ''
   rdv: RDV place Eugène Delacroix, sur le mail devant le marchand de journaux
 gallery: []
+itinerary:
+- label: 14h30 Croquer la ville pour ce parcours dessiné
+  event: static/events/dessiner-avec-christophe-ronel-croquons-la-ville.md
+- label: 17h30 Soirée projection et musique au Sillon
+  event: static/events/il-etait-une-fois-la-raff.md
+- label: '11h Parcours photographique le lendemain '
+  event: static/events/eop-nenets-une-vie-de-famille.md
 
 ---
 Cette balade propose un nouveau tronçon de l’itinéraire jalonné de 12 cartels imaginé pour découvrir la ville. Une invitation à regarder et comprendre l’architecture et l’urbanisme de cette ville moderne. La balade démarre à la place Eugène Delacroix, empreinte des chemins de traverse, longe la forêt du Chêne à Leu jusqu’au quartier Matisse…
