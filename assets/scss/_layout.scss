@@ -73,12 +73,16 @@ main {
 
   &::before {
     margin-bottom: calc($margin / 2);
-    background-image: url("/img/h1-before.svg");
+    background-color: $brand-color-secondary;
+    mask: url("/img/h1-before.svg") no-repeat;
+    mask-size: cover;
   }
 
   &::after {
     margin-top: calc($margin / 2);
-    background-image: url("/img/h1-after.svg");
+    background-color: $brand-color-secondary;
+    mask: url("/img/h1-after.svg") no-repeat;
+    mask-size: cover;
   }
 }
 
