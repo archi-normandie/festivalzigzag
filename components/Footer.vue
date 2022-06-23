@@ -19,6 +19,7 @@
         <li>© Maison de l'architecture de Normandie — le Forum ({{ currentYear }}/{{ nextYear }})</li>
         <li>Identité graphique : <a href="https://sarahkugel.com/">Sarah Kügel</a></li>
         <li>Conception Web : <a href="https://github.com/ziopod">Ziopod</a></li>
+        <li>Poto de la page d'accueil <a href="https://www.instagram.com/louis_lca">Louis Lac</a></li>
       </ul>
       <ul class="subfooter-rigth is-inline-fancy is-align-right">
         <li><a href="https://www.facebook.com/zigzagfestivalarchitecture">Facebook</a></li>
