@@ -26,8 +26,6 @@ itinerary:
   event: static/events/dessiner-avec-christophe-ronel-croquons-la-ville.md
 - label: 17h30 Soirée projection et musique au Sillon
   event: static/events/il-etait-une-fois-la-raff.md
-- label: 11h Parcours photographique le lendemain
-  event: []
 
 ---
 Ici, vous êtes au théâtre ! Diffuser, expliquer, sensibiliser, connaitre les bons gestes à adopter face à une telle situation, ce sont les comédiens qui prennent la parole !
