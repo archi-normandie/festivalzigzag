@@ -21,6 +21,13 @@ informations:
   note: 'EOP : CHAMANES en accès libre du 1er octobre au 27 novembre 2022'
   rdv: RDV rive gauche, en haut de l'escalier ouest du pont Boieldieu
 gallery: []
+itinerary:
+- label: 17h Emission radio au Forum
+  event: static/events/et-vous-vous-habitez-ou.md
+- label: 18h30 Une soirée festive au Forum
+  event: static/events/grande-tablee-de-lancement.md
+- label: Nouveau parcours photo le 2 oct. à 11h
+  event: static/events/eop-nenets-une-vie-de-famille.md
 
 ---
 Sur les quais bas rive gauche, entre les ponts Boieldieu et Jeanne d'Arc, EOP, Espaces d’œuvres photographiques, propose une nouvelle exposition éphémère consacrée à Flore-Aël Surun. Photographe connue pour son recours poétique à la couleur et à ses contrastes en faveur d’une culture humaniste de la non violence, elle présente des clichés issus de recherches qu’elle mène depuis plus d’une dizaine d’années sur les chamanes, acteurs de paix.

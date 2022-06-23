@@ -21,6 +21,11 @@ informations:
   note: Accessibilité PMR
   rdv: RDV 150 rue Sadi Carnot
 gallery: []
+itinerary:
+- label: 17h Emission radio au Forum
+  event: static/events/et-vous-vous-habitez-ou.md
+- label: 18h30 Une soirée festive au Forum
+  event: static/events/grande-tablee-de-lancement.md
 
 ---
 Accompagné de l’architecte en charge du projet, vous pénétrerez les bâtiments reconvertis et étendus pour découvrir cette ancienne usine de filature, Les Tissages, qui mixte avec élégance les matières et les teintes pour se faire l’écrin d’une nouvelle aventure au cœur de Caudebec. L’école d’animation Lanimea et des commerces y ont posé leur valise et  participent à la redynamisation de la ville.

@@ -21,6 +21,9 @@ informations:
   note: Accessibilité PMR
   rdv: RDV devant l’entrée de l’Eglise Saint-Cyr, 27 rue Arthur Papavoine
 gallery: []
+itinerary:
+- label: 18h30 Une soirée festive au Forum
+  event: static/events/grande-tablee-de-lancement.md
 
 ---
 **À LA RENCONTRE DES SAVOIR-FAIRE**
