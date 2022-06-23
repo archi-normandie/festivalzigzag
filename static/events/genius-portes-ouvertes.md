@@ -20,6 +20,9 @@ informations:
   note: Accès libre
   rdv: RDV bassin du Roy au niveau du pont Notre Dame
 gallery: []
+itinerary:
+- event: static/events/brunch-retrospective-genius.md
+  label: Tablée festive spéciale GENiUS
 
 ---
 Le long du bassin du Roy, les Gens des Lieux, collectif d’architectes urbanistes et paysagistes havrais, s’installe pour révéler les potentialités du site, invite à regarder les bords de bassin et propose des installations pour y vivre autrement.
