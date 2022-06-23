@@ -25,7 +25,7 @@ informations:
 gallery: []
 itinerary:
 - event: static/events/grande-tablee-de-lancement.md
-  label: Une soirée festive au Forum
+  label: 18h30 Une soirée festive au Forum
 
 ---
 De Grand Quevilly à Maromme, cette randonnée péri-urbaine explore tour à tour des paysages urbains et forestiers de la Métropole Rouen Normandie marqués par l’industrie, la présence du fleuve, d’anciennes usines, des parcs et la forêt. Une traversée en bac permettra de joindre les deux rives et de relier deux ambiances de ce territoire dans une approche sensible.
