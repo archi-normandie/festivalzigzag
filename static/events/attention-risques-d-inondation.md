@@ -21,6 +21,11 @@ informations:
   note: ''
   rdv: RDV parking du cimetière, rue du Château d’Eau
 gallery: []
+itinerary:
+- label: 14h30 Croquons la ville pour ce parcours dessiné
+  event: static/events/dessiner-avec-christophe-ronel-croquons-la-ville.md
+- label: 17h30 Soirée projection et musique au Sillon
+  event: static/events/il-etait-une-fois-la-raff.md
 
 ---
 Ici, vous êtes au théâtre ! Diffuser, expliquer, sensibiliser, connaitre les bons gestes à adopter face à une telle situation, ce sont les comédiens qui prennent la parole !

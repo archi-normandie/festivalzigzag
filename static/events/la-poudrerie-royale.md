@@ -22,6 +22,13 @@ informations:
   rdv: RDV devant l’entrée principale de la Poudrerie Royale, 94 rue des Martyrs de
     la Résistance
 gallery: []
+itinerary:
+- label: 14h30 Nouvelle visite avec AZ architectes
+  event: static/events/lanimea-reconversion-animee.md
+- event: static/events/le-carre-saint-cyr.md
+  label: 17h Une visite de chantier
+- label: 18h30 Soirée festive au Forum
+  event: static/events/grande-tablee-de-lancement.md
 
 ---
 Venez visiter et découvrir cet espace récemment livré, première étape dans la renaissance du Moulin à Poudre, nouveau quartier au cœur de Maromme. Situé le long du Cailly, il s’imprègne, préserve et ennoblit la trace construite d’un passé industriel à l’architecture si caractéristique.

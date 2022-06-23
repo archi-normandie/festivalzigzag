@@ -30,10 +30,12 @@ informations:
     Nymphéa : 1 rue Eugène Boudin. Métro, arrêt Paul Cézanne\n"
 gallery: []
 itinerary:
-- label: Prenez le temps de croquer la ville
-  event: static/events/dessiner-avec-christophe-ronel-croquons-la-ville.md
-- label: Une balade urbaine
-  event: static/events/la-metropole-a-pied.md
+- label: 14h30 Parcours photographique sur les quais
+  event: static/events/eop-chamanes.md
+- label: 17h Emission radio au Forum
+  event: static/events/et-vous-vous-habitez-ou.md
+- label: 18h30 Soirée festive au Forum
+  event: static/events/grande-tablee-de-lancement.md
 
 ---
 Prenez de la hauteur depuis les toits de Grand Quevilly : la ville révèle un nouveau visage. Les pics et les tours dessinent une skyline qui racontent la ville, tandis qu’au loin, les coteaux, les silos du port, les cheminées des usines et autres repères urbains composent le paysage de bord de Seine.

@@ -21,6 +21,9 @@ informations:
   note: ''
   rdv: RDV 29 rue de la République
 gallery: []
+itinerary:
+- label: 20h30 Déambulation nocturne en lumière
+  event: static/events/quais-en-lumiere.md
 
 ---
 Dorian Guérin et Delphine Boeschlin ont posé leurs valises dans le quartier République d’Elbeuf-sur-Seine à l’occasion d’une résidence d’architecture. Pour comprendre le fonctionnement et l’identité de ce quartier en pleine rénovation, ils se sont promenés dans chaque recoin, à la recherche d’informations et de trésors cachés. Ouvrez l’œil et vous verrez où et comment ces constructeurs, ces tisseurs de lien social sont intervenus dans le quartier.

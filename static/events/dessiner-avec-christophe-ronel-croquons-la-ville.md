@@ -21,6 +21,9 @@ informations:
   note: ''
   rdv: RDV esplanade Tony Larue
 gallery: []
+itinerary:
+- label: 17h30 Soirée projection et musique au Sillon
+  event: static/events/il-etait-une-fois-la-raff.md
 
 ---
 Embarquez vos crayons, vos feutres, votre carnet à dessin, vous partez pour une balade dessinée en compagnie de l’artiste Christophe Ronel. À ses côtés, parcourez la ville, arpentez les rues, traversez les places, flânez dans les jardins en dessinant.
