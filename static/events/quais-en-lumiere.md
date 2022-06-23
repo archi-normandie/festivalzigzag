@@ -22,7 +22,7 @@ informations:
   rdv: RDV quais bas rive gauche, au pied du pont Jeanne d’Arc
 gallery: []
 itinerary:
-- label: 14h30 Déambulation à Elbeuf-sur-Seine
+- label: 14h30 Déambulation à la recherche de trésors cachés
   event: static/events/panorama-republique.md
 
 ---
