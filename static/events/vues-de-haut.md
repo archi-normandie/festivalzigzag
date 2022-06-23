@@ -30,7 +30,7 @@ informations:
     Nymphéa : 1 rue Eugène Boudin. Métro, arrêt Paul Cézanne\n"
 gallery: []
 itinerary:
-- label: 14h30 Parcours sur les quais bas rive gauche
+- label: 14h30 Parcours photographique sur les quais
   event: static/events/eop-chamanes.md
 - label: 17h Emission radio au Forum
   event: static/events/et-vous-vous-habitez-ou.md

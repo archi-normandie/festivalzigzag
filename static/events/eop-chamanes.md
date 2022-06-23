@@ -26,7 +26,7 @@ itinerary:
   event: static/events/et-vous-vous-habitez-ou.md
 - label: 18h30 Une soirée festive au Forum
   event: static/events/grande-tablee-de-lancement.md
-- label: Nouveau parcours photo le 2 oct. à 11h
+- label: 11h Parcours photographique le lendemain matin
   event: static/events/eop-nenets-une-vie-de-famille.md
 
 ---
