@@ -30,8 +30,8 @@ informations:
     Nymphéa : 1 rue Eugène Boudin. Métro, arrêt Paul Cézanne\n"
 gallery: []
 itinerary:
-- label: Prenez le temps de croquer la ville
-  event: static/events/dessiner-avec-christophe-ronel-croquons-la-ville.md
+- label: Direction les quais bas rive gauche
+  event: static/events/eop-chamanes.md
 - label: Une balade urbaine
   event: static/events/la-metropole-a-pied.md
 

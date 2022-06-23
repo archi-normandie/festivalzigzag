@@ -25,6 +25,8 @@ gallery: []
 itinerary:
 - label: Nouvelle visite avec AZ architectes
   event: static/events/lanimea-reconversion-animee.md
+- event: static/events/le-carre-saint-cyr.md
+  label: Une visite de chantier pour terminer
 
 ---
 Venez visiter et découvrir cet espace récemment livré, première étape dans la renaissance du Moulin à Poudre, nouveau quartier au cœur de Maromme. Situé le long du Cailly, il s’imprègne, préserve et ennoblit la trace construite d’un passé industriel à l’architecture si caractéristique.
