@@ -19,8 +19,12 @@ address:
   lon: "1.4823494"
 informations:
   note: Accessibilité PMR
-  rdv: RDV Médiathèque de Vernon, salle Maubert, 12 av Victor Hugo
+  rdv: |-
+    RDV Médiathèque de Vernon, salle Maubert, 12 av Victor Hugo
+    6 min à pieds depuis la gare de Vernon
+    Bus 1 à 4, arrêt Bully
 gallery: []
+itinerary: []
 
 ---
 Ce ne sont que de petits pavés droits en pin des Landes, mais c’est fou tout ce qu’on peut faire avec ! Avec un peu de pratique, en les superposant, de fabuleuses constructions s’élèvent. Avec les Kapla, soyez l’architecte de cet univers. Et avant de prendre plaisir à tout détruire, photo !
