@@ -22,6 +22,11 @@ informations:
   rdv: RDV entrée par le jardin de la Manufacture des Capucins, rue du Colonel Théodore
     Fieschi
 gallery: []
+itinerary:
+- label: 10h Visite du chantier de la Manuf'
+  event: static/events/manufacture-des-capucins.md
+- label: 14h30 Des paysages à couper le souffle
+  event: static/events/des-paysages-a-couper-le-souffle.md
 
 ---
 Autour d’un plateau de châtaigner dressé pour l’occasion en table de fête, les manufacturiers co-fondateurs du lieu, vous invitent à partager un moment de convivialité. Première implantation sur le site, la table ici déploie l’espace : elle rythme la vie à la Manufacture des Capucins, elle réunit et fédère. 
