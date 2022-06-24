@@ -21,6 +21,11 @@ informations:
   note: Accessibilité PMR
   rdv: RDV à côté du gymnase Terre d’Auge - Henri Even, rue de la Vicomté
 gallery: []
+itinerary:
+- label: 15h Déambulation au Havre
+  event: static/events/regards-croises.md
+- label: 15h Visite et vernissage d'exposition
+  event: static/events/l-herbe-folle-l-angle-droit-l-horizon-et-la-girafe.md
 
 ---
 Au cœur de la ville, un nouvel équipement dédié à l’accueil des enfants ouvrira prochainement, pour répondre à la demande croissante de garde collective. Accompagnés des élus et des architectes qui guideront vos pas et votre regard, vous mesurerez la pertinence et la justesse des réponses urbaines, écologiques et architecturales apportées par ce pôle enfance.
