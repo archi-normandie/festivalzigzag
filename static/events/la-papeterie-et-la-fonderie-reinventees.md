@@ -23,6 +23,11 @@ informations:
     RDV parc de la Fonderie, av. de Rouen
     Bus 5 – arrêt Grosse Borne, direction Saint-Marcel - 11 novembre
 gallery: []
+itinerary:
+- label: 12h Tablée à la Manufacture des Capucins
+  event: static/events/les-tablees-de-zigzag-1.md
+- label: 14h30 Des paysages à couper le souffle
+  event: static/events/des-paysages-a-couper-le-souffle.md
 
 ---
 En bord de Seine, deux friches en bord laissent place à de nouveaux projets. Au lieu et place d’une ancienne fonderie, un nouveau parc urbain imaginé par les architectes-paysagistes 22 degrés, replace la nature au cœur de la ville.  
