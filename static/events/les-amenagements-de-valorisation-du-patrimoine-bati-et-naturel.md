@@ -21,6 +21,11 @@ informations:
   note: ''
   rdv: RDV devant la Maison de l'estuaire - parking du pont de Normandie
 gallery: []
+itinerary:
+- label: 12h Brunch + rétrospective GENiUS
+  event: static/events/brunch-retrospective-genius.md
+- label: 16h Effet de surprise pour clôturer le festival
+  event: static/events/effet-de-surprise.md
 
 ---
 Au cœur de la réserve naturelle de l’estuaire, le pont de Normandie, cerné de roselières et de marais, constitue le poste d’observation idéal de cette zone protégée située aux portes du Port du Havre. Cette visite à deux voix, avec un guide-conférencier et un animateur de la Maison de l’Estuaire, décrypte les enjeux de cette cohabitation, entre paysages naturels et gigantisme portuaire.

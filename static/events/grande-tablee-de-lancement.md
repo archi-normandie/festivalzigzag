@@ -22,12 +22,12 @@ informations:
   rdv: RDV Maison de l’architecture de Normandie – le Forum, 48 rue Victor Hugo
 gallery: []
 itinerary:
-- label: 10h Déambulation théâtralisée le lendemain matin
-  event: static/events/attention-risques-d-inondation.md
-- label: 10h Parcours urbain le lendemain matin
-  event: static/events/balade-quevillaise.md
-- label: 11h Parcours photographique le lendemain matin
-  event: static/events/eop-nenets-une-vie-de-famille.md
+- label: Visites depuis les toits de Grand Quevilly
+  event: static/events/vues-de-haut.md
+- label: 14h30 Parcours photographique sur les quais
+  event: static/events/eop-chamanes.md
+- label: 17h Emission radio au Forum
+  event: static/events/et-vous-vous-habitez-ou.md
 
 ---
 Vous resterez bien dîner ?

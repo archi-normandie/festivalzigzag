@@ -1,5 +1,5 @@
 ---
-title: 'EOP : Chamanes'
+title: 'EOP : Chamane lumière'
 categories:
 - Parcours photographique
 featured: false
@@ -26,7 +26,7 @@ itinerary:
   event: static/events/et-vous-vous-habitez-ou.md
 - label: 18h30 Une soirée festive au Forum
   event: static/events/grande-tablee-de-lancement.md
-- label: 11h Parcours photographique le lendemain matin
+- label: 11h Second parcours EOP le lendemain matin
   event: static/events/eop-nenets-une-vie-de-famille.md
 
 ---

@@ -22,6 +22,8 @@ informations:
   rdv: RDV esplanade Tony Larue
 gallery: []
 itinerary:
+- label: 16h Visite multisensorielle de Rouen
+  event: static/events/nadja-un-itineraire-surrealiste.md
 - label: 17h30 Soirée projection et musique au Sillon
   event: static/events/il-etait-une-fois-la-raff.md
 

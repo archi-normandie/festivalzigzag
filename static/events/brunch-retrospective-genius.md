@@ -21,6 +21,11 @@ informations:
   note: ''
   rdv: RDV bassin du Roi, au niveau du pont Notre Dame
 gallery: []
+itinerary:
+- label: 10h Déambulation au Havre
+  event: static/events/le-havre-vu-de-la-citadelle.md
+- label: 16h Effet de surprise pour clôturer le festival
+  event: static/events/effet-de-surprise.md
 
 ---
 En clôture de cette édition de Zigzag, les Gens des Lieux invitent à les retrouver pour un moment de convivialité sur le site de GENIUS le long du bassin du Roy à l’occasion d’un brunch.  
