@@ -6,7 +6,7 @@
     <div class="event-title">
       {{ event.title }}
     </div>
-    <EventBooking :booking="event.booking" />
+    <EventBooking :booking="event.booking" :showBookingButton="false" />
     <EventAddress :address="event.address" />
     <EventCategories :categories="event.categories" />
   </nuxt-link>

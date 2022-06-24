@@ -21,7 +21,7 @@
         {{ booking.state }}
       </p>
     </div>
-    <p v-if="booking.link">
+    <p v-if="booking.link && showBookingButton">
       <Button
         :to="booking.link"
         class="button is-primary is-outlined is-small"
@@ -40,6 +40,10 @@ export default {
     booking: {
       type: Object,
       required: true
+    },
+    showBookingButton: {
+      type: Boolean,
+      default: true
     }
   }
 }
