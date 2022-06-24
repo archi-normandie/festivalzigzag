@@ -19,8 +19,10 @@ address:
   lon: "1.4739566"
 informations:
   note: ''
-  rdv: RDV entrée par le jardin de la Manufacture des Capucins, rue du Colonel Théodore
-    Fieschi
+  rdv: |-
+    RDV entrée par le jardin de la Manufacture des Capucins, rue du Colonel Théodore Fieschi
+    11 min à pieds depuis la gare de Vernon
+    Bus 5, arrêt Commissariat
 gallery: []
 itinerary:
 - label: 10h Visite du chantier de la Manuf'

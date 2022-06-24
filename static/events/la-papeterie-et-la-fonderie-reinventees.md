@@ -21,7 +21,8 @@ informations:
   note: ''
   rdv: |-
     RDV parc de la Fonderie, av. de Rouen
-    Bus 5 – arrêt Grosse Borne, direction Saint-Marcel - 11 novembre
+    16 min à pieds depuis la gare de Vernon
+    Bus 5, arrêt Grosse Borne
 gallery: []
 itinerary:
 - label: 12h Tablée à la Manufacture des Capucins
