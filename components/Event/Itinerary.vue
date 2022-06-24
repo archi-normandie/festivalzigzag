@@ -28,12 +28,14 @@ export default {
   computed: {
     events () {
       if (this.itinerary.length === 0) { return null }
-      const events = this.itinerary.map((l) => {
-        return {
-          ...l,
-          link: l.event.substring('static'.length, l.event.length - '.md'.length)
-        }
-      })
+      const events = this.itinerary
+        .filter(l => typeof l.event === 'string')
+        .map((l) => {
+          return {
+            ...l,
+            link: l.event.substring('static'.length, l.event.length - '.md'.length)
+          }
+        })
       return events || null
     }
   }
