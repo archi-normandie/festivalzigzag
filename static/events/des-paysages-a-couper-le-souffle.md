@@ -19,7 +19,10 @@ address:
 informations:
   note: Prévoir chaussures de randonnée et vêtements adaptés à la météo, site non
     accessible aux personnes à mobilité réduite et qui ont des difficultés à marcher
-  rdv: RDV parking du Château-Gaillard, au bout de l’allée du Roi de Rome
+  rdv: |-
+    RDV parking du Château-Gaillard, au bout de l’allée du Roi de Rome
+    30 min à pieds depuis la gare routière des Andelys
+    Bus 8, arrêt Stade Tomasini, continuer 11 min à pieds
 gallery: []
 itinerary:
 - label: 10h Visite du chantier de la Manuf'
