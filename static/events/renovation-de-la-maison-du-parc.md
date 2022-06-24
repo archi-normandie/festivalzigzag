@@ -21,6 +21,9 @@ informations:
   note: Accessibilité PMR
   rdv: RDV sur le parking visiteurs de la Maison du Parc, 692 rue du Petit Pont
 gallery: []
+itinerary:
+- label: 10h30 Visite architecturale à Duclair
+  event: static/events/hotel-de-ville-de-duclair.md
 
 ---
 Après 30 ans d’utilisation, les locaux de la Maison du Parc souffraient de non-conformité. Engagés depuis novembre 2020, les travaux de rénovation-extension visent à réduire l’empreinte carbone du bâtiment par l’utilisation de matériaux locaux biosourcés et par un recours aux énergies renouvelables. Ainsi réhabilité, le bâtiment devient un lieu de démonstration en matière de sobriété énergétique.
