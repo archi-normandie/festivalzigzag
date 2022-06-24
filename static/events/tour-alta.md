@@ -24,7 +24,7 @@ gallery: []
 itinerary:
 - label: 15h Déambulation au Havre
   event: static/events/regards-croises.md
-- label: 17h Visite et vernissage d'exposition
+- label: 15h Visite et vernissage d'exposition
   event: static/events/l-herbe-folle-l-angle-droit-l-horizon-et-la-girafe.md
 
 ---

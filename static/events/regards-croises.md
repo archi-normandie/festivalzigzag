@@ -23,8 +23,6 @@ gallery: []
 itinerary:
 - label: 10h Visite du chantier de la tour Alta
   event: static/events/tour-alta.md
-- label: 17h Visite et vernissage d'exposition
-  event: static/events/l-herbe-folle-l-angle-droit-l-horizon-et-la-girafe.md
 
 ---
 Enfilez vos chaussures de marche, vous partez à la découverte du paysage portuaire depuis le pont Notre-Dame. En passant par les bassins, nous irons jusqu’à la cloche des dockers. Lecture actuelle et approche historique se confrontent et vous accompagnent, pour regarder autrement et comprendre les infrastructures et les sites au travers de l’évolution du trafic, des navires et des marchandises.

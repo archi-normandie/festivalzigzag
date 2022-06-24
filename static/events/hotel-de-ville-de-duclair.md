@@ -21,6 +21,9 @@ informations:
   note: ''
   rdv: RDV devant la mairie, place du Général de Gaulle
 gallery: []
+itinerary:
+- label: 14h30 Visite de la Maison du parc
+  event: static/events/renovation-de-la-maison-du-parc.md
 
 ---
 Durement touchée par les bombardements de la fin de la Seconde Guerre mondiale, la ville de Duclair a dû repenser son architecture. À travers une visite de la mairie, bâtiment typique de la reconstruction, venez découvrir le projet urbanistique et architectural mis en place à l’époque et la façon dont l’architecture a été réhabilitée en 2017, pour répondre à l’évolution des modes de vie.

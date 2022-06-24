@@ -22,6 +22,9 @@ informations:
   note: Exposition présentée du 15 octobre 2022 au 29 janvier 2023
   rdv: RDV Maison du Patrimoine Le Havre Seine Métropole, 181 rue de Paris
 gallery: []
+itinerary:
+- label: 10h Visite du chantier de la tour Alta
+  event: static/events/tour-alta.md
 
 ---
 **_L’espace du vivant dans Le Havre de Perret_**
