@@ -19,7 +19,10 @@ address:
   lon: "0.2706608"
 informations:
   note: ''
-  rdv: RDV devant la Maison de l'estuaire - parking du pont de Normandie
+  rdv: |-
+    RDV devant la Maison de l'estuaire - parking du pont de Normandie
+    45 min en vélo depuis la gare du Havre
+    25 min en vélo depuis la gare d'Honfleur
 gallery: []
 itinerary:
 - label: 12h Brunch + rétrospective GENiUS
