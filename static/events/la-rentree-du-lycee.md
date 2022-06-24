@@ -21,6 +21,11 @@ informations:
   note: ''
   rdv: RDV au local des résidents cour aux Poules
 gallery: []
+itinerary:
+- label: 12h Brunch + rétrospective GENiUS
+  event: static/events/brunch-retrospective-genius.md
+- label: 16h Effet de surprise pour clôturer le festival
+  event: static/events/effet-de-surprise.md
 
 ---
 Pendant leur résidence d'architecture, Camille Delie, Lison Domé et Hugo Leprince de l’association Bavard.e.s ont occupé un bâtiment du corps abbatial durant six semaines, entre avril et juin. Leur but ? Rencontrer les habitants et personnes ressources afin d’imaginer ensemble le futur de cet ancien Lycée. Le fruit de cette mobilisation vous est présenté à travers une exposition. Venez découvrir les illustrations de Camille Delie, les photos, les relevés, les différents récits récoltés lors de la résidence !

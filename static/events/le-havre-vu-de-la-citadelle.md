@@ -21,6 +21,11 @@ informations:
   note: ''
   rdv: RDV devant le Port Center, 49-51,chaussée John Kennedy
 gallery: []
+itinerary:
+- event: static/events/brunch-retrospective-genius.md
+  label: 12h Brunch + rétrospective GENiUS
+- label: 16h Effet de surprise pour clôturer le festival
+  event: static/events/effet-de-surprise.md
 
 ---
 La Citadelle offre un réservoir exceptionnel entre vie urbaine et portuaire, dans lequel s’entremêlent eau, vent, briques, bateaux, bureaux ou ateliers. Située à l’interface ville-port, la Citadelle relie le centre-ville reconstruit d’Auguste Perret et le quartier Saint-François aux faubourgs du quartier Saint-Nicolas et aux Docks.
