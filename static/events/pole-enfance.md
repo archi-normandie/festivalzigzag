@@ -22,6 +22,8 @@ informations:
   rdv: RDV à côté du gymnase Terre d’Auge - Henri Even, rue de la Vicomté
 gallery: []
 itinerary:
+- label: 14h30 Visite de la maison du parc
+  event: static/events/renovation-de-la-maison-du-parc.md
 - label: 15h Déambulation au Havre
   event: static/events/regards-croises.md
 - label: 15h Visite et vernissage d'exposition
