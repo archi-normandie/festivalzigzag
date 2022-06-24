@@ -19,8 +19,12 @@ address:
   lon: "1.4846828"
 informations:
   note: ''
-  rdv: RDV devant la mairie, place Adolphe Barette
+  rdv: |-
+    RDV devant la mairie, place Adolphe Barette
+    8 min à pieds depuis la gare de Vernon
+    Bus 4 et 10, arrêt Albuféra
 gallery: []
+itinerary: []
 
 ---
 Les chantiers engagés depuis plusieurs mois à Vernon visent à redynamiser son centre, en créant notamment des espaces publics accueillants, plus verts et flexibles aux multiples usages. Lors des travaux, des trésors archéologiques ont été découverts, livrant de nouveaux pans de l’histoire véronaise. 
