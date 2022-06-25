@@ -3,7 +3,7 @@
     <h1 class="title-main">
       Lieux
     </h1>
-    <no-ssr>
+    <client-only>
       <l-map
         :zoom="9"
         :center="[49.3, 0.8]"
@@ -17,7 +17,7 @@
           <EventMarker v-for="marker in events" :key="marker.slug" :marker="marker" />
         </v-marker-cluster>
       </l-map>
-    </no-ssr>
+    </client-only>
   </main>
 </template>
 
