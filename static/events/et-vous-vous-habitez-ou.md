@@ -23,7 +23,7 @@ informations:
 gallery: []
 itinerary:
 - label: 14h30 Parcours photographique sur les quais
-  event: []
+  event: static/events/eop-chamane-lumiere.md
 - label: 18h30 Une soirée festive au Forum
   event: static/events/grande-tablee-de-lancement.md
 
