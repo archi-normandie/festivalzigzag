@@ -15,8 +15,8 @@ booking:
   - date: 2022-10-01 17:00
 address:
   place: Rouen (76)
-  lat: "49.4400098"
-  lon: "1.1007679"
+  lat: "49.4400446"
+  lon: "1.1007435"
 informations:
   note: ''
   rdv: RDV Maison de l’architecture de Normandie – le Forum, 48 rue Victor Hugo
