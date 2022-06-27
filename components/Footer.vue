@@ -45,10 +45,37 @@ export default {
 }
 </script>
 <style lang="scss">
-.footer,
-subfooter {
-  background-color: $brand-color;
+
+.footer {
+  position: relative;
+  // padding: $paddings-large;
+  padding-top: calc($line-height * 4);
+  padding-right: $line-height;
+  padding-bottom: calc($line-height * 2);
+  padding-left: calc($line-height * 2);
+  // background-color: $brand-color;
+  // mix-blend-mode: multiply;
+  background-color: transparent;
   color: $brand-color-invert;
+  font-size: $fs14;
+
+  // Image de pied de page
+  &::after {
+    content: " ";
+    position: absolute;
+    inset: 0;
+    z-index: -1;
+    background-color: $brand-color;
+    background-image:
+      url("/img/bande-biseau-bottom.svg"),
+      url("/img/bande.svg"),
+      url("/img/background-bottom.jpg");
+    background-size: auto, auto, cover;
+    background-repeat: no-repeat, repeat-y, no-repeat;
+    background-position: bottom left, bottom left, top, top;
+    // background-blend-mode: multiply;
+  }
+
   h1,
   h2,
   h3,
@@ -75,14 +102,9 @@ subfooter {
   }
 }
 
-.footer {
-  position: relative;
-  font-size: $fs14;
-  color: $white;
-  padding: $paddings-large;
-}
 .subfooter {
   display: flex;
+  padding-top: calc($line-height * 2);;
   align-items: center;
   justify-content: space-between;
 

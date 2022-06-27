@@ -20,13 +20,13 @@ export default {
 </script>
 <style lang="scss">
 body {
-  padding: 1.5rem;
+  // padding: 1.5rem;
   // background-image: url("/img/background-top.jpg"), url("/img/background-bottom.jpg");
-  background-color: $white;
-  background-repeat: no-repeat, no-repeat;
-  background-position: top, bottom;
-  background-size: contain;
+  // background-color: $white;
+  // background-repeat: no-repeat, no-repeat;
+  // background-position: top, bottom;
+  // background-size: contain;
 }
-main { background-color: rgba(255, 255, 255, 0.6); }
+// main { background-color: rgba(255, 255, 255, 0.6); }
 .container { padding: $paddings; }
 </style>

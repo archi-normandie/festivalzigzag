@@ -59,10 +59,36 @@ export default {
   position: relative;
   padding: $paddings-large;
   padding-top: 1.2rem;
-  background-color: transparent;
-  color: $white;
-  fill: $white;
+  background-color: $brand-color;
+  mix-blend-mode: multiply;
+  color: $brand-color-invert;
+  fill: $brand-color-invert;
+
+  // Sauf sur la page d'accueil
+  &::after {
+    content:" ";
+    position: absolute;
+    inset: 0;
+    padding-bottom: 12rem;
+    // opacity: .2;
+    z-index: - 1;
+    background-color: $brand-color;
+    background:
+      url("/img/bande-biseau-top.svg"),
+      url("/img/bande.svg"),
+      linear-gradient(0deg, transparent 0%, $brand-color 70%),
+      url("/img/background-top.jpg")
+    ;
+    background-size: auto, auto, cover;
+    background-repeat: no-repeat, repeat-y, no-repeat;
+    background-position: top left, top left, bottom, bottom;
+    // background-blend-mode: multiply;
+    // mix-blend-mode: multiply;
+  }
+
   .brand {
+    margin-left: 1.5rem;
+    margin-top: 1.5rem;
     &-logo {
       margin: 0;
       a {
@@ -78,18 +104,6 @@ export default {
       font-size: $fs14;
       text-transform: uppercase;
     }
-  }
-  &::before{
-    content: " ";
-    position: absolute;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    // background-image: linear-gradient(180deg, #056B87 0%, transparent 100%);
-    background-color: $primary;
-    z-index: -1;
-    mix-blend-mode: multiply;
   }
 }
 </style>
