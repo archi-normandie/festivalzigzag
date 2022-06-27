@@ -15,15 +15,15 @@ booking:
   - date: 2022-10-01 17:00
 address:
   place: Rouen (76)
-  lat: "49.4400098"
-  lon: "1.1007679"
+  lat: "49.4400446"
+  lon: "1.1007435"
 informations:
   note: ''
   rdv: RDV Maison de l’architecture de Normandie – le Forum, 48 rue Victor Hugo
 gallery: []
 itinerary:
 - label: 14h30 Parcours photographique sur les quais
-  event: []
+  event: static/events/eop-chamane-lumiere.md
 - label: 18h30 Une soirée festive au Forum
   event: static/events/grande-tablee-de-lancement.md
 
