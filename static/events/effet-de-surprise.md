@@ -12,7 +12,7 @@ booking:
   state: ''
   period: ''
   dates:
-  - date: 2022-10-16 14:00
+  - date: 2022-10-16 16:00
 address:
   place: Saint-Wandrille-Rançon (76)
   lat: "49.527761"
