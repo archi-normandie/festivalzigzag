@@ -1,6 +1,6 @@
 <template>
   <footer class="footer" :class="coverMode ? 'covered' : null">
-    <section v-if="fancy">
+    <section v-if="!coverMode">
       <div class="menu has-text-top">
         <template v-if="blocs.length">
           <component
@@ -88,10 +88,11 @@ export default {
   h6 {
     font-size: 1em;
     margin-bottom: 1rem;
+    color: $white;
   }
 
   a {
-    color: $white;
+    color: $brand-color-invert;
     text-decoration: underline;
 
     &:focus,
