@@ -36,11 +36,11 @@ export default {
 .hero-logo {
   color: $brand-color-secondary;
   display: block;
-  overflow: hidden;
-  text-align: center;
+  // overflow: hidden;
   .hero-logo-svg {
     display: inline-block;
-    height: 60vh;
+    // height: 60vh;
+    width: 53rem;
   }
 }
 </style>

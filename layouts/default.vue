@@ -34,6 +34,7 @@ body {
 .container {
   padding: $paddings;
   padding-left: calc($line-height * 2);
+  padding-bottom: calc($line-height * 6);
   &:not(.covered) {
     background-image: url("/img/bande.svg");
     background-repeat: repeat-y;
