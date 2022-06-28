@@ -52,7 +52,7 @@ export default {
 <style lang="scss">
 
 .footer {
-  padding-top: calc($line-height * 4);
+  padding-top: calc($line-height * 12);
   padding-right: $line-height;
   padding-bottom: calc($line-height * 2);
   padding-left: calc($line-height * 2);
@@ -76,7 +76,7 @@ export default {
         url("/img/background-bottom.jpg");
       background-size: auto, auto, cover;
       background-repeat: no-repeat, repeat-y, no-repeat;
-      background-position: bottom left, bottom left, top, top;
+      background-position: bottom left, bottom left, bottom, bottom;
     }
   }
 
