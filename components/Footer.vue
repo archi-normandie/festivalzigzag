@@ -56,13 +56,13 @@ export default {
   padding-right: $line-height;
   padding-bottom: calc($line-height * 2);
   padding-left: calc($line-height * 2);
-  background-color: $brand-color;
+  // background-color: $brand-color;
   color: $brand-color-invert;
   font-size: $fs14;
 
   &:not(.covered) {
     position: relative;
-    mix-blend-mode: multiply;
+    // mix-blend-mode: multiply;
     // Image de pied de page
     &::after {
       content: " ";

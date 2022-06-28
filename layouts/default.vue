@@ -1,7 +1,7 @@
 <template>
   <div class="body">
     <Header :coverMode="isHome" />
-    <nuxt class="container"/>
+    <nuxt class="container" :class="isHome ? 'covered' : null" />
     <Footer :coverMode="isHome" />
   </div>
 </template>
@@ -34,5 +34,9 @@ body {
 .container {
   padding: $paddings;
   padding-left: calc($line-height * 2);
+  &:not(.covered) {
+    background-image: url("/img/bande.svg");
+    background-repeat: repeat-y;
+  }
 }
 </style>
