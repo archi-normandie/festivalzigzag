@@ -26,7 +26,7 @@ itinerary:
   event: static/events/grande-tablee-de-lancement.md
 
 ---
-**À LA RENCONTRE DES SAVOIR-FAIRE**
+**À la rencontre des savoir-faire**
 
 Venez à la rencontre de ce projet d’ampleur, aux multiples facettes. Vous découvrirez les métamorphoses de l’église Saint-Cyr restaurée et transformée en un lieu dédié aux Métiers d’Art, remarquable réinterprétation contemporaine et laïque de l’espace. La création d’une Pépinière d’artisanat d’art vient compléter cet ambitieux projet patrimonial et urbain. Le bâtiment tire parti des matériaux existants sur le site pour créer une enveloppe en accord avec les murs de l’église.
 
