@@ -240,6 +240,7 @@ export default {
   .event-group {
     order: 0;
     &.is-toplist {
+      & h2.event { padding-top: $line-height; }
       order: -1;
     }
   }
