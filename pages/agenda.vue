@@ -4,14 +4,14 @@
       <h1 class="title-main">
         Agenda
       </h1>
-      <div class="container">
+      <div>
         <div
           :class="blockAgendaHeader.classes"
           class="is-primary"
           v-html="blockAgendaHeader.html"
         />
       </div>
-      <div class="container">
+      <div>
         <Button
           class="button is-small"
           :class="isSortedBy('city') ? 'is-current' : null"
@@ -31,7 +31,7 @@
         <div
           v-for="(groupedEvents, index) in sortedEvents"
           :key="index"
-          class="events"
+          class="event-group"
           :class="index === 'Événements permanents' ? 'is-toplist' : null"
         >
           <h2 class="event event-pinned event-teaser">
@@ -237,7 +237,7 @@ export default {
 .events {
   display: flex;
   flex-direction: column;
-  .events {
+  .event-group {
     order: 0;
     &.is-toplist {
       order: -1;
