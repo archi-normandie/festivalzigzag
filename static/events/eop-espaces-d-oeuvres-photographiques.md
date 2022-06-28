@@ -20,6 +20,10 @@ informations:
   note: ''
   rdv: ''
 gallery: []
-itinerary: []
+itinerary:
+- label: Parcours photographique à Rouen
+  event: static/events/eop-chamane-lumiere.md
+- label: Parcours photographique à Bois-Guillaume
+  event: static/events/eop-nenets-une-vie-de-famille.md
 
 ---
