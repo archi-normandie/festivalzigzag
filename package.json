@@ -9,7 +9,7 @@
     "dev": "npm run kamokamo && nuxt",
     "forestry:preview": "npm run kamokamo && nuxt",
     "build": "npm run kamokamo && nuxt build",
-    "start": "npm run images && npm run kamokamo && nuxt start",
+    "start": "nuxt start",
     "generate": "npm run images && npm run kamokamo && nuxt generate",
     "lint": "eslint --ext .js,.vue --ignore-path .gitignore ."
   },
