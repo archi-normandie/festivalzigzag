@@ -18,7 +18,7 @@ address:
   lon: ''
 informations:
   note: ''
-  rdv: ''
+  rdv: A écouter gratuitement
 gallery: []
 itinerary:
 - label: 'Emission radio - lancement des podcasts en direct '
