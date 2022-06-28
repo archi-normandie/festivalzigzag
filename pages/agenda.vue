@@ -243,7 +243,6 @@ export default {
       order: -1;
     }
   }
-  padding: $paddings;
   &-filter {
     padding-right: 1.5rem;
     padding-left: 1.5rem;
