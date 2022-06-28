@@ -68,7 +68,10 @@ export default {
       grid-template-columns: 30% repeat(auto-fit, minmax(0, 1fr));
       // grid-auto-columns: auto;
       grid-auto-rows: unset;
-      & > * { margin-right: $margin; }
+      & > * {
+        margin-right: $margin;
+        margin-bottom: 0;
+      }
       &:last-child { margin-right: 0; }
     }
   }

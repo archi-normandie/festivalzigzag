@@ -31,7 +31,7 @@
         <div
           v-for="(groupedEvents, index) in sortedEvents"
           :key="index"
-          class="event"
+          class="events"
           :class="index === 'Événements permanents' ? 'is-toplist' : null"
         >
           <h2 class="event event-pinned event-teaser">
@@ -237,7 +237,7 @@ export default {
 .events {
   display: flex;
   flex-direction: column;
-  .event {
+  .events {
     order: 0;
     &.is-toplist {
       order: -1;

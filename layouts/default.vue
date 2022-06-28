@@ -31,5 +31,8 @@ body {
   // background-size: contain;
 }
 // main { background-color: rgba(255, 255, 255, 0.6); }
-.container { padding: $paddings; }
+.container {
+  padding: $paddings;
+  padding-left: calc($line-height * 2);
+}
 </style>
