@@ -52,15 +52,15 @@ export default {
 <style lang="scss">
 
 .footer {
-  padding-top: calc($line-height * 12);
   padding-right: $line-height;
-  padding-bottom: calc($line-height * 2);
+  padding-bottom: $line-height;
   padding-left: calc($line-height * 2);
   // background-color: $brand-color;
   color: $brand-color-invert;
   font-size: $fs14;
 
   &:not(.covered) {
+    padding-top: calc($line-height * 12);
     position: relative;
     // mix-blend-mode: multiply;
     // Image de pied de page
@@ -109,7 +109,6 @@ export default {
 
 .subfooter {
   display: flex;
-  padding-top: calc($line-height * 2);;
   align-items: center;
   justify-content: space-between;
 
