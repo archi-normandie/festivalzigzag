@@ -1,8 +1,8 @@
 <template>
   <div class="body">
-    <Header />
+    <Header :coverMode="isHome" />
     <nuxt />
-    <Footer />
+    <Footer :coverMode="isHome" />
   </div>
 </template>
 
@@ -15,6 +15,9 @@ export default {
   components: {
     Footer,
     Header
+  },
+  computed: {
+    isHome () { return this.$route.name === 'index' }
   }
 }
 </script>

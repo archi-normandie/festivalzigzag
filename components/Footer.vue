@@ -1,6 +1,6 @@
 <template>
-  <footer class="footer">
-    <section v-if="!isHome">
+  <footer class="footer" :class="coverMode ? 'covered' : null">
+    <section v-if="fancy">
       <div class="menu has-text-top">
         <template v-if="blocs.length">
           <component
@@ -35,10 +35,15 @@ import BlocNavigation from '~/components/Blocs/Navigation'
 export default {
   name: 'Footer',
   components: { BlocContent, BlocNavigation },
+  props: {
+    coverMode: {
+      type: Boolean,
+      default: false
+    }
+  },
   computed: {
     footerSettings () { return require('~/static/settings/footer.json') },
     blocs () { return this.footerSettings.blocs },
-    isHome () { return this.$route.name === 'index' },
     currentYear () { return new Date().getFullYear() },
     nextYear () { return this.currentYear + 1 }
   }
@@ -47,33 +52,32 @@ export default {
 <style lang="scss">
 
 .footer {
-  position: relative;
-  // padding: $paddings-large;
   padding-top: calc($line-height * 4);
   padding-right: $line-height;
   padding-bottom: calc($line-height * 2);
   padding-left: calc($line-height * 2);
-  // background-color: $brand-color;
-  // mix-blend-mode: multiply;
-  background-color: transparent;
+  background-color: $brand-color;
   color: $brand-color-invert;
   font-size: $fs14;
 
-  // Image de pied de page
-  &::after {
-    content: " ";
-    position: absolute;
-    inset: 0;
-    z-index: -1;
-    background-color: $brand-color;
-    background-image:
-      url("/img/bande-biseau-bottom.svg"),
-      url("/img/bande.svg"),
-      url("/img/background-bottom.jpg");
-    background-size: auto, auto, cover;
-    background-repeat: no-repeat, repeat-y, no-repeat;
-    background-position: bottom left, bottom left, top, top;
-    // background-blend-mode: multiply;
+  &:not(.covered) {
+    position: relative;
+    mix-blend-mode: multiply;
+    // Image de pied de page
+    &::after {
+      content: " ";
+      position: absolute;
+      inset: 0;
+      z-index: -1;
+      background-color: $brand-color;
+      background-image:
+        url("/img/bande-biseau-bottom.svg"),
+        url("/img/bande.svg"),
+        url("/img/background-bottom.jpg");
+      background-size: auto, auto, cover;
+      background-repeat: no-repeat, repeat-y, no-repeat;
+      background-position: bottom left, bottom left, top, top;
+    }
   }
 
   h1,

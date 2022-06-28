@@ -1,5 +1,5 @@
 <template>
-  <header class="header">
+  <header class="header" :class="coverMode ? 'covered' : null">
     <div class="">
       <nav class="navigation menu">
         <div class="menu-section-left">
@@ -46,6 +46,12 @@ import HeaderLogoZigzag from '~/static/img/header-logo-zigzag.svg?inline'
 export default {
   name: 'Header',
   components: { HeaderLogoZigzag },
+  props: {
+    coverMode: {
+      type: Boolean,
+      default: false
+    }
+  },
   data () {
     return {
       navHeader: this.$store.state.contents.all['/blocks/nav-header']
@@ -56,39 +62,39 @@ export default {
 
 <style lang="scss">
 .header {
-  position: relative;
   padding: $paddings-large;
   padding-top: 1.2rem;
   background-color: $brand-color;
-  mix-blend-mode: multiply;
   color: $brand-color-invert;
   fill: $brand-color-invert;
-
-  // Sauf sur la page d'accueil
-  &::after {
-    content:" ";
-    position: absolute;
-    inset: 0;
-    padding-bottom: 12rem;
-    // opacity: .2;
-    z-index: - 1;
-    background-color: $brand-color;
-    background:
-      url("/img/bande-biseau-top.svg"),
-      url("/img/bande.svg"),
-      linear-gradient(0deg, transparent 0%, $brand-color 70%),
-      url("/img/background-top.jpg")
-    ;
-    background-size: auto, auto, cover;
-    background-repeat: no-repeat, repeat-y, no-repeat;
-    background-position: top left, top left, bottom, bottom;
-    // background-blend-mode: multiply;
-    // mix-blend-mode: multiply;
+  // image d'entête
+  &:not(.covered) {
+    .brand {
+      margin-left: 1.5rem;
+      margin-top: 1.5rem;
+    }
+    position: relative;
+    mix-blend-mode: multiply;
+    &::after {
+      content:" ";
+      position: absolute;
+      inset: 0;
+      padding-bottom: 12rem;
+      z-index: - 1;
+      background-color: $brand-color;
+      background:
+        url("/img/bande-biseau-top.svg"),
+        url("/img/bande.svg"),
+        linear-gradient(0deg, transparent 0%, $brand-color 70%),
+        url("/img/background-top.jpg")
+      ;
+      background-size: auto, auto, cover;
+      background-repeat: no-repeat, repeat-y, no-repeat;
+      background-position: top left, top left, bottom, bottom;
+    }
   }
 
   .brand {
-    margin-left: 1.5rem;
-    margin-top: 1.5rem;
     &-logo {
       margin: 0;
       a {
