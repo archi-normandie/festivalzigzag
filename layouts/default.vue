@@ -1,7 +1,7 @@
 <template>
   <div class="body">
     <Header :coverMode="isHome" />
-    <nuxt />
+    <nuxt class="container"/>
     <Footer :coverMode="isHome" />
   </div>
 </template>
