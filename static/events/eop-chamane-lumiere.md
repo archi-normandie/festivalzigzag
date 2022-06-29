@@ -19,7 +19,9 @@ address:
   lon: "1.0901518"
 informations:
   note: 'EOP : CHAMANES en accès libre du 1er octobre au 27 novembre 2022'
-  rdv: RDV rive gauche, en haut de l'escalier ouest du pont Boieldieu
+  rdv: |-
+    RDV rive gauche, en haut de l'escalier ouest du pont Boieldieu
+    Réseau Astuce : Métro, arrêt Joffre-Mutualité
 gallery: []
 itinerary:
 - label: 17h Emission radio au Forum

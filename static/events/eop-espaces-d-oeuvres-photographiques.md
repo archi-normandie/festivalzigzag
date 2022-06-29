@@ -18,9 +18,10 @@ address:
   lon: ''
 informations:
   note: ''
-  rdv: "Accès libre en extérieur\nBois-Guillaume : RDV devant l’école élémentaire
-    Les Portes de la Forêt, 67 place des Erables. Réseau Astuce : Bus 11, arrêt Table
-    de Pierre\nRouen : "
+  rdv: |-
+    Accès libre en extérieur
+    Bois-Guillaume : RDV devant l’école élémentaire Les Portes de la Forêt, 67 place des Erables. Réseau Astuce : Bus 11, arrêt Table de Pierre
+    Rouen : RDV rive gauche, en haut de l'escalier ouest du pont Boieldieu. Réseau Astuce : Métro, arrêt Joffre-Mutualité
 gallery: []
 itinerary:
 - label: Parcours photographique à Rouen
