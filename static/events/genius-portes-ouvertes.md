@@ -18,7 +18,10 @@ address:
   lon: "0.1102678"
 informations:
   note: Accès libre
-  rdv: RDV bassin du Roy au niveau du pont Notre Dame
+  rdv: |-
+    RDV bassin du Roy au niveau du pont Notre Dame
+    18 min à pieds depuis la gare du Havre
+    Réseau LiA : Bus 4, arrêt Videcoq
 gallery: []
 itinerary:
 - event: static/events/brunch-retrospective-genius.md
