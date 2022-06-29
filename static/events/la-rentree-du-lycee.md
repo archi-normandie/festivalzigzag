@@ -19,7 +19,7 @@ address:
   lon: "0.1931627"
 informations:
   note: ''
-  rdv: RDV au local des résidents cour aux Poules
+  rdv: RDV au local des résidents cour St-Phillibert
 gallery: []
 itinerary:
 - label: 12h Brunch + rétrospective GENiUS
