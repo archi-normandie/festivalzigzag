@@ -19,7 +19,9 @@ address:
   lon: "1.112822"
 informations:
   note: 'EOP : NENETS en accès libre du 23 septembre au 27 novembre 2022 '
-  rdv: RDV devant l’école élémentaire Les Portes de la Forêt, 67 place des Erables
+  rdv: |-
+    RDV devant l’école élémentaire Les Portes de la Forêt, 67 place des Erables
+    Réseau Astuce : Bus 11, arrêt Table de Pierre
 gallery: []
 itinerary:
 - label: 16h Visite multisensorielle de Rouen
