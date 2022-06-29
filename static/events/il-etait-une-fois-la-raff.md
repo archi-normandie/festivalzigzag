@@ -19,7 +19,10 @@ address:
   lon: "1.0214823"
 informations:
   note: Accessibilité PMR
-  rdv: RDV Le Sillon, rue Winston Churchill
+  rdv: |-
+    RDV Le Sillon, rue Winston Churchill
+    34 min en vélo depuis la gare de Rouen
+    Réseau Astuce : Bus 6 et 27, arrêt Mairie de Petit-Couronne
 gallery: []
 itinerary:
 - label: 10h Balade quevillaise
