@@ -62,32 +62,6 @@ main {
   align-items: center;
   width: 100%;
   text-align: center;
-
-  &::before,
-  &::after {
-    content: "";
-    display: block;
-    width: 2.5rem;
-    height: 1.25rem;
-    background-repeat: no-repeat;
-    background-size: cover;
-    text-align: center;
-
-  }
-
-  &::before {
-    margin-bottom: calc($margin / 2);
-    background-color: $brand-color;
-    mask: url("/img/h1-before.svg") no-repeat;
-    mask-size: cover;
-  }
-
-  &::after {
-    margin-top: calc($margin / 2);
-    background-color: $brand-color;
-    mask: url("/img/h1-after.svg") no-repeat;
-    mask-size: cover;
-  }
 }
 
 .content-main--header {
