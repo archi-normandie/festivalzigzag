@@ -72,8 +72,8 @@ export default {
   // image d'entête
   &:not(.covered) {
     .brand {
-      margin-left: 1.5rem;
-      margin-top: 1.5rem;
+      margin-left: 2rem;
+      margin-top: 2rem;
     }
     position: relative;
     // mix-blend-mode: multiply;

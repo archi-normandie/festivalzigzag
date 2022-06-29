@@ -60,6 +60,10 @@ export default {
       }
       &-title { font-weight: $bold; }
       &-booking > :last-child { margin-bottom: 0; }
+      &-address {
+        padding: 0;
+        border: none;
+      }
     }
     @media (min-width: 48rem) {
       // /!\ Utiliser table pour avoir un alignement de colonnes
