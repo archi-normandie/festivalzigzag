@@ -7,8 +7,8 @@
       {{ event.title }}
     </h1>
     <div class="event-informations">
-      <EventCategories :categories="event.categories" />
       <EventAddress :address="event.address" />
+      <EventCategories :categories="event.categories" />
       <EventBooking :booking="event.booking" />
       <EventItinerary :itinerary="event.itinerary || []" />
     </div>

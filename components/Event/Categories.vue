@@ -20,9 +20,8 @@ export default {
 <style lang="scss">
 .event-categories {
   list-style: none;
-  margin: 0;
+  margin: $margins-small;
   text-transform : uppercase;
-  text-align: center;
   & li { display: inline; }
   & li:not(:last-child)::after { content: ', '; }
 }

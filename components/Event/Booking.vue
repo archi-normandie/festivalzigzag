@@ -9,7 +9,8 @@
           v-for="(date, index) in booking.dates"
           :key="index"
         >
-          {{ date.date | prettyDate }}
+          {{ date.date | getDay }}<br>
+          <b>{{ date.date | getHour }}</b>
         </li>
       </ul>
     </template>
@@ -50,11 +51,15 @@ export default {
 </script>
 <style lang="scss">
 .event-booking {
-  text-align: center;
   font-weight: 700;
   &-dates {
     list-style: none;
     margin: $margins-small;
+    b {
+      background: $text-color;
+      color: $text-color-invert;
+      padding: $paddings-small;
+    }
   }
   .button {
     margin-bottom: $margin;
