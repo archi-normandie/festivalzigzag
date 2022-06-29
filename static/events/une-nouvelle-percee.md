@@ -19,8 +19,12 @@ address:
   lon: "0.1207949"
 informations:
   note: La visite sera suivie d’un moment de convivialité et d’échanges
-  rdv: RDV devant l'espace Simone Veil, 25 Rue Lesueur
+  rdv: |-
+    RDV devant l'espace Simone Veil, 25 Rue Lesueur
+    2 min à pieds depuis la gare du Havre
+    Réseau LiA : Nombreux bus autour de la gare (4, 8, 9, 12...)
 gallery: []
+itinerary: []
 
 ---
 Au cœur du centre ancien, une nouvelle allée piétonne relie désormais la gare du Havre à la Place Danton. Cette voie piétonne et cycliste, à la fois lieu de destination et de passage, s’inscrit dans le prolongement des récents aménagements de la place Danton, du Cours de la République et de la création de l’espace Simone Veil.
