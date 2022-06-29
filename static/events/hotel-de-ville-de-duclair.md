@@ -19,7 +19,9 @@ address:
   lon: "0.8733323"
 informations:
   note: ''
-  rdv: RDV devant la mairie, place du Général de Gaulle
+  rdv: |-
+    RDV devant la mairie, place du Général de Gaulle
+    Réseau astuce : Bus 30, arrêt bac de Duclair
 gallery: []
 itinerary:
 - label: 14h30 Visite de la Maison du parc
