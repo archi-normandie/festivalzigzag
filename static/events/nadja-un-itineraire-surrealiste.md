@@ -20,7 +20,10 @@ address:
 informations:
   note: Avant la visite dans la ville, une visite de l’exposition est possible à 15h
     (tarif réduit+3.5€, réserver au 02 76 30 39 18 directement avec le musée)
-  rdv: RDV devant le Musée des Beaux-Arts, esplanade Marcel Duchamp
+  rdv: |-
+    RDV devant le Musée des Beaux-Arts, esplanade Marcel Duchamp
+    6 min à pieds depuis la gare de Rouen
+    Réseau Astuce : Bus 5, 8, 11 et F2, arrêt Beaux Arts
 gallery: []
 itinerary:
 - label: 11h Parcours photographique EOP
