@@ -3,7 +3,7 @@
     {
       "template": "bloc-content",
       "title": "Zigzag",
-      "content": "**Le Forum -**  \n**Maison de l’architecture de Normandie**  \n48 rue Victor Hugo  \n76000 Rouen\n\n02 35 03 40 31  \n[contact@man-leforum.fr]( mailto:contact@man-leforum.fr)  \n[man-leforum.fr](http://man-leforum.fr/maison-de-l-architecture/ \"Site web du Forum\")\n\n**_#touspourlarchi_**\n\n**_#zigzagfestivalarchitecture_**"
+      "content": "**Le Forum -**  \n**Maison de l’architecture de Normandie**  \n48 rue Victor Hugo  \n76000 Rouen\n\n02 35 03 40 31  \n[contact@man-leforum.fr](mailto:contact@man-leforum.fr)  \n[man-leforum.fr](http://man-leforum.fr/maison-de-l-architecture/ \"Site web du Forum\")"
     },
     {
       "template": "bloc-navigation",
@@ -39,19 +39,6 @@
             {
               "name": "Agenda",
               "path": "/agenda"
-            }
-          ]
-        },
-        {
-          "label": "Restez connectés !",
-          "links": [
-            {
-              "name": "Facebook",
-              "path": "https://www.facebook.com/zigzagfestivalarchitecture"
-            },
-            {
-              "name": "Instagram",
-              "path": "https://www.instagram.com/festival_zigzag/"
             }
           ]
         }
