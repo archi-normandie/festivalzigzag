@@ -25,4 +25,6 @@ itinerary:
   event: static/events/et-vous-vous-habitez-ou.md
 
 ---
-A l’occasion du festival Zigzag, la Métropole Rouen Normandie inaugure une nouvelle série de 10 podcasts sur l’HABITAT : comment habiter aujourd’hui ? Trois témoignages d’habitants à découvrir en exclusivité pendant le temps du festival. 
+A l’occasion du festival Zigzag, la Métropole Rouen Normandie inaugure une nouvelle série de 10 podcasts sur l’HABITAT : comment habiter aujourd’hui ? Trois témoignages d’habitants à découvrir en exclusivité pendant le temps du festival.
+
+**Les podcasts seront disponibles le 1er octobre.**
