@@ -1,16 +1,14 @@
 <template>
   <main>
     <nuxt-link to="/lieux" class="hero-logo">
-      <Label class="hero-logo-svg" alt="Zigzag, Festival d'architecture et des arts de l'espace" title="Zigzag — Festival d'architecture et des arts de l'espace, du 1er au 16 octobre 2022"/>
+      Zigzag — Festival d'architecture et des arts de l'espace, du 1er au 16 octobre 2022
     </nuxt-link>
   </main>
 </template>
 
 <script>
-import Label from '~/static/files/home-label.svg?inline'
 export default {
   name: 'Journal',
-  components: { Label },
   head () {
     const url = process.env.url
     const title = process.env.mainTitle
@@ -41,6 +39,9 @@ export default {
     display: inline-block;
     // height: 60vh;
     width: 53rem;
+  }
+  .filter-multiply {
+    mix-blend-mode: multiply;
   }
 }
 </style>
