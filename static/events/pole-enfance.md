@@ -22,6 +22,7 @@ informations:
   rdv: |
     RDV à côté du gymnase Terre d’Auge - Henri Even, rue de la Vicomté
     12 min à pieds depuis la gare de Pont l'Evêque
+    Réseau Nomad : bus 36 et 150, arrêt canal Bréban
 gallery: []
 itinerary:
 - label: 14h30 Visite de la maison du parc
