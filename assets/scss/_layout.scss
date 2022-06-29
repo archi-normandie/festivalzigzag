@@ -135,3 +135,16 @@ ul.is-inline-fancy li:not(:last-child)::after {  content: " · "; }
 
   }
 }
+
+//  Utilities
+.sr {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nnowrap;
+  border-width: 0;
+}

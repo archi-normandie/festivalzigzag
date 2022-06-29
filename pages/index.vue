@@ -1,7 +1,9 @@
 <template>
   <main>
     <nuxt-link to="/lieux" class="hero-logo">
-      Zigzag — Festival d'architecture et des arts de l'espace, du 1er au 16 octobre 2022
+      <span class="sr">
+        Zigzag — Festival d'architecture et des arts de l'espace, du 1er au 16 octobre 2022
+      </span>
     </nuxt-link>
   </main>
 </template>
