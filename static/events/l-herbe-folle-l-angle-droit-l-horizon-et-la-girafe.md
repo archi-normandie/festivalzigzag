@@ -20,7 +20,10 @@ address:
   lon: "0.1030378"
 informations:
   note: Exposition présentée du 15 octobre 2022 au 29 janvier 2023
-  rdv: RDV Maison du Patrimoine Le Havre Seine Métropole, 181 rue de Paris
+  rdv: |-
+    RDV Maison du Patrimoine Le Havre Seine Métropole, 181 rue de Paris
+    18 min à pieds depuis la gare du Havre
+    Réseau LiA : Bus 1, 4, 6 et 7, arrêt George V
 gallery: []
 itinerary:
 - label: 10h Visite du chantier de la tour Alta
