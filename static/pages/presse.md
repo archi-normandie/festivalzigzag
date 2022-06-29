@@ -13,3 +13,5 @@ Le Forum - Maison de l’architecture de Normandie
 * 48 rue Victor Hugo 76000 Rouen
 
 <a class="button download" href="/files/kit-com-2022_presse.zip">Télécharger le kit de communication</a>
+
+_Le kit de communication comprend : l'affiche, le label et le dossier de presse 2022_
