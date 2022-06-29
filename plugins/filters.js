@@ -42,7 +42,7 @@ export function getDay (date) {
 }
 export function getHour (date) {
   date = new Date(date)
-  return `${date.getHours()}${String.fromCharCode(160)}h${String.fromCharCode(160)}${date.getMinutes() < 10 ? '0' : null}${date.getMinutes()}`
+  return `${date.getHours()}${String.fromCharCode(160)}h${String.fromCharCode(160)}${date.getMinutes() < 10 ? '0' : ''}${date.getMinutes()}`
 }
 
 const filters = { markdownify, prettyDate, getDay, getHour }
