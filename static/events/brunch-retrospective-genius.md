@@ -2,7 +2,7 @@
 title: Brunch + rétrospective GENiUS
 categories:
 - Tablée festive
-featured: false
+featured: true
 cover:
   src: "/files/brunch-genius.jpg"
   alt: ''

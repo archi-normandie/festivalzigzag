@@ -2,7 +2,7 @@
 title: Grande tablée de lancement
 categories:
 - Tablée festive
-featured: false
+featured: true
 cover:
   src: "/files/08-tablee-festive-rouen_terr-o-2020-man-le-froum.jpg"
   alt: ''

@@ -2,7 +2,7 @@
 title: Tablée à la Manufacture des Capucins
 categories:
 - Tablée festive
-featured: false
+featured: true
 cover:
   src: "/files/site-web-repas-manufacture-des-capucins.jpg"
   alt: ''

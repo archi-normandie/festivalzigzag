@@ -2,7 +2,7 @@
 title: 'GENiUS : portes ouvertes'
 categories:
 - Installation éphémère
-featured: true
+featured: false
 cover:
   src: "/files/01-genius-2019_installation-ephemere-yann-monel.jpg"
   alt: ''
