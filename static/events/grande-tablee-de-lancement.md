@@ -19,7 +19,10 @@ address:
   lon: "1.1007679"
 informations:
   note: Accessibilité PMR
-  rdv: RDV Maison de l’architecture de Normandie – le Forum, 48 rue Victor Hugo
+  rdv: |-
+    RDV Maison de l’architecture de Normandie – le Forum, 48 rue Victor Hugo
+    16 min à pieds depuis la gare de Rouen
+    Réseau Astuce : Bus T1, T2 et T3, arrêt Place Saint-Marc
 gallery: []
 itinerary:
 - label: Visites depuis les toits de Grand Quevilly
