@@ -58,7 +58,9 @@ export default {
   // background-color: $brand-color;
   color: $brand-color-invert;
   font-size: $fs14;
-
+  &.covered {
+    color: $brand-color;
+  }
   &:not(.covered) {
     padding-top: calc($line-height * 12);
     position: relative;
@@ -92,7 +94,7 @@ export default {
   }
 
   a {
-    color: $brand-color-invert;
+    color: inherit;
     text-decoration: underline;
 
     &:focus,
