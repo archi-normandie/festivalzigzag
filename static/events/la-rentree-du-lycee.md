@@ -19,7 +19,10 @@ address:
   lon: "0.1931627"
 informations:
   note: ''
-  rdv: RDV au local des résidents cour St-Phillibert
+  rdv: |-
+    RDV au local des résidents cour St-Phillibert
+    6 min à pieds depuis la gare de Montivilliers
+    Réseau LiA : Bus 1, arrêt F. Mitterrand
 gallery: []
 itinerary:
 - label: 12h Brunch + rétrospective GENiUS
