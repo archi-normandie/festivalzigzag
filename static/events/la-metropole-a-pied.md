@@ -20,8 +20,10 @@ address:
 informations:
   note: Prévoir un pique-nique pour le midi, verre de l’amitié offert en fin de parcours
     vers 16h30, connexion avec le TEOR pour le retour
-  rdv: RDV devant l’entrée de la mairie de Grand Quevilly, côté parking, entrée av.
-    Léon Blum
+  rdv: |-
+    RDV devant l’entrée de la mairie de Grand Quevilly, côté parking, entrée av. Léon Blum
+    25 min en vélo depuis la gare de Rouen
+    Réseau Astuce : Métro, arrêt Léon Blum et bus 42, arrêt centre administratif
 gallery: []
 itinerary:
 - event: static/events/grande-tablee-de-lancement.md

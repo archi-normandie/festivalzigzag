@@ -18,8 +18,11 @@ address:
   lat: "49.4891874"
   lon: "0.1048043"
 informations:
-  note: Accessibilité PMR
-  rdv: RDV quai Videcoq, au croisement du quai de l’Arsenal
+  note: ''
+  rdv: |-
+    RDV quai Videcoq, au croisement du quai de l’Arsenal
+    20 min à pieds depuis la gare du Havre
+    Réseau LiA : Bus 4, arrêt Richelieu et bus 6, arrêt O. Niemeyer
 gallery: []
 itinerary:
 - label: 15h Déambulation au Havre

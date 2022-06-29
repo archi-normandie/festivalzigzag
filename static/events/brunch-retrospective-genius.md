@@ -2,7 +2,7 @@
 title: Brunch + rétrospective GENiUS
 categories:
 - Tablée festive
-featured: false
+featured: true
 cover:
   src: "/files/brunch-genius.jpg"
   alt: ''
@@ -19,7 +19,10 @@ address:
   lon: "0.1104331"
 informations:
   note: ''
-  rdv: RDV bassin du Roi, au niveau du pont Notre Dame
+  rdv: |-
+    RDV bassin du Roi, au niveau du pont Notre Dame
+    18 min à pieds depuis la gare du Havre
+    Réseau LiA : Bus 4, arrêt Videcoq
 gallery: []
 itinerary:
 - label: 10h Déambulation au Havre

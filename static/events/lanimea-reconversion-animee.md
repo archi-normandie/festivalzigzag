@@ -19,7 +19,10 @@ address:
   lon: "1.0167951"
 informations:
   note: Accessibilité PMR
-  rdv: RDV 150 rue Sadi Carnot
+  rdv: |-
+    RDV 150 rue Sadi Carnot
+    10 min en vélo depuis la gare Elbeuf - Saint-Aubin
+    Réseau Astuce : Bus A, B, C, E, F et H, arrêt La Ruche
 gallery: []
 itinerary:
 - label: 17h Emission radio au Forum

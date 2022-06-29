@@ -22,7 +22,7 @@ informations:
   rdv: |-
     RDV devant la mairie, place Adolphe Barette
     8 min à pieds depuis la gare de Vernon
-    Bus 4 et 10, arrêt Albuféra
+    Réseau SNgo : Bus 4 et 10, arrêt Albuféra
 gallery: []
 itinerary: []
 

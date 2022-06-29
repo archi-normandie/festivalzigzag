@@ -22,7 +22,7 @@ informations:
   rdv: |-
     RDV parking du Château-Gaillard, au bout de l’allée du Roi de Rome
     30 min à pieds depuis la gare routière des Andelys
-    Bus 8, arrêt Stade Tomasini, continuer 11 min à pieds
+    Réseau SNgo : Bus 8, arrêt Stade Tomasini, continuer 11 min à pieds
 gallery: []
 itinerary:
 - label: 10h Visite du chantier de la Manuf'

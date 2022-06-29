@@ -1,6 +1,6 @@
 ---
 title: 'Festival d’architecture et des arts de l’espace '
-description: Festival Zigzag 2021, édito.
+description: Festival Zigzag 2022, édito.
 
 ---
 ## Du 1er au 16 octobre 2022
@@ -17,7 +17,6 @@ Près de 40 événements sont programmés de Carrières-sous-Poissy au Havre pou
 
 * BOIS-GUILLAUME (76)
 * CAUDEBEC-LES-ELBEUF (76)
-* COURCELLES-SUR-SEINE (27)
 * DUCLAIR (76)
 * ELBEUF-SUR-SEINE (76)
 * GRAND QUEVILLY (76)

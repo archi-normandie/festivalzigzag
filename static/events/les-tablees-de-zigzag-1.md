@@ -2,7 +2,7 @@
 title: Tablée à la Manufacture des Capucins
 categories:
 - Tablée festive
-featured: false
+featured: true
 cover:
   src: "/files/site-web-repas-manufacture-des-capucins.jpg"
   alt: ''
@@ -22,7 +22,7 @@ informations:
   rdv: |-
     RDV entrée par le jardin de la Manufacture des Capucins, rue du Colonel Théodore Fieschi
     11 min à pieds depuis la gare de Vernon
-    Bus 5, arrêt Commissariat
+    Réseau SNgo : Bus 5, arrêt Commissariat
 gallery: []
 itinerary:
 - label: 10h Visite du chantier de la Manuf'

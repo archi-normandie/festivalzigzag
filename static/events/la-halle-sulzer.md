@@ -15,12 +15,13 @@ booking:
   - date: 2022-10-11 14:30
 address:
   place: Mantes-la-Jolie (78)
-  lat: ''
-  lon: ''
+  lat: "48.9904013"
+  lon: "1.7024538"
 informations:
   note: ''
-  rdv: ''
+  rdv: RDV devant la gare, place du 8 Mai 1945
 gallery: []
+itinerary: []
 
 ---
 La Halle Sulzer, friche industrielle dédiée à l’assemblage de moteurs de bateaux, est un des points d’attrait de la ZAC Mantes Université. En cours de réhabilitation, seul l’ensemble métallique de cet ouvrage de 300 m de long sur 30 m de haut sera conservé et rénové. Dans la partie Est, le futur pôle universitaire en matériaux biosourcés sera construit et dans la partie Ouest un équipement culturel. La partie centrale de la Halle Sulzer, près de 100 mètres, sera transformée en jardin ouvert. 

@@ -20,9 +20,11 @@ address:
 informations:
   note: Rallye familial tout public, chaussures confortables conseillées et vêtement
     de pluie si besoin
-  rdv: RDV en face de l'Eglise, 6 rue Félix Faure (ou, en cas de pluie, sous le préau
-    de l’école Jules Verne, 7 route de Montivilliers)
+  rdv: |-
+    RDV en face de l'Eglise, 6 rue Félix Faure (ou, en cas de pluie, sous le préau de l’école Jules Verne, 7 route de Montivilliers)
+    Réseau LiA : Bus 10 et 13, arrêt A. Huart
 gallery: []
+itinerary: []
 
 ---
 Venez participer à un parcours découverte au cours d’une promenade jalonnée d’énigmes et de surprises chorégraphiques et architecturales ! Un jeu de piste convivial invitant petits et grands à rechercher les indices qui vous mèneront sur les chemins, l’histoire et l’actualité d’Octeville-sur-Mer.

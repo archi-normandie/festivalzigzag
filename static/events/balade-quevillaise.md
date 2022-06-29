@@ -19,7 +19,10 @@ address:
   lon: "1.0437583"
 informations:
   note: ''
-  rdv: RDV place Eugène Delacroix, sur le mail devant le marchand de journaux
+  rdv: |-
+    RDV place Eugène Delacroix, sur le mail devant le marchand de journaux
+    30 min en vélo depuis la gare de Rouen
+    Réseau Astuce : Métro, arrêt Georges Braque
 gallery: []
 itinerary:
 - label: 14h30 Croquer la ville pour ce parcours dessiné

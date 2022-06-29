@@ -24,10 +24,11 @@ informations:
     de forme physique est demandée. Durée 30 à 40 minutes par visite. Possibilité
     de faire les trois visites à la suite (environ 20 à 25 minutes de marche entre
     chaque site)
-  rdv: "RDV \nMairie annexe : centre culturel Marx Dormoy, Place Gabriel Perri. Bus
-    6 et 42, arrêt le Bourg\nHôtel de ville : entrée de la mairie côté parking, av.
-    Léon Blum. Métro, arrêt Léon Blum // Bus 42, arrêt centre administratif\nImmeuble
-    Nymphéa : 1 rue Eugène Boudin. Métro, arrêt Paul Cézanne\n"
+  rdv: |
+    RDV et réseau Astuce
+    Mairie annexe : centre culturel Marx Dormoy, Place Gabriel Perri. Bus 6 et 42, arrêt le Bourg
+    Hôtel de ville : entrée de la mairie côté parking, av. Léon Blum. Métro, arrêt Léon Blum et bus 42, arrêt centre administratif
+    Immeuble Nymphéa : 1 rue Eugène Boudin. Métro, arrêt Paul Cézanne
 gallery: []
 itinerary:
 - label: 14h30 Parcours photographique sur les quais
