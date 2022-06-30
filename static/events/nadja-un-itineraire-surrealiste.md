@@ -19,17 +19,17 @@ address:
   lon: "1.0934618"
 informations:
   note: Avant la visite dans la ville, une visite de l’exposition est possible à 15h
-    (tarif réduit+3.5€, réserver au 02 76 30 39 18 directement avec le musée)
+    (tarif réduit 3.5€, réserver au 02 76 30 39 18 directement avec le musée)
   rdv: |-
     RDV devant le Musée des Beaux-Arts, esplanade Marcel Duchamp
-    6 min à pieds depuis la gare de Rouen
-    Réseau Astuce : Bus 5, 8, 11 et F2, arrêt Beaux Arts
+    - 6 min à pieds depuis la gare de Rouen
+    - Réseau Astuce : Bus 5, 8, 11 et F2, arrêt Beaux Arts
 gallery: []
 itinerary:
 - label: 11h Parcours photographique EOP
   event: static/events/eop-nenets-une-vie-de-famille.md
 - label: 17h30 Soirée projection et musique au Sillon
-  event: static/events/nadja-un-itineraire-surrealiste.md
+  event: static/events/il-etait-une-fois-la-raff.md
 
 ---
 À l’occasion de l’exposition Nadja, un itinéraire surréaliste, présentée au Musée des Beaux-Arts, nous vous invitons à décaler votre regard pour mieux rêver la ville. Décor privilégié des romans surréalistes, la ville devient un terrain de jeu sensoriel, poétique entouré d’évocations surprenantes à découvrir ensemble.
