@@ -15,8 +15,8 @@ booking:
   - date: 2022-10-09 10:00
 address:
   place: Vernon (27)
-  lat: "49.1002603"
-  lon: "1.4708545"
+  lat: "49.1003211"
+  lon: "1.4720862"
 informations:
   note: ''
   rdv: |-

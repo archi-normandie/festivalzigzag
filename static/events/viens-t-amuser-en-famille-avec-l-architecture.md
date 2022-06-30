@@ -15,8 +15,8 @@ booking:
   - date: 2022-10-12 14:00
 address:
   place: Vernon (27)
-  lat: "49.093851"
-  lon: "1.4823494"
+  lat: "49.0936081"
+  lon: "1.4848293"
 informations:
   note: Accessibilité PMR
   rdv: |-
