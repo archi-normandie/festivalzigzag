@@ -52,34 +52,12 @@ export default {
 <style lang="scss">
 
 .footer {
-  padding-right: $line-height;
-  padding-bottom: $line-height;
-  padding-left: calc($line-height * 2);
-  // background-color: $brand-color;
+  padding: calc($line-height * 2 ) calc($line-height * 2 ) $line-height;
+  background-color: $brand-color-secondary;
   color: $brand-color-invert;
   font-size: $fs14;
   &.covered {
     color: $brand-color;
-  }
-  &:not(.covered) {
-    padding-top: calc($line-height * 12);
-    position: relative;
-    // mix-blend-mode: multiply;
-    // Image de pied de page
-    &::after {
-      content: " ";
-      position: absolute;
-      inset: 0;
-      z-index: -1;
-      background-color: $brand-color;
-      background-image:
-        url("/img/bande-biseau-bottom.svg"),
-        url("/img/bande.svg"),
-        url("/img/background-bottom.jpg");
-      background-size: auto, auto, cover;
-      background-repeat: no-repeat, repeat-y, no-repeat;
-      background-position: bottom left, bottom left, bottom, bottom;
-    }
   }
 
   h1,
