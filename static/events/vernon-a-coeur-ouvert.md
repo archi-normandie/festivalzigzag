@@ -6,7 +6,7 @@ featured: false
 cover:
   src: "/files/site-web-jpg.jpg"
   alt: ''
-  legend: "©ville de Vernon"
+  legend: "©MaN - le Forum"
 booking:
   link: https://www.billetweb.fr/vernon-coeur-ouvert
   state: ''

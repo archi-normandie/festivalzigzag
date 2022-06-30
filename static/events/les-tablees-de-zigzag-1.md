@@ -21,8 +21,8 @@ informations:
   note: ''
   rdv: |-
     RDV entrée par le jardin de la Manufacture des Capucins, rue du Colonel Théodore Fieschi
-    11 min à pieds depuis la gare de Vernon
-    Réseau SNgo : Bus 5, arrêt Commissariat
+    - 11 min à pieds depuis la gare de Vernon
+    - Réseau SNgo : Bus 5, arrêt Commissariat
 gallery: []
 itinerary:
 - label: 10h Visite du chantier de la Manuf'
