@@ -14,8 +14,8 @@ booking:
   - date: 2022-10-09 14:30
 address:
   place: Les Andelys (27)
-  lat: "49.2390239"
-  lon: "1.4050853"
+  lat: "49.2385293"
+  lon: "1.4038068"
 informations:
   note: Prévoir chaussures de randonnée et vêtements adaptés à la météo, site non
     accessible aux personnes à mobilité réduite et qui ont des difficultés à marcher
