@@ -21,7 +21,7 @@ informations:
   note: Accessibilité PMR
   rdv: |-
     RDV sur le parking visiteurs de la Maison du Parc, 692 rue du Petit Pont
-    Navette Brotonne depuis Caudebec-en-Caux
+    - Navette Brotonne depuis Caudebec-en-Caux
 gallery: []
 itinerary:
 - label: 10h30 Visite architecturale à Duclair

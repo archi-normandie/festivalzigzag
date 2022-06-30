@@ -20,8 +20,8 @@ informations:
   note: Durée 2h30/3h, à partir de 10 ans, chaussures de marche conseillées
   rdv: |-
     RDV devant le Port Center, 49-51,chaussée John Kennedy
-    22 min à pieds depuis la gare du Havre
-    Réseau LiA : Bus 7 et 13, arrêt MuMa
+    - 22 min à pieds depuis la gare du Havre
+    - Réseau LiA : Bus 7 et 13, arrêt MuMa
 gallery: []
 itinerary:
 - label: 10h Visite du chantier de la tour Alta

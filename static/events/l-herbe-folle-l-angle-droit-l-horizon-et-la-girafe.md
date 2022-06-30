@@ -22,8 +22,8 @@ informations:
   note: Exposition présentée du 15 octobre 2022 au 29 janvier 2023
   rdv: |-
     RDV Maison du Patrimoine Le Havre Seine Métropole, 181 rue de Paris
-    18 min à pieds depuis la gare du Havre
-    Réseau LiA : Bus 1, 4, 6 et 7, arrêt George V
+    - 18 min à pieds depuis la gare du Havre
+    - Réseau LiA : Bus 1, 4, 6 et 7, arrêt George V
 gallery: []
 itinerary:
 - label: 10h Visite du chantier de la tour Alta
@@ -36,6 +36,5 @@ Depuis des années, l’un des axes de créations photographiques d’Ilka Krame
 
 **Rencontre avec Ilka Kramer**
 
-**15h -** _Visite guidée de l’exposition par l’artiste_
-
-**16h _-_** _Présentation et signature de l’ouvrage : L’herbe folle, l’angle droit, l’horizon et la girafe_
+* **15h -** _Visite guidée de l’exposition par l’artiste_
+* **16h _-_** _Présentation et signature de l’ouvrage : L’herbe folle, l’angle droit, l’horizon et la girafe_
