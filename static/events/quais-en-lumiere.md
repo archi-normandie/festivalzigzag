@@ -21,8 +21,8 @@ informations:
   note: ''
   rdv: |-
     RDV quais bas rive gauche, au pied du pont Jeanne d’Arc
-    20 min à pieds depuis la gare de Rouen
-    Réseau Astuce : Métro, arrêt Joffre-Mutualité
+    - 20 min à pieds depuis la gare de Rouen
+    - Réseau Astuce : Métro, arrêt Joffre-Mutualité
 gallery: []
 itinerary:
 - label: 14h30 Déambulation à la recherche de trésors cachés

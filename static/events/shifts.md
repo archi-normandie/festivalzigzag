@@ -22,7 +22,7 @@ informations:
     de pluie si besoin
   rdv: |-
     RDV en face de l'Eglise, 6 rue Félix Faure (ou, en cas de pluie, sous le préau de l’école Jules Verne, 7 route de Montivilliers)
-    Réseau LiA : Bus 10 et 13, arrêt A. Huart
+    - Réseau LiA : Bus 10 et 13, arrêt A. Huart
 gallery: []
 itinerary: []
 

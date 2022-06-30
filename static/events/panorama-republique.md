@@ -21,8 +21,8 @@ informations:
   note: ''
   rdv: |-
     RDV 29 rue de la République
-    20 min à pieds, 6 min en vélo depuis la gare d'Elbeuf - Saint-Aubin
-    Réseau Astuce : Bus B et C, arrêt Sevestre Aîné
+    - 20 min à pieds, 6 min en vélo depuis la gare d'Elbeuf - Saint-Aubin
+    - Réseau Astuce : Bus B et C, arrêt Sevestre Aîné
 gallery: []
 itinerary:
 - label: 20h30 Déambulation nocturne en lumière
