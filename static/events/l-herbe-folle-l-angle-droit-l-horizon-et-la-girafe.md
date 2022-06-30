@@ -16,8 +16,8 @@ booking:
   - date: 2022-10-15 15:00
 address:
   place: Le Havre (76)
-  lat: "49.4917888"
-  lon: "0.1030378"
+  lat: "49.4917996"
+  lon: "0.1075766"
 informations:
   note: Exposition présentée du 15 octobre 2022 au 29 janvier 2023
   rdv: |-

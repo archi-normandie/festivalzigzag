@@ -15,8 +15,8 @@ booking:
   - date: 2022-10-13 18:00
 address:
   place: Le Havre (76)
-  lat: "49.4940888"
-  lon: "0.1207949"
+  lat: "49.4934455"
+  lon: "0.1220411"
 informations:
   note: La visite sera suivie d’un moment de convivialité et d’échanges
   rdv: |-
