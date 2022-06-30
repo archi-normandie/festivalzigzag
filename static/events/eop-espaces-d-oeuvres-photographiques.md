@@ -1,7 +1,7 @@
 ---
 title: EOP - Espaces d'Œuvres Photographiques
 categories:
-- Parcours photographique
+- Parcours photographiques
 featured: false
 cover:
   src: "/files/eop.jpg"
@@ -19,9 +19,9 @@ address:
 informations:
   note: ''
   rdv: |-
-    Accès libre en extérieur
-    Bois-Guillaume : RDV devant l’école élémentaire Les Portes de la Forêt, 67 place des Erables. Réseau Astuce : Bus 11, arrêt Table de Pierre
-    Rouen : RDV rive gauche, en haut de l'escalier ouest du pont Boieldieu. Réseau Astuce : Métro, arrêt Joffre-Mutualité
+    Accès libre en extérieur :
+    à Bois-Guillaume : RDV devant l’école élémentaire Les Portes de la Forêt, 67 place des Erables. Réseau Astuce : Bus 11, arrêt Table de Pierre
+    - à Rouen : RDV rive gauche, en haut de l'escalier ouest du pont Boieldieu. Réseau Astuce : Métro, arrêt Joffre-Mutualité
 gallery: []
 itinerary:
 - label: Parcours photographique à Rouen
@@ -32,6 +32,8 @@ itinerary:
 ---
 EOP, festival consacré à la photographie documentaire prend place en extérieur permettant aux passants de porter un regard neuf sur la ville, transforme l’espace urbain du quotidien, dans un rapport d’échelle et esthétique différent. La photographie se constitue en œuvre d’art accessible à tous, ouvrant un dialogue avec les visiteurs ou les simples passants. Cette première édition de EOP, s’attache à la biodiversité, et propose deux expositions à Rouen et à Bois-Guillaume.
 
-_Les expositions EOP se poursuivent jusqu'au 27 novembre 2022._
+**Les expositions EOP se poursuivent jusqu'au 27 novembre 2022.**
 
-_Commissariat d’exposition : Serge Périchon. Projet porté par La Maison de l’architecture de Normandie - le Forum et La Loge des auteurs photographes._
+_Commissariat d’exposition : Serge Périchon._ 
+
+_Projet porté par La Maison de l’architecture de Normandie - le Forum et La Loge des auteurs photographes._
