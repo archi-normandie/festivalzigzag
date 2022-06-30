@@ -21,8 +21,8 @@ informations:
   note: ''
   rdv: |-
     RDV devant le Port Center, 49-51,chaussée John Kennedy
-    22 min à pieds depuis la gare du Havre
-    Réseau LiA : Bus 7 et 13, arrêt MuMa
+    - 22 min à pieds depuis la gare du Havre
+    - Réseau LiA : Bus 7 et 13, arrêt MuMa
 gallery: []
 itinerary:
 - event: static/events/brunch-retrospective-genius.md
