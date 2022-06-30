@@ -15,8 +15,8 @@ booking:
   - date: 2022-10-01 17:00
 address:
   place: Le Vaudreuil (27)
-  lat: "49.2556231"
-  lon: "1.2062271"
+  lat: "49.285885"
+  lon: "1.0167951"
 informations:
   note: Accessibilité PMR
   rdv: |-
