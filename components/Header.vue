@@ -64,42 +64,33 @@ export default {
 .header {
   padding: $paddings-large;
   padding-top: 1.2rem;
-  // background-color: $brand-color;
-  // color: $brand-color-invert;
-  // fill: $brand-color-invert;
   color: $brand-color;
   fill: $brand-color;
+  // color: $brand-color;
+  // fill: $brand-color;
   // image d'entête
   &:not(.covered) {
+    color: $brand-color-invert;
+    fill: $brand-color-invert;
+    background-color: $brand-color;
+    background-image: url("/img/bande-biseau-top.svg"), url("/img/bande.svg");
+    background-repeat: no-repeat, repeat-y;
+    background-position: top left, top left;
     .brand {
       margin-left: 2rem;
       margin-top: 2rem;
-    }
-    position: relative;
-    // mix-blend-mode: multiply;
-    &::after {
-      content:" ";
-      position: absolute;
-      inset: 0;
-      padding-bottom: 12rem;
-      z-index: - 1;
-      // background-color: $brand-color;
-      background:
-        url("/img/bande-biseau-top.svg"),
-        url("/img/bande.svg"),
-        // linear-gradient(0deg, transparent 0%, $brand-color 70%),
-        url("/img/background-top.jpg")
-      ;
-      background-size: auto, auto, cover;
-      background-repeat: no-repeat, repeat-y, no-repeat;
-      background-position: top left, top left, bottom, bottom;
+      &-logo {
+        color: $brand-color-invert;
+      }
     }
   }
 
   .brand {
     &-logo {
       margin: 0;
+      color: $brand-color;
       a {
+        color: inherit;
         display: block;
         text-decoration: none;
         border-bottom: none;

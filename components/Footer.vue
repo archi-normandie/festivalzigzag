@@ -53,12 +53,17 @@ export default {
 
 .footer {
   padding: calc($line-height * 2 ) calc($line-height * 2 ) $line-height;
-  background-color: $brand-color-secondary;
+  background-color: transparent;
   color: $brand-color-invert;
   font-size: $fs14;
-  &.covered {
-    color: $brand-color;
+  &:not(.covered) {
+    background-color: $brand-color-secondary;
+    background-image: url("/img/bande.svg");
+    background-repeat: repeat-y;
+    background-position: bottom left;
+    padding-left: calc($line-height * 2.5);
   }
+  // &.covered { color: $brand-color; }
 
   h1,
   h2,

@@ -33,20 +33,16 @@
 .header .menu-item a {
   display: inline-block;
   padding: calc($margin / 4);
-  // border-bottom: $onepix*2 solid $white;
-  // color: $white;
-  border-bottom: $onepix*2 solid $brand-color;
-  color: $brand-color;
+  border-bottom: $onepix*2 solid $brand-color-invert;
+  color: $brand-color-invert;
   text-decoration: none;
   transition: border-color $transition-duration;
   white-space: nowrap;
 
   &:focus,
   &:hover {
-    // border-color: $tertiary;
-    // color: $tertiary;
     border-color: $brand-color-secondary;
-    color: $brand-color;
+    color: $brand-color-invert;
   }
 }
 
