@@ -6,7 +6,7 @@ featured: false
 cover:
   src: "/files/07-emission-mrn_le-trait-man-le-forum.jpg"
   alt: ''
-  legend: _Le Trait ©MaN - le Forum_
+  legend: _©MaN - le Forum_
 booking:
   link: ''
   state: ''

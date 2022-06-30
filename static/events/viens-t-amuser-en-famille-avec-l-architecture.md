@@ -21,8 +21,8 @@ informations:
   note: Accessibilité PMR
   rdv: |-
     RDV Médiathèque de Vernon, salle Maubert, 12 av Victor Hugo
-    6 min à pieds depuis la gare de Vernon
-    Bus 1 à 4, arrêt Bully
+    - 6 min à pieds depuis la gare de Vernon
+    - Réseau SNgo : Bus 1 à 4, arrêt Bully
 gallery: []
 itinerary: []
 

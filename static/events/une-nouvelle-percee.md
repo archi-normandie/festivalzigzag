@@ -21,8 +21,8 @@ informations:
   note: La visite sera suivie d’un moment de convivialité et d’échanges
   rdv: |-
     RDV devant l'espace Simone Veil, 25 Rue Lesueur
-    2 min à pieds depuis la gare du Havre
-    Réseau LiA : Nombreux bus autour de la gare (4, 8, 9, 12...)
+    - 2 min à pieds depuis la gare du Havre
+    - Réseau LiA : Nombreux bus autour de la gare (4, 8, 9, 12...)
 gallery: []
 itinerary: []
 
