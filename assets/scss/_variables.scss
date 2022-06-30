@@ -1,9 +1,9 @@
 // Fonts families
 
 $brand-font: "ubuntu", sans-serif;
-$brand-font-italic: sans-serif;
-$brand-font-bold: sans-serif;
-$brand-font-bold-italic: sans-serif;
+$brand-font-italic: "ubuntu", sans-serif;
+$brand-font-bold: "ubuntu", sans-serif;
+$brand-font-bold-italic: "ubuntu", sans-serif;
 
 // Font sizes
 
@@ -47,8 +47,10 @@ $grey-dark: #777;
 $black-light: #222;
 $black: #000;
 
-$text-color: #054059;
-$text-color-invert: $white;
+// $text-color: #054059;
+$text-color: $primary;
+// $text-color-invert: $white;
+$text-color-invert: $primary-invert;
 
 // Margins, paddings, borders.
 
