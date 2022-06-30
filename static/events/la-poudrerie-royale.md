@@ -21,8 +21,8 @@ informations:
   note: ''
   rdv: |-
     RDV devant l’entrée principale de la Poudrerie Royale, 94 rue des Martyrs de la Résistance
-    24 min en vélo depuis la gare de Rouen
-    Réseau Astuce : Bus 8, arrêt Maison Pélissier et F4, arrêt Saint-Just
+    - 24 min en vélo depuis la gare de Rouen
+    - Réseau Astuce : Bus 8, arrêt Maison Pélissier et F4, arrêt Saint-Just
 gallery: []
 itinerary:
 - label: 14h30 Nouvelle visite avec AZ architectes

@@ -21,8 +21,8 @@ informations:
   note: Accessibilité PMR
   rdv: |-
     RDV devant l’entrée de l’Eglise Saint-Cyr, 27 rue Arthur Papavoine
-    10 min en vélo depuis la gare de Val-de-Reuil
-    Réseau Semo : Bus 2, arrêt Notre-Dame
+    - 10 min en vélo depuis la gare de Val-de-Reuil
+    - Réseau Semo : Bus 2, arrêt Notre-Dame
 gallery: []
 itinerary:
 - label: 18h30 Une soirée festive au Forum
