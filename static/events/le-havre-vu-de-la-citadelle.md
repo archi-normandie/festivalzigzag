@@ -15,8 +15,8 @@ booking:
   - date: 2022-10-16 10:00
 address:
   place: Le Havre (76)
-  lat: "49.484545"
-  lon: "0.1040891"
+  lat: "49.4845888"
+  lon: "0.1051243"
 informations:
   note: ''
   rdv: |-
