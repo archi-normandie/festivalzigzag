@@ -15,8 +15,8 @@ booking:
   - date: 2022-10-15 10:30
 address:
   place: Duclair (76)
-  lat: "49.4822966"
-  lon: "0.8733323"
+  lat: "49.4821646"
+  lon: "0.8757576"
 informations:
   note: ''
   rdv: |-
