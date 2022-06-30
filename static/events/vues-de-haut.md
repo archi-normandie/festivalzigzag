@@ -25,14 +25,14 @@ informations:
     de faire les trois visites à la suite (environ 20 à 25 minutes de marche entre
     chaque site)
   rdv: |
-    RDV et réseau Astuce
-    Mairie annexe : centre culturel Marx Dormoy, Place Gabriel Perri. Bus 6 et 42, arrêt le Bourg
-    Hôtel de ville : entrée de la mairie côté parking, av. Léon Blum. Métro, arrêt Léon Blum et bus 42, arrêt centre administratif
-    Immeuble Nymphéa : 1 rue Eugène Boudin. Métro, arrêt Paul Cézanne
+    RDV et réseau Astuce :
+    - Mairie annexe : centre culturel Marx Dormoy, Place Gabriel Perri. Bus 6 et 42, arrêt le Bourg
+    - Hôtel de ville : entrée de la mairie côté parking, av. Léon Blum. Métro, arrêt Léon Blum et bus 42, arrêt centre administratif
+    - Immeuble Nymphéa : 1 rue Eugène Boudin. Métro, arrêt Paul Cézanne
 gallery: []
 itinerary:
 - label: 14h30 Parcours photographique sur les quais
-  event: static/events/eop-chamanes.md
+  event: static/events/eop-chamane-lumiere.md
 - label: 17h Emission radio au Forum
   event: static/events/et-vous-vous-habitez-ou.md
 - label: 18h30 Soirée festive au Forum
