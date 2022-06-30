@@ -6,7 +6,7 @@ featured: false
 cover:
   src: "/files/balade-quevillaise-2022.jpg"
   alt: ''
-  legend: Zigzag 2021
+  legend: Zigzag 2021 ©MaN - le Forum
 booking:
   link: https://www.billetweb.fr/balade-quevillaise
   state: ''
@@ -21,8 +21,8 @@ informations:
   note: ''
   rdv: |-
     RDV place Eugène Delacroix, sur le mail devant le marchand de journaux
-    30 min en vélo depuis la gare de Rouen
-    Réseau Astuce : Métro, arrêt Georges Braque
+    - 30 min en vélo depuis la gare de Rouen
+    - Réseau Astuce : Métro, arrêt Georges Braque
 gallery: []
 itinerary:
 - label: 14h30 Croquer la ville pour ce parcours dessiné

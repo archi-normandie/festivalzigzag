@@ -21,8 +21,8 @@ informations:
   note: ''
   rdv: |-
     RDV esplanade Tony Larue
-    25 min en vélo depuis la gare de Rouen
-    Réseau Astuce : Métro, arrêt Léon Blum et bus 42, arrêt centre administratif
+    - 25 min en vélo depuis la gare de Rouen
+    - Réseau Astuce : Métro, arrêt Léon Blum et bus 42, arrêt centre administratif
 gallery: []
 itinerary:
 - label: 16h Visite multisensorielle de Rouen
