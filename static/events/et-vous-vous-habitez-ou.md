@@ -21,8 +21,8 @@ informations:
   note: ''
   rdv: |-
     RDV Maison de l’architecture de Normandie – le Forum, 48 rue Victor Hugo
-    16 min à pieds depuis la gare de Rouen
-    Réseau Astuce : Bus T1, T2 et T3, arrêt Place Saint-Marc
+    - 16 min à pieds depuis la gare de Rouen
+    - Réseau Astuce : Bus T1, T2 et T3, arrêt place Saint-Marc
 gallery: []
 itinerary:
 - label: 14h30 Parcours photographique sur les quais
@@ -31,6 +31,6 @@ itinerary:
   event: static/events/grande-tablee-de-lancement.md
 
 ---
-À l’occasion de la sortie d’un podcast sur l’habitat, la Métropole Rouen Normandie et la Maison de l’architecture de Normandie – le Forum vous invite à une émission radio questionnant l’habitat, aujourd’hui. Une table ronde de spécialistes de l’habitat (architecte, sociologue, urbaniste…) se poseront la question au regard des témoignages des habitants de notre territoire.
+À l’occasion de la sortie d’une série de dix podcasts sur l’habitat, la Métropole Rouen Normandie et la Maison de l’architecture de Normandie – le Forum vous invite à une émission radio questionnant l’habitat, aujourd’hui. Une table ronde de spécialistes de l’habitat (architecte, sociologue, urbaniste…) se poseront la question au regard des témoignages des habitants de notre territoire.
 
 **Émission animée par Christophe Tréhet, enregistrée en présence du public et disponible en podcast par la suite.**
