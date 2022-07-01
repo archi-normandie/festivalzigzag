@@ -37,6 +37,7 @@ export default {
   color: $brand-color-secondary;
   display: block;
   // overflow: hidden;
+  min-height: 60vh;
   .hero-logo-svg {
     display: inline-block;
     // height: 60vh;
