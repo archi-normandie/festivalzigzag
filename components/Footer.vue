@@ -64,7 +64,8 @@ export default {
     // bottom: $margin;
     color: $text-color;
     padding: $paddings;
-    background-color: rgba(255, 255, 255, 0.3);
+    padding-left: calc($margin * 2);
+    background-color: rgba(255, 255, 255, 0.4);
     // max-width: 35rem;
     // background: $brand-color-secondary;
     // color: $brand-color-secondary-invert;
