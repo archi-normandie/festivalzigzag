@@ -4,15 +4,25 @@
       {{ booking.period }}
     </p>
     <template v-else>
-      <ul v-if="booking.dates.length" class="event-booking-dates">
-        <li
-          v-for="(date, index) in booking.dates"
-          :key="index"
-        >
-          {{ date.date | getDay }}<br>
-          <b>{{ date.date | getHour }}</b>
-        </li>
-      </ul>
+      <template v-if="booking.dates.length">
+        <ul v-if="isCompact" class="event-booking-dates">
+          <li
+            v-for="(date, index) in booking.dates"
+            :key="index"
+          >
+            {{ date.date | prettyDate }}
+          </li>
+        </ul>
+        <ul v-else class="event-booking-dates">
+          <li
+            v-for="(date, index) in booking.dates"
+            :key="index"
+          >
+            {{ date.date | getDay }}<br>
+            <b>{{ date.date | getHour }}</b>
+          </li>
+        </ul>
+      </template>
     </template>
     <div
       v-if="booking.state"
@@ -46,6 +56,11 @@ export default {
       type: Boolean,
       default: true
     }
+  },
+  computed: {
+    isCompact () {
+      return !this.showBookingButton
+    }
   }
 }
 </script>
@@ -55,6 +70,7 @@ export default {
   &-dates {
     list-style: none;
     margin: $margins-small;
+    line-height: calc($line-height * 1.2);
     b {
       background: $text-color;
       color: $text-color-invert;
