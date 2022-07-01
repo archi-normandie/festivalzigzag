@@ -14,4 +14,4 @@ Le Forum - Maison de l’architecture de Normandie
 
 <a class="button download" href="/files/kit-com-zz2022.zip">Télécharger le kit de communication</a>
 
-_Le kit de communication comprend : l'affiche, le label et le dossier de presse 2022_
+_Le kit de communication comprend : l'affiche, le label, le logo et le dossier de presse 2022_
