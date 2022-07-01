@@ -18,7 +18,7 @@ address:
   lat: "49.497162"
   lon: "0.7581395"
 informations:
-  note: Accessibilité PMR
+  note: ''
   rdv: |-
     RDV sur le parking visiteurs de la Maison du Parc, 692 rue du Petit Pont
     - Navette Brotonne depuis Caudebec-en-Caux
