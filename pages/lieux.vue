@@ -1,5 +1,5 @@
 <template>
-  <main>
+  <main style="padding-bottom: 0">
     <h1 class="title-main">
       Lieux
     </h1>
