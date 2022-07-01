@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/events/vernon-a-coeur-ouvert", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/pages/partenaires", {data:[{}],fetch:{},mutations:[]});

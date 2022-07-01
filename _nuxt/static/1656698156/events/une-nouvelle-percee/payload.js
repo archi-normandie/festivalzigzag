@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/events/une-nouvelle-percee", {data:[{}],fetch:{},mutations:[]});

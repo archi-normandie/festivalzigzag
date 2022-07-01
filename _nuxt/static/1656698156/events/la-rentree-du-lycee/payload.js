@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/events/la-rentree-du-lycee", {data:[{}],fetch:{},mutations:[]});

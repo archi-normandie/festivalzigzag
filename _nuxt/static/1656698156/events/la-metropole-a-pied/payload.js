@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/events/la-metropole-a-pied", {data:[{}],fetch:{},mutations:[]});

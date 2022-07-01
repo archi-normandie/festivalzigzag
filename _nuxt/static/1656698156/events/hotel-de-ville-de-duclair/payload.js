@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/events/hotel-de-ville-de-duclair", {data:[{}],fetch:{},mutations:[]});

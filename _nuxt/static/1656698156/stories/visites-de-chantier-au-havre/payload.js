@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/stories/visites-de-chantier-au-havre", {data:[{}],fetch:{},mutations:[]});

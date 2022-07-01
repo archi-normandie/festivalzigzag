@@ -1,39 +1,38 @@
 ---
 title: 'Festival d’architecture et des arts de l’espace '
-description: Festival Zigzag 2021, édito.
+description: Festival Zigzag 2022, édito.
 
 ---
-## Du 25 septembre au 10 octobre 2021
+## Du 1er au 16 octobre 2022
 
-**Naviguer au gré des méandres d’un territoire, s’immerger dans son histoire, son patrimoine et épouser ses reliefs naturels ou artificiels, entrer en interaction avec ses constructions et ses profondeurs en questionnant la place du corps dans l’espace, c’est la volonté de Zigzag – festival d’architecture et des arts de l’espace. Pénétrer dans son univers, c’est faire l’expérience du sensible, de la profondeur, en interaction avec le territoire et ses infrastructures.**
+### Se décaler pour mieux regarder
 
-La Seine dessine des paysages variés, où villes, campagnes et zones industrielles s’égrènent dans leur diversité de tailles, d’identités ou d’enjeux. Elles s’ancrent dans des réalités historiques, géographiques, économiques diverses dont les usages et les inter-relations évoluent et se ré-inventent. Comment les regarder ? Comment s’approprier ces espaces en transformation ? Comment en faire des lieux de vie pour demain ?
+**Le festival Zigzag est une invitation à découvrir, comprendre et participer aux transformations d’un territoire en mouvement, celui de la vallée de la Seine. Dans une approche sensible, à l’occasion de visites, de parcours, d’installations ou bien encore de tablées, le festival met en lumière des manières d’habiter et de construire. Il décale le regard, suscite la curiosité, facilite l’appropriation de nos espaces de vie.**
 
-Plus de trente événements sont programmés d’Achères à Deauville pour appréhender notre cadre de vie à l’occasion de déambulations, de performances, d’installations, de randonnées, d’expositions, de parcours, de balades et de visites pour tous, avec des architectes, des élus, des urbanistes, des paysagistes ou des artistes. Le festival fait le pari de parler à tous, dans une approche sensible et pluridisciplinaire pour une mise en récit de ces espaces vivants.
+La Seine dessine des paysages variés, où villes campagnes et activités s’égrènent dans une diversité de tailles, d’identités ou d’enjeux. Ces lieux s’ancrent dans des réalités historiques, géographiques, économiques dont les usages et les interrelations évoluent et se réinventent. Comment les regarder ? Comment s’approprier ces espaces en transformations ? Comment en faire des lieux de vie pour demain ?
+
+Près de 40 événements sont programmés de Mantes-la-Jolie au Havre pour cette quatrième édition, dans plus de 20 sites différents. Des formats grand public  pour s’immerger dans des lieux, guidé par des architectes, des élus, des urbanistes, des paysagistes et des artistes qui mettent en récits ces espaces vivants.
 
 ## Le long de la Vallée de la Seine
 
-* ACHÈRES (78)
-* ARELAUNE-EN-SEINE (76)
-* BEUZEVILLE (27)
 * BOIS-GUILLAUME (76)
-* BOLBEC (76)
-* DEAUVILLE (14)
+* CAUDEBEC-LES-ELBEUF (76)
+* DUCLAIR (76)
 * ELBEUF-SUR-SEINE (76)
-* LES DAMPS (27)
-* FRENEUSE (76)
-* GONFREVILLE-L’ORCHER (76)
 * GRAND QUEVILLY (76)
-* LA CHAPELLE-LONGUEVILLE (27)
-* LA FRETTE-SUR-SEINE (95)
 * LE HAVRE (76)
+* LE VAUDREUIL (27)
+* LES ANDELYS (27)
+* MANTES-LA-JOLIE (78)
+* MAROMME (76)
 * MONTIVILLIERS (76)
 * NOTRE-DAME-DE-BLIQUETUIT (76)
-* PONT-AUDEMER (27)
-* PORT-JÉRÔME-SUR-SEINE (76)
-* RIVES-EN-SEINE (76)
+* OCTEVILLE-SUR-MER (76)
+* PETIT-COURONNE (76)
+* PONT-L’EVÊQUE (14)
 * ROUEN (76)
-* SAINT-ÉTIENNE-DU-ROUVRAY (76)
+* SAINT-WANDRILLE-RANÇON (76)
+* SANDOUVILLE (76)
 * VERNON (27)
 
 ## Une aventure collective coordonnée par la Maison de l’architecture de Normandie - le Forum
@@ -47,15 +46,16 @@ La MaN située au cœur du quartier Saint-Marc à Rouen, est un lieu culturel d�
 #### Coordination
 
 * Anne Le Bellego, directrice
-* Frédérique Mougeot, chargée de mission
 * Marion Vandaele, chargée de communication et de médiation culturelle
-* Léa Quénet, volontaire en service civique
-* Gilles Plouchard, chargé de mission
+* Gilles Plouchard, chargé de coordination
+* Léa Quénet, chargée de projet
+* Louis Lac, volontaire
+* Lucie Dehodang, stagiaire
 
 #### Contact
 
 * 48 rue Victor Hugo, 76000 Rouen
 * 02 35 03 40 31
-* [contact@man-leforum.fr]( mailto:contact@man-leforum.fr)
+* [contact@man-leforum.fr](mailto:contact@man-leforum.fr)
 
 [**man-leforum.fr**](http://man-leforum.fr/maison-de-l-architecture/ "Site web le Forum")

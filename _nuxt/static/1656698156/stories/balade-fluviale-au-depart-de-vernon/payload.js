@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/stories/balade-fluviale-au-depart-de-vernon", {data:[{}],fetch:{},mutations:[]});

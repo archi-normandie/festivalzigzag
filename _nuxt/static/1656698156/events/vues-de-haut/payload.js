@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/events/vues-de-haut", {data:[{}],fetch:{},mutations:[]});

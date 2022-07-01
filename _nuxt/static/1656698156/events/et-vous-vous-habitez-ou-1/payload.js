@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/events/et-vous-vous-habitez-ou-1", {data:[{}],fetch:{},mutations:[]});

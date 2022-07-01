@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title></title>
+        <title>undefined</title>
         <link>https://festivalzigzag.fr/rss.xml</link>
         <description>Journal du Festival Zigzag</description>
-        <lastBuildDate>Wed, 16 Feb 2022 14:43:23 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <lastBuildDate>Fri, 01 Jul 2022 17:56:03 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
         <item>
             <title><![CDATA[Zigzag 2019 - Balade fluviale au départ de Vernon]]></title>
             <link>https://festivalzigzag.fr/stories/balade-fluviale-au-depart-de-vernon</link>
-            <guid>https://festivalzigzag.fr/stories/balade-fluviale-au-depart-de-vernon</guid>
+            <guid>/stories/balade-fluviale-au-depart-de-vernon</guid>
             <pubDate>Mon, 19 Jan 1970 06:16:30 GMT</pubDate>
             <content:encoded><![CDATA[<h2 id="à-la-découverte-des-îles-seine">À LA DÉCOUVERTE DES ÎLES SEINE</h2>
 <p>Embarquez avec deux paysagistes, sur le bateau pour une exploration au fil des flots, sur les traces des îles séquaniennes entre Vernon et Notre-Dame-de-la-Garenne. La Seine contribue à la formation et à la disparition des îles selon un cycle naturel. Fruits du fleuve, elles sont expressives et témoignent de l’ancienne liberté de la Seine. Elles sont boisées, refuge pour la faune et la flore ou expérimentales, accueillant verger et bovins, autant d’exemples racontant la nécessité des îles et leurs potentiels d’usages.</p>
@@ -25,7 +25,7 @@
         <item>
             <title><![CDATA[Zigzag 2019 - Chasse au trésor dans la Forêt monumentale]]></title>
             <link>https://festivalzigzag.fr/stories/chasse-au-tresor-dans-la-foret-monumentale</link>
-            <guid>https://festivalzigzag.fr/stories/chasse-au-tresor-dans-la-foret-monumentale</guid>
+            <guid>/stories/chasse-au-tresor-dans-la-foret-monumentale</guid>
             <pubDate>Mon, 19 Jan 1970 06:16:41 GMT</pubDate>
             <content:encoded><![CDATA[<h2 id="monumentale-chasse-au-trésor">MONUMENTALE CHASSE AU TRÉSOR</h2>
 <p>A Bois-Guillaume dans la forêt verte</p>
@@ -45,7 +45,7 @@
         <item>
             <title><![CDATA[Zigzag 2019 - Deux parcours urbains accompagnés par le CAUE 76]]></title>
             <link>https://festivalzigzag.fr/stories/deux-parcours-urbains-accompagnes-par-le-caue-76</link>
-            <guid>https://festivalzigzag.fr/stories/deux-parcours-urbains-accompagnes-par-le-caue-76</guid>
+            <guid>/stories/deux-parcours-urbains-accompagnes-par-le-caue-76</guid>
             <pubDate>Mon, 19 Jan 1970 06:16:27 GMT</pubDate>
             <content:encoded><![CDATA[<h2 id="le-trait--les-défis-de-la-cité-jardin-pour-demain">LE TRAIT : LES DÉFIS DE LA CITÉ-JARDIN POUR DEMAIN</h2>
 <p>Conçu à l’origine comme un ensemble d’habitations de style régionaliste destiné à loger les employés du chantier naval, le paysage unique de cette vaste cité-jardin se confronte aujourd’hui à un risque de banalisation de son architecture. Les habitants souhaitent, comme dans d’autres lieux, agrandir leur logement, améliorer leur confort, diminuer leur facture d’énergie et personnaliser leur habitation. Comment, dans ce contexte, répondre à certaines de ces aspirations tout en conservant le sens et les caractéristiques qui rendent cette cité-jardin unique ?</p>
@@ -61,7 +61,7 @@
         <item>
             <title><![CDATA[Zigzag 2019 - Deux parcours urbains proposés à Rouen]]></title>
             <link>https://festivalzigzag.fr/stories/deux-parcours-urbains-proposes-a-rouen</link>
-            <guid>https://festivalzigzag.fr/stories/deux-parcours-urbains-proposes-a-rouen</guid>
+            <guid>/stories/deux-parcours-urbains-proposes-a-rouen</guid>
             <pubDate>Mon, 19 Jan 1970 06:16:23 GMT</pubDate>
             <content:encoded><![CDATA[<h2 id="cœur-de-métropole">CŒUR DE MÉTROPOLE</h2>
 <p>Les travaux engagés dans le cadre de l’opération cœur de métropole sont achevés sur certains secteurs. Enfin, habitants et curieux peuvent profiter pleinement de ces espaces réinventés. Cette visite donne des clés pour comprendre l’évolution urbanistique de la ville et apprécier ses nouveaux espaces, autour de la place du vieux marché imaginée par l’agence HYL et le quartier des Musées conçu par l’agence Folius Ecopaysage.</p>
@@ -85,7 +85,7 @@
         <item>
             <title><![CDATA[Zigzag 2019 - Déambulationnage pour découvrir la Manufacture des Capucins]]></title>
             <link>https://festivalzigzag.fr/stories/deambulationnage-pour-decouvrir-la-manufacture-des-capucins</link>
-            <guid>https://festivalzigzag.fr/stories/deambulationnage-pour-decouvrir-la-manufacture-des-capucins</guid>
+            <guid>/stories/deambulationnage-pour-decouvrir-la-manufacture-des-capucins</guid>
             <pubDate>Mon, 19 Jan 1970 06:16:45 GMT</pubDate>
             <content:encoded><![CDATA[<h2 id="la-manufacture-des-capucins">LA MANUFACTURE DES CAPUCINS</h2>
 <p>Pour saisir la transformation du Couvent des Capucins, bâtiment emblématique du XVII e siècle en « tiers lieu », venez suivre les improvisations des clowns de la compagnie Étincelle Bouillasse ! </p>
@@ -100,7 +100,7 @@
         <item>
             <title><![CDATA[Zigzag 2019 - Installation éphémère au Havre : Genius]]></title>
             <link>https://festivalzigzag.fr/stories/genius-2019-installation-ephemere-au-havre</link>
-            <guid>https://festivalzigzag.fr/stories/genius-2019-installation-ephemere-au-havre</guid>
+            <guid>/stories/genius-2019-installation-ephemere-au-havre</guid>
             <pubDate>Mon, 19 Jan 1970 06:15:25 GMT</pubDate>
             <content:encoded><![CDATA[<h2 id="genius-2019-du-1er-juillet-au-19-octobre">Genius 2019 du 1er juillet au 19 octobre</h2>
 <p>Installation éphémère de part et d’autre du pont Notre-Dame, quai Notre-Dame, quai Videcoq et quai de l’île.</p>
@@ -125,7 +125,7 @@
         <item>
             <title><![CDATA[Zigzag 2019 - Naturaquarelle - installation de Mario Reis à vernon]]></title>
             <link>https://festivalzigzag.fr/stories/naturaquarelle-installation-de-mario-reis-a-vernon</link>
-            <guid>https://festivalzigzag.fr/stories/naturaquarelle-installation-de-mario-reis-a-vernon</guid>
+            <guid>/stories/naturaquarelle-installation-de-mario-reis-a-vernon</guid>
             <pubDate>Mon, 19 Jan 1970 06:16:27 GMT</pubDate>
             <content:encoded><![CDATA[<h2 id="installation-daquarelles-à-la-manufacture-des-capucins">Installation d&#39;aquarelles à la Manufacture des Capucins</h2>
 <p>Depuis le mois de juin 2019, Mario Reis chemine le long de la Seine, installe des toiles vierges contre la surface de l’eau pour révéler les fonds des eaux. Les résultats sont aussi divers que les lieux parcourus. Ces aquarelles naturelles révèlent la mémoire de l’eau, tracent des empreintes des fonds aquatiques et constituent un ensemble d’œuvres abstraites qui retranscrivent la vitalité de la nature. À la faveur de Zigzag, la Manufacture des Capucins s’ouvre à cette performance et tisse un dialogue sensible avec le fleuve et son territoire.</p>
@@ -138,7 +138,7 @@
         <item>
             <title><![CDATA[Zigzag 2019 - Parcours en kayak à Pont-Audemer]]></title>
             <link>https://festivalzigzag.fr/stories/parcours-en-kayak-a-pont-audemer</link>
-            <guid>https://festivalzigzag.fr/stories/parcours-en-kayak-a-pont-audemer</guid>
+            <guid>/stories/parcours-en-kayak-a-pont-audemer</guid>
             <pubDate>Mon, 19 Jan 1970 06:16:27 GMT</pubDate>
             <content:encoded><![CDATA[<h2 id="pont-audemer-au-fil-de-leau">PONT-AUDEMER AU FIL DE L&#39;EAU</h2>
 <p>La ville de Pont-Audemer s’est construite autour de la présence de l’eau, des bras de la Risle et de ses canaux. La balade en kayak invite à de nouvelles perspectives, à découvrir des points de vue insolites sur la ville médiévale, le paysage urbain. Une façon de prendre la mesure de l’importance de la nature dans la ville.</p>
@@ -150,7 +150,7 @@
         <item>
             <title><![CDATA[Zigzag 2019 - Parcours et ateliers le long de la Lézarde]]></title>
             <link>https://festivalzigzag.fr/stories/parcours-et-ateliers-en-famille-le-long-de-la-lezarde</link>
-            <guid>https://festivalzigzag.fr/stories/parcours-et-ateliers-en-famille-le-long-de-la-lezarde</guid>
+            <guid>/stories/parcours-et-ateliers-en-famille-le-long-de-la-lezarde</guid>
             <pubDate>Mon, 19 Jan 1970 06:16:23 GMT</pubDate>
             <content:encoded><![CDATA[<h2 id="la-repousse-de-la-lézarde">LA REPOUSSE DE LA LÉZARDE</h2>
 <p><strong>à NOTRE-DAME-DU-BEC et ÉPOUVILLE</strong> </p>
@@ -169,7 +169,7 @@
         <item>
             <title><![CDATA[Zigzag 2019 - Parcours au cœur d'une ville en chantier]]></title>
             <link>https://festivalzigzag.fr/stories/parcours-urbain-au-coeur-d-un-beuzeville-en-chantier</link>
-            <guid>https://festivalzigzag.fr/stories/parcours-urbain-au-coeur-d-un-beuzeville-en-chantier</guid>
+            <guid>/stories/parcours-urbain-au-coeur-d-un-beuzeville-en-chantier</guid>
             <pubDate>Mon, 19 Jan 1970 06:16:30 GMT</pubDate>
             <content:encoded><![CDATA[<h2 id="beuzeville-2020">BEUZEVILLE 2020</h2>
 <p>Beuzeville s’est lancée dans la reconquête de son cœur de ville, un projet urbain d’envergure qui, à travers la requalification du centre historique permettra de redynamiser l’ensemble de la ville et en changera durablement l’image. L’aménagement le plus important est celui du centre-bourg avec la création du pôle culturel de la cidrerie. La réhabilitation de cette friche industrielle désaffectée comprend un marché couvert alternatif, un foyer, un auditorium, une salle de spectacle et un silo-exposition.</p>
@@ -188,7 +188,7 @@
         <item>
             <title><![CDATA[Zigzag 2019 - Parcours urbain à Elbeuf-sur-Seine]]></title>
             <link>https://festivalzigzag.fr/stories/parcours-urbain-a-elbeuf-sur-seine</link>
-            <guid>https://festivalzigzag.fr/stories/parcours-urbain-a-elbeuf-sur-seine</guid>
+            <guid>/stories/parcours-urbain-a-elbeuf-sur-seine</guid>
             <pubDate>Mon, 19 Jan 1970 06:16:34 GMT</pubDate>
             <content:encoded><![CDATA[<h2 id="cueillir-la-ville-de-la-seine-à-la-forêt">CUEILLIR LA VILLE, DE LA SEINE À LA FORÊT</h2>
 <p>Cette déambulation propose de découvrir la ville d’Elbeuf par le prisme de son paysage et de la relation étroite qu’elle entretien avec son fleuve. Le temps long de la géologie est important pour comprendre Elbeuf, sa relation à la Seine, à sa vallée et aux forêts. La déambulation explore le temps, les éléments, le sensible du quotidien. Quelle relation à sa ville ? </p>
@@ -214,7 +214,7 @@
         <item>
             <title><![CDATA[Zigzag 2019 - Parcours urbain à Grand Quevilly]]></title>
             <link>https://festivalzigzag.fr/stories/parcours-urbain-a-grand-quevilly</link>
-            <guid>https://festivalzigzag.fr/stories/parcours-urbain-a-grand-quevilly</guid>
+            <guid>/stories/parcours-urbain-a-grand-quevilly</guid>
             <pubDate>Mon, 19 Jan 1970 06:16:45 GMT</pubDate>
             <content:encoded><![CDATA[<h2 id="balade-quevillaise">BALADE QUEVILLAISE</h2>
 <p>Inauguration de l&#39;itinéraire dessiné dans la ville de Grand Quevilly à l&#39;aide de 12 totems :</p>
@@ -236,7 +236,7 @@
         <item>
             <title><![CDATA[Zigzag 2019 - Parcours à travers les paysages du Roumois]]></title>
             <link>https://festivalzigzag.fr/stories/parcours-a-travers-les-paysages-du-roumois</link>
-            <guid>https://festivalzigzag.fr/stories/parcours-a-travers-les-paysages-du-roumois</guid>
+            <guid>/stories/parcours-a-travers-les-paysages-du-roumois</guid>
             <pubDate>Mon, 19 Jan 1970 06:16:30 GMT</pubDate>
             <content:encoded><![CDATA[<h2 id="une-marche-du-moulin-à-la-seine">UNE MARCHE DU MOULIN À LA SEINE</h2>
 <p>Le collectif Superoumois vous invite à venir vous balader à travers les paysages du Roumois: entre champs, plateau, hameaux ou bords de Seine, venez partager et croiser votre regard sur les paysages et les pépites de vos lieux de vie ! </p>
@@ -249,7 +249,7 @@
         <item>
             <title><![CDATA[Zigzag 2019 - RedBall Project en ouverture du festival ]]></title>
             <link>https://festivalzigzag.fr/stories/redball-project</link>
-            <guid>https://festivalzigzag.fr/stories/redball-project</guid>
+            <guid>/stories/redball-project</guid>
             <pubDate>Mon, 19 Jan 1970 05:56:13 GMT</pubDate>
             <content:encoded><![CDATA[<h2 id="1ère-édition-du-27-sept-au-13-oct-2019">1ère édition du 27 sept. au 13 oct. 2019</h2>
 <p>Zigzag est un festival grand public, qui propose d’appréhender l’espace par un engagement du corps, afin de partager l’architecture, l’urbanisme et le paysage autrement, sur un territoire correspondant à la vallée de la Seine.</p>
@@ -278,7 +278,7 @@
         <item>
             <title><![CDATA[Zigzag 2019 - Un parcours pédestre au Havre]]></title>
             <link>https://festivalzigzag.fr/stories/un-parcours-pedestre-au-havre</link>
-            <guid>https://festivalzigzag.fr/stories/un-parcours-pedestre-au-havre</guid>
+            <guid>/stories/un-parcours-pedestre-au-havre</guid>
             <pubDate>Mon, 19 Jan 1970 06:16:27 GMT</pubDate>
             <content:encoded><![CDATA[<h2 id="port-sur-la-ville">Port sur la ville</h2>
 <p>Venez parcourir la couture de l’interface ville-port en visitant des installations portuaires actives et des bâtiments reconvertis. Cette visite à pied vous donnera l’occasion de franchir les portes, de découvrir des architectures, des lieux de vie actifs, productifs qui montrent combien l’interprétation et la réinterprétation des usages sont fertiles au sein d’espaces portuaires et urbains qui cohabitent dans une vision résolument hybridée de la &quot;ville&quot;.</p>
@@ -291,7 +291,7 @@
         <item>
             <title><![CDATA[Zigzag 2019 - Visite des nouvelles serres du Jardin des plantes de Rouen]]></title>
             <link>https://festivalzigzag.fr/stories/visite-des-nouvelles-serres-du-jardin-des-plantes-de-rouen</link>
-            <guid>https://festivalzigzag.fr/stories/visite-des-nouvelles-serres-du-jardin-des-plantes-de-rouen</guid>
+            <guid>/stories/visite-des-nouvelles-serres-du-jardin-des-plantes-de-rouen</guid>
             <pubDate>Mon, 19 Jan 1970 06:16:34 GMT</pubDate>
             <content:encoded><![CDATA[<h2 id="les-serres-du-jardin-des-plantes">LES SERRES DU JARDIN DES PLANTES</h2>
 <p>Construites au XIXe et XXe siècles, les serres du jardin des plantes menaçaient de s’écrouler. Après 17 mois de travaux, la serre centrale classée aux Monuments historiques a été restaurée pour abriter un parcours pédagogique. Les serres tropicales et un groupe de sept serres ont été quant à elles reconstruites. L’intervention architecturale sert le projet scientifique des serres et fait entrer ce patrimoine dans le XXI e siècle, en alliant conservation, mises aux normes multiples et interventions contemporaines.</p>
@@ -313,7 +313,7 @@
         <item>
             <title><![CDATA[Zigzag 2019 - Visites de chantier au Havre]]></title>
             <link>https://festivalzigzag.fr/stories/visites-de-chantier-au-havre</link>
-            <guid>https://festivalzigzag.fr/stories/visites-de-chantier-au-havre</guid>
+            <guid>/stories/visites-de-chantier-au-havre</guid>
             <pubDate>Mon, 19 Jan 1970 06:16:34 GMT</pubDate>
             <content:encoded><![CDATA[<h2 id="la-cité-numérique">LA CITÉ NUMÉRIQUE</h2>
 <p>Entre ville et port, ce totem architectural conçu par l’agence Groupe 6 est un projet à 360 degrés, au centre du campus maritime, tourné vers le large, la ville, les quais, la marina et la gare. Sa silhouette élancée affirme ses plateaux, avec des formes simples et rectilignes inscrites dans l’histoire des Docks. Ses façades en résille métallique révèlent sa vie intérieure, via les interstices entre ses différents niveaux, laissant apparaître le cœur de l’École de Management de Normandie et de la Cité Du Numérique. Un projet dont le programme et l’usage ont fait l’objet d’une concertation avec les habitants.</p>
@@ -327,7 +327,7 @@
         <item>
             <title><![CDATA[Zigzag 2020 - #annulations ]]></title>
             <link>https://festivalzigzag.fr/stories/zigzag-2020-annulations</link>
-            <guid>https://festivalzigzag.fr/stories/zigzag-2020-annulations</guid>
+            <guid>/stories/zigzag-2020-annulations</guid>
             <pubDate>Mon, 19 Jan 1970 13:28:23 GMT</pubDate>
             <content:encoded><![CDATA[<h2 id="un-festival-mouvemente">UN FESTIVAL MOUVEMENTE</h2>
 <p>En 2019, la première édition du festival Zigzag avait connu une programmation mouvementée, suite à l&#39;incendie de Lubrizol du 26 septembre ... avec des événements annulés dans la ville de Rouen.</p>
@@ -339,7 +339,7 @@
         <item>
             <title><![CDATA[Zigzag 2020 - du 3 au 18 octobre]]></title>
             <link>https://festivalzigzag.fr/stories/zigzag-2020-du-3-au-18-octobre</link>
-            <guid>https://festivalzigzag.fr/stories/zigzag-2020-du-3-au-18-octobre</guid>
+            <guid>/stories/zigzag-2020-du-3-au-18-octobre</guid>
             <pubDate>Mon, 19 Jan 1970 12:00:43 GMT</pubDate>
             <content:encoded><![CDATA[<h2 id="les-inscriptions-sont-ouvertes-">Les inscriptions sont ouvertes !</h2>
 <p><strong>Plus de trente événements sont programmés d’Achères à Deauville</strong> pour appréhender le cadre de vie à l’occasion de parcours, de visites à pied, en bateau ou en vélo, d’installations, de street art, de performances pour tous, avec des architectes, des élus, des urbanistes, des paysagistes ou des artistes. </p>
@@ -368,7 +368,7 @@
         <item>
             <title><![CDATA[Zigzag 2020 - exposition ]]></title>
             <link>https://festivalzigzag.fr/stories/zigzag-2020-exposition</link>
-            <guid>https://festivalzigzag.fr/stories/zigzag-2020-exposition</guid>
+            <guid>/stories/zigzag-2020-exposition</guid>
             <pubDate>Mon, 19 Jan 1970 13:18:18 GMT</pubDate>
             <content:encoded><![CDATA[<h2 id="lexposition-utopie-fluviale-au-forum-jusquau-30-octobre">L&#39;EXPOSITION UTOPIE FLUVIALE AU FORUM JUSQU&#39;AU 30 OCTOBRE</h2>
 <p>Le collectif d’artistes et d’architectes <strong>&quot;Dans le Sens de Barge&quot;</strong> offre un cycle de programmation artistique (résidences, workshops, expositions, ateliers et fêtes) favorisant le lien social et culturel sur la Seine. A l’occasion du <strong>festival Zigzag 2020</strong>, le collectif propose <strong>“Utopie Fluviale”</strong> : un retour sur la génèse du projet, sa raison d&#39;être artistique puisée au sein du fleuve, de l’eau, de l’inertie, des traversées. Cette exposition sera l&#39;occasion de présenter l&#39;état d&#39;avancée du projet fluvio-maritime <strong>BARGE</strong> réalisé par l&#39;architecte Pierre Delion et de montrer les propositions élaborées par les étudiants en design et en architecture de l&#39;<strong>ENSCI - Les Ateliers et de l’ENSA-Normandie</strong>, autour des futures escales des embarcations.</p>
@@ -387,7 +387,7 @@
         <item>
             <title><![CDATA[Zigzag 2020 - J-1]]></title>
             <link>https://festivalzigzag.fr/stories/zigzag-2020-j-1</link>
-            <guid>https://festivalzigzag.fr/stories/zigzag-2020-j-1</guid>
+            <guid>/stories/zigzag-2020-j-1</guid>
             <pubDate>Mon, 19 Jan 1970 12:53:46 GMT</pubDate>
             <content:encoded><![CDATA[<h2 id="ouverture-du-festival-le-samedi-3-octobre-">OUVERTURE DU FESTIVAL LE SAMEDI 3 OCTOBRE !</h2>
 <p>La Maison de l&#39;architecture de Normandie - le Forum rouvre ses portes ce samedi 3 octobre pour l&#39;exposition <strong>&quot;Utopie fluviale&quot;</strong> dans le cadre du festival d&#39;architecture Zigzag :</p>
@@ -403,7 +403,7 @@
         <item>
             <title><![CDATA[Zigzag 2020 - semaine #1]]></title>
             <link>https://festivalzigzag.fr/stories/zigzag-2020-semaine-1</link>
-            <guid>https://festivalzigzag.fr/stories/zigzag-2020-semaine-1</guid>
+            <guid>/stories/zigzag-2020-semaine-1</guid>
             <pubDate>Mon, 19 Jan 1970 13:08:24 GMT</pubDate>
             <content:encoded><![CDATA[<h2 id="une-semaine-dinteractions-artistiques">Une semaine d&#39;interactions artistiques</h2>
 <p>Zigzag - festival d&#39;architecture et des arts de l&#39;espace, ce sont 30 événements d&#39;Achères à Deauville le long de la vallée de la Seine jusqu&#39;au 18 octobre. Pour cette première semaine d&#39;événement, les danseurs et chorégraphes de la compagnie <strong>SHIFTS - art in movement</strong> ont bravé vent et pluie sur le site de <strong>Genius 2020</strong>. Retour sur une semaine de performance, chorégraphie, urbanisme, dynamiques sociales &amp; recherche collaborative in situ au Havre : <strong>RIM#2 SATELLITES - REDÉCOUVERTE DES INTERACTIONS QU’ON M</strong></p>
@@ -419,7 +419,7 @@
         <item>
             <title><![CDATA[Zigzag 2020 - semaine #2]]></title>
             <link>https://festivalzigzag.fr/stories/zigzag-2020-semaine-2</link>
-            <guid>https://festivalzigzag.fr/stories/zigzag-2020-semaine-2</guid>
+            <guid>/stories/zigzag-2020-semaine-2</guid>
             <pubDate>Mon, 19 Jan 1970 13:14:21 GMT</pubDate>
             <content:encoded><![CDATA[<h2 id="une-semaine-entre-arts-et-paysages">UNE SEMAINE ENTRE ARTS ET PAYSAGES</h2>
 <p>Cette seconde semaine d&#39;événements a commencée mardi par une soirée théâtre-débat à <strong>Gaillon</strong>, avec <strong>la troupe Acaly</strong> qui présentait sa pièce « Les pieds dans l’eau » : <em>« L’histoire se déroule en 2060. Nous sommes chez Jeff, dans une petite maison en ville, accompagné de Cherka, l’intelligence artificielle qui a pour fonction de gérer le lieu. Mike arrive une nuit chez son ami Jeff, car tout est inondé dans le quartier. S’en suit alors un échange entre les deux amis pour trouver des solutions et dédramatiser la situation… ».</em></p>
@@ -435,7 +435,7 @@
         <item>
             <title><![CDATA[Zigzag 2020 - week-end #1]]></title>
             <link>https://festivalzigzag.fr/stories/zigzag-2020-week-end-1</link>
-            <guid>https://festivalzigzag.fr/stories/zigzag-2020-week-end-1</guid>
+            <guid>/stories/zigzag-2020-week-end-1</guid>
             <pubDate>Mon, 19 Jan 1970 13:00:58 GMT</pubDate>
             <content:encoded><![CDATA[<h2 id="un-premier-week-end-en-zigzag">Un premier week-end en Zigzag</h2>
 <p>Zigzag - festival d&#39;architecture et des arts de l&#39;espace, ce sont 30 événements d&#39;Achères à Deauville le long de la vallée de la Seine jusqu&#39;au 18 octobre, en passant par la Ville de Rouen à la Maison de l&#39;architecture de Normandie - le Forum pour l&#39;exposition : <strong>Utopie fluviale</strong>.</p>
@@ -453,7 +453,7 @@
         <item>
             <title><![CDATA[Zigzag 2020 - week-end #2]]></title>
             <link>https://festivalzigzag.fr/stories/zigzag-2020-week-end-2</link>
-            <guid>https://festivalzigzag.fr/stories/zigzag-2020-week-end-2</guid>
+            <guid>/stories/zigzag-2020-week-end-2</guid>
             <pubDate>Mon, 19 Jan 1970 13:08:28 GMT</pubDate>
             <content:encoded><![CDATA[<h2 id="un-week-end-decouvertes">UN WEEK-END DECOUVERTES</h2>
 <p>Zigzag - festival d&#39;architecture et des arts de l&#39;espace, ce sont 30 événements d&#39;Achères à Deauville le long de la vallée de la Seine jusqu&#39;au 18 octobre. Un second week-end de visites en découvertes pour parler architecture, urbanisme et paysage :</p>
@@ -471,7 +471,7 @@
         <item>
             <title><![CDATA[Zigzag 2020 - week-end #JNArchi]]></title>
             <link>https://festivalzigzag.fr/stories/zigzag-2020-week-end-jnarchi</link>
-            <guid>https://festivalzigzag.fr/stories/zigzag-2020-week-end-jnarchi</guid>
+            <guid>/stories/zigzag-2020-week-end-jnarchi</guid>
             <pubDate>Mon, 19 Jan 1970 13:18:15 GMT</pubDate>
             <content:encoded><![CDATA[<h2 id="zigzag-et-les-journees-nationales-de-larchitecture">ZIGZAG ET LES JOURNEES NATIONALES DE L&#39;ARCHITECTURE</h2>
 <p><em>&quot;La crise sanitaire que nous venons de traverser a mis davantage encore en lumière l’importance d’un environnement de vie bien conçu et de qualité, et par conséquent le rôle essentiel de l’architecture. La 5e édition des Journées nationales de l’architecture se déroulera les 16, 17 et 18 octobre 2020. Organisées par le Ministère de la Culture, ces journées ont pour objectif de familiariser tous les publics aux enjeux de l’architecture et de leur fournir des clés de compréhension de cet art qui façonne nos territoires.&quot;<br>Roselyne Bachelot-Narquin, Ministre de la Culture</em></p>
@@ -487,7 +487,7 @@
         <item>
             <title><![CDATA[Zigzag 2021 - du 25 septembre au 10 octobre]]></title>
             <link>https://festivalzigzag.fr/stories/zigzag-2021-du-25-septembre-au-10-octobre</link>
-            <guid>https://festivalzigzag.fr/stories/zigzag-2021-du-25-septembre-au-10-octobre</guid>
+            <guid>/stories/zigzag-2021-du-25-septembre-au-10-octobre</guid>
             <pubDate>Mon, 19 Jan 1970 20:16:16 GMT</pubDate>
             <content:encoded><![CDATA[<h2 id="le-long-de-la-vallée-de-la-seine">Le long de la Vallée de la Seine</h2>
 <p>Naviguer au gré des méandres d’un territoire, s’immerger dans son histoire, son patrimoine et épouser ses reliefs naturels ou artificiels, entrer en interaction avec ses constructions et ses profondeurs en questionnant la place du corps dans l’espace, <strong>c’est la volonté de Zigzag – festival d’architecture et des arts de l’espace</strong>. </p>
@@ -523,7 +523,7 @@
         <item>
             <title><![CDATA[Zigzag 2021 - week-end #1 (suite)]]></title>
             <link>https://festivalzigzag.fr/stories/zigzag-2021-week-end-1-suite</link>
-            <guid>https://festivalzigzag.fr/stories/zigzag-2021-week-end-1-suite</guid>
+            <guid>/stories/zigzag-2021-week-end-1-suite</guid>
             <pubDate>Mon, 19 Jan 1970 21:35:20 GMT</pubDate>
             <content:encoded><![CDATA[<h2 id="zigzag---1er-week-end">ZIGZAG - 1er WEEK-END</h2>
 <p>Et dimanche, on s&#39;est baladé à Freneuse avec le <strong>CAUE de la Seine-Maritime</strong> ; on a découvert les photos de <strong>Christel Jeanne</strong> à Bois-Guillaume dans le cadre d&#39;EOP ; on a visité l&#39;ancienne <strong>usine Desgenétais</strong> à Bolbec et le renouveau de ce quartier ; on s&#39;est laissé guidé par le <strong>Pays d&#39;art et d&#39;histoire de la CU Le Havre Seine Métropole</strong> dans le quartier de l&#39;Eure.</p>
@@ -535,7 +535,7 @@
         <item>
             <title><![CDATA[Zigzag 2021 - week-end #1]]></title>
             <link>https://festivalzigzag.fr/stories/zigzag-2021-week-end-1</link>
-            <guid>https://festivalzigzag.fr/stories/zigzag-2021-week-end-1</guid>
+            <guid>/stories/zigzag-2021-week-end-1</guid>
             <pubDate>Mon, 19 Jan 1970 21:35:20 GMT</pubDate>
             <content:encoded><![CDATA[<h2 id="zigzag---1er-week-end">ZIGZAG - 1er WEEK-END</h2>
 <p>Vendredi soir, on a lancé le festival en compagnie des partenaires Zigzag 2021 ; on a découvert les expositions sur les paysages de la Seine avec l&#39;<strong>Ecole nationale supérieure de paysage</strong> et l&#39;<strong>AURH</strong> au Forum ; on a visité l&#39;exposition La Massage avec <strong>La loge des auteurs photographes</strong> rue Victor Hugo à Ville de Rouen dans le cadre d&#39;EOP.</p>
@@ -553,7 +553,7 @@
         <item>
             <title><![CDATA[Zigzag 2021 - week-end #2 (suite)]]></title>
             <link>https://festivalzigzag.fr/stories/zigzag-2021-week-end-2-suite</link>
-            <guid>https://festivalzigzag.fr/stories/zigzag-2021-week-end-2-suite</guid>
+            <guid>/stories/zigzag-2021-week-end-2-suite</guid>
             <pubDate>Mon, 19 Jan 1970 21:48:22 GMT</pubDate>
             <content:encoded><![CDATA[<h2 id="zigzag---2eme-week-end">ZIGZAG - 2EME WEEK-END</h2>
 <p>Et dimanche, <strong>Eric Germain</strong>, paysagiste, nous a fait découvrir Pont-Audemer lors d&#39;un parcours le long de la Risle.</p>
@@ -573,7 +573,7 @@
         <item>
             <title><![CDATA[Zigzag 2021 - week-end #2]]></title>
             <link>https://festivalzigzag.fr/stories/zigzag-2021-week-end-2</link>
-            <guid>https://festivalzigzag.fr/stories/zigzag-2021-week-end-2</guid>
+            <guid>/stories/zigzag-2021-week-end-2</guid>
             <pubDate>Mon, 19 Jan 1970 21:48:22 GMT</pubDate>
             <content:encoded><![CDATA[<h2 id="zigzag---2eme-week-end">ZIGZAG - 2EME WEEK-END</h2>
 <p>&lt; ZIGZAG - 2ème WEEK-END &gt;</p>
@@ -585,7 +585,7 @@
         <item>
             <title><![CDATA[Zigzag 2021 - week-end #3 (suite et fin)]]></title>
             <link>https://festivalzigzag.fr/stories/zigzag-2021-week-end-3-suite-et-fin</link>
-            <guid>https://festivalzigzag.fr/stories/zigzag-2021-week-end-3-suite-et-fin</guid>
+            <guid>/stories/zigzag-2021-week-end-3-suite-et-fin</guid>
             <pubDate>Mon, 19 Jan 1970 21:55:37 GMT</pubDate>
             <content:encoded><![CDATA[<h2 id="zigzag---dernier-week-end">ZIGZAG - DERNIER WEEK-END</h2>
 <p>Dimanche matin, pour les trois dernières visites du festival, on a déambulé à Montivilliers avec l&#39;<strong>AURH</strong> ; on a inauguré la suite de la balade quevillaise avec l&#39;<strong>équipe du Forum</strong> et <strong>Stéphane Rioland</strong> ; on a visité la ferme des Bruyères dans le cadre des 48h de l&#39;agriculture urbaine avec <strong>Le Champ des Possibles</strong> et <strong>Triticum</strong>.</p>
@@ -598,13 +598,46 @@
         <item>
             <title><![CDATA[Zigzag 2021 - week-end #3]]></title>
             <link>https://festivalzigzag.fr/stories/zigzag-2021-week-end-3</link>
-            <guid>https://festivalzigzag.fr/stories/zigzag-2021-week-end-3</guid>
+            <guid>/stories/zigzag-2021-week-end-3</guid>
             <pubDate>Mon, 19 Jan 1970 21:55:34 GMT</pubDate>
             <content:encoded><![CDATA[<h2 id="zigzag---dernier-week-end">ZIGZAG - DERNIER WEEK-END</h2>
 <p>Samedi 9 octobre, on a visité Gonfreville-l&#39;Orcher avec le <strong>Pays d’art et d’histoire Le Havre Seine Métropole</strong> et le <strong>service Patrimoine</strong> de la ville. Au même moment, on était en promenade paysagère au Havre avec <strong>Franck Gaillet de la Fédération Française du Paysage - Normandie</strong> et au <strong>Port Center</strong> avec <strong>Dans le Sens de Barge</strong> pour une matinée démonstration/rencontre.</p>
 <p>Toute la journée, on est monté sur les toits de <strong>Grand Quevilly</strong> pour une lecture insolite de cette ville bien verte et, entre-temps, on s&#39;est baladé avec le <strong>CAUE de l&#39;Eure</strong> à la Chapelle Longueville entre les vignes.</p>
 <p>Et à Rouen, on a profité du dernier jour des expositions sur les paysages de la Seine au Forum, conçues par l’<strong>Agence d’Urbanisme Le Havre - Estuaire de la Seine (AURH)</strong> et l’<strong>École natio­nale supérieure de paysage de Versailles (ENSP)</strong> !</p>
 <p>Et dimanche…</p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Zigzag 2022 - du 1er au 16 octobre]]></title>
+            <link>https://festivalzigzag.fr/stories/zigzag-2022-du-1er-au-16-octobre</link>
+            <guid>/stories/zigzag-2022-du-1er-au-16-octobre</guid>
+            <pubDate>Tue, 20 Jan 1970 04:09:39 GMT</pubDate>
+            <content:encoded><![CDATA[<h3 id="se-décaler-pour-mieux-regarder">SE DÉCALER POUR MIEUX REGARDER</h3>
+<p><strong>Le festival Zigzag est une invitation à découvrir, comprendre et participer aux transformations d’un territoire en mouvement, celui de la vallée de la Seine. Dans une approche sensible, à l’occasion de visites, de parcours, d’installations ou bien encore de tablées, le festival met en lumière des manières d’habiter et de construire. Il décale le regard, suscite la curiosité, facilite l’appropriation de nos espaces de vie.</strong></p>
+<p>La Seine dessine des paysages variés, où villes campagnes et activités s’égrènent dans une diversité de tailles, d’identités ou d’enjeux. Ces lieux s’ancrent dans des réalités historiques, géographiques, économiques dont les usages et les interrelations évoluent et se réinventent. Comment les regarder ? Comment s’approprier ces espaces en transformations ? Comment en faire des lieux de vie pour demain ?</p>
+<p>Près de 40 événements sont programmés de Carrières-sous-Poissy au Havre pour cette quatrième édition, dans près de 20 sites différents. Des formats grand public pour s’immerger dans des lieux, guidé par des architectes, des élus, des urbanistes, des paysagistes et des artistes qui mettent en récits ces espaces vivants.</p>
+<h2 id="le-long-de-la-vallée-de-la-seine">LE LONG DE LA VALLÉE DE LA SEINE</h2>
+<ul>
+<li>BOIS-GUILLAUME (76)</li>
+<li>CAUDEBEC-LES-ELBEUF (76)</li>
+<li>DUCLAIR (76)</li>
+<li>ELBEUF-SUR-SEINE (76)</li>
+<li>GRAND QUEVILLY (76)</li>
+<li>LE HAVRE (76)</li>
+<li>LE VAUDREUIL (27)</li>
+<li>LES ANDELYS (27)</li>
+<li>MANTES-LA-JOLIE (78)</li>
+<li>MAROMME (76)</li>
+<li>MONTIVILLIERS (76)</li>
+<li>NOTRE-DAME-DE-BLIQUETUIT (76)</li>
+<li>OCTEVILLE-SUR-MER (76)</li>
+<li>PETIT-COURONNE (76)</li>
+<li>PONT-L’EVÊQUE (14)</li>
+<li>ROUEN (76)</li>
+<li>SAINT-WANDRILLE-RANÇON (76)</li>
+<li>SANDOUVILLE (76)</li>
+<li>VERNON (27)</li>
+</ul>
 ]]></content:encoded>
         </item>
     </channel>

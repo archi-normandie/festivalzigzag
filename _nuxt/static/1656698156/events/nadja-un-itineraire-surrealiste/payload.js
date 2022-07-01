@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/events/nadja-un-itineraire-surrealiste", {data:[{}],fetch:{},mutations:[]});

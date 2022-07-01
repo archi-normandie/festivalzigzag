@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/events/les-tablees-de-zigzag-1", {data:[{}],fetch:{},mutations:[]});

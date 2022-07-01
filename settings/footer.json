@@ -3,7 +3,7 @@
     {
       "template": "bloc-content",
       "title": "Zigzag",
-      "content": "**Le Forum -**  \n**Maison de l’architecture de Normandie**  \n48 rue Victor Hugo  \n76000 Rouen\n\n02 35 03 40 31  \n[contact@man-leforum.fr]( mailto:contact@man-leforum.fr)  \n[man-leforum.fr](http://man-leforum.fr/maison-de-l-architecture/ \"Site web du Forum\")\n\n**_#touspourlarchi_**\n\n**_#zigzagfestivalarchitecture_**"
+      "content": "**Le Forum -**  \n**Maison de l’architecture de Normandie**  \n48 rue Victor Hugo  \n76000 Rouen\n\n02 35 03 40 31  \n[contact@man-leforum.fr](mailto:contact@man-leforum.fr)  \n[man-leforum.fr](http://man-leforum.fr/maison-de-l-architecture/ \"Site web du Forum\")"
     },
     {
       "template": "bloc-navigation",
@@ -41,26 +41,13 @@
               "path": "/agenda"
             }
           ]
-        },
-        {
-          "label": "Restez connectés !",
-          "links": [
-            {
-              "name": "Facebook",
-              "path": "https://www.facebook.com/zigzagfestivalarchitecture"
-            },
-            {
-              "name": "Instagram",
-              "path": "https://www.instagram.com/festival_zigzag/"
-            }
-          ]
         }
       ]
     },
     {
       "template": "bloc-content",
       "title": "Le Forum",
-      "content": "###### Suivez l'actualité du Forum\n\n* [Adhérez au Forum !](https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/adhesions/maison-de-l-architecture-de-normandie-le-forum-adhesion)\n* [Abonnez-vous à sa newsletter](http://man-leforum.fr/maison-de-l-architecture/infos-pratiques/s-abonner-a-la-newsletter/newsletters.html)\n\n###### et restez connectés !\n\n* [LinkedIn](https://www.linkedin.com/company/maison-de-l-architecture-de-normandie-le-forum/)\n* [Facebook](https://www.facebook.com/maisondelarchitecturedenormandieleforum/)\n* [Instagram](https://www.instagram.com/man_leforum/)"
+      "content": "###### Suivez l'actualité du Forum\n\n* [Adhérez au Forum !](https://www.helloasso.com/associations/maison-de-l-architecture-de-normandie-le-forum/adhesions/maison-de-l-architecture-de-normandie-le-forum-adhesion)\n* [Abonnez-vous à sa newsletter](http://man-leforum.fr/maison-de-l-architecture/infos-pratiques/s-abonner-a-la-newsletter/newsletters.html)\n\n###### Restez connectés au Forum\n\n* [LinkedIn](https://www.linkedin.com/company/maison-de-l-architecture-de-normandie-le-forum/)\n* [Facebook](https://www.facebook.com/maisondelarchitecturedenormandieleforum/)\n* [Instagram](https://www.instagram.com/man_leforum/)"
     }
   ]
 }

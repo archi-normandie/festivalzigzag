@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/stories/zigzag-2020-du-3-au-18-octobre", {data:[{}],fetch:{},mutations:[]});

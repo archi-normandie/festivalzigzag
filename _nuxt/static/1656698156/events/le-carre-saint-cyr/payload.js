@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/events/le-carre-saint-cyr", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/stories/chasse-au-tresor-dans-la-foret-monumentale", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/events/panorama-republique", {data:[{}],fetch:{},mutations:[]});

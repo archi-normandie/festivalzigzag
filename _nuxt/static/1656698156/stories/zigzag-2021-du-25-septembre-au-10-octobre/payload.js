@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/stories/zigzag-2021-du-25-septembre-au-10-octobre", {data:[{}],fetch:{},mutations:[]});

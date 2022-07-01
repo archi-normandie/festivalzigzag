@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/events/effet-de-surprise", {data:[{}],fetch:{},mutations:[]});

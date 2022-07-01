@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/events/brunch-retrospective-genius", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/events/genius-portes-ouvertes", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/stories/deux-parcours-urbains-proposes-a-rouen", {data:[{}],fetch:{},mutations:[]});

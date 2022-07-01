@@ -6,11 +6,11 @@ Le site **festivalzigzag.fr** est édité par **la Maison de l'architecture de 
 
 Directeur de publication : Paterne Bulcourt, président de la MaN - le Forum  
 Coordination éditoriale : Anne Le Bellégo, directrice de la MaN - le Forum  
-Textes : Frédérique Mougeot, Marion Vandaele, Léa Quénet  
+Textes : Gilles Plouchard et Caroline Camillerapp  
 Réalisation : Maison de l'architecture de Normandie - le Forum
 
 Conception Web : [Ziopod](https://github.com/ziopod)  
-Identité graphique : [Agence Buildozer](http://www.buildozer.fr/)  
+Identité graphique : [Sarah Kugel](https://sarahkugel.com/)  
 Le site est hébergé par OVH
 
 **Droit d'auteur et copyright**  

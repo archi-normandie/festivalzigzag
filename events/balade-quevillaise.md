@@ -1,32 +1,38 @@
 ---
 title: Balade quevillaise
 categories:
-- Parcours
+- Parcours urbain
 featured: false
 cover:
-  src: "/files/balade-quevillaise.jpg"
+  src: "/files/balade-quevillaise-2022.jpg"
   alt: ''
-  legend: "© Balade quevillaise #1 en 2019"
+  legend: Zigzag 2021 ©MaN - le Forum
 booking:
+  link: https://www.billetweb.fr/balade-quevillaise
   state: ''
   period: ''
   dates:
-  - date: 2021-10-10 10:30
-  link: ''
+  - date: 2022-10-02 10:00
 address:
   place: Grand Quevilly (76)
-  lat: "49.4065425"
-  lon: "1.0510607"
+  lat: "49.4018951"
+  lon: "1.0437583"
 informations:
-  note: Tous publics
-  rdv: 'RDV : esplanade de l’Hôtel de Ville. Métro vers Georges Braque – arrêt Léon
-    Blum // Bus 42 – arrêt Centre administratif'
-gallery:
-- "/files/image-d-ios-15.jpg"
-- "/files/image-d-ios-14.jpg"
-- "/files/image-d-ios-19.jpg"
+  note: ''
+  rdv: |-
+    RDV place Eugène Delacroix, sur le mail devant le marchand de journaux
+    - 30 min en vélo depuis la gare de Rouen
+    - Réseau Astuce : Métro, arrêt Georges Braque
+gallery: []
+itinerary:
+- label: 14h30 Croquer la ville pour ce parcours dessiné
+  event: static/events/dessiner-avec-christophe-ronel-croquons-la-ville.md
+- label: 17h30 Soirée projection et musique au Sillon
+  event: static/events/il-etait-une-fois-la-raff.md
 
 ---
-Cette balade inaugure un nouvel itinéraire, jalonné de 12 cartels pour découvrir la ville et comprendre les différentes étapes de sa fabrication. La balade proposée démarre à l’esplanade de l’Hôtel de Ville, passe par la cité scolaire, empreinte le mail piéton jusqu’à la place Eugène Delacroix et le quartier Matisse… cette partie du parcours met en avant Grand Quevilly dans sa dimension contemporaine, la relation des équipements aux espaces publics et à la nature qui donnent à la ville sa qualité urbaine.
+Cette balade propose un nouveau tronçon de l’itinéraire jalonné de 12 cartels imaginé pour découvrir la ville. Une invitation à regarder et comprendre l’architecture et l’urbanisme de cette ville moderne. La balade démarre à la place Eugène Delacroix, empreinte des chemins de traverse, longe la forêt du Chêne à Leu jusqu’au quartier Matisse…
 
-**Intervenant :** Stéphane Rioland, architecte & docteur en histoire.
+Cette partie du parcours met en avant Grand Quevilly dans sa dimension contemporaine, les différentes formes d’habitat, la relation aux espaces publics et à la nature qui donnent à la ville sa qualité urbaine.
+
+**Intervenant :** Stéphane Rioland, architecte.

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/stories/deambulationnage-pour-decouvrir-la-manufacture-des-capucins", {data:[{}],fetch:{},mutations:[]});

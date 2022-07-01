@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/stories/zigzag-2021-week-end-3", {data:[{}],fetch:{},mutations:[]});

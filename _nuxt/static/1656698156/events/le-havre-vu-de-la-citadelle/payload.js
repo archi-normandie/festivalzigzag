@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/events/le-havre-vu-de-la-citadelle", {data:[{}],fetch:{},mutations:[]});

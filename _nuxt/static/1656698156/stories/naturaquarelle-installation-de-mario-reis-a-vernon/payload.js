@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/stories/naturaquarelle-installation-de-mario-reis-a-vernon", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/events/eop-nenets-une-vie-de-famille", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/stories/parcours-urbain-au-coeur-d-un-beuzeville-en-chantier", {data:[{}],fetch:{},mutations:[]});

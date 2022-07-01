@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/events/dessiner-avec-christophe-ronel-croquons-la-ville", {data:[{}],fetch:{},mutations:[]});

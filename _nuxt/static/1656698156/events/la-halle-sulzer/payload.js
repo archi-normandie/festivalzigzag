@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/events/la-halle-sulzer", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/stories/visite-des-nouvelles-serres-du-jardin-des-plantes-de-rouen", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/stories/genius-2019-installation-ephemere-au-havre", {data:[{}],fetch:{},mutations:[]});

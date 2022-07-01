@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/events/il-etait-une-fois-la-raff", {data:[{}],fetch:{},mutations:[]});

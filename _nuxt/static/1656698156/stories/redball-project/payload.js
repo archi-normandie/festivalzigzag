@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/stories/redball-project", {data:[{}],fetch:{},mutations:[]});

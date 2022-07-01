@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/events/lanimea-reconversion-animee", {data:[{}],fetch:{},mutations:[]});

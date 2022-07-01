@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/stories/un-parcours-pedestre-au-havre", {data:[{}],fetch:{},mutations:[]});

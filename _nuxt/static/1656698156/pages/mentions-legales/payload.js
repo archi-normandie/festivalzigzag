@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/pages/mentions-legales", {data:[{}],fetch:{},mutations:[]});
