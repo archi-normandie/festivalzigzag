@@ -7,6 +7,14 @@
 }
 
 @font-face {
+  font-family: 'rontundus';
+  font-weight: 400;
+  font-style: normal;
+  src: url('/fonts/rontudus.woff2') format('woff2'),
+       url('/fonts/rontudus.woff') format('woff');
+}
+
+@font-face {
   font-family: 'ubuntu-italic';
   font-weight: 400;
   font-style: italic;

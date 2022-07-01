@@ -25,16 +25,17 @@ h3,
 h4,
 h5,
 h6 {
+  font-family: $heading-font;
   line-height: 1;
   color: $secondary;
   text-transform: uppercase;
+  font-weight: 400;
 }
 
 h1,
 .h1 {
   margin-bottom: calc($margin * 2);
   font-size: $fs32;
-  font-weight: 400;
 }
 
 h2,
