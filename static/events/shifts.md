@@ -15,8 +15,8 @@ booking:
   - date: 2022-10-08 09:00
 address:
   place: Octeville-sur-Mer (76)
-  lat: "49.5554494"
-  lon: "0.1165946"
+  lat: "49.5563485"
+  lon: "0.1149763"
 informations:
   note: Rallye familial tout public, chaussures confortables conseillées et vêtement
     de pluie si besoin
