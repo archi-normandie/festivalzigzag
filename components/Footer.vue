@@ -1,27 +1,5 @@
 <template>
   <footer class="footer" :class="coverMode ? 'covered' : null">
-    <section v-if="coverMode" class="home-summary level">
-      <div class="left">
-        <h1>
-          1<sup>er</sup> › 16 octobre 2022
-        </h1>
-        <p class="sub-header">
-          Le long de la vallée de la seine
-        </p>
-      </div>
-      <div class="right level">
-        <ul class="left">
-          <li>Déambulations</li>
-          <li>Installations</li>
-          <li>Parcours</li>
-        </ul>
-        <ul class="right">
-          <li>Randonnées</li>
-          <li>Tablées</li>
-          <li>Visites</li>
-        </ul>
-      </div>
-    </section>
     <section v-if="!coverMode">
       <div class="menu has-text-top">
         <template v-if="blocs.length">
@@ -77,15 +55,17 @@ export default {
   padding: calc($line-height * 2 ) calc($line-height * 2 ) $line-height;
   // background-color: transparent;
   background-color: $brand-color-secondary;
-  color: $brand-color-invert;
+  color: $brand-color-secondary-invert;
   font-size: $fs14;
 
   &.covered {
-    position: absolute;
-    right: $margin;
-    bottom: $margin;
-    padding: $paddings-large;
-    max-width: 35rem;;
+    // position: absolute;
+    // right: $margin;
+    // bottom: $margin;
+    color: $text-color;
+    padding: $paddings;
+    background-color: rgba(255, 255, 255, 0.3);
+    // max-width: 35rem;
     // background: $brand-color-secondary;
     // color: $brand-color-secondary-invert;
   }
@@ -136,40 +116,6 @@ export default {
   font-size: $fs12;
   &-left { justify-content: flex-start; }
   &-right { justify-content: flex-end; }
-}
-
-.home-summary {
-  text-transform: uppercase;
-  h1 {
-    font-size: $fs20;
-    margin-top: 0;
-    margin-bottom: 0;
-  }
-  .sub-header { font-size: $fs16; }
-  .level {
-    ul {
-      list-style: none;
-      li:note(:last-child) {
-        margin-bottom: calc($line-height / 3);
-        padding-bottom: calc($line-height / 3);
-        border-bottom: 1px solid;
-      }
-    }
-  }
-}
-
-.level {
-  display: inline-flex;
-  justify-content: space-between;
-  margin-left: 0;
-  .left {
-    justify-content: flex-start;
-    text-align: left;
-  }
-  .right {
-    justify-content: flex-end;
-    text-align: right;
-  }
 }
 
 // .subfooter :last-child { margin-bottom: 0; }
