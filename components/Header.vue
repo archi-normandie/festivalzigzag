@@ -77,8 +77,6 @@ export default {
     background-repeat: no-repeat, repeat-y;
     background-position: top left, top left;
     .brand {
-      margin-left: 2rem;
-      margin-top: 2rem;
       &-logo {
         color: $brand-color-invert;
       }
@@ -86,6 +84,8 @@ export default {
   }
 
   .brand {
+    margin-left: 2rem;
+    margin-top: 2rem;
     &-logo {
       margin: 0;
       color: $brand-color;

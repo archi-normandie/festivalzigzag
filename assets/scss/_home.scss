@@ -12,6 +12,7 @@
     margin-top: -$margin;
     margin-right: -$margin;
     margin-bottom: -$margin;
+    margin-left: -$margin;
 
     // Saison 2022
     // main::after {
@@ -30,10 +31,10 @@
         // transform-origin: left;
         width: 100%;
         height: 100%;;
-        background-image: url("/img/label-pattern.svg");
-        background-repeat: no-repeat;
-        background-position: calc($line-height * 3) center;
-        background-size: cover;
+        background-image: url("/img/label-pattern.svg"), url("/img/bande-biseau-top.svg"), url("/img/bande.svg");
+        background-repeat: no-repeat, no-repeat, repeat-y;
+        background-position: calc($line-height * 3) center, left top, left top;
+        background-size: cover, auto, auto;
         // Version monochrome
         // background: #D3A8B8;
         // mask-image: url("/img/label-pattern.svg");
