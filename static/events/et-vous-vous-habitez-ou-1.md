@@ -27,4 +27,6 @@ itinerary:
 ---
 A l’occasion du festival Zigzag, la Métropole Rouen Normandie inaugure une nouvelle série de 10 podcasts sur l’HABITAT : comment habiter aujourd’hui ? Trois témoignages d’habitants à découvrir en exclusivité pendant le temps du festival.
 
-**Les podcasts seront disponibles le 1er octobre.**
+Cité-jardin, quartier urbain en rénovation, bâti ancien, et bien plus encore. Des habitants de la Métropole Rouen Normandie vous ouvrent leurs portes et livrent un témoignage intime sur leur lieu de vie. A vos casques!
+
+**Les podcasts seront disponibles le 1er octobre** sur le site : [Eko de la Métropole](https://podcasts.metropole-rouen-normandie.fr/)
