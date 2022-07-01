@@ -1,5 +1,11 @@
+// @media (min-width: $mq-960) {
+
 .home {
-  background-image: url("/img/background-home.png");
+  background-image: url("/img/background-home-360-640.jpg");
+  background-color: $brand-color-secondary;
+  @include mq-sm { background-image: url("/img/background-home-810-1080.jpg"); }
+  @include mq-lg { background-image: url("/img/background-home-1280-768.jpg"); }
+  @include mq-2xl { background-image: url("/img/background-home-1920-1080.jpg"); }
   background-position: 50% 20%;
   background-repeat: no-repeat;
   background-size: cover;

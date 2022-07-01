@@ -77,6 +77,26 @@ $mq-640: 40em;
 $mq-960: 60em;
 $mq-1600: 100em;
 
+
+// Gestion de média queries méthode Landon Schropps
+// @todo normaliser la solution cf #18
+// https://css-tricks.com/approaches-media-queries-sass/#aa-landon-schropps-technique
+@mixin mq-sm {
+  @media (min-width: 640px) { @content; }
+}
+@mixin mq-md {
+  @media (min-width: 768px) { @content; }
+}
+@mixin mq-lg {
+  @media (min-width: 1024px) { @content; }
+}
+@mixin mq-xl {
+  @media (min-width: 1280px) { @content; }
+}
+@mixin mq-2xl {
+  @media (min-width: 1536px) { @content; }
+}
+
 // Animations
 
 $transition-duration: 0.4s;
