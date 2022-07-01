@@ -86,10 +86,12 @@ export default {
   .left {
     justify-content: flex-start;
     text-align: left;
+    margin: 0;
   }
   .right {
     justify-content: flex-end;
     text-align: right;
+    margin: 0;
   }
 }
 
@@ -98,6 +100,8 @@ export default {
   right: $line-height;
   bottom: calc($line-height * 3);
   padding: $paddings-large;
+  padding-left: calc($margin * 2);
+  padding-right: calc($margin * 2);
   background: $brand-color-secondary;
   color: $brand-color-secondary-invert;
   text-transform: uppercase;
@@ -109,6 +113,11 @@ export default {
     margin-bottom: .2rem;;
   }
   .sub-header { font-size: $fs18; }
+
+  .left {
+    margin-right: $margin;
+  }
+
   .level {
     font-size: $fs14;
     ul {
