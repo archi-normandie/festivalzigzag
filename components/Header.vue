@@ -104,5 +104,6 @@ export default {
       text-transform: uppercase;
     }
   }
+  .menu-section-right { margin-left: 2rem; }
 }
 </style>
