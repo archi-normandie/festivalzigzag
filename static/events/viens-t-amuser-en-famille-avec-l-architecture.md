@@ -27,6 +27,6 @@ gallery: []
 itinerary: []
 
 ---
-Ce ne sont que de petits pavés droits en pin des Landes, mais c’est fou tout ce qu’on peut faire avec ! Avec un peu de pratique, en les superposant, de fabuleuses constructions s’élèvent. Avec les Kapla, soyez l’architecte de cet univers. Et avant de prendre plaisir à tout détruire, photo !
+C'est fou ce qu'on peut faire avec de petits pavés droits en pin des Landes ! Avec un peu de pratique, en les superposant, de fabuleuses constructions s’élèvent. Avec les Kapla, soyez l’architecte de cet univers. Et avant de prendre plaisir à tout détruire, photo !
 
 **Avec l’équipe de la Maison de l’architecture de Normandie – le Forum.**

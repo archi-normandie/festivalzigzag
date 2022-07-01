@@ -37,4 +37,4 @@ Venez visiter et découvrir cet espace récemment livré, première étape dans 
 
 Rencontrez et dialoguez avec les différents acteurs de ce renouveau urbain pour appréhender ce projet intergénérationnel, innovant et durable.
 
-**Intervenants :** Bruno Jamet, architecte, Agence AZ architecture, un représentant de La Métropolitaine, maître d’ouvrage et les usagers du site.
+**Intervenants :** Bruno Jamet, architecte, Agence AZ ARCHITECTURE, un représentant de La Métropolitaine, maître d’ouvrage et les usagers du site.

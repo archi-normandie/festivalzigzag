@@ -18,10 +18,10 @@ address:
   lon: ''
 informations:
   note: ''
-  rdv: |-
+  rdv: |
     Accès libre en extérieur :
-    à Bois-Guillaume : RDV devant l’école élémentaire Les Portes de la Forêt, 67 place des Erables. Réseau Astuce : Bus 11, arrêt Table de Pierre
-    - à Rouen : RDV rive gauche, en haut de l'escalier ouest du pont Boieldieu. Réseau Astuce : Métro, arrêt Joffre-Mutualité
+    à Rouen : départ rive gauche, quai bas au niveau du pont Boieldieu. Réseau Astuce : Métro, arrêt Joffre-Mutualité
+    - à Bois-Guillaume : départ école élémentaire Les Portes de la Forêt, 67 place des Erables. Réseau Astuce : Bus 11, arrêt Table de Pierre
 gallery: []
 itinerary:
 - label: Parcours photographique à Rouen
@@ -34,6 +34,4 @@ EOP, festival consacré à la photographie documentaire prend place en extérieu
 
 **Les expositions EOP se poursuivent jusqu'au 27 novembre 2022.**
 
-_Commissariat d’exposition : Serge Périchon._ 
-
-_Projet porté par La Maison de l’architecture de Normandie - le Forum et La Loge des auteurs photographes._
+_Commissariat d’exposition : Serge Périchon. Projet porté par La Maison de l’architecture de Normandie - le Forum et La Loge des auteurs photographes._

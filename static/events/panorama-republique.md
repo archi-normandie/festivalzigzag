@@ -15,12 +15,12 @@ booking:
   - date: 2022-10-05 14:30
 address:
   place: Elbeuf-sur-Seine (76)
-  lat: "49.2902559"
-  lon: "1.0013393"
+  lat: "49.2897692"
+  lon: "1.0006044"
 informations:
   note: ''
   rdv: |-
-    RDV 29 rue de la République
+    RDV place de la République
     - 20 min à pieds, 6 min en vélo depuis la gare d'Elbeuf - Saint-Aubin
     - Réseau Astuce : Bus B et C, arrêt Sevestre Aîné
 gallery: []

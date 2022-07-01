@@ -18,7 +18,7 @@ address:
   lat: "49.4400446"
   lon: "1.1007435"
 informations:
-  note: ''
+  note: Accessibilité PMR
   rdv: |-
     RDV Maison de l’architecture de Normandie – le Forum, 48 rue Victor Hugo
     - 16 min à pieds depuis la gare de Rouen
@@ -29,8 +29,12 @@ itinerary:
   event: static/events/eop-chamane-lumiere.md
 - label: 18h30 Une soirée festive au Forum
   event: static/events/grande-tablee-de-lancement.md
+- label: Les podcasts à écouter
+  event: static/events/et-vous-vous-habitez-ou-1.md
 
 ---
-À l’occasion de la sortie d’une série de dix podcasts sur l’habitat, la Métropole Rouen Normandie et la Maison de l’architecture de Normandie – le Forum vous invite à une émission radio questionnant l’habitat, aujourd’hui. Une table ronde de spécialistes de l’habitat (architecte, sociologue, urbaniste…) se poseront la question au regard des témoignages des habitants de notre territoire.
+À l’occasion de la sortie d’une série de dix podcasts sur l’habitat, la Métropole Rouen Normandie et la Maison de l’architecture de Normandie – le Forum vous invite à une émission radio questionnant l’habitat, aujourd’hui. A l'écoute de témoignages d'habitants du territoire, architecte, sociologue et urbaniste se poseront la question de l'habité.
 
 **Émission animée par Christophe Tréhet, enregistrée en présence du public et disponible en podcast par la suite.**
+
+_En exclusivité pour le festival : 3 podcasts à écouter dès le 1er octobre._

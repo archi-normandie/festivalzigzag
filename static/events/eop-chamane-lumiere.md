@@ -21,8 +21,8 @@ informations:
   note: 'EOP : CHAMANE LUMIERE en accès libre du 1er octobre au 27 novembre 2022'
   rdv: |-
     RDV rive gauche, en haut de l'escalier ouest du pont Boieldieu
-    20 min à pieds depuis la gare de Rouen
-    Réseau Astuce : Métro, arrêt Joffre-Mutualité
+    - 20 min à pieds depuis la gare de Rouen
+    - Réseau Astuce : Métro, arrêt Joffre-Mutualité
 gallery: []
 itinerary:
 - label: 17h Emission radio au Forum

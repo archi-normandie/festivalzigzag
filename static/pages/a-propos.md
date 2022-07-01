@@ -11,7 +11,7 @@ description: Festival Zigzag 2022, édito.
 
 La Seine dessine des paysages variés, où villes campagnes et activités s’égrènent dans une diversité de tailles, d’identités ou d’enjeux. Ces lieux s’ancrent dans des réalités historiques, géographiques, économiques dont les usages et les interrelations évoluent et se réinventent. Comment les regarder ? Comment s’approprier ces espaces en transformations ? Comment en faire des lieux de vie pour demain ?
 
-Près de 40 événements sont programmés de Carrières-sous-Poissy au Havre pour cette quatrième édition, dans près de 20 sites différents. Des formats grand public  pour s’immerger dans des lieux, guidé par des architectes, des élus, des urbanistes, des paysagistes et des artistes qui mettent en récits ces espaces vivants.
+Près de 40 événements sont programmés de Mantes-la-Jolie au Havre pour cette quatrième édition, dans plus de 20 sites différents. Des formats grand public  pour s’immerger dans des lieux, guidé par des architectes, des élus, des urbanistes, des paysagistes et des artistes qui mettent en récits ces espaces vivants.
 
 ## Le long de la Vallée de la Seine
 
