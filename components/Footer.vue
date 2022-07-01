@@ -1,5 +1,27 @@
 <template>
   <footer class="footer" :class="coverMode ? 'covered' : null">
+    <section class="home-summary level">
+      <div class="left">
+        <h1>
+          1<sup>er</sup> › 16 octobre 2022
+        </h1>
+        <p class="sub-header">
+          Le long de la vallée de la seine
+        </p>
+      </div>
+      <div class="right level">
+        <ul class="left">
+          <li>Déambulations</li>
+          <li>Installations</li>
+          <li>Parcours</li>
+        </ul>
+        <ul class="right">
+          <li>Randonnées</li>
+          <li>Tablées</li>
+          <li>Visites</li>
+        </ul>
+      </div>
+    </section>
     <section v-if="!coverMode">
       <div class="menu has-text-top">
         <template v-if="blocs.length">
@@ -14,14 +36,14 @@
       </div>
     </section>
     <section class="subfooter">
-      <ul class="subfooter-left is-inline-fancy">
+      <ul class="subfooter-left is-inline">
         <li><nuxt-link to="pages/mentions-legales">Mentions légales</nuxt-link></li>
         <li>© Maison de l'architecture de Normandie — le Forum ({{ currentYear }}/{{ nextYear }})</li>
         <li>Identité graphique : <a href="https://sarahkugel.com/">Sarah Kügel</a></li>
         <li>Conception Web : <a href="https://github.com/ziopod">Ziopod</a></li>
         <li>Photo de la page d'accueil <a href="https://www.instagram.com/louis_lca">Louis Lac</a></li>
       </ul>
-      <ul class="subfooter-rigth is-inline-fancy is-align-right">
+      <ul class="subfooter-rigth is-inline is-align-right">
         <li><a href="https://www.facebook.com/zigzagfestivalarchitecture">Facebook</a></li>
         <li><a href="https://www.instagram.com/festival_zigzag/">Instagram</a></li>
       </ul>
@@ -53,11 +75,23 @@ export default {
 
 .footer {
   padding: calc($line-height * 2 ) calc($line-height * 2 ) $line-height;
-  background-color: transparent;
+  // background-color: transparent;
+  background-color: $brand-color-secondary;
   color: $brand-color-invert;
   font-size: $fs14;
+
+  &.covered {
+    position: absolute;
+    right: $margin;
+    bottom: $margin;
+    padding: $paddings-large;
+    max-width: 35rem;;
+    // background: $brand-color-secondary;
+    // color: $brand-color-secondary-invert;
+  }
+
   &:not(.covered) {
-    background-color: $brand-color-secondary;
+    // background-color: $brand-color-secondary;
     background-image: url("/img/bande.svg");
     background-repeat: repeat-y;
     background-position: bottom left;
@@ -82,7 +116,7 @@ export default {
 
     &:focus,
     &:hover {
-      color: $brand-color-secondary;
+      color: inherit;
       text-decoration: underline;
     }
 
@@ -90,6 +124,7 @@ export default {
       color: $tertiary;
     }
   }
+
 }
 
 .subfooter {
@@ -103,12 +138,38 @@ export default {
   &-right { justify-content: flex-end; }
 }
 
-</style>
-<style lang="scss">
+.home-summary {
+  text-transform: uppercase;
+  h1 {
+    font-size: $fs20;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  .sub-header { font-size: $fs16; }
+  .level {
+    ul {
+      list-style: none;
+      li:note(:last-child) {
+        margin-bottom: calc($line-height / 3);
+        padding-bottom: calc($line-height / 3);
+        border-bottom: 1px solid;
+      }
+    }
+  }
+}
 
-.footer,
-.subfooter {
-
+.level {
+  display: inline-flex;
+  justify-content: space-between;
+  margin-left: 0;
+  .left {
+    justify-content: flex-start;
+    text-align: left;
+  }
+  .right {
+    justify-content: flex-end;
+    text-align: right;
+  }
 }
 
 // .subfooter :last-child { margin-bottom: 0; }
