@@ -32,6 +32,6 @@ itinerary:
   event: static/events/il-etait-une-fois-la-raff.md
 
 ---
-À l’occasion de l’exposition Nadja, un itinéraire surréaliste, présentée au Musée des Beaux-Arts, nous vous invitons à décaler votre regard pour mieux rêver la ville. Décor privilégié des romans surréalistes, la ville devient un terrain de jeu sensoriel, poétique entouré d’évocations surprenantes à découvrir ensemble.
+À l’occasion de l’exposition _Nadja, un itinéraire surréaliste_, présentée au Musée des Beaux-Arts, nous vous invitons à décaler votre regard pour mieux rêver la ville. Décor privilégié des romans surréalistes, la ville devient un terrain de jeu sensoriel et poétique entourée d’évocations surprenantes à découvrir ensemble.
 
 **Intervenant :** un guide du Musée des Beaux-Arts.
