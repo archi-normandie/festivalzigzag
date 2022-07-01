@@ -22,8 +22,18 @@
         <li>Photo de la page d'accueil <a href="https://www.instagram.com/louis_lca">Louis Lac</a></li>
       </ul>
       <ul class="subfooter-rigth is-inline is-align-right">
-        <li><a href="https://www.facebook.com/zigzagfestivalarchitecture">Facebook</a></li>
-        <li><a href="https://www.instagram.com/festival_zigzag/">Instagram</a></li>
+        <li>
+          <a href="https://www.facebook.com/zigzagfestivalarchitecture">
+            <iconFacebook class="icon"/>
+            <span class="sr">Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.instagram.com/festival_zigzag/">
+            <iconInstagram class="icon" />
+            <span class="sr">Instagram</span>
+          </a>
+        </li>
       </ul>
     </section>
   </footer>
@@ -32,9 +42,16 @@
 <script>
 import BlocContent from '~/components/Blocs/Content'
 import BlocNavigation from '~/components/Blocs/Navigation'
+import iconFacebook from '~/assets/icons/facebook.svg?inline'
+import iconInstagram from '~/assets/icons/instagram.svg?inline'
 export default {
   name: 'Footer',
-  components: { BlocContent, BlocNavigation },
+  components: {
+    BlocContent,
+    BlocNavigation,
+    iconFacebook,
+    iconInstagram
+  },
   props: {
     coverMode: {
       type: Boolean,

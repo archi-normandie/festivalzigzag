@@ -144,3 +144,10 @@ ul.is-inline-fancy li:not(:last-child)::after {  content: " · "; }
   white-space: nnowrap;
   border-width: 0;
 }
+
+.icon {
+  display: inline-flex;
+  max-width: $line-height;
+  margin-right: calc($line-height / 6);
+  margin-left: calc($line-height / 6);
+}
