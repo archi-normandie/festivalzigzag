@@ -21,53 +21,24 @@
     margin-left: -$margin;
 
     // Saison 2022
-    // main::after {
     .hero-logo {
-      // position: relative;
       &::after {
         content: " ";
         position: absolute;
         z-index: -1;
         left: 0;
         top: 0;
-        // transform: translate(0, -50%) rotate(-45deg);
-        // left: 50%;
-        // top: 0%;
-        // transform: rotate(-45deg);
-        // transform-origin: left;
         width: 100%;
         height: 100%;;
         background-image: url("/img/label-pattern.svg"), url("/img/bande-biseau-top.svg"), url("/img/bande.svg");
         background-repeat: no-repeat, no-repeat, repeat-y;
-        background-position: calc($line-height * 3) center, left top, left top;
+        background-position: calc($line-height * 2) center, left top, left top;
         background-size: cover, auto, auto;
-        // Version monochrome
-        // background: #D3A8B8;
-        // mask-image: url("/img/label-pattern.svg");
-        // mask-repeat: no-repeat;
-        // mask-position: calc($line-height * 3) center;
-        // mask-size: cover;
-
-        // background-blend-mode: multiply;
-        // mix-blend-mode: multiply;
+        @include mq-sm {
+          background-position: calc($line-height * 3) center, left top, left top;
+        }
       }
     }
-  }
-
-  @media (min-width: 800px) {
-    // background-image: url("/files/home-800.jpg");
-
-    .title-site--slogan {
-      display: block;
-    }
-  }
-
-  @media (min-width: 1280px) {
-    // background-image: url("/files/home-1280.jpg");
-  }
-
-  @media (min-width: 1920px) {
-    // background-image: url("/files/home-1920.jpg");
   }
 
 

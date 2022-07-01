@@ -58,25 +58,11 @@ export default {
 .hero-logo {
   color: $brand-color-secondary;
   display: block;
-  // overflow: hidden;
   min-height: 60vh;
   .hero-logo-svg {
     display: inline-block;
-    // height: 60vh;
     width: 53rem;
   }
-
-  // Solution possible : utiliser plusieurs svg de fond. un avec un filtre
-  // multiply, l'autre en premier plan sans filtre. Conserver les même
-  // dimensions de viewort pour faciliter le calage.
-  // mix-blend-mode: multiply;
-
-  // Ne fonctionne que sur les SVG incorporée.
-  // .filter-multiply {
-  //   fill: blue;
-    // mix-blend-mode: multiply;
-    // opacity: 0.6;
-  // }
 }
 
 .level {
@@ -96,15 +82,39 @@ export default {
 }
 
 .home-summary {
+  display: block;
   position: absolute;
-  right: $line-height;
-  bottom: calc($line-height * 3);
-  padding: $paddings-large;
-  padding-left: calc($margin * 2);
-  padding-right: calc($margin * 2);
+  width: 100%;
+  bottom: calc($line-height * 4);
+  left: 30px;
+  padding-top: $margin;
+  padding-right: $margin;
+  padding-bottom: $margin;
+  padding-left: $margin;
+  right: 0;
   background: $brand-color-secondary;
   color: $brand-color-secondary-invert;
   text-transform: uppercase;
+  > .left {
+    margin-bottom: $margin;
+  }
+
+  @include mq-sm {
+    display: inline-flex;
+    left: initial;
+    right: $line-height;
+    width: auto;
+    padding-left: calc($margin * 2);
+    padding-right: calc($margin * 2);
+    > .left {
+      margin-bottom: 0;
+    }
+
+  }
+
+  @include mq-lg {
+    bottom: calc($line-height * 3);
+  }
 
   h1 {
     color: inherit;
