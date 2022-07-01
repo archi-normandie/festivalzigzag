@@ -18,7 +18,7 @@ address:
   lat: "49.285885"
   lon: "1.0167951"
 informations:
-  note: Accessibilité PMR
+  note: ''
   rdv: |-
     RDV devant l’entrée de l’Eglise Saint-Cyr, 27 rue Arthur Papavoine
     - 10 min en vélo depuis la gare de Val-de-Reuil
@@ -33,4 +33,4 @@ itinerary:
 
 Venez à la rencontre de ce projet d’ampleur, aux multiples facettes. Vous découvrirez les métamorphoses de l’église Saint-Cyr restaurée et transformée en un lieu dédié aux Métiers d’Art, remarquable réinterprétation contemporaine et laïque de l’espace. La création d’une Pépinière d’artisanat d’art vient compléter cet ambitieux projet patrimonial et urbain. Le bâtiment tire parti des matériaux existants sur le site pour créer une enveloppe en accord avec les murs de l’église.
 
-**Intervenants :** Cécile Fort, architecte mandataire, atelier tmf, pour l’église Saint-Cyr, Benoît Maffre, architecte du patrimoine, Pascal Desplanques, architecte, Agence Bettinger-Desplanques, pour les Ateliers Saint-Cyr et un représentant de l’Agglo Seine Eure, maître d’ouvrage.
+**Intervenants :** pour l'église Saint-Cyr, Cécile Fort, architecte mandataire, atelier tmf, et Benoît Maffre, architecte du patrimoine, agence B.MAP. Pour le carré Saint-Cyr, Pascal Desplanques, architecte, agence Bettinger-Desplanques et un représentant de l'Agglo Seine Eure, maître d'ouvrage.
