@@ -1,6 +1,6 @@
 <template>
   <footer class="footer" :class="coverMode ? 'covered' : null">
-    <section class="home-summary level">
+    <section v-if="coverMode" class="home-summary level">
       <div class="left">
         <h1>
           1<sup>er</sup> › 16 octobre 2022
