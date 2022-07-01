@@ -20,12 +20,6 @@
     max-width: none;
     padding: 0;
   }
-
-  @media (min-width: 30rem) {
-    .footer & {
-      // padding: 0 $margin;
-    }
-  }
 }
 
 // Menu
@@ -109,12 +103,6 @@ ul.is-inline-fancy li:not(:last-child)::after {  content: " · "; }
     display: flex;
     align-items: flex-start;
     &.has-text-top { align-items: normal; }
-  }
-  .menu-section-right,
-  .menu-section-left {
-    // flex-basis: auto;
-    // flex-grow: 0;
-    // flex-shrink: 0;
   }
   .menu {
     justify-content: space-between;
