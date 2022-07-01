@@ -92,10 +92,10 @@ export default {
 
   &:not(.covered) {
     // background-color: $brand-color-secondary;
-    background-image: url("/img/bande.svg");
-    background-repeat: repeat-y;
-    background-position: bottom left;
-    padding-left: calc($line-height * 2.5);
+    // background-image: url("/img/bande.svg");
+    // background-repeat: repeat-y;
+    // background-position: bottom left;
+    // padding-left: calc($line-height * 2.5);
   }
   // &.covered { color: $brand-color; }
 
