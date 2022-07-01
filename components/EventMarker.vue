@@ -55,7 +55,7 @@ export default {
   data () {
     return {
       icon: this.$L.icon({
-        iconUrl: 'icon-map.png'
+        iconUrl: '/img/location-zigzag.svg'
       })
     }
   }
