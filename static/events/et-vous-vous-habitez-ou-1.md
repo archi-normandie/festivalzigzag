@@ -29,4 +29,4 @@ A l’occasion du festival Zigzag, la Métropole Rouen Normandie inaugure une no
 
 Cité-jardin, quartier urbain en rénovation, bâti ancien, et bien plus encore. Des habitants de la Métropole Rouen Normandie vous ouvrent leurs portes et livrent un témoignage intime sur leur lieu de vie. A vos casques!
 
-**Les podcasts seront disponibles le 1er octobre** sur le site : [Eko de la Métropole](https://podcasts.metropole-rouen-normandie.fr/)
+**Podcasts disponibles dès le 1er octobre sur :** [Eko de la Métropole](https://podcasts.metropole-rouen-normandie.fr/)
