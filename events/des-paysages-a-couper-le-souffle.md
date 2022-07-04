@@ -1,6 +1,7 @@
 ---
 title: Des paysages à couper le souffle !
-categories: []
+categories:
+- Sortie nature
 featured: false
 cover:
   src: "/files/23-les-andelys-chateau-gaillard-cen-normandie.jpg"
