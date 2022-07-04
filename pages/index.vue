@@ -85,7 +85,7 @@ export default {
   display: block;
   position: absolute;
   width: 100%;
-  bottom: calc($line-height * 4);
+  bottom: 0;
   left: 30px;
   padding-top: $margin;
   padding-right: $margin;
@@ -103,6 +103,7 @@ export default {
     display: inline-flex;
     left: initial;
     right: $line-height;
+    bottom: calc($line-height * 4);
     width: auto;
     padding-left: calc($margin * 2);
     padding-right: calc($margin * 2);
