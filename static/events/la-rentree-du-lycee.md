@@ -20,7 +20,7 @@ address:
 informations:
   note: ''
   rdv: |-
-    RDV au local des résidents cour St-Phillibert
+    RDV cour St-Philibert
     - 6 min à pieds depuis la gare de Montivilliers
     - Réseau LiA : Bus 1, arrêt F. Mitterrand
 gallery: []

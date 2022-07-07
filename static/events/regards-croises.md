@@ -1,6 +1,7 @@
 ---
 title: Regards croisés
-categories: []
+categories:
+- Déambulation
 featured: false
 cover:
   src: "/files/31-regards-croises-port-lh-haropa-port.jpg"
