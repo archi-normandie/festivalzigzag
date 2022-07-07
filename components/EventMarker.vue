@@ -24,7 +24,7 @@
                   v-for="(date, index) in marker.booking.dates"
                   :key="index"
                 >
-                  {{ date.date | prettyDate }}
+                  <BookingDate :date="date.date" />
                 </li>
               </ul>
             </template>
@@ -44,8 +44,10 @@
 <script>
 // let L = { icon () {} }
 // if (process.browser) { L = require('leaflet') }
+import BookingDate from '~/components/Event/Booking/Date'
 export default {
   name: 'EventMarker',
+  components: { BookingDate },
   props: {
     marker: {
       type: Object,
