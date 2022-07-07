@@ -42,7 +42,7 @@
             :key="event.slug"
             :event="event"
             :class="event.featured ? 'event-pinned is-featured' : null"
-            :compactMode="true"
+            :compactMode="false"
           />
         </div>
       </div>

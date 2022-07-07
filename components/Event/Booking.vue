@@ -5,21 +5,12 @@
     </p>
     <template v-else>
       <template v-if="booking.dates.length">
-        <ul v-if="isCompact" class="event-booking-dates">
+        <ul class="event-booking-dates">
           <li
             v-for="(date, index) in booking.dates"
             :key="index"
           >
-            {{ date.date | prettyDate }}
-          </li>
-        </ul>
-        <ul v-else class="event-booking-dates">
-          <li
-            v-for="(date, index) in booking.dates"
-            :key="index"
-          >
-            {{ date.date | getDay }}<br>
-            <b>{{ date.date | getHour }}</b>
+            <BookingDate :date="date" :compact="compactMode" />
           </li>
         </ul>
       </template>
@@ -32,7 +23,7 @@
         {{ booking.state }}
       </p>
     </div>
-    <p v-if="booking.link && showBookingButton">
+    <p v-if="booking.link && !compactMode ">
       <Button
         :to="booking.link"
         class="button is-primary is-outlined is-small"
@@ -43,23 +34,19 @@
   </div>
 </template>
 <script>
+import BookingDate from '~/components/Event/Booking/Date'
 import Button from '~/components/Elements/Button'
 export default {
   name: 'EventBooking',
-  components: { Button },
+  components: { BookingDate, Button },
   props: {
     booking: {
       type: Object,
       required: true
     },
-    showBookingButton: {
+    compactMode: {
       type: Boolean,
-      default: true
-    }
-  },
-  computed: {
-    isCompact () {
-      return !this.showBookingButton
+      default: false
     }
   }
 }
