@@ -10,7 +10,7 @@
             v-for="(date, index) in booking.dates"
             :key="index"
           >
-            <BookingDate :date="date" :compact="compactMode" />
+            <BookingDate :date="date.date" :compact="compactMode" />
           </li>
         </ul>
       </template>
