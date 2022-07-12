@@ -29,23 +29,25 @@ export default {
         weekday: 'long',
         year: 'numeric',
         month: 'long',
+        day: 'numeric',
         hour: '2-digit',
         minute: '2-digit'
       }
 
       const date = this.date.trim().replace(' ', 'T')
-      return new Date(date).toLocaleDateString('fr', options).replace(':', 'h')
+      const prettyDate = new Date(date).toLocaleDateString('fr', options).replace(':', 'h')
+      return prettyDate.charAt(0).toUpperCase() + prettyDate.slice(1)
     },
     getDay () {
       const options = {
-        weekDay: 'long',
+        weekday: 'long',
         year: 'numeric',
         month: 'long',
         day: 'numeric'
       }
 
       const date = this.date.trim().replace(' ', 'T')
-      const day = new Date(date).toLocaleDateString('fr', options).replace(';', 'h')
+      const day = new Date(date).toLocaleDateString('fr', options)
       return day.charAt(0).toUpperCase() + day.slice(1)
     },
     getHour () {
