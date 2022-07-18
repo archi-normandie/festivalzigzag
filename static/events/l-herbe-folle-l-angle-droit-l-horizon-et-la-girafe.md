@@ -20,8 +20,8 @@ address:
   lon: "0.1075766"
 informations:
   note: |-
-    Exposition présentée du 15 octobre 2022 au 29 janvier 2023
-    Gratuit – Visite libre aux heures d’ouverture de la Maison du patrimoine
+    Exposition présentée du 15 octobre 2022 au 29 janvier 2023.
+    Gratuit – Visite libre aux heures d’ouverture de la Maison du patrimoine.
   rdv: |-
     RDV Maison du Patrimoine Le Havre Seine Métropole, 181 rue de Paris
     - 18 min à pieds depuis la gare du Havre
