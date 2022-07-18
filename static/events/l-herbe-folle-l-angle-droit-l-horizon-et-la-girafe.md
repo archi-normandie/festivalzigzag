@@ -19,7 +19,9 @@ address:
   lat: "49.4917996"
   lon: "0.1075766"
 informations:
-  note: Exposition présentée du 15 octobre 2022 au 29 janvier 2023
+  note: |-
+    Exposition présentée du 15 octobre 2022 au 29 janvier 2023
+    Gratuit – Visite libre aux heures d’ouverture de la Maison du patrimoine
   rdv: |-
     RDV Maison du Patrimoine Le Havre Seine Métropole, 181 rue de Paris
     - 18 min à pieds depuis la gare du Havre
@@ -32,9 +34,13 @@ itinerary:
 ---
 **_L’espace du vivant dans Le Havre de Perret_**
 
-Depuis des années, l’un des axes de créations photographiques d’Ilka Kramer est de saisir le lien entre les espaces crées par l’homme et la nature. En découvrant le Havre il y a peu, Ilka Kramer est frappée par ses espaces, ses échelles et sa lumière. Son travail transforme et déplace l’architecture pour interpeller sur la perception de l’espace et de l’œuvre de Perret. Les photos d’Ilka Kramer proposent des espaces imaginaires où dialoguent en harmonie le minéral et le végétal, dessinant un monde nouveau dans le contexte du changement climatique et des crises énergétiques.
+Depuis des années, l’un des axes de créations photographiques d’Ilka Kramer est de saisir le lien entre les espaces créés par l’homme et la nature. En découvrant Le Havre, Ilka Kramer a été frappée par ses espaces, ses échelles et sa lumière. Après s’être intéressée aux réalisations de Le Corbusier à Marseille ou de Louis Kahn en Inde, elle arpente, appareil photo en main, le centre reconstruit pour saisir toutes les subtilités de l’œuvre du maître du béton armé. Une fois revenue dans son atelier, elle transforme les clichés et fabrique de petites maquettes où s’invitent silhouettes graciles, plantes sauvages, animaux réels ou imaginaires. A nouveau photographiées, ces compositions envahies par la nature métamorphosent l’architecture de Perret, jouent avec notre perception de l’espace et nous interrogent sur notre rapport au vivant dans le contexte du changement climatique.
 
-**Rencontre avec Ilka Kramer**
+Présentées au cœur du patrimoine mondial, les photos étranges et poétiques d’Ilka Kramer nous invitent à poser un nouveau regard sur la ville reconstruite et à redécouvrir cet ensemble unique au fil des rendez-vous proposés toute la saison.
+
+**_Exposition produite par Le Forum - Maison de l’architecture de Normandie_**
+
+**Rencontres avec Ilka Kramer**
 
 * **15h -** _Visite guidée de l’exposition par l’artiste_
-* **16h _-_** _Présentation et signature de l’ouvrage : L’herbe folle, l’angle droit, l’horizon et la girafe_
+* **16h à 17h _-_** _Présentation et signature de l’ouvrage : L’herbe folle, l’angle droit, l’horizon et la girafe._ L’exposition à la Maison du patrimoine coïncide avec la publication de l’ouvrage qui retrace la commande photographique passée par Le Forum – Maison de l’architecture de Normandie à l’artiste. Toutes ses photographies y sont rassemblées pour la première fois.
