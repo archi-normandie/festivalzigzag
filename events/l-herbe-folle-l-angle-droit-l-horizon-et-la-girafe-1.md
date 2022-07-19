@@ -26,7 +26,9 @@ informations:
     à pieds depuis la gare du Havre - Réseau LiA : Bus 1, 4, 6 et 7, arrêt George
     V'
 gallery: []
-itinerary: []
+itinerary:
+- label: 12h Brunch + rétrospective GENiUS
+  event: static/events/brunch-retrospective-genius.md
 
 ---
 La journée, en compagnie de l’artiste, est d’abord consacrée à la découverte de son travail et à une reconnaissance à pied dans le centre reconstruit. A l’issue de ce premier temps, vous connaissez les règles du jeu pour réaliser, à votre tour, des clichés de l’architecture d’Auguste Perret en résonance avec le travail d’Ilka Kramer.
