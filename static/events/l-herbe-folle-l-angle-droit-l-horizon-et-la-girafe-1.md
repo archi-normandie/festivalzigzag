@@ -5,9 +5,9 @@ categories:
 - Balade photographique
 featured: false
 cover:
-  src: ''
+  src: "/files/32bis-l-herbe-folle-l-angle-droit-l-horizon-et-la-girafe-ilka-kramer.jpg"
   alt: ''
-  legend: ''
+  legend: "©Ilka kramer"
 booking:
   link: https://www.lehavreseine-patrimoine.fr/activites-et-agendas
   state: ''
