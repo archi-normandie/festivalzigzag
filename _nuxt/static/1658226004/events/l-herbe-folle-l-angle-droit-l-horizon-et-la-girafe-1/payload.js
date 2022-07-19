@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/events/l-herbe-folle-l-angle-droit-l-horizon-et-la-girafe-1", {data:[{}],fetch:{},mutations:[]});
