@@ -15,9 +15,9 @@ booking:
   dates:
   - date: 2022-10-16 10:00
 address:
-  place: ''
-  lat: ''
-  lon: ''
+  place: Le Havre (76)
+  lat: "49.4920373"
+  lon: "0.1089133"
 informations:
   note: |
     Matériel requis : un appareil photo numérique.
@@ -29,3 +29,8 @@ gallery: []
 itinerary: []
 
 ---
+La journée, en compagnie de l’artiste, est d’abord consacrée à la découverte de son travail et à une reconnaissance à pied dans le centre reconstruit. A l’issue de ce premier temps, vous connaissez les règles du jeu pour réaliser, à votre tour, des clichés de l’architecture d’Auguste Perret en résonance avec le travail d’Ilka Kramer.
+
+Horaire de l'atelier - balade photographique : **10h – 12h / 13h30 – 16h**
+
+A 15h, retour à la Maison du patrimoine pour visualiser et échanger sur les photos prises par chacun des participants.
