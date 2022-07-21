@@ -2,7 +2,7 @@
 title: L'herbe folle, l'angle droit, l'horizon et la girafe
 categories:
 - Visite
-- Vernissage
+- Dédicace
 featured: false
 cover:
   src: "/files/32-l-herbe-folle-l-angle-droit-l-horizon-et-la-girafe-ilka-kramer.jpg"
