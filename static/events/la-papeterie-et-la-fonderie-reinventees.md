@@ -18,7 +18,7 @@ address:
   lat: "49.1003211"
   lon: "1.4720862"
 informations:
-  note: ''
+  note: Attention chantier, prévoir de bonnes chaussures
   rdv: |-
     RDV parc de la Fonderie, av. de Rouen
     - 16 min à pieds depuis la gare de Vernon

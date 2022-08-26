@@ -18,7 +18,7 @@ address:
   lat: "49.527761"
   lon: "0.7658175"
 informations:
-  note: ''
+  note: Attention chantier, prévoir de bonnes chaussures
   rdv: RDV place de l'Eglise
 gallery: []
 itinerary:

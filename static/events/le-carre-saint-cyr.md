@@ -18,7 +18,7 @@ address:
   lat: "49.2556266"
   lon: "1.2046074"
 informations:
-  note: ''
+  note: Attention chantier, prévoir de bonnes chaussures
   rdv: |-
     RDV devant l’entrée de l’Eglise Saint-Cyr, 27 rue Arthur Papavoine
     - 10 min en vélo depuis la gare de Val-de-Reuil

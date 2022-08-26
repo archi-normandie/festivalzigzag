@@ -18,7 +18,7 @@ address:
   lat: "48.9904013"
   lon: "1.7024538"
 informations:
-  note: ''
+  note: Attention chantier, prévoir de bonnes chaussures
   rdv: RDV devant la gare, place du 8 Mai 1945
 gallery: []
 itinerary: []

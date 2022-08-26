@@ -18,7 +18,7 @@ address:
   lat: "49.4887928"
   lon: "0.1091743"
 informations:
-  note: ''
+  note: Attention chantier, prévoir de bonnes chaussures
   rdv: |-
     RDV quai Videcoq, au croisement du quai de l’Arsenal
     - 20 min à pieds depuis la gare du Havre
