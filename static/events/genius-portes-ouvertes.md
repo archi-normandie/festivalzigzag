@@ -32,4 +32,16 @@ Le long du bassin du Roy, les Gens des Lieux, collectif d’architectes urbanist
 
 Cette année est l’occasion de mettre en perspective le travail de quatre années mené dans différents sites, avec une exposition originale et ludique qui ouvre des imaginaires, transforme l’espace, fait surgir le génie du lieu.
 
-**Le week-end du 15 et 16 octobre :** animation, musique, danse, projections, brunch...
+**+ Programmation spéciale à la Halle aux poissons pour les Journées nationales de l'architecture 2022 :** 
+
+**Samedi 15 octobre**
+
+* De 12h à 20h : Exposition GENiUS « Portes ouvertes » en présence du collectif Les Gens des Lieux et projection des 3 films chorégraphiques de la compagnie SHIFTS
+* 16h : Propositions chorégraphiques de la compagnie SHIFTS
+* 18h : Vernissage de l’exposition GENiUS « Portes ouvertes »
+* 19h-21h : Concert en terrasse
+
+**Dimanche 16 octobre**
+
+* De 12h à 20h : Exposition GENiUS « Portes ouvertes » en présence du collectif Les Gens des Lieux et projection des 3 films chorégraphiques de la compagnie SHIFTS
+* 16h : Propositions chorégraphiques de la compagnie SHIFTS
