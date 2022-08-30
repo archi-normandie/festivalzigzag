@@ -4,7 +4,7 @@
         <title>undefined</title>
         <link>https://festivalzigzag.fr/rss.xml</link>
         <description>Journal du Festival Zigzag</description>
-        <lastBuildDate>Fri, 26 Aug 2022 13:56:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 13:31:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
         <item>
@@ -59,6 +59,21 @@
 ]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Zigzag 2019 - Déambulationnage pour découvrir la Manufacture des Capucins]]></title>
+            <link>https://festivalzigzag.fr/stories/deambulationnage-pour-decouvrir-la-manufacture-des-capucins</link>
+            <guid>/stories/deambulationnage-pour-decouvrir-la-manufacture-des-capucins</guid>
+            <pubDate>Mon, 19 Jan 1970 06:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="la-manufacture-des-capucins">LA MANUFACTURE DES CAPUCINS</h2>
+<p>Pour saisir la transformation du Couvent des Capucins, bâtiment emblématique du XVII e siècle en « tiers lieu », venez suivre les improvisations des clowns de la compagnie Étincelle Bouillasse ! </p>
+<p>La Manufacture des Capucins, fédératrice de talents au service de la transition écologique du territoire de Seine Normandie Agglomération est engagée dans le changement des modes de vie. Elle génère un brassage intergénérationnel inédit de populations, raccordant l’éco quartier Fieschi au centre de Vernon. Productrice d’une vision de long terme, la Manufacture est d’abord le lieu de ressource et de rencontre, convivial et décalé qui manque à la ville.</p>
+<p>En partenariat et avec le soutien de l’agence MWAH.</p>
+<p>Pour suivre le projet : <a href="https://www.facebook.com/LaManufactureDesCapucins/">La Manufacture des Capucins</a></p>
+<h3 id="parole-detienne-lemoine">Parole d&#39;Etienne Lemoine</h3>
+<p><em>Architecte - agence d&#39;architecte MWAH et membre du conseil d&#39;administration de la Maison de l&#39;architecture de Normandie - le Forum</em></p>
+<p>« La Manufacture des Capucins est un nouveau tiers lieu ouvert à toutes les initiatives citoyennes en vue de porter sur le territoire de Vernon et de ses alentours la transition écologique et les changements des modes de vie. Nez rouge évidemment, maquillage, vêtements mal ajustés sur un corps maladroit, les clowns d’Etincelle Bouillasse ont préfiguré par leurs improvisations les futurs usages de cet ancien couvent afin d’en révéler de nouvelles manières d’habiter. »</p>
+]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Zigzag 2019 - Deux parcours urbains proposés à Rouen]]></title>
             <link>https://festivalzigzag.fr/stories/deux-parcours-urbains-proposes-a-rouen</link>
             <guid>/stories/deux-parcours-urbains-proposes-a-rouen</guid>
@@ -80,21 +95,6 @@
 <p>C’est comme ça que nous avons l’idée de présenter 2 propositions :</p>
 <p>Une visite <em>Cœur de Métropole</em> par un guide conférencier et un agent technique de la Métropole. Cette visite allie un regard patrimonial sur la ville tout en présentant le parti pris contemporain des maîtres d’œuvre qui ont œuvré sur ce projet.</p>
 <p>La BD fait partie des œuvres artistiques qui sont intéressantes à mobiliser quand on parle de la Ville et <em>Rouen par 100 chemins différents</em> d’Emmanuel Lemaire était un beau prétexte d’allier le dessin de l’artiste à une déambulation dans les rues de Rouen. Une guide conférencière et l’auteur de BD se sont donc rencontrés pour confronter, interpréter, rechercher les liens entre les images de la BD et l’histoire de l’évolution urbanistique de la Ville. »</p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Zigzag 2019 - Déambulationnage pour découvrir la Manufacture des Capucins]]></title>
-            <link>https://festivalzigzag.fr/stories/deambulationnage-pour-decouvrir-la-manufacture-des-capucins</link>
-            <guid>/stories/deambulationnage-pour-decouvrir-la-manufacture-des-capucins</guid>
-            <pubDate>Mon, 19 Jan 1970 06:16:45 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="la-manufacture-des-capucins">LA MANUFACTURE DES CAPUCINS</h2>
-<p>Pour saisir la transformation du Couvent des Capucins, bâtiment emblématique du XVII e siècle en « tiers lieu », venez suivre les improvisations des clowns de la compagnie Étincelle Bouillasse ! </p>
-<p>La Manufacture des Capucins, fédératrice de talents au service de la transition écologique du territoire de Seine Normandie Agglomération est engagée dans le changement des modes de vie. Elle génère un brassage intergénérationnel inédit de populations, raccordant l’éco quartier Fieschi au centre de Vernon. Productrice d’une vision de long terme, la Manufacture est d’abord le lieu de ressource et de rencontre, convivial et décalé qui manque à la ville.</p>
-<p>En partenariat et avec le soutien de l’agence MWAH.</p>
-<p>Pour suivre le projet : <a href="https://www.facebook.com/LaManufactureDesCapucins/">La Manufacture des Capucins</a></p>
-<h3 id="parole-detienne-lemoine">Parole d&#39;Etienne Lemoine</h3>
-<p><em>Architecte - agence d&#39;architecte MWAH et membre du conseil d&#39;administration de la Maison de l&#39;architecture de Normandie - le Forum</em></p>
-<p>« La Manufacture des Capucins est un nouveau tiers lieu ouvert à toutes les initiatives citoyennes en vue de porter sur le territoire de Vernon et de ses alentours la transition écologique et les changements des modes de vie. Nez rouge évidemment, maquillage, vêtements mal ajustés sur un corps maladroit, les clowns d’Etincelle Bouillasse ont préfiguré par leurs improvisations les futurs usages de cet ancien couvent afin d’en révéler de nouvelles manières d’habiter. »</p>
 ]]></content:encoded>
         </item>
         <item>
@@ -485,6 +485,18 @@
 ]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Zigzag 2021 - week-end #1 (suite)]]></title>
+            <link>https://festivalzigzag.fr/stories/zigzag-2021-week-end-1-suite</link>
+            <guid>/stories/zigzag-2021-week-end-1-suite</guid>
+            <pubDate>Mon, 19 Jan 1970 21:35:20 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="zigzag---1er-week-end">ZIGZAG - 1er WEEK-END</h2>
+<p>Et dimanche, on s&#39;est baladé à Freneuse avec le <strong>CAUE de la Seine-Maritime</strong> ; on a découvert les photos de <strong>Christel Jeanne</strong> à Bois-Guillaume dans le cadre d&#39;EOP ; on a visité l&#39;ancienne <strong>usine Desgenétais</strong> à Bolbec et le renouveau de ce quartier ; on s&#39;est laissé guidé par le <strong>Pays d&#39;art et d&#39;histoire de la CU Le Havre Seine Métropole</strong> dans le quartier de l&#39;Eure.</p>
+<p>Merci à tous pour ces belles journées Zigzag et rendez-vous dès mercredi pour la suite des événements : <a href="https://festivalzigzag.fr/agenda">festivalzigzag.fr</a></p>
+<p><strong><em>#zigzagfestivalarchitecture</em></strong> est porté par la <a href="http://man-leforum.fr/maison-de-l-architecture/">Maison de l&#39;architecture de Normandie - le Forum</a></p>
+<p><strong><em>#touspourlarchi</em></strong></p>
+]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Zigzag 2021 - du 25 septembre au 10 octobre]]></title>
             <link>https://festivalzigzag.fr/stories/zigzag-2021-du-25-septembre-au-10-octobre</link>
             <guid>/stories/zigzag-2021-du-25-septembre-au-10-octobre</guid>
@@ -518,18 +530,6 @@
 <li>SAINT-ÉTIENNE-DU-ROUVRAY (76)</li>
 <li>VERNON (27)</li>
 </ul>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Zigzag 2021 - week-end #1 (suite)]]></title>
-            <link>https://festivalzigzag.fr/stories/zigzag-2021-week-end-1-suite</link>
-            <guid>/stories/zigzag-2021-week-end-1-suite</guid>
-            <pubDate>Mon, 19 Jan 1970 21:35:20 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="zigzag---1er-week-end">ZIGZAG - 1er WEEK-END</h2>
-<p>Et dimanche, on s&#39;est baladé à Freneuse avec le <strong>CAUE de la Seine-Maritime</strong> ; on a découvert les photos de <strong>Christel Jeanne</strong> à Bois-Guillaume dans le cadre d&#39;EOP ; on a visité l&#39;ancienne <strong>usine Desgenétais</strong> à Bolbec et le renouveau de ce quartier ; on s&#39;est laissé guidé par le <strong>Pays d&#39;art et d&#39;histoire de la CU Le Havre Seine Métropole</strong> dans le quartier de l&#39;Eure.</p>
-<p>Merci à tous pour ces belles journées Zigzag et rendez-vous dès mercredi pour la suite des événements : <a href="https://festivalzigzag.fr/agenda">festivalzigzag.fr</a></p>
-<p><strong><em>#zigzagfestivalarchitecture</em></strong> est porté par la <a href="http://man-leforum.fr/maison-de-l-architecture/">Maison de l&#39;architecture de Normandie - le Forum</a></p>
-<p><strong><em>#touspourlarchi</em></strong></p>
 ]]></content:encoded>
         </item>
         <item>
