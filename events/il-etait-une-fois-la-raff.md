@@ -36,3 +36,5 @@ itinerary:
 **Intervenants :** Christian Lallier, anthropologue-cinéaste et Mélodie D. Tabita, ethnographe-vidéaste.
 
 Restez avec nous après la projection pour un concert aperock avec les KINKY BEATS, trio vintage qui revisite les pépites des dancefloors des 40’s au 70’s. Come and dance hilbilly swing rythm’n’blues twist rock’n’roll… and more ! Avec Phil Blasco (voix et guitares), Félix Ahmath (batterie) et Hugo Lecoeur (basse). Buvette sur place.
+
+**Informations :** 02 35 69 12 13 - [lesillon@ville-petit-couronne.fr](mailto:lesillon@ville-petit-couronne.fr)
