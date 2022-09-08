@@ -34,6 +34,6 @@ De Grand Quevilly à Maromme, cette randonnée péri-urbaine explore tour à tou
 
 Pendant une journée, poussons les portes de lieux inconnus, rencontrons des habitants et des acteurs locaux pour interroger nos façons d’habiter notre territoire et d’échanger nos connaissances.
 
-Randonnée proposée par Le Voyage métropolitain, avec la Métropole Rouen Normandie, l’AURBSE et le CAUE 76.
+Randonnée proposée par Le Voyage métropolitain, avec la Métropole Rouen Normandie, l’Agence d'Urbanisme de Rouen et des Boucles de Seine et Eure (AURBSE) et le CAUE 76.
 
 **Intervenant :** Jens Denissen, urbaniste et paysagiste, Le Voyage métropolitain.
