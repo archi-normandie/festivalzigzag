@@ -36,4 +36,8 @@ Pour regarder les bassins et les bateaux…
 Rencontrer ses voisins…  
 Profiter une dernière fois des installations sur ces terrepleins et inviter des copains en profitant de l’ambiance.
 
-**Avec le collectif Les Gens des Lieux, SHIFTS, Les Cueilleurs d’histoires...**
+* BBQ de la mer autour d'une grande tablée - apportez vos victuailles
+* Performance musicale - LOSANGES (formation acoustique)
+* Temps chorégraphiques - compagnie SHIFTS
+
+**Venez rencontrer et partager ce moment convivial avec le collectif Les Gens des Lieux, SHIFTS, Les Cueilleurs d’histoires...**
