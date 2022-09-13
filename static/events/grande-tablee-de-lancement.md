@@ -38,3 +38,5 @@ Vous resterez bien dîner ?
 Et le Forum se transforme en tablée, le temps d’un repas, des tables, des chaises, pour passer un moment ensemble. Juste pour passer un moment ensemble…
 
 **Avec l’équipe du Forum et les partenaires du festival.**
+
+* Prix libre (minimum 10€ - prix conseillé 15€)
