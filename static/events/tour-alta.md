@@ -9,7 +9,7 @@ cover:
   legend: "©Hamonic Masson & Associés"
 booking:
   link: https://www.billetweb.fr/intervenant
-  state: ''
+  state: Complet
   period: ''
   dates:
   - date: 2022-10-15 10:00
