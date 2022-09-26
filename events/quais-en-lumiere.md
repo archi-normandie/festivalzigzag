@@ -9,7 +9,7 @@ cover:
   legend: "©Métropole Rouen Normandie"
 booking:
   link: https://www.billetweb.fr/quais-en-lumi-re
-  state: ''
+  state: Complet
   period: ''
   dates:
   - date: 2022-10-05 20:30

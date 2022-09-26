@@ -9,7 +9,7 @@ cover:
   legend: "©HAROPA-PORT"
 booking:
   link: https://www.billetweb.fr/regards-crois-s
-  state: ''
+  state: Complet
   period: ''
   dates:
   - date: 2022-10-15 15:00
