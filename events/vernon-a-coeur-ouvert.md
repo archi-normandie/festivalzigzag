@@ -27,8 +27,8 @@ gallery: []
 itinerary: []
 
 ---
-Les chantiers engagés depuis plusieurs mois à Vernon visent à redynamiser son centre, en créant notamment des espaces publics accueillants, plus verts et flexibles aux multiples usages. Lors des travaux, des trésors archéologiques ont été découverts, livrant de nouveaux pans de l’histoire véronaise. 
+Les chantiers engagés depuis plusieurs mois à Vernon visent à redynamiser son centre, en créant notamment des espaces publics accueillants, plus verts et flexibles aux multiples usages. Lors des travaux, des trésors archéologiques ont été découverts, livrant de nouveaux pans de l’histoire vernonnaise.
 
 La déambulation à plusieurs voix invite à découvrir le centre-ville dans son épaisseur : son histoire ainsi revisitée, son présent avec les aménagements en cours qui mettent en perspective l’évolution des modes de vie et les attentes de ses habitants, les œuvres du parcours Courant d’art de l’été 2022.
 
-**Intervenants :** les équipes de maîtrise d’œuvre du projet, les services concernés et les archéologues du SDAP - Service Départemental de l'Architecture et du Patrimoine.
+**Intervenants :** les équipes de maîtrise d’œuvre du projet, les services concernés et les archéologues de la MADE, Mission Archéologique Départementale de l’Eure.
