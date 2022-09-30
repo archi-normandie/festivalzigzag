@@ -22,7 +22,7 @@ informations:
   rdv: |-
     RDV Le Sillon, rue Winston Churchill
     - 34 min en vélo depuis la gare de Rouen
-    - Réseau Astuce : Bus 6 et 27, arrêt Mairie de Petit-Couronne
+    - Réseau Astuce : Bus 27 et F6, arrêt Mairie de Petit-Couronne
 gallery: []
 itinerary:
 - label: 10h Balade quevillaise
