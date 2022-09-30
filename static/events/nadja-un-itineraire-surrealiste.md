@@ -23,7 +23,7 @@ informations:
   rdv: |-
     RDV devant le Musée des Beaux-Arts, esplanade Marcel Duchamp
     - 6 min à pieds depuis la gare de Rouen
-    - Réseau Astuce : Bus 5, 8, 11 et F2, arrêt Beaux Arts
+    - Réseau Astuce : Bus 11, 15, 22 et F2, F7 arrêt Beaux Arts
 gallery: []
 itinerary:
 - label: 11h Parcours photographique EOP
