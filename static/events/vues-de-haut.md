@@ -26,8 +26,8 @@ informations:
     chaque site)
   rdv: |
     RDV et réseau Astuce :
-    - Mairie annexe : centre culturel Marx Dormoy, Place Gabriel Perri. Bus 6 et 42, arrêt le Bourg
-    - Hôtel de ville : entrée de la mairie côté parking, av. Léon Blum. Métro, arrêt Léon Blum et bus 42, arrêt centre administratif
+    - Mairie annexe : centre culturel Marx Dormoy, Place Gabriel Perri. Bus 27 et 42, arrêt le Bourg
+    - Hôtel de ville : entrée de la mairie côté parking, av. Léon Blum. Métro, arrêt J.F. Kennedy et bus 42, arrêt centre administratif
     - Immeuble Nymphéa : 1 rue Eugène Boudin. Métro, arrêt Paul Cézanne
 gallery: []
 itinerary:
