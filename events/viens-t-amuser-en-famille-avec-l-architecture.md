@@ -9,7 +9,7 @@ cover:
   legend: "©Louis Lac"
 booking:
   link: https://www.billetweb.fr/viens-t-amuser-en-famille-avec-l-architecture
-  state: ''
+  state: Complet
   period: ''
   dates:
   - date: 2022-10-12 14:00
