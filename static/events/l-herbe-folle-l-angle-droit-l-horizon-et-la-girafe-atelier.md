@@ -9,7 +9,7 @@ cover:
   alt: ''
   legend: "©Ilka kramer"
 booking:
-  link: https://www.lehavreseine-patrimoine.fr/activites-et-agendas
+  link: https://www.lehavreseine-patrimoine.fr/activites-et-agendas/rendez-vous-du-patrimoine/atelier-balade-photographique-avec-ilka-kramer
   state: ''
   period: ''
   dates:
