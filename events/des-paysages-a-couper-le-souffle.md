@@ -9,7 +9,7 @@ cover:
   legend: Les Andelys Château Gaillard @CEN Normandie
 booking:
   link: https://www.billetweb.fr/des-paysages-couper-le-souffle
-  state: Complet
+  state: ''
   period: ''
   dates:
   - date: 2022-10-09 14:30
