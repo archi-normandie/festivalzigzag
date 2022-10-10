@@ -37,4 +37,4 @@ itinerary:
 
 **Émission animée par Christophe Tréhet, enregistrée en présence du public et disponible en podcast par la suite.**
 
-_En exclusivité pour le festival : 3 podcasts à écouter dès le 1er octobre._
+_En exclusivité pour le festival : les premiers épisodes du podcast_ ET VOUS, VOUS HABITEZ OÙ ? _à écouter dès le 1er octobre._
