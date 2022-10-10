@@ -42,5 +42,5 @@ Présentées au cœur du patrimoine mondial, les photos étranges et poétiques 
 
 **Rencontres avec Ilka Kramer**
 
-* **15h -** _Visite guidée de l’exposition par l’artiste_
-* **16h à 17h _-_** _Présentation et signature de l’ouvrage : L’herbe folle, l’angle droit, l’horizon et la girafe._ L’exposition à la Maison du patrimoine coïncide avec la publication de l’ouvrage qui retrace la commande photographique passée par Le Forum – Maison de l’architecture de Normandie à l’artiste. Toutes ses photographies y sont rassemblées pour la première fois.
+* **15h -** _Visite guidée de l’exposition par l’artiste - **COMPLET**_
+* **16h à 17h _-_** _Présentation et signature de l’ouvrage : L’herbe folle, l’angle droit, l’horizon et la girafe._ L’exposition à la Maison du patrimoine coïncide avec la publication de l’ouvrage qui retrace la commande photographique passée par Le Forum – Maison de l’architecture de Normandie à l’artiste. Toutes ses photographies y sont rassemblées pour la première fois. **_Accès libre_**
