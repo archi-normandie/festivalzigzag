@@ -4,7 +4,7 @@
         <title>undefined</title>
         <link>https://festivalzigzag.fr/rss.xml</link>
         <description>Journal du Festival Zigzag</description>
-        <lastBuildDate>Fri, 07 Oct 2022 13:48:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Oct 2022 14:44:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
         <item>
@@ -186,28 +186,6 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Zigzag 2019 - Parcours urbain à Grand Quevilly]]></title>
-            <link>https://festivalzigzag.fr/stories/parcours-urbain-a-grand-quevilly</link>
-            <guid>/stories/parcours-urbain-a-grand-quevilly</guid>
-            <pubDate>Mon, 19 Jan 1970 06:16:45 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="balade-quevillaise">BALADE QUEVILLAISE</h2>
-<p>Inauguration de l&#39;itinéraire dessiné dans la ville de Grand Quevilly à l&#39;aide de 12 totems :</p>
-<p>En se promenant à Grand Quevilly, que voit-on de son patrimoine, de sa relation à la nature, au paysage ? Après la résidence d’architecte du Collectif Graphites, la ville de Grand Quevilly poursuit son travail d’exploration urbaine et livre un premier parcours sur l’architecture de la commune qui s’étend du bourg à l’extension. Comprendre Grand Quevilly dans sa dimension urbaine c’est se pencher sur son histoire, sa relation au fleuve, à l’activité des hommes. Que dit l’architecture de Grand Quevilly aujourd’hui ?</p>
-<p>Cette inauguration propose une déambulation dans le bourg, l’occasion d’orienter les regards vers l’architecture du quotidien, de comprendre la fabrication de la ville, de se l’approprier.</p>
-<blockquote>
-<p>initialement programmé dans le cadre du festival Zigzag le 28/09, la balade a été reportée au samedi 16/11</p>
-</blockquote>
-<blockquote>
-<p>recherches et rédaction du parcours : Maison de l&#39;architecture de Normandie</p>
-</blockquote>
-<p><strong>La carte du parcours est disponible à la Maison de l&#39;architecture de Normandie - le Forum au 48 rue Victor Hugo à Rouen :</strong></p>
-<ul>
-<li>du mardi au vendredi : 14:00 - 18:00</li>
-<li>le samedi : 10:30 - 12:30 / 14:00 - 18:00</li>
-</ul>
-]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Zigzag 2019 - Parcours urbain à Elbeuf-sur-Seine]]></title>
             <link>https://festivalzigzag.fr/stories/parcours-urbain-a-elbeuf-sur-seine</link>
             <guid>/stories/parcours-urbain-a-elbeuf-sur-seine</guid>
@@ -231,6 +209,28 @@
 <p>Découverte de la cohabitation fragile du bâti et des espaces naturels, des espaces de rétention, des efforts réalisés pour la biodiversité.</p>
 <p>Des paysages culturels évolutifs vivants ...</p>
 <p>Mise en valeur de quartiers en mutations profondes.</p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Zigzag 2019 - Parcours urbain à Grand Quevilly]]></title>
+            <link>https://festivalzigzag.fr/stories/parcours-urbain-a-grand-quevilly</link>
+            <guid>/stories/parcours-urbain-a-grand-quevilly</guid>
+            <pubDate>Mon, 19 Jan 1970 06:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="balade-quevillaise">BALADE QUEVILLAISE</h2>
+<p>Inauguration de l&#39;itinéraire dessiné dans la ville de Grand Quevilly à l&#39;aide de 12 totems :</p>
+<p>En se promenant à Grand Quevilly, que voit-on de son patrimoine, de sa relation à la nature, au paysage ? Après la résidence d’architecte du Collectif Graphites, la ville de Grand Quevilly poursuit son travail d’exploration urbaine et livre un premier parcours sur l’architecture de la commune qui s’étend du bourg à l’extension. Comprendre Grand Quevilly dans sa dimension urbaine c’est se pencher sur son histoire, sa relation au fleuve, à l’activité des hommes. Que dit l’architecture de Grand Quevilly aujourd’hui ?</p>
+<p>Cette inauguration propose une déambulation dans le bourg, l’occasion d’orienter les regards vers l’architecture du quotidien, de comprendre la fabrication de la ville, de se l’approprier.</p>
+<blockquote>
+<p>initialement programmé dans le cadre du festival Zigzag le 28/09, la balade a été reportée au samedi 16/11</p>
+</blockquote>
+<blockquote>
+<p>recherches et rédaction du parcours : Maison de l&#39;architecture de Normandie</p>
+</blockquote>
+<p><strong>La carte du parcours est disponible à la Maison de l&#39;architecture de Normandie - le Forum au 48 rue Victor Hugo à Rouen :</strong></p>
+<ul>
+<li>du mardi au vendredi : 14:00 - 18:00</li>
+<li>le samedi : 10:30 - 12:30 / 14:00 - 18:00</li>
+</ul>
 ]]></content:encoded>
         </item>
         <item>
@@ -276,6 +276,19 @@
 ]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Zigzag 2019 - Un parcours pédestre au Havre]]></title>
+            <link>https://festivalzigzag.fr/stories/un-parcours-pedestre-au-havre</link>
+            <guid>/stories/un-parcours-pedestre-au-havre</guid>
+            <pubDate>Mon, 19 Jan 1970 06:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="port-sur-la-ville">Port sur la ville</h2>
+<p>Venez parcourir la couture de l’interface ville-port en visitant des installations portuaires actives et des bâtiments reconvertis. Cette visite à pied vous donnera l’occasion de franchir les portes, de découvrir des architectures, des lieux de vie actifs, productifs qui montrent combien l’interprétation et la réinterprétation des usages sont fertiles au sein d’espaces portuaires et urbains qui cohabitent dans une vision résolument hybridée de la &quot;ville&quot;.</p>
+<p>Avec le GPMH et l’AURH.</p>
+<h3 id="parole-de-jessy-oukoloff">Parole de Jessy Oukoloff</h3>
+<p><em>Directeur des études - AURH - Agence d’urbanisme de la région du Havre et de l’Estuaire de la Seine</em></p>
+<p>« Notre parcours entre ville et port s’est fait sous un temps Normand entre pluie battante et rayons de soleil ! Le public était au rdv malgré les conditions, nous étions tout de même une vingtaine. Cela montre que le grand public est en attente d’expériences, d’échanges pour comprendre les ressorts de l’évolution de ces paysages qui nous entourent et que nous voyons évoluer au quotidien. Le parcours s’est fait à 2 voix entre AURH et GPMH. J’en retiens notamment qu’entrer dans des lieux fermés au public est une expérience qui plaît, et qui ajoute à l’intérêt de notre exposé. Ce n’est pas un exercice inédit pour nous et nous sommes toujours très enthousiastes pour organiser ces visites avec le grand public, nous qui pratiquons plus généralement les professionnels de l’aménagement ou des étudiants. »</p>
+]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Zigzag 2019 - Visite des nouvelles serres du Jardin des plantes de Rouen]]></title>
             <link>https://festivalzigzag.fr/stories/visite-des-nouvelles-serres-du-jardin-des-plantes-de-rouen</link>
             <guid>/stories/visite-des-nouvelles-serres-du-jardin-des-plantes-de-rouen</guid>
@@ -312,6 +325,18 @@
 ]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Zigzag 2020 - #annulations ]]></title>
+            <link>https://festivalzigzag.fr/stories/zigzag-2020-annulations</link>
+            <guid>/stories/zigzag-2020-annulations</guid>
+            <pubDate>Mon, 19 Jan 1970 13:28:23 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="un-festival-mouvemente">UN FESTIVAL MOUVEMENTE</h2>
+<p>En 2019, la première édition du festival Zigzag avait connu une programmation mouvementée, suite à l&#39;incendie de Lubrizol du 26 septembre ... avec des événements annulés dans la ville de Rouen.</p>
+<p>La Maison de l&#39;architecture de Normandie - le Forum préparait l&#39;édition 2020 depuis plusieurs mois, quand le confinement est passé par là et le télétravail de rigueur.<br>L&#39;équipe tient encore à remercier tous ses partenaires, qui étaient présents à tous les instants pour monter la programmation du festival, et à tous les participants pour leurs inscriptions aux événements Zigzag 2020 malgré la situation sanitaire.</p>
+<p>Toutes ces bonnes volontés n&#39;ont malheureusement pas permis de maintenir tous les événements, que tous auraient aimé vivre : le parcours chorégraphique et le rallye vélo à <strong>Grand Quevilly</strong>, la soirée projection d&#39;<strong>Echelle Inconnue</strong>, la randonnée curieuse à <strong>Rives-en-Seine</strong>, la balade fluviale à <strong>Rouen</strong>, la randonnée à <strong>Achères avec Le voyage métropolitain</strong> ou la balade patrimoniale à la <strong>Mailleraye-sur-Seine avec le Parc naturel régional des Boucles de la Seine Normande</strong>.</p>
+<p>L&#39;édition 2021 est déjà en préparation le long de la vallée de la Seine ... suivez et partagez <a href="https://www.facebook.com/zigzagfestivalarchitecture/" title="Lien Facebook">Zigzag - festival d&#39;architecture et des arts de l&#39;espace</a> sur les réseaux sociaux pour rester informé !!</p>
+]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Zigzag 2020 - du 3 au 18 octobre]]></title>
             <link>https://festivalzigzag.fr/stories/zigzag-2020-du-3-au-18-octobre</link>
             <guid>/stories/zigzag-2020-du-3-au-18-octobre</guid>
@@ -338,31 +363,6 @@
 <li>Val-de-Reuil, 27</li>
 <li>Vernon, 27</li>
 </ul>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Zigzag 2020 - #annulations ]]></title>
-            <link>https://festivalzigzag.fr/stories/zigzag-2020-annulations</link>
-            <guid>/stories/zigzag-2020-annulations</guid>
-            <pubDate>Mon, 19 Jan 1970 13:28:23 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="un-festival-mouvemente">UN FESTIVAL MOUVEMENTE</h2>
-<p>En 2019, la première édition du festival Zigzag avait connu une programmation mouvementée, suite à l&#39;incendie de Lubrizol du 26 septembre ... avec des événements annulés dans la ville de Rouen.</p>
-<p>La Maison de l&#39;architecture de Normandie - le Forum préparait l&#39;édition 2020 depuis plusieurs mois, quand le confinement est passé par là et le télétravail de rigueur.<br>L&#39;équipe tient encore à remercier tous ses partenaires, qui étaient présents à tous les instants pour monter la programmation du festival, et à tous les participants pour leurs inscriptions aux événements Zigzag 2020 malgré la situation sanitaire.</p>
-<p>Toutes ces bonnes volontés n&#39;ont malheureusement pas permis de maintenir tous les événements, que tous auraient aimé vivre : le parcours chorégraphique et le rallye vélo à <strong>Grand Quevilly</strong>, la soirée projection d&#39;<strong>Echelle Inconnue</strong>, la randonnée curieuse à <strong>Rives-en-Seine</strong>, la balade fluviale à <strong>Rouen</strong>, la randonnée à <strong>Achères avec Le voyage métropolitain</strong> ou la balade patrimoniale à la <strong>Mailleraye-sur-Seine avec le Parc naturel régional des Boucles de la Seine Normande</strong>.</p>
-<p>L&#39;édition 2021 est déjà en préparation le long de la vallée de la Seine ... suivez et partagez <a href="https://www.facebook.com/zigzagfestivalarchitecture/" title="Lien Facebook">Zigzag - festival d&#39;architecture et des arts de l&#39;espace</a> sur les réseaux sociaux pour rester informé !!</p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Zigzag 2019 - Un parcours pédestre au Havre]]></title>
-            <link>https://festivalzigzag.fr/stories/un-parcours-pedestre-au-havre</link>
-            <guid>/stories/un-parcours-pedestre-au-havre</guid>
-            <pubDate>Mon, 19 Jan 1970 06:16:27 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="port-sur-la-ville">Port sur la ville</h2>
-<p>Venez parcourir la couture de l’interface ville-port en visitant des installations portuaires actives et des bâtiments reconvertis. Cette visite à pied vous donnera l’occasion de franchir les portes, de découvrir des architectures, des lieux de vie actifs, productifs qui montrent combien l’interprétation et la réinterprétation des usages sont fertiles au sein d’espaces portuaires et urbains qui cohabitent dans une vision résolument hybridée de la &quot;ville&quot;.</p>
-<p>Avec le GPMH et l’AURH.</p>
-<h3 id="parole-de-jessy-oukoloff">Parole de Jessy Oukoloff</h3>
-<p><em>Directeur des études - AURH - Agence d’urbanisme de la région du Havre et de l’Estuaire de la Seine</em></p>
-<p>« Notre parcours entre ville et port s’est fait sous un temps Normand entre pluie battante et rayons de soleil ! Le public était au rdv malgré les conditions, nous étions tout de même une vingtaine. Cela montre que le grand public est en attente d’expériences, d’échanges pour comprendre les ressorts de l’évolution de ces paysages qui nous entourent et que nous voyons évoluer au quotidien. Le parcours s’est fait à 2 voix entre AURH et GPMH. J’en retiens notamment qu’entrer dans des lieux fermés au public est une expérience qui plaît, et qui ajoute à l’intérêt de notre exposé. Ce n’est pas un exercice inédit pour nous et nous sommes toujours très enthousiastes pour organiser ces visites avec le grand public, nous qui pratiquons plus généralement les professionnels de l’aménagement ou des étudiants. »</p>
 ]]></content:encoded>
         </item>
         <item>
@@ -485,18 +485,6 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Zigzag 2021 - week-end #1 (suite)]]></title>
-            <link>https://festivalzigzag.fr/stories/zigzag-2021-week-end-1-suite</link>
-            <guid>/stories/zigzag-2021-week-end-1-suite</guid>
-            <pubDate>Mon, 19 Jan 1970 21:35:20 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="zigzag---1er-week-end">ZIGZAG - 1er WEEK-END</h2>
-<p>Et dimanche, on s&#39;est baladé à Freneuse avec le <strong>CAUE de la Seine-Maritime</strong> ; on a découvert les photos de <strong>Christel Jeanne</strong> à Bois-Guillaume dans le cadre d&#39;EOP ; on a visité l&#39;ancienne <strong>usine Desgenétais</strong> à Bolbec et le renouveau de ce quartier ; on s&#39;est laissé guidé par le <strong>Pays d&#39;art et d&#39;histoire de la CU Le Havre Seine Métropole</strong> dans le quartier de l&#39;Eure.</p>
-<p>Merci à tous pour ces belles journées Zigzag et rendez-vous dès mercredi pour la suite des événements : <a href="https://festivalzigzag.fr/agenda">festivalzigzag.fr</a></p>
-<p><strong><em>#zigzagfestivalarchitecture</em></strong> est porté par la <a href="http://man-leforum.fr/maison-de-l-architecture/">Maison de l&#39;architecture de Normandie - le Forum</a></p>
-<p><strong><em>#touspourlarchi</em></strong></p>
-]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Zigzag 2021 - du 25 septembre au 10 octobre]]></title>
             <link>https://festivalzigzag.fr/stories/zigzag-2021-du-25-septembre-au-10-octobre</link>
             <guid>/stories/zigzag-2021-du-25-septembre-au-10-octobre</guid>
@@ -530,6 +518,18 @@
 <li>SAINT-ÉTIENNE-DU-ROUVRAY (76)</li>
 <li>VERNON (27)</li>
 </ul>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Zigzag 2021 - week-end #1 (suite)]]></title>
+            <link>https://festivalzigzag.fr/stories/zigzag-2021-week-end-1-suite</link>
+            <guid>/stories/zigzag-2021-week-end-1-suite</guid>
+            <pubDate>Mon, 19 Jan 1970 21:35:20 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="zigzag---1er-week-end">ZIGZAG - 1er WEEK-END</h2>
+<p>Et dimanche, on s&#39;est baladé à Freneuse avec le <strong>CAUE de la Seine-Maritime</strong> ; on a découvert les photos de <strong>Christel Jeanne</strong> à Bois-Guillaume dans le cadre d&#39;EOP ; on a visité l&#39;ancienne <strong>usine Desgenétais</strong> à Bolbec et le renouveau de ce quartier ; on s&#39;est laissé guidé par le <strong>Pays d&#39;art et d&#39;histoire de la CU Le Havre Seine Métropole</strong> dans le quartier de l&#39;Eure.</p>
+<p>Merci à tous pour ces belles journées Zigzag et rendez-vous dès mercredi pour la suite des événements : <a href="https://festivalzigzag.fr/agenda">festivalzigzag.fr</a></p>
+<p><strong><em>#zigzagfestivalarchitecture</em></strong> est porté par la <a href="http://man-leforum.fr/maison-de-l-architecture/">Maison de l&#39;architecture de Normandie - le Forum</a></p>
+<p><strong><em>#touspourlarchi</em></strong></p>
 ]]></content:encoded>
         </item>
         <item>
@@ -571,6 +571,18 @@
 ]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Zigzag 2021 - week-end #2]]></title>
+            <link>https://festivalzigzag.fr/stories/zigzag-2021-week-end-2</link>
+            <guid>/stories/zigzag-2021-week-end-2</guid>
+            <pubDate>Mon, 19 Jan 1970 21:48:22 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="zigzag---2eme-week-end">ZIGZAG - 2EME WEEK-END</h2>
+<p>&lt; ZIGZAG - 2ème WEEK-END &gt;</p>
+<p>Le week-end a commencé vendredi avec la balade du <strong>CAUE de la Seine-Maritime</strong> &quot;À la découverte d’une cité jardin emblématique&quot; à Port-Jérôme. Le soir, on découvrait le projet du renouveau du quartier République à Elbeuf Sur Seine, avec la <strong>Métropole Rouen Normandie</strong> et <strong>Emmanuel Côme</strong>, architecte. Au même moment au Havre, on assistait à une table-ronde à <strong>La Halle aux Poissons</strong>, suivi d&#39;un dîner d&#39;exception de <strong>Le Donjon - Domaine Saint Clair</strong> !</p>
+<p>Samedi, on s&#39;est levé tôt pour une randonnée le long de la Seine avec <strong>Le voyage métropolitain</strong> et une visite architecturale à Pont-Audemer du nouveau cinéma conçu par les architectes des agences <strong>Jakob + MacFarlane</strong> et <strong>Atelier Des Deux Anges</strong>. Puis on est retourné à Elbeuf-sur-Seine pour une balade paysagère entre les trames vertes et bleues de la ville avec <strong>Denis Comont</strong>, paysagiste-concepteur <strong>agence Arc en terre</strong>, et le soutien de la <strong>Fédération Française du Paysage - Normandie</strong>.</p>
+<p>Et dimanche…</p>
+]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Zigzag 2021 - week-end #3 (suite et fin)]]></title>
             <link>https://festivalzigzag.fr/stories/zigzag-2021-week-end-3-suite-et-fin</link>
             <guid>/stories/zigzag-2021-week-end-3-suite-et-fin</guid>
@@ -592,18 +604,6 @@
 <p>Samedi 9 octobre, on a visité Gonfreville-l&#39;Orcher avec le <strong>Pays d’art et d’histoire Le Havre Seine Métropole</strong> et le <strong>service Patrimoine</strong> de la ville. Au même moment, on était en promenade paysagère au Havre avec <strong>Franck Gaillet de la Fédération Française du Paysage - Normandie</strong> et au <strong>Port Center</strong> avec <strong>Dans le Sens de Barge</strong> pour une matinée démonstration/rencontre.</p>
 <p>Toute la journée, on est monté sur les toits de <strong>Grand Quevilly</strong> pour une lecture insolite de cette ville bien verte et, entre-temps, on s&#39;est baladé avec le <strong>CAUE de l&#39;Eure</strong> à la Chapelle Longueville entre les vignes.</p>
 <p>Et à Rouen, on a profité du dernier jour des expositions sur les paysages de la Seine au Forum, conçues par l’<strong>Agence d’Urbanisme Le Havre - Estuaire de la Seine (AURH)</strong> et l’<strong>École natio­nale supérieure de paysage de Versailles (ENSP)</strong> !</p>
-<p>Et dimanche…</p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Zigzag 2021 - week-end #2]]></title>
-            <link>https://festivalzigzag.fr/stories/zigzag-2021-week-end-2</link>
-            <guid>/stories/zigzag-2021-week-end-2</guid>
-            <pubDate>Mon, 19 Jan 1970 21:48:22 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="zigzag---2eme-week-end">ZIGZAG - 2EME WEEK-END</h2>
-<p>&lt; ZIGZAG - 2ème WEEK-END &gt;</p>
-<p>Le week-end a commencé vendredi avec la balade du <strong>CAUE de la Seine-Maritime</strong> &quot;À la découverte d’une cité jardin emblématique&quot; à Port-Jérôme. Le soir, on découvrait le projet du renouveau du quartier République à Elbeuf Sur Seine, avec la <strong>Métropole Rouen Normandie</strong> et <strong>Emmanuel Côme</strong>, architecte. Au même moment au Havre, on assistait à une table-ronde à <strong>La Halle aux Poissons</strong>, suivi d&#39;un dîner d&#39;exception de <strong>Le Donjon - Domaine Saint Clair</strong> !</p>
-<p>Samedi, on s&#39;est levé tôt pour une randonnée le long de la Seine avec <strong>Le voyage métropolitain</strong> et une visite architecturale à Pont-Audemer du nouveau cinéma conçu par les architectes des agences <strong>Jakob + MacFarlane</strong> et <strong>Atelier Des Deux Anges</strong>. Puis on est retourné à Elbeuf-sur-Seine pour une balade paysagère entre les trames vertes et bleues de la ville avec <strong>Denis Comont</strong>, paysagiste-concepteur <strong>agence Arc en terre</strong>, et le soutien de la <strong>Fédération Française du Paysage - Normandie</strong>.</p>
 <p>Et dimanche…</p>
 ]]></content:encoded>
         </item>
