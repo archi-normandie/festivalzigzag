@@ -9,7 +9,7 @@ cover:
   legend: "©EPAMSA"
 booking:
   link: https://www.billetweb.fr/la-halle-sulzer
-  state: Complet
+  state: ''
   period: ''
   dates:
   - date: 2022-10-11 14:30
