@@ -4,7 +4,7 @@
         <title>undefined</title>
         <link>https://festivalzigzag.fr/rss.xml</link>
         <description>Journal du Festival Zigzag</description>
-        <lastBuildDate>Tue, 18 Oct 2022 10:07:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Oct 2022 10:10:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
         <item>
@@ -167,25 +167,6 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Zigzag 2019 - Parcours au cœur d'une ville en chantier]]></title>
-            <link>https://festivalzigzag.fr/stories/parcours-urbain-au-coeur-d-un-beuzeville-en-chantier</link>
-            <guid>/stories/parcours-urbain-au-coeur-d-un-beuzeville-en-chantier</guid>
-            <pubDate>Mon, 19 Jan 1970 06:16:30 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="beuzeville-2020">BEUZEVILLE 2020</h2>
-<p>Beuzeville s’est lancée dans la reconquête de son cœur de ville, un projet urbain d’envergure qui, à travers la requalification du centre historique permettra de redynamiser l’ensemble de la ville et en changera durablement l’image. L’aménagement le plus important est celui du centre-bourg avec la création du pôle culturel de la cidrerie. La réhabilitation de cette friche industrielle désaffectée comprend un marché couvert alternatif, un foyer, un auditorium, une salle de spectacle et un silo-exposition.</p>
-<p>Aux côtés des paysagistes de Babylone et des architectes de Sunmetron, ce parcours permet d’appréhender le rôle de l’architecture et du paysage dans la dynamique économique et le rayonnement d’une commune.</p>
-<h3 id="les-visites-architecturales-et-de-chantiers">LES VISITES ARCHITECTURALES ET DE CHANTIERS</h3>
-<p>Ce qui est en jeu lors des visites :</p>
-<ul>
-<li>Donner à comprendre / à ressentir l’espace à l’échelle d’un bâtiment.</li>
-<li>Décrypter l’architecture dans les pas et les mots de l’architecte et de la maîtrise d’ouvrage.</li>
-<li>Comprendre le jeu de rôle, maîtres d’ouvrage / maîtres d’oeuvre / utilisateurs, permettant de mettre en lumière la complexité de la construction architecturale, la fabrication d’un projet.</li>
-<li>Appréhender le temps long du chantier.</li>
-</ul>
-<p>Les visites architecturales sont très plébiscitées par le public : elles donnent la possibilité d’entrer dans un bâtiment, comprendre sa fabrication, cheminer et appréhender l’articulation des espaces, les usages, la lumière, le parti architectural, les matériaux...</p>
-]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Zigzag 2019 - Parcours urbain à Elbeuf-sur-Seine]]></title>
             <link>https://festivalzigzag.fr/stories/parcours-urbain-a-elbeuf-sur-seine</link>
             <guid>/stories/parcours-urbain-a-elbeuf-sur-seine</guid>
@@ -209,6 +190,25 @@
 <p>Découverte de la cohabitation fragile du bâti et des espaces naturels, des espaces de rétention, des efforts réalisés pour la biodiversité.</p>
 <p>Des paysages culturels évolutifs vivants ...</p>
 <p>Mise en valeur de quartiers en mutations profondes.</p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Zigzag 2019 - Parcours au cœur d'une ville en chantier]]></title>
+            <link>https://festivalzigzag.fr/stories/parcours-urbain-au-coeur-d-un-beuzeville-en-chantier</link>
+            <guid>/stories/parcours-urbain-au-coeur-d-un-beuzeville-en-chantier</guid>
+            <pubDate>Mon, 19 Jan 1970 06:16:30 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="beuzeville-2020">BEUZEVILLE 2020</h2>
+<p>Beuzeville s’est lancée dans la reconquête de son cœur de ville, un projet urbain d’envergure qui, à travers la requalification du centre historique permettra de redynamiser l’ensemble de la ville et en changera durablement l’image. L’aménagement le plus important est celui du centre-bourg avec la création du pôle culturel de la cidrerie. La réhabilitation de cette friche industrielle désaffectée comprend un marché couvert alternatif, un foyer, un auditorium, une salle de spectacle et un silo-exposition.</p>
+<p>Aux côtés des paysagistes de Babylone et des architectes de Sunmetron, ce parcours permet d’appréhender le rôle de l’architecture et du paysage dans la dynamique économique et le rayonnement d’une commune.</p>
+<h3 id="les-visites-architecturales-et-de-chantiers">LES VISITES ARCHITECTURALES ET DE CHANTIERS</h3>
+<p>Ce qui est en jeu lors des visites :</p>
+<ul>
+<li>Donner à comprendre / à ressentir l’espace à l’échelle d’un bâtiment.</li>
+<li>Décrypter l’architecture dans les pas et les mots de l’architecte et de la maîtrise d’ouvrage.</li>
+<li>Comprendre le jeu de rôle, maîtres d’ouvrage / maîtres d’oeuvre / utilisateurs, permettant de mettre en lumière la complexité de la construction architecturale, la fabrication d’un projet.</li>
+<li>Appréhender le temps long du chantier.</li>
+</ul>
+<p>Les visites architecturales sont très plébiscitées par le public : elles donnent la possibilité d’entrer dans un bâtiment, comprendre sa fabrication, cheminer et appréhender l’articulation des espaces, les usages, la lumière, le parti architectural, les matériaux...</p>
 ]]></content:encoded>
         </item>
         <item>
@@ -325,18 +325,6 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Zigzag 2020 - #annulations ]]></title>
-            <link>https://festivalzigzag.fr/stories/zigzag-2020-annulations</link>
-            <guid>/stories/zigzag-2020-annulations</guid>
-            <pubDate>Mon, 19 Jan 1970 13:28:23 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="un-festival-mouvemente">UN FESTIVAL MOUVEMENTE</h2>
-<p>En 2019, la première édition du festival Zigzag avait connu une programmation mouvementée, suite à l&#39;incendie de Lubrizol du 26 septembre ... avec des événements annulés dans la ville de Rouen.</p>
-<p>La Maison de l&#39;architecture de Normandie - le Forum préparait l&#39;édition 2020 depuis plusieurs mois, quand le confinement est passé par là et le télétravail de rigueur.<br>L&#39;équipe tient encore à remercier tous ses partenaires, qui étaient présents à tous les instants pour monter la programmation du festival, et à tous les participants pour leurs inscriptions aux événements Zigzag 2020 malgré la situation sanitaire.</p>
-<p>Toutes ces bonnes volontés n&#39;ont malheureusement pas permis de maintenir tous les événements, que tous auraient aimé vivre : le parcours chorégraphique et le rallye vélo à <strong>Grand Quevilly</strong>, la soirée projection d&#39;<strong>Echelle Inconnue</strong>, la randonnée curieuse à <strong>Rives-en-Seine</strong>, la balade fluviale à <strong>Rouen</strong>, la randonnée à <strong>Achères avec Le voyage métropolitain</strong> ou la balade patrimoniale à la <strong>Mailleraye-sur-Seine avec le Parc naturel régional des Boucles de la Seine Normande</strong>.</p>
-<p>L&#39;édition 2021 est déjà en préparation le long de la vallée de la Seine ... suivez et partagez <a href="https://www.facebook.com/zigzagfestivalarchitecture/" title="Lien Facebook">Zigzag - festival d&#39;architecture et des arts de l&#39;espace</a> sur les réseaux sociaux pour rester informé !!</p>
-]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Zigzag 2020 - du 3 au 18 octobre]]></title>
             <link>https://festivalzigzag.fr/stories/zigzag-2020-du-3-au-18-octobre</link>
             <guid>/stories/zigzag-2020-du-3-au-18-octobre</guid>
@@ -363,6 +351,18 @@
 <li>Val-de-Reuil, 27</li>
 <li>Vernon, 27</li>
 </ul>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Zigzag 2020 - #annulations ]]></title>
+            <link>https://festivalzigzag.fr/stories/zigzag-2020-annulations</link>
+            <guid>/stories/zigzag-2020-annulations</guid>
+            <pubDate>Mon, 19 Jan 1970 13:28:23 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="un-festival-mouvemente">UN FESTIVAL MOUVEMENTE</h2>
+<p>En 2019, la première édition du festival Zigzag avait connu une programmation mouvementée, suite à l&#39;incendie de Lubrizol du 26 septembre ... avec des événements annulés dans la ville de Rouen.</p>
+<p>La Maison de l&#39;architecture de Normandie - le Forum préparait l&#39;édition 2020 depuis plusieurs mois, quand le confinement est passé par là et le télétravail de rigueur.<br>L&#39;équipe tient encore à remercier tous ses partenaires, qui étaient présents à tous les instants pour monter la programmation du festival, et à tous les participants pour leurs inscriptions aux événements Zigzag 2020 malgré la situation sanitaire.</p>
+<p>Toutes ces bonnes volontés n&#39;ont malheureusement pas permis de maintenir tous les événements, que tous auraient aimé vivre : le parcours chorégraphique et le rallye vélo à <strong>Grand Quevilly</strong>, la soirée projection d&#39;<strong>Echelle Inconnue</strong>, la randonnée curieuse à <strong>Rives-en-Seine</strong>, la balade fluviale à <strong>Rouen</strong>, la randonnée à <strong>Achères avec Le voyage métropolitain</strong> ou la balade patrimoniale à la <strong>Mailleraye-sur-Seine avec le Parc naturel régional des Boucles de la Seine Normande</strong>.</p>
+<p>L&#39;édition 2021 est déjà en préparation le long de la vallée de la Seine ... suivez et partagez <a href="https://www.facebook.com/zigzagfestivalarchitecture/" title="Lien Facebook">Zigzag - festival d&#39;architecture et des arts de l&#39;espace</a> sur les réseaux sociaux pour rester informé !!</p>
 ]]></content:encoded>
         </item>
         <item>
@@ -433,24 +433,6 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Zigzag 2020 - week-end #1]]></title>
-            <link>https://festivalzigzag.fr/stories/zigzag-2020-week-end-1</link>
-            <guid>/stories/zigzag-2020-week-end-1</guid>
-            <pubDate>Mon, 19 Jan 1970 13:00:58 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="un-premier-week-end-en-zigzag">Un premier week-end en Zigzag</h2>
-<p>Zigzag - festival d&#39;architecture et des arts de l&#39;espace, ce sont 30 événements d&#39;Achères à Deauville le long de la vallée de la Seine jusqu&#39;au 18 octobre, en passant par la Ville de Rouen à la Maison de l&#39;architecture de Normandie - le Forum pour l&#39;exposition : <strong>Utopie fluviale</strong>.</p>
-<p>Cette exposition, réalisée par le collectif <strong>Dans le Sens de Barge</strong>, est l&#39;occasion de présenter l&#39;état d&#39;avancée du projet fluvio-maritime BARGE réalisé par l&#39;architecte Pierre Delion et de montrer les propositions élaborées par les étudiants en design et en architecture de l&#39;<strong>ENSCI - Les Ateliers</strong> et de l’<strong>ENSA Normandie</strong>, autour des futures escales des embarcations, à découvrir jusqu&#39;au 30 octobre !</p>
-<p><strong>Autour de l&#39;exposition :</strong></p>
-<ul>
-<li>venez découvrir le module SHEDART, conçu et réalisé en 2017 par les étudiants en architecture de l’ENSA-Normandie, sur les quais de Seine, rive droite face au 108</li>
-<li>inscrivez-vous pour la rencontre avec le collectif et leurs invités le 9 octobre à 18h : <a href="https://festivalzigzag.fr/events/le-silence-des-coquilles">Le silence des coquilles</a></li>
-</ul>
-<p>Samedi 3 octobre, pour le 1er jour du festival, on a pris de la hauteur à <strong>Grand Quevilly</strong> pour des visites accompagnées de comédiennes. Des lectures insolites pour découvrir la ville autrement par des personnages et des témoignages. Son industrie, son bourg, ses tours, ses arbres et ses nouveaux quartiers d’habitation … Grand Quevilly nous a livré presque tous ses secrets ! En partenariat avec <strong>Quevilly Habitat</strong>. Puis direction <strong>Quillebeuf-sur-Seine</strong> pour une lecture paysagère de la vallée de la Seine avec Boris Menguy, paysagiste-urbaniste du <strong>CAUE 76</strong>.  </p>
-<p>Dimanche 4 octobre, l’équipe de la Maison de l&#39;architecture de Normandie - le Forum vous a donné rendez-vous pour un parcours du patrimoine de la reconstruction à <strong>Rives-en-Seine</strong>, la visite de <strong>la Friche Lucien</strong> à <strong>Rouen</strong> pour son dernier jour d’ouverture 2020, à <strong>Moulineaux</strong> pour découvrir les paysages stratégiques du site de Robert le Diable et à <strong>Goustranville</strong>, dans le Calvados, pour la visite exceptionnelle du campus équin international.</p>
-<p><em>Les événements &quot;Le Regards de [Travers]&quot; et &quot;Grand Quevilly à vélo&quot;, organisés par la ville de Grand Quevilly, ont été malheureusement annulés suite aux nouvelles mesures sanitaires du gouvernement.</em></p>
-]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Zigzag 2020 - week-end #2]]></title>
             <link>https://festivalzigzag.fr/stories/zigzag-2020-week-end-2</link>
             <guid>/stories/zigzag-2020-week-end-2</guid>
@@ -482,6 +464,24 @@
 <p>Et pour finir ce samedi en beauté, l&#39;équipe du Forum a passé l’après-midi avec le collectif <strong>Les Gens des Lieux et Les Cueilleurs d&#39;Histoire</strong> sur le site de <strong>Genius 2020 au Havre</strong>. Une belle façon de fêter la fin du festival dans un quartier en mutation : A l’interface du quartier Saint Nicolas et de la zone de l’Escaut, le collectif Les Gens des Lieux propose une scénographie urbaine éphémère. Par ses interventions, il ouvre des perspectives, renverse des points de vue, fait émerger un jardin sauvage au milieu d’une friche portuaire.</p>
 <p>Pour le dernier jour du festival Zigzag 2020, la Maison de l&#39;architecture de Normandie est retournée à <strong>la Manufacture des Capucins à Vernon</strong> : Jardinage, rencontre, expositions et journée d’étude étaient au programme. Merci aux participants, aux bénévoles de la Manufacture et à l’agence d&#39;architecture <strong>MWAH</strong> !</p>
 <p>Au même moment, l&#39;<strong>Agglomération Seine-Eure</strong> vous a invité pour un événement ludo-cyclo-patrimonial proposé dans le cadre de l’itinéraire <strong>Seine à Vélo</strong> : Laissez-vous embarquer dans l’aventure et menez l’enquête à vélo, en participant au jeu « Seine de Crime ». Une balade à deux roues ponctuées de points d’étapes, où vous ont attendu des comédiens pour vous guider dans votre parcours entre <strong>Elbeuf-sur-Seine et Les Damps</strong>. Trois heures à vélo pour découvrir les richesses du patrimoine architectural et naturel.</p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Zigzag 2020 - week-end #1]]></title>
+            <link>https://festivalzigzag.fr/stories/zigzag-2020-week-end-1</link>
+            <guid>/stories/zigzag-2020-week-end-1</guid>
+            <pubDate>Mon, 19 Jan 1970 13:00:58 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="un-premier-week-end-en-zigzag">Un premier week-end en Zigzag</h2>
+<p>Zigzag - festival d&#39;architecture et des arts de l&#39;espace, ce sont 30 événements d&#39;Achères à Deauville le long de la vallée de la Seine jusqu&#39;au 18 octobre, en passant par la Ville de Rouen à la Maison de l&#39;architecture de Normandie - le Forum pour l&#39;exposition : <strong>Utopie fluviale</strong>.</p>
+<p>Cette exposition, réalisée par le collectif <strong>Dans le Sens de Barge</strong>, est l&#39;occasion de présenter l&#39;état d&#39;avancée du projet fluvio-maritime BARGE réalisé par l&#39;architecte Pierre Delion et de montrer les propositions élaborées par les étudiants en design et en architecture de l&#39;<strong>ENSCI - Les Ateliers</strong> et de l’<strong>ENSA Normandie</strong>, autour des futures escales des embarcations, à découvrir jusqu&#39;au 30 octobre !</p>
+<p><strong>Autour de l&#39;exposition :</strong></p>
+<ul>
+<li>venez découvrir le module SHEDART, conçu et réalisé en 2017 par les étudiants en architecture de l’ENSA-Normandie, sur les quais de Seine, rive droite face au 108</li>
+<li>inscrivez-vous pour la rencontre avec le collectif et leurs invités le 9 octobre à 18h : <a href="https://festivalzigzag.fr/events/le-silence-des-coquilles">Le silence des coquilles</a></li>
+</ul>
+<p>Samedi 3 octobre, pour le 1er jour du festival, on a pris de la hauteur à <strong>Grand Quevilly</strong> pour des visites accompagnées de comédiennes. Des lectures insolites pour découvrir la ville autrement par des personnages et des témoignages. Son industrie, son bourg, ses tours, ses arbres et ses nouveaux quartiers d’habitation … Grand Quevilly nous a livré presque tous ses secrets ! En partenariat avec <strong>Quevilly Habitat</strong>. Puis direction <strong>Quillebeuf-sur-Seine</strong> pour une lecture paysagère de la vallée de la Seine avec Boris Menguy, paysagiste-urbaniste du <strong>CAUE 76</strong>.  </p>
+<p>Dimanche 4 octobre, l’équipe de la Maison de l&#39;architecture de Normandie - le Forum vous a donné rendez-vous pour un parcours du patrimoine de la reconstruction à <strong>Rives-en-Seine</strong>, la visite de <strong>la Friche Lucien</strong> à <strong>Rouen</strong> pour son dernier jour d’ouverture 2020, à <strong>Moulineaux</strong> pour découvrir les paysages stratégiques du site de Robert le Diable et à <strong>Goustranville</strong>, dans le Calvados, pour la visite exceptionnelle du campus équin international.</p>
+<p><em>Les événements &quot;Le Regards de [Travers]&quot; et &quot;Grand Quevilly à vélo&quot;, organisés par la ville de Grand Quevilly, ont été malheureusement annulés suite aux nouvelles mesures sanitaires du gouvernement.</em></p>
 ]]></content:encoded>
         </item>
         <item>
@@ -596,18 +596,6 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Zigzag 2021 - week-end #3]]></title>
-            <link>https://festivalzigzag.fr/stories/zigzag-2021-week-end-3</link>
-            <guid>/stories/zigzag-2021-week-end-3</guid>
-            <pubDate>Mon, 19 Jan 1970 21:55:34 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="zigzag---dernier-week-end">ZIGZAG - DERNIER WEEK-END</h2>
-<p>Samedi 9 octobre, on a visité Gonfreville-l&#39;Orcher avec le <strong>Pays d’art et d’histoire Le Havre Seine Métropole</strong> et le <strong>service Patrimoine</strong> de la ville. Au même moment, on était en promenade paysagère au Havre avec <strong>Franck Gaillet de la Fédération Française du Paysage - Normandie</strong> et au <strong>Port Center</strong> avec <strong>Dans le Sens de Barge</strong> pour une matinée démonstration/rencontre.</p>
-<p>Toute la journée, on est monté sur les toits de <strong>Grand Quevilly</strong> pour une lecture insolite de cette ville bien verte et, entre-temps, on s&#39;est baladé avec le <strong>CAUE de l&#39;Eure</strong> à la Chapelle Longueville entre les vignes.</p>
-<p>Et à Rouen, on a profité du dernier jour des expositions sur les paysages de la Seine au Forum, conçues par l’<strong>Agence d’Urbanisme Le Havre - Estuaire de la Seine (AURH)</strong> et l’<strong>École natio­nale supérieure de paysage de Versailles (ENSP)</strong> !</p>
-<p>Et dimanche…</p>
-]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Zigzag 2022 - du 1er au 16 octobre]]></title>
             <link>https://festivalzigzag.fr/stories/zigzag-2022-du-1er-au-16-octobre</link>
             <guid>/stories/zigzag-2022-du-1er-au-16-octobre</guid>
@@ -638,6 +626,18 @@
 <li>SANDOUVILLE (76)</li>
 <li>VERNON (27)</li>
 </ul>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Zigzag 2021 - week-end #3]]></title>
+            <link>https://festivalzigzag.fr/stories/zigzag-2021-week-end-3</link>
+            <guid>/stories/zigzag-2021-week-end-3</guid>
+            <pubDate>Mon, 19 Jan 1970 21:55:34 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="zigzag---dernier-week-end">ZIGZAG - DERNIER WEEK-END</h2>
+<p>Samedi 9 octobre, on a visité Gonfreville-l&#39;Orcher avec le <strong>Pays d’art et d’histoire Le Havre Seine Métropole</strong> et le <strong>service Patrimoine</strong> de la ville. Au même moment, on était en promenade paysagère au Havre avec <strong>Franck Gaillet de la Fédération Française du Paysage - Normandie</strong> et au <strong>Port Center</strong> avec <strong>Dans le Sens de Barge</strong> pour une matinée démonstration/rencontre.</p>
+<p>Toute la journée, on est monté sur les toits de <strong>Grand Quevilly</strong> pour une lecture insolite de cette ville bien verte et, entre-temps, on s&#39;est baladé avec le <strong>CAUE de l&#39;Eure</strong> à la Chapelle Longueville entre les vignes.</p>
+<p>Et à Rouen, on a profité du dernier jour des expositions sur les paysages de la Seine au Forum, conçues par l’<strong>Agence d’Urbanisme Le Havre - Estuaire de la Seine (AURH)</strong> et l’<strong>École natio­nale supérieure de paysage de Versailles (ENSP)</strong> !</p>
+<p>Et dimanche…</p>
 ]]></content:encoded>
         </item>
     </channel>
