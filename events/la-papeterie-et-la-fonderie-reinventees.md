@@ -23,7 +23,10 @@ informations:
     RDV parc de la Fonderie, av. de Rouen
     - 16 min à pieds depuis la gare de Vernon
     - Réseau SNgo : Bus 5, arrêt Grosse Borne
-gallery: []
+gallery:
+- "/files/papeterie-vernon-2.jpg"
+- "/files/papeterie-vernon-1.jpg"
+- "/files/papeterie-vernon-3.jpg"
 itinerary:
 - label: 12h Tablée à la Manufacture des Capucins
   event: static/events/les-tablees-de-zigzag-1.md
