@@ -23,7 +23,10 @@ informations:
     RDV 150 rue Sadi Carnot
     - 10 min en vélo depuis la gare Elbeuf - Saint-Aubin
     - Réseau Astuce : Bus A, B, C, E, F et H, arrêt La Ruche
-gallery: []
+gallery:
+- "/files/lanimea-2.jpg"
+- "/files/lanimea-1.jpg"
+- "/files/lanimea-3.jpg"
 itinerary:
 - label: 17h Emission radio au Forum
   event: static/events/et-vous-vous-habitez-ou.md
