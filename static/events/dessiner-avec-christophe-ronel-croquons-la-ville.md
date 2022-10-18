@@ -9,7 +9,7 @@ cover:
   legend: Dieppe ©Christophe Ronel
 booking:
   link: https://www.billetweb.fr/dessiner-avec-christophe-ronel-croquons-la-ville
-  state: ''
+  state: Annulé
   period: ''
   dates:
   - date: 2022-10-02 14:30
