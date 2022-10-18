@@ -23,7 +23,10 @@ informations:
     RDV Maison de l’architecture de Normandie – le Forum, 48 rue Victor Hugo
     - 16 min à pieds depuis la gare de Rouen
     - Réseau Astuce : Bus T1, T2 et T3, arrêt Place Saint-Marc
-gallery: []
+gallery:
+- "/files/grande-tablee-1.jpg"
+- "/files/grande-tablee-3.jpg"
+- "/files/grande-tablee-2.jpg"
 itinerary:
 - label: Visites depuis les toits de Grand Quevilly
   event: static/events/vues-de-haut.md
