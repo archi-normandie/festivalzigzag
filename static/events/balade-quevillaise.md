@@ -23,7 +23,10 @@ informations:
     RDV place Eugène Delacroix, sur le mail devant le marchand de journaux
     - 30 min en vélo depuis la gare de Rouen
     - Réseau Astuce : Métro, arrêt Georges Braque
-gallery: []
+gallery:
+- "/files/balade-quevillaise-3.jpg"
+- "/files/balade-quevillaise-1.jpg"
+- "/files/balade-quevillaise-2.jpg"
 itinerary:
 - label: 14h30 Croquer la ville pour ce parcours dessiné
   event: static/events/dessiner-avec-christophe-ronel-croquons-la-ville.md
