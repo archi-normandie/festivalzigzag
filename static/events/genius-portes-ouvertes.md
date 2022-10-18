@@ -22,7 +22,10 @@ informations:
     RDV bassin du Roy au niveau du pont Notre Dame
     - 18 min à pieds depuis la gare du Havre
     - Réseau LiA : Bus 4, arrêt Videcoq
-gallery: []
+gallery:
+- "/files/genius-2022-1.jpg"
+- "/files/genius-2022-3.jpg"
+- "/files/genius-2022-2.jpg"
 itinerary:
 - event: static/events/brunch-retrospective-genius.md
   label: Tablée festive spéciale GENiUS
