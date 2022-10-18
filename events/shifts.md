@@ -23,7 +23,10 @@ informations:
   rdv: |-
     RDV préau de l’école Jules Verne, 7 route de Montivilliers
     - Réseau LiA : Bus 10 et 13, arrêt A. Huart
-gallery: []
+gallery:
+- "/files/octeville-2.jpg"
+- "/files/octeville-3.jpg"
+- "/files/octeville-1.jpg"
 itinerary: []
 
 ---
