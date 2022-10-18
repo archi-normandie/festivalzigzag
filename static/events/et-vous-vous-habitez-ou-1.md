@@ -19,7 +19,8 @@ address:
 informations:
   note: ''
   rdv: A écouter gratuitement
-gallery: []
+gallery:
+- "/files/podcast.jpg"
 itinerary:
 - label: 'Emission radio - lancement des podcasts en direct '
   event: static/events/et-vous-vous-habitez-ou.md
