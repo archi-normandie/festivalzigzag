@@ -22,7 +22,10 @@ informations:
   rdv: |-
     RDV devant l’école élémentaire Les Portes de la Forêt, 67 place des Erables
     - Réseau Astuce : Bus 11, arrêt Table de Pierre
-gallery: []
+gallery:
+- "/files/eop-bg-1.jpg"
+- "/files/eop-bg-3.jpg"
+- "/files/eop-bg-2.jpg"
 itinerary:
 - label: 16h Visite multisensorielle de Rouen
   event: static/events/nadja-un-itineraire-surrealiste.md
