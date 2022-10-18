@@ -4,7 +4,7 @@
         <title>undefined</title>
         <link>https://festivalzigzag.fr/rss.xml</link>
         <description>Journal du Festival Zigzag</description>
-        <lastBuildDate>Tue, 18 Oct 2022 09:58:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Oct 2022 10:03:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
         <item>
@@ -98,6 +98,19 @@
 ]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Zigzag 2019 - Naturaquarelle - installation de Mario Reis à vernon]]></title>
+            <link>https://festivalzigzag.fr/stories/naturaquarelle-installation-de-mario-reis-a-vernon</link>
+            <guid>/stories/naturaquarelle-installation-de-mario-reis-a-vernon</guid>
+            <pubDate>Mon, 19 Jan 1970 06:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="installation-daquarelles-à-la-manufacture-des-capucins">Installation d&#39;aquarelles à la Manufacture des Capucins</h2>
+<p>Depuis le mois de juin 2019, Mario Reis chemine le long de la Seine, installe des toiles vierges contre la surface de l’eau pour révéler les fonds des eaux. Les résultats sont aussi divers que les lieux parcourus. Ces aquarelles naturelles révèlent la mémoire de l’eau, tracent des empreintes des fonds aquatiques et constituent un ensemble d’œuvres abstraites qui retranscrivent la vitalité de la nature. À la faveur de Zigzag, la Manufacture des Capucins s’ouvre à cette performance et tisse un dialogue sensible avec le fleuve et son territoire.</p>
+<p>Avec la Maison des Arts de Grand Quevilly.</p>
+<h3 id="la-manufacture-des-capucins--transformation-en-cours">La Manufacture des Capucins : transformation en cours</h3>
+<p>Tiers-lieu d&#39;intérêt général dédié à la transition écologique, à Vernon, en Normandie. Il ouvrira progressivement à partir de 2020. On y découvrira: un café-cantine, une brasserie artisanale, un jardin, un programmation culturelle...</p>
+<p>Pour suivre le projet : <a href="https://www.facebook.com/LaManufactureDesCapucins/">La Manufacture des Capucins</a></p>
+]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Zigzag 2019 - Installation éphémère au Havre : Genius]]></title>
             <link>https://festivalzigzag.fr/stories/genius-2019-installation-ephemere-au-havre</link>
             <guid>/stories/genius-2019-installation-ephemere-au-havre</guid>
@@ -120,19 +133,6 @@
 </ul>
 <p><em>Dorothée Navarre, collectif Les Gens des Lieux</em></p>
 <p><strong>Genius revient en 2020 au Havre, suivez la page du collectif :</strong> <a href="https://www.facebook.com/Nouslesgensdeslieux/">Les Gens des Lieux</a></p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Zigzag 2019 - Naturaquarelle - installation de Mario Reis à vernon]]></title>
-            <link>https://festivalzigzag.fr/stories/naturaquarelle-installation-de-mario-reis-a-vernon</link>
-            <guid>/stories/naturaquarelle-installation-de-mario-reis-a-vernon</guid>
-            <pubDate>Mon, 19 Jan 1970 06:16:27 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="installation-daquarelles-à-la-manufacture-des-capucins">Installation d&#39;aquarelles à la Manufacture des Capucins</h2>
-<p>Depuis le mois de juin 2019, Mario Reis chemine le long de la Seine, installe des toiles vierges contre la surface de l’eau pour révéler les fonds des eaux. Les résultats sont aussi divers que les lieux parcourus. Ces aquarelles naturelles révèlent la mémoire de l’eau, tracent des empreintes des fonds aquatiques et constituent un ensemble d’œuvres abstraites qui retranscrivent la vitalité de la nature. À la faveur de Zigzag, la Manufacture des Capucins s’ouvre à cette performance et tisse un dialogue sensible avec le fleuve et son territoire.</p>
-<p>Avec la Maison des Arts de Grand Quevilly.</p>
-<h3 id="la-manufacture-des-capucins--transformation-en-cours">La Manufacture des Capucins : transformation en cours</h3>
-<p>Tiers-lieu d&#39;intérêt général dédié à la transition écologique, à Vernon, en Normandie. Il ouvrira progressivement à partir de 2020. On y découvrira: un café-cantine, une brasserie artisanale, un jardin, un programmation culturelle...</p>
-<p>Pour suivre le projet : <a href="https://www.facebook.com/LaManufactureDesCapucins/">La Manufacture des Capucins</a></p>
 ]]></content:encoded>
         </item>
         <item>
@@ -183,32 +183,6 @@
 <li>Appréhender le temps long du chantier.</li>
 </ul>
 <p>Les visites architecturales sont très plébiscitées par le public : elles donnent la possibilité d’entrer dans un bâtiment, comprendre sa fabrication, cheminer et appréhender l’articulation des espaces, les usages, la lumière, le parti architectural, les matériaux...</p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Zigzag 2019 - Parcours urbain à Elbeuf-sur-Seine]]></title>
-            <link>https://festivalzigzag.fr/stories/parcours-urbain-a-elbeuf-sur-seine</link>
-            <guid>/stories/parcours-urbain-a-elbeuf-sur-seine</guid>
-            <pubDate>Mon, 19 Jan 1970 06:16:34 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="cueillir-la-ville-de-la-seine-à-la-forêt">CUEILLIR LA VILLE, DE LA SEINE À LA FORÊT</h2>
-<p>Cette déambulation propose de découvrir la ville d’Elbeuf par le prisme de son paysage et de la relation étroite qu’elle entretien avec son fleuve. Le temps long de la géologie est important pour comprendre Elbeuf, sa relation à la Seine, à sa vallée et aux forêts. La déambulation explore le temps, les éléments, le sensible du quotidien. Quelle relation à sa ville ? </p>
-<p>Les participants sont invités à cueillir la ville et se saisir ainsi de ce qui fait le paysage d’Elbeuf : des fragments, des extraits, des petits bouts de choses, de souvenirs qui une fois assemblés collectivement forment un tableau : un récit de la ville d’Elbeuf.</p>
-<p>Avec La Fabrique des Savoirs, la MJC d’Elbeuf et la Locomotive, Mathilde Métral et Pauline Broquin, paysagistes.</p>
-<h3 id="les-parcours---balades---explorations">LES PARCOURS - BALADES - EXPLORATIONS</h3>
-<p><strong>Ce qui est en jeu lors des parcours :</strong></p>
-<p>Questionner le rapport au territoire, au patrimoine, à sa mémoire, relier le contexte géographique, l’activité économique, les moyens de transport.</p>
-<p>Proposer une lecture des éléments construits et naturels, et les mettre en relation.</p>
-<p><strong>Les thèmes soulevés :</strong></p>
-<ul>
-<li>Comment conjuguer habitat et présence de l’eau ?</li>
-<li>Comment habiter et préserver ?</li>
-<li>Quelle relation port et ville ?</li>
-<li>Quelle dynamique de territoire dans une vallée ?</li>
-</ul>
-<p><strong>Ce qui a été mis en avant :</strong></p>
-<p>Découverte de la cohabitation fragile du bâti et des espaces naturels, des espaces de rétention, des efforts réalisés pour la biodiversité.</p>
-<p>Des paysages culturels évolutifs vivants ...</p>
-<p>Mise en valeur de quartiers en mutations profondes.</p>
 ]]></content:encoded>
         </item>
         <item>
@@ -273,6 +247,32 @@
 <blockquote>
 <p>« ... pour moi le contemporain c’est la boule rouge, on voit qu’elle a du mal dans le centre-ville ancien, elle est coincée, plissée, elle ne trouve pas bien sa place ! »</p>
 </blockquote>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Zigzag 2019 - Parcours urbain à Elbeuf-sur-Seine]]></title>
+            <link>https://festivalzigzag.fr/stories/parcours-urbain-a-elbeuf-sur-seine</link>
+            <guid>/stories/parcours-urbain-a-elbeuf-sur-seine</guid>
+            <pubDate>Mon, 19 Jan 1970 06:16:34 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="cueillir-la-ville-de-la-seine-à-la-forêt">CUEILLIR LA VILLE, DE LA SEINE À LA FORÊT</h2>
+<p>Cette déambulation propose de découvrir la ville d’Elbeuf par le prisme de son paysage et de la relation étroite qu’elle entretien avec son fleuve. Le temps long de la géologie est important pour comprendre Elbeuf, sa relation à la Seine, à sa vallée et aux forêts. La déambulation explore le temps, les éléments, le sensible du quotidien. Quelle relation à sa ville ? </p>
+<p>Les participants sont invités à cueillir la ville et se saisir ainsi de ce qui fait le paysage d’Elbeuf : des fragments, des extraits, des petits bouts de choses, de souvenirs qui une fois assemblés collectivement forment un tableau : un récit de la ville d’Elbeuf.</p>
+<p>Avec La Fabrique des Savoirs, la MJC d’Elbeuf et la Locomotive, Mathilde Métral et Pauline Broquin, paysagistes.</p>
+<h3 id="les-parcours---balades---explorations">LES PARCOURS - BALADES - EXPLORATIONS</h3>
+<p><strong>Ce qui est en jeu lors des parcours :</strong></p>
+<p>Questionner le rapport au territoire, au patrimoine, à sa mémoire, relier le contexte géographique, l’activité économique, les moyens de transport.</p>
+<p>Proposer une lecture des éléments construits et naturels, et les mettre en relation.</p>
+<p><strong>Les thèmes soulevés :</strong></p>
+<ul>
+<li>Comment conjuguer habitat et présence de l’eau ?</li>
+<li>Comment habiter et préserver ?</li>
+<li>Quelle relation port et ville ?</li>
+<li>Quelle dynamique de territoire dans une vallée ?</li>
+</ul>
+<p><strong>Ce qui a été mis en avant :</strong></p>
+<p>Découverte de la cohabitation fragile du bâti et des espaces naturels, des espaces de rétention, des efforts réalisés pour la biodiversité.</p>
+<p>Des paysages culturels évolutifs vivants ...</p>
+<p>Mise en valeur de quartiers en mutations profondes.</p>
 ]]></content:encoded>
         </item>
         <item>
@@ -401,22 +401,6 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Zigzag 2020 - semaine #1]]></title>
-            <link>https://festivalzigzag.fr/stories/zigzag-2020-semaine-1</link>
-            <guid>/stories/zigzag-2020-semaine-1</guid>
-            <pubDate>Mon, 19 Jan 1970 13:08:24 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="une-semaine-dinteractions-artistiques">Une semaine d&#39;interactions artistiques</h2>
-<p>Zigzag - festival d&#39;architecture et des arts de l&#39;espace, ce sont 30 événements d&#39;Achères à Deauville le long de la vallée de la Seine jusqu&#39;au 18 octobre. Pour cette première semaine d&#39;événement, les danseurs et chorégraphes de la compagnie <strong>SHIFTS - art in movement</strong> ont bravé vent et pluie sur le site de <strong>Genius 2020</strong>. Retour sur une semaine de performance, chorégraphie, urbanisme, dynamiques sociales &amp; recherche collaborative in situ au Havre : <strong>RIM#2 SATELLITES - REDÉCOUVERTE DES INTERACTIONS QU’ON M</strong></p>
-<p>&quot;Les RIM sont un événement en mouvements, dialogues et constructions légères, élaboré par Malgven Gerbes et David Brandstätter / shifts - art in movement, artistes associés du <strong>Phare, Centre chorégraphique national du Havre Normandie</strong>. En 2019, 20 et 21, dans le cadre de notre association avec Le Phare, nous explorons l’espace extérieur comme vecteur de rencontres chorégraphiques, architecturales et sociales. Cette exploration est partagée chaque année à travers un temps fort, les RIM - collaborations intensives in-situ de chorégraphes et artistes invités. En octobre, nous élargissons notre laboratoire via des RIM satellites au sein du <strong>projet GENiUS</strong> du collectif d&#39;architectes et d&#39;urbanistes havrais <strong>Les Gens des Lieux</strong>&#39;, entre les Quais de la Meuse et de la Marne au Havre, ces RIM projettent une implantation virtuelle du Phare, CCN du Havre Normandie, en extérieur, à l’aide de piquets et de drisses tel un géomètre. En ces temps de restrictions sanitaires, nous avons décidé de nous installer cette semaine en extérieur, entre ces deux quais, de symboliser nos espaces de travail à l’aide de cordes et de piquets, et d’en profiter pour échanger !&quot;</p>
-<p>Cette semaine était aussi l&#39;occasion de participer à une balade photographique qui réinterprète des clichés anciens et propose aux participants de jouer les figurants. En compagnie de deux photographes, deux courtes balades commentées sont l’occasion de découvrir le village de <strong>Port-Mort</strong> et la butte voisine de Châteauneuf, un site pittoresque de la vallée de Seine. <strong>Alphonse Lavergne</strong>, libraire à Vernon, photographia les lieux à la Belle Époque. Ce créateur prodigue de cartes postales nous offre d’innombrables clichés qui servent de balisage aux balades. A leur intérêt documentaire s’ajoute l’intérêt des personnages représentés : proches parents, amis, passants ou travailleurs locaux. Le second photographe, <strong>Vincent Connétable</strong>, accompagne la balade pour réaliser un nouveau « journal d’excursion », à un siècle de distance, avec les participants prêts à jouer les figurants ! Evénement proposé et animé par le <strong>CAUE 27</strong>.</p>
-<ul>
-<li>Inscrivez-vous pour la seconde balade le 14 octobre : <a href="https://festivalzigzag.fr/events/a-port-mort-figurez-vous">A Port-Mort, figurez-vous !</a></li>
-</ul>
-<p>La semaine c&#39;est terminée avec une rencontre au Forum : <strong>Dans le Sens de Barge</strong> avec le duo d’artistes <strong>Eloise Le Gallo &amp; Julia Borderie</strong>, <strong>Marie-Laure Garnier</strong>, paysagiste et l’équipe du <strong>Parc Naturel Régional des Boucles de la Seine Normande</strong>, ont présenté leur réflexion commune sur le paysage séquanien façonné par les mouvements des couches sédimentaires et ses déplacements de terre que ce soit par l’action hydraulique, animale, ou encore humaine. Cet évènement amorcera le projet artistique 2020-2022 : <strong>Le Silence des Coquilles</strong>.</p>
-<p><em>L&#39;événement &quot;LA POLLUTION COMME PATRIMOINE : SYSTÈME LUBRIZOL ET MÉTROPOLISATION DE L&#39;AXE SEINE&quot;, organisé par le collectif Echelle Inconnue, a été malheureusement annulé suite aux nouvelles mesures sanitaires du gouvernement.</em></p>
-]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Zigzag 2020 - semaine #2]]></title>
             <link>https://festivalzigzag.fr/stories/zigzag-2020-semaine-2</link>
             <guid>/stories/zigzag-2020-semaine-2</guid>
@@ -430,6 +414,22 @@
 <li>Projection du film de Laure Delamotte-Legrand sur les RIM, projet artistique coordonné par la compagnie <strong>Shifts art in movement</strong> en collaboration avec l’équipe du <strong>Phare - Centre chorégraphique national du Havre Normandie</strong>.</li>
 <li>La soirée c’est terminée par une rencontre sur le thème des démarches expérimentales en architecture, urbanisme, chorégraphie et dynamiques sociales.</li>
 </ul>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Zigzag 2020 - semaine #1]]></title>
+            <link>https://festivalzigzag.fr/stories/zigzag-2020-semaine-1</link>
+            <guid>/stories/zigzag-2020-semaine-1</guid>
+            <pubDate>Mon, 19 Jan 1970 13:08:24 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="une-semaine-dinteractions-artistiques">Une semaine d&#39;interactions artistiques</h2>
+<p>Zigzag - festival d&#39;architecture et des arts de l&#39;espace, ce sont 30 événements d&#39;Achères à Deauville le long de la vallée de la Seine jusqu&#39;au 18 octobre. Pour cette première semaine d&#39;événement, les danseurs et chorégraphes de la compagnie <strong>SHIFTS - art in movement</strong> ont bravé vent et pluie sur le site de <strong>Genius 2020</strong>. Retour sur une semaine de performance, chorégraphie, urbanisme, dynamiques sociales &amp; recherche collaborative in situ au Havre : <strong>RIM#2 SATELLITES - REDÉCOUVERTE DES INTERACTIONS QU’ON M</strong></p>
+<p>&quot;Les RIM sont un événement en mouvements, dialogues et constructions légères, élaboré par Malgven Gerbes et David Brandstätter / shifts - art in movement, artistes associés du <strong>Phare, Centre chorégraphique national du Havre Normandie</strong>. En 2019, 20 et 21, dans le cadre de notre association avec Le Phare, nous explorons l’espace extérieur comme vecteur de rencontres chorégraphiques, architecturales et sociales. Cette exploration est partagée chaque année à travers un temps fort, les RIM - collaborations intensives in-situ de chorégraphes et artistes invités. En octobre, nous élargissons notre laboratoire via des RIM satellites au sein du <strong>projet GENiUS</strong> du collectif d&#39;architectes et d&#39;urbanistes havrais <strong>Les Gens des Lieux</strong>&#39;, entre les Quais de la Meuse et de la Marne au Havre, ces RIM projettent une implantation virtuelle du Phare, CCN du Havre Normandie, en extérieur, à l’aide de piquets et de drisses tel un géomètre. En ces temps de restrictions sanitaires, nous avons décidé de nous installer cette semaine en extérieur, entre ces deux quais, de symboliser nos espaces de travail à l’aide de cordes et de piquets, et d’en profiter pour échanger !&quot;</p>
+<p>Cette semaine était aussi l&#39;occasion de participer à une balade photographique qui réinterprète des clichés anciens et propose aux participants de jouer les figurants. En compagnie de deux photographes, deux courtes balades commentées sont l’occasion de découvrir le village de <strong>Port-Mort</strong> et la butte voisine de Châteauneuf, un site pittoresque de la vallée de Seine. <strong>Alphonse Lavergne</strong>, libraire à Vernon, photographia les lieux à la Belle Époque. Ce créateur prodigue de cartes postales nous offre d’innombrables clichés qui servent de balisage aux balades. A leur intérêt documentaire s’ajoute l’intérêt des personnages représentés : proches parents, amis, passants ou travailleurs locaux. Le second photographe, <strong>Vincent Connétable</strong>, accompagne la balade pour réaliser un nouveau « journal d’excursion », à un siècle de distance, avec les participants prêts à jouer les figurants ! Evénement proposé et animé par le <strong>CAUE 27</strong>.</p>
+<ul>
+<li>Inscrivez-vous pour la seconde balade le 14 octobre : <a href="https://festivalzigzag.fr/events/a-port-mort-figurez-vous">A Port-Mort, figurez-vous !</a></li>
+</ul>
+<p>La semaine c&#39;est terminée avec une rencontre au Forum : <strong>Dans le Sens de Barge</strong> avec le duo d’artistes <strong>Eloise Le Gallo &amp; Julia Borderie</strong>, <strong>Marie-Laure Garnier</strong>, paysagiste et l’équipe du <strong>Parc Naturel Régional des Boucles de la Seine Normande</strong>, ont présenté leur réflexion commune sur le paysage séquanien façonné par les mouvements des couches sédimentaires et ses déplacements de terre que ce soit par l’action hydraulique, animale, ou encore humaine. Cet évènement amorcera le projet artistique 2020-2022 : <strong>Le Silence des Coquilles</strong>.</p>
+<p><em>L&#39;événement &quot;LA POLLUTION COMME PATRIMOINE : SYSTÈME LUBRIZOL ET MÉTROPOLISATION DE L&#39;AXE SEINE&quot;, organisé par le collectif Echelle Inconnue, a été malheureusement annulé suite aux nouvelles mesures sanitaires du gouvernement.</em></p>
 ]]></content:encoded>
         </item>
         <item>
