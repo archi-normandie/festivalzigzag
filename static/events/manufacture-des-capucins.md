@@ -23,7 +23,10 @@ informations:
     RDV entrée par le jardin de la Manufacture des Capucins, rue du Colonel Théodore Fieschi
     - 11 min à pieds depuis la gare de Vernon
     - Réseau SNgo : Bus 5, arrêt Commissariat
-gallery: []
+gallery:
+- "/files/manuf-visite-3.jpg"
+- "/files/manuf-visite-2.jpg"
+- "/files/manuf-visite-1.jpg"
 itinerary:
 - label: 12h Tablée à la Manufacture des Capucins
   event: static/events/les-tablees-de-zigzag-1.md
