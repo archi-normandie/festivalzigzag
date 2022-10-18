@@ -24,7 +24,10 @@ informations:
     RDV devant l’entrée de la mairie de Grand Quevilly, côté parking, entrée av. Léon Blum
     - 25 min en vélo depuis la gare de Rouen
     - Réseau Astuce : Métro, arrêt Léon Blum et bus 42, arrêt centre administratif
-gallery: []
+gallery:
+- "/files/randonnee-urbaine-2.jpg"
+- "/files/randonnee-urbaine-3.jpg"
+- "/files/randonnee-urbaine-1.jpg"
 itinerary:
 - event: static/events/grande-tablee-de-lancement.md
   label: 18h30 Une soirée festive au Forum
