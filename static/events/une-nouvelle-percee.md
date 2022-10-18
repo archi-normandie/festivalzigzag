@@ -23,7 +23,10 @@ informations:
     RDV devant l'espace Simone Veil, 25 Rue Lesueur
     - 2 min à pieds depuis la gare du Havre
     - Réseau LiA : Nombreux bus autour de la gare (4, 8, 9, 12...)
-gallery: []
+gallery:
+- "/files/nouvelle-percee-lh-3.jpg"
+- "/files/nouvelle-percee-lh-2.jpg"
+- "/files/nouvelle-percee-lh-1.jpg"
 itinerary: []
 
 ---
