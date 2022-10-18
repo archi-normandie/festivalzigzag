@@ -23,7 +23,10 @@ informations:
     RDV rive gauche, en haut de l'escalier ouest du pont Boieldieu
     - 20 min à pieds depuis la gare de Rouen
     - Réseau Astuce : Métro, arrêt Joffre-Mutualité
-gallery: []
+gallery:
+- "/files/eop-rouen-4.jpg"
+- "/files/eop-rouen-2.jpg"
+- "/files/eop-rouen-3.jpg"
 itinerary:
 - label: 17h Emission radio au Forum
   event: static/events/et-vous-vous-habitez-ou.md
