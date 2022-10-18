@@ -23,7 +23,10 @@ informations:
     RDV devant la mairie, place Adolphe Barette
     - 8 min à pieds depuis la gare de Vernon
     - Réseau SNgo : Bus 4 et 10, arrêt Albuféra
-gallery: []
+gallery:
+- "/files/vernon-coeur-de-ville-2.jpg"
+- "/files/vernon-coeur-de-ville-3.jpg"
+- "/files/vernon-coeur-de-ville-1.jpg"
 itinerary: []
 
 ---
