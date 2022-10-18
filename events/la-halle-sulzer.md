@@ -22,8 +22,8 @@ informations:
   rdv: RDV devant la gare, place du 8 Mai 1945
 gallery:
 - "/files/halle-sulzer-5.jpg"
-- "/files/halle-sulzer-3.jpg"
 - "/files/halle-sulzer-1.jpg"
+- "/files/halle-sulzer-3.jpg"
 itinerary: []
 
 ---

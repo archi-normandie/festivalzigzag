@@ -25,8 +25,8 @@ informations:
     - Réseau Astuce : Bus 27 et F6, arrêt Mairie de Petit-Couronne
 gallery:
 - "/files/le-sillon-1.jpg"
-- "/files/le-sillon-3.jpg"
 - "/files/le-sillon-2.jpg"
+- "/files/le-sillon-3.jpg"
 itinerary:
 - label: 10h Balade quevillaise
   event: static/events/balade-quevillaise.md

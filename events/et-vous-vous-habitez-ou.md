@@ -25,8 +25,8 @@ informations:
     - Réseau Astuce : Bus T1, T2 et T3, arrêt place Saint-Marc
 gallery:
 - "/files/podcast-3.jpg"
-- "/files/podcast-2.jpg"
 - "/files/podcast.jpg"
+- "/files/podcast-2.jpg"
 itinerary:
 - label: 14h30 Parcours photographique sur les quais
   event: static/events/eop-chamane-lumiere.md

@@ -25,8 +25,8 @@ informations:
     - Réseau LiA : Bus 10 et 13, arrêt A. Huart
 gallery:
 - "/files/octeville-2.jpg"
-- "/files/octeville-3.jpg"
 - "/files/octeville-1.jpg"
+- "/files/octeville-3.jpg"
 itinerary: []
 
 ---
