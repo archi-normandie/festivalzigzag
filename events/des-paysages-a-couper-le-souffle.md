@@ -24,7 +24,10 @@ informations:
     RDV parking du Château-Gaillard, au bout de l’allée du Roi de Rome
     - 30 min à pieds depuis la gare routière des Andelys
     - Réseau SNgo : Bus 8, arrêt Stade Tomasini, continuer 11 min à pieds
-gallery: []
+gallery:
+- "/files/les-andelys-1.jpg"
+- "/files/les-andelys-2.jpg"
+- "/files/les-andelys-3.jpg"
 itinerary:
 - label: 10h Visite du chantier de la Manuf'
   event: static/events/manufacture-des-capucins.md
