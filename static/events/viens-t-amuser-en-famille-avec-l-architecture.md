@@ -23,7 +23,10 @@ informations:
     RDV Médiathèque de Vernon, salle Maubert, 12 av Victor Hugo
     - 6 min à pieds depuis la gare de Vernon
     - Réseau SNgo : Bus 1 à 4, arrêt Bully
-gallery: []
+gallery:
+- "/files/kapla-3.jpg"
+- "/files/kapla-1.jpg"
+- "/files/kapla-2.jpg"
 itinerary: []
 
 ---
