@@ -22,7 +22,10 @@ informations:
     Accès libre en extérieur :
     à Rouen : départ rive gauche, quai bas au niveau du pont Boieldieu. Réseau Astuce : Métro, arrêt Joffre-Mutualité
     - à Bois-Guillaume : départ école élémentaire Les Portes de la Forêt, 67 place des Erables. Réseau Astuce : Bus 11, arrêt Table de Pierre
-gallery: []
+gallery:
+- "/files/eop-2022-3.jpg"
+- "/files/eop-2022-1.jpg"
+- "/files/eop-2022-2.jpg"
 itinerary:
 - label: Parcours photographique à Rouen
   event: static/events/eop-chamane-lumiere.md
