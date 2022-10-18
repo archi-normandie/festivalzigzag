@@ -23,7 +23,10 @@ informations:
     RDV quais bas rive gauche, au pied du pont Jeanne d’Arc
     - 20 min à pieds depuis la gare de Rouen
     - Réseau Astuce : Métro, arrêt Joffre-Mutualité
-gallery: []
+gallery:
+- "/files/quai-lumiere-2.jpg"
+- "/files/quai-lumiere-1.jpg"
+- "/files/quai-lumiere-3.jpg"
 itinerary:
 - label: 14h30 Déambulation à la recherche de trésors cachés
   event: static/events/panorama-republique.md
