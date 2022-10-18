@@ -26,7 +26,10 @@ informations:
     RDV Maison du Patrimoine Le Havre Seine Métropole, 181 rue de Paris
     - 18 min à pieds depuis la gare du Havre
     - Réseau LiA : Bus 1, 4, 6 et 7, arrêt George V
-gallery: []
+gallery:
+- "/files/ilka-visite-3.jpg"
+- "/files/ilka-visite-2.jpg"
+- "/files/ilka-visite-1.jpg"
 itinerary:
 - label: 10h Visite du chantier de la tour Alta
   event: static/events/tour-alta.md
