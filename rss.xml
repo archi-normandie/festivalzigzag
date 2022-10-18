@@ -4,7 +4,7 @@
         <title>undefined</title>
         <link>https://festivalzigzag.fr/rss.xml</link>
         <description>Journal du Festival Zigzag</description>
-        <lastBuildDate>Tue, 18 Oct 2022 09:53:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Oct 2022 09:58:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
         <item>
@@ -571,6 +571,18 @@
 ]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Zigzag 2021 - week-end #2]]></title>
+            <link>https://festivalzigzag.fr/stories/zigzag-2021-week-end-2</link>
+            <guid>/stories/zigzag-2021-week-end-2</guid>
+            <pubDate>Mon, 19 Jan 1970 21:48:22 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="zigzag---2eme-week-end">ZIGZAG - 2EME WEEK-END</h2>
+<p>&lt; ZIGZAG - 2ème WEEK-END &gt;</p>
+<p>Le week-end a commencé vendredi avec la balade du <strong>CAUE de la Seine-Maritime</strong> &quot;À la découverte d’une cité jardin emblématique&quot; à Port-Jérôme. Le soir, on découvrait le projet du renouveau du quartier République à Elbeuf Sur Seine, avec la <strong>Métropole Rouen Normandie</strong> et <strong>Emmanuel Côme</strong>, architecte. Au même moment au Havre, on assistait à une table-ronde à <strong>La Halle aux Poissons</strong>, suivi d&#39;un dîner d&#39;exception de <strong>Le Donjon - Domaine Saint Clair</strong> !</p>
+<p>Samedi, on s&#39;est levé tôt pour une randonnée le long de la Seine avec <strong>Le voyage métropolitain</strong> et une visite architecturale à Pont-Audemer du nouveau cinéma conçu par les architectes des agences <strong>Jakob + MacFarlane</strong> et <strong>Atelier Des Deux Anges</strong>. Puis on est retourné à Elbeuf-sur-Seine pour une balade paysagère entre les trames vertes et bleues de la ville avec <strong>Denis Comont</strong>, paysagiste-concepteur <strong>agence Arc en terre</strong>, et le soutien de la <strong>Fédération Française du Paysage - Normandie</strong>.</p>
+<p>Et dimanche…</p>
+]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Zigzag 2021 - week-end #3 (suite et fin)]]></title>
             <link>https://festivalzigzag.fr/stories/zigzag-2021-week-end-3-suite-et-fin</link>
             <guid>/stories/zigzag-2021-week-end-3-suite-et-fin</guid>
@@ -581,18 +593,6 @@
 <p>Merci à tous pour ces belles journées Zigzag et rendez-vous en 2022 pour une nouvelle édition du festival !</p>
 <p><strong><em>#zigzagfestivalarchitecture</em></strong> est porté par la <a href="http://man-leforum.fr/maison-de-l-architecture/">Maison de l&#39;architecture de Normandie - le Forum</a></p>
 <p><strong><em>#touspourlarchi</em></strong></p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Zigzag 2021 - week-end #2]]></title>
-            <link>https://festivalzigzag.fr/stories/zigzag-2021-week-end-2</link>
-            <guid>/stories/zigzag-2021-week-end-2</guid>
-            <pubDate>Mon, 19 Jan 1970 21:48:22 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="zigzag---2eme-week-end">ZIGZAG - 2EME WEEK-END</h2>
-<p>&lt; ZIGZAG - 2ème WEEK-END &gt;</p>
-<p>Le week-end a commencé vendredi avec la balade du <strong>CAUE de la Seine-Maritime</strong> &quot;À la découverte d’une cité jardin emblématique&quot; à Port-Jérôme. Le soir, on découvrait le projet du renouveau du quartier République à Elbeuf Sur Seine, avec la <strong>Métropole Rouen Normandie</strong> et <strong>Emmanuel Côme</strong>, architecte. Au même moment au Havre, on assistait à une table-ronde à <strong>La Halle aux Poissons</strong>, suivi d&#39;un dîner d&#39;exception de <strong>Le Donjon - Domaine Saint Clair</strong> !</p>
-<p>Samedi, on s&#39;est levé tôt pour une randonnée le long de la Seine avec <strong>Le voyage métropolitain</strong> et une visite architecturale à Pont-Audemer du nouveau cinéma conçu par les architectes des agences <strong>Jakob + MacFarlane</strong> et <strong>Atelier Des Deux Anges</strong>. Puis on est retourné à Elbeuf-sur-Seine pour une balade paysagère entre les trames vertes et bleues de la ville avec <strong>Denis Comont</strong>, paysagiste-concepteur <strong>agence Arc en terre</strong>, et le soutien de la <strong>Fédération Française du Paysage - Normandie</strong>.</p>
-<p>Et dimanche…</p>
 ]]></content:encoded>
         </item>
         <item>

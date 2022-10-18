@@ -23,7 +23,10 @@ informations:
     RDV devant l’entrée principale de la Poudrerie Royale, 94 rue des Martyrs de la Résistance
     - 24 min en vélo depuis la gare de Rouen
     - Réseau Astuce : Bus 35 et 10, arrêt Centre d'art contemporain et F4, arrêt Maromme Centre
-gallery: []
+gallery:
+- "/files/poudrerie-3.jpg"
+- "/files/poudrerie-1.jpg"
+- "/files/poudrerie-2.jpg"
 itinerary:
 - label: 14h30 Nouvelle visite avec AZ architectes
   event: static/events/lanimea-reconversion-animee.md
