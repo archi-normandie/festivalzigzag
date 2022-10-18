@@ -21,9 +21,9 @@ informations:
   note: Attention chantier, prévoir de bonnes chaussures
   rdv: RDV place de l'Eglise
 gallery:
-- "/files/effet-de-surprise-3.jpg"
 - "/files/effet-de-surprise-1.jpg"
 - "/files/effet-de-surprise-2.jpg"
+- "/files/effet-de-surprise-3.jpg"
 itinerary:
 - label: 10h Déambulation au Havre
   event: static/events/le-havre-vu-de-la-citadelle.md
