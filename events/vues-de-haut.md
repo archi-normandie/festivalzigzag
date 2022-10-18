@@ -29,7 +29,10 @@ informations:
     - Mairie annexe : centre culturel Marx Dormoy, Place Gabriel Perri. Bus 27 et 42, arrêt le Bourg
     - Hôtel de ville : entrée de la mairie côté parking, av. Léon Blum. Métro, arrêt J.F. Kennedy et bus 42, arrêt centre administratif
     - Immeuble Nymphéa : 1 rue Eugène Boudin. Métro, arrêt Paul Cézanne
-gallery: []
+gallery:
+- "/files/vue-de-haut-2.jpg"
+- "/files/vue-de-haut-1.jpg"
+- "/files/vue-de-haut-3.jpg"
 itinerary:
 - label: 14h30 Parcours photographique sur les quais
   event: static/events/eop-chamane-lumiere.md
