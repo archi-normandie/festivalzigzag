@@ -25,8 +25,8 @@ informations:
     - Réseau Semo : Bus 2, arrêt Notre-Dame
 gallery:
 - "/files/carre-st-cyr-2.jpg"
-- "/files/carre-st-cyr-1.jpg"
 - "/files/carre-st-cyr-3.jpg"
+- "/files/carre-st-cyr-1.jpg"
 itinerary:
 - label: 18h30 Une soirée festive au Forum
   event: static/events/grande-tablee-de-lancement.md

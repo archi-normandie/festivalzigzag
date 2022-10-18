@@ -4,7 +4,7 @@
         <title>undefined</title>
         <link>https://festivalzigzag.fr/rss.xml</link>
         <description>Journal du Festival Zigzag</description>
-        <lastBuildDate>Tue, 18 Oct 2022 12:37:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Oct 2022 12:40:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
         <item>
@@ -167,25 +167,6 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Zigzag 2019 - Parcours au cœur d'une ville en chantier]]></title>
-            <link>https://festivalzigzag.fr/stories/parcours-urbain-au-coeur-d-un-beuzeville-en-chantier</link>
-            <guid>/stories/parcours-urbain-au-coeur-d-un-beuzeville-en-chantier</guid>
-            <pubDate>Mon, 19 Jan 1970 06:16:30 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="beuzeville-2020">BEUZEVILLE 2020</h2>
-<p>Beuzeville s’est lancée dans la reconquête de son cœur de ville, un projet urbain d’envergure qui, à travers la requalification du centre historique permettra de redynamiser l’ensemble de la ville et en changera durablement l’image. L’aménagement le plus important est celui du centre-bourg avec la création du pôle culturel de la cidrerie. La réhabilitation de cette friche industrielle désaffectée comprend un marché couvert alternatif, un foyer, un auditorium, une salle de spectacle et un silo-exposition.</p>
-<p>Aux côtés des paysagistes de Babylone et des architectes de Sunmetron, ce parcours permet d’appréhender le rôle de l’architecture et du paysage dans la dynamique économique et le rayonnement d’une commune.</p>
-<h3 id="les-visites-architecturales-et-de-chantiers">LES VISITES ARCHITECTURALES ET DE CHANTIERS</h3>
-<p>Ce qui est en jeu lors des visites :</p>
-<ul>
-<li>Donner à comprendre / à ressentir l’espace à l’échelle d’un bâtiment.</li>
-<li>Décrypter l’architecture dans les pas et les mots de l’architecte et de la maîtrise d’ouvrage.</li>
-<li>Comprendre le jeu de rôle, maîtres d’ouvrage / maîtres d’oeuvre / utilisateurs, permettant de mettre en lumière la complexité de la construction architecturale, la fabrication d’un projet.</li>
-<li>Appréhender le temps long du chantier.</li>
-</ul>
-<p>Les visites architecturales sont très plébiscitées par le public : elles donnent la possibilité d’entrer dans un bâtiment, comprendre sa fabrication, cheminer et appréhender l’articulation des espaces, les usages, la lumière, le parti architectural, les matériaux...</p>
-]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Zigzag 2019 - Parcours urbain à Elbeuf-sur-Seine]]></title>
             <link>https://festivalzigzag.fr/stories/parcours-urbain-a-elbeuf-sur-seine</link>
             <guid>/stories/parcours-urbain-a-elbeuf-sur-seine</guid>
@@ -247,32 +228,22 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Zigzag 2019 - RedBall Project en ouverture du festival ]]></title>
-            <link>https://festivalzigzag.fr/stories/redball-project</link>
-            <guid>/stories/redball-project</guid>
-            <pubDate>Mon, 19 Jan 1970 05:56:13 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="1ère-édition-du-27-sept-au-13-oct-2019">1ère édition du 27 sept. au 13 oct. 2019</h2>
-<p>Zigzag est un festival grand public, qui propose d’appréhender l’espace par un engagement du corps, afin de partager l’architecture, l’urbanisme et le paysage autrement, sur un territoire correspondant à la vallée de la Seine.</p>
-<p>Pour cette première édition, le Forum – Maison de l’architecture de Normandie a souhaité marquer les esprits avec un projet à la fois ludique et fort de sens. Il a convié en ouverture Kurt Perschke à investir les rues de Rouen. Artiste américain, il a conçu <strong>RedBall Project</strong>, une installation éphémère sculpturale de 4.5 mètres de diamètre et de 114 kg, elle voyage autour du monde et explore l’histoire et l’architecture de chaque ville.</p>
-<p>Avec humour Kurt Perschke place et compresse la RedBall entre divers immeubles, au-dessus de ponts accentuant des possibilités inattendues. Placée dans des espaces interstitiels, elle provoque la surprise, invite à lever la tête, révèle des lieux. La ville elle-même devient sa toile, pleine de potentialités. Le projet a été monté plus de 20 fois aux États-Unis, en Asie, en Australie et en Europe.</p>
-<p>A Rouen, la RedBall a été installée dans 6 lieux différents, du 27 septembre au 2 octobre 2019.<br>Pendant 6 jours, l’équipe du Forum était sur le terrain. Elle a pu observer le plaisir des passants, des familles, des touristes à découvrir cette boule rouge, à la croiser et pour certains, à prendre la pose devant elle. C’est là tout l’objet du travail de l&#39;artiste, très attentif à l’interaction que son projet suscite.</p>
-<p>Pour suivre RedBall Project : <a href="https://www.redballproject.com/">redballproject.com</a></p>
-<h3 id="paroles-de-passants">Paroles de passants</h3>
-<blockquote>
-<p>« Ça doit servir à tenir les maisons qui sont anciennes et qui s’écroulent. »</p>
-</blockquote>
-<blockquote>
-<p>« Ça fait du bien de voir ça dans l’’espace public. »</p>
-</blockquote>
-<blockquote>
-<p>« C’est quoi, c’est marrant ? »</p>
-</blockquote>
-<blockquote>
-<p>« Aujourd’hui au Kindarena, on ne la voit presque pas alors que rue du Gros horloge elle était trop grosse. »</p>
-</blockquote>
-<blockquote>
-<p>« ... pour moi le contemporain c’est la boule rouge, on voit qu’elle a du mal dans le centre-ville ancien, elle est coincée, plissée, elle ne trouve pas bien sa place ! »</p>
-</blockquote>
+            <title><![CDATA[Zigzag 2019 - Parcours au cœur d'une ville en chantier]]></title>
+            <link>https://festivalzigzag.fr/stories/parcours-urbain-au-coeur-d-un-beuzeville-en-chantier</link>
+            <guid>/stories/parcours-urbain-au-coeur-d-un-beuzeville-en-chantier</guid>
+            <pubDate>Mon, 19 Jan 1970 06:16:30 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="beuzeville-2020">BEUZEVILLE 2020</h2>
+<p>Beuzeville s’est lancée dans la reconquête de son cœur de ville, un projet urbain d’envergure qui, à travers la requalification du centre historique permettra de redynamiser l’ensemble de la ville et en changera durablement l’image. L’aménagement le plus important est celui du centre-bourg avec la création du pôle culturel de la cidrerie. La réhabilitation de cette friche industrielle désaffectée comprend un marché couvert alternatif, un foyer, un auditorium, une salle de spectacle et un silo-exposition.</p>
+<p>Aux côtés des paysagistes de Babylone et des architectes de Sunmetron, ce parcours permet d’appréhender le rôle de l’architecture et du paysage dans la dynamique économique et le rayonnement d’une commune.</p>
+<h3 id="les-visites-architecturales-et-de-chantiers">LES VISITES ARCHITECTURALES ET DE CHANTIERS</h3>
+<p>Ce qui est en jeu lors des visites :</p>
+<ul>
+<li>Donner à comprendre / à ressentir l’espace à l’échelle d’un bâtiment.</li>
+<li>Décrypter l’architecture dans les pas et les mots de l’architecte et de la maîtrise d’ouvrage.</li>
+<li>Comprendre le jeu de rôle, maîtres d’ouvrage / maîtres d’oeuvre / utilisateurs, permettant de mettre en lumière la complexité de la construction architecturale, la fabrication d’un projet.</li>
+<li>Appréhender le temps long du chantier.</li>
+</ul>
+<p>Les visites architecturales sont très plébiscitées par le public : elles donnent la possibilité d’entrer dans un bâtiment, comprendre sa fabrication, cheminer et appréhender l’articulation des espaces, les usages, la lumière, le parti architectural, les matériaux...</p>
 ]]></content:encoded>
         </item>
         <item>
@@ -485,6 +456,35 @@
 ]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Zigzag 2019 - RedBall Project en ouverture du festival ]]></title>
+            <link>https://festivalzigzag.fr/stories/redball-project</link>
+            <guid>/stories/redball-project</guid>
+            <pubDate>Mon, 19 Jan 1970 05:56:13 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="1ère-édition-du-27-sept-au-13-oct-2019">1ère édition du 27 sept. au 13 oct. 2019</h2>
+<p>Zigzag est un festival grand public, qui propose d’appréhender l’espace par un engagement du corps, afin de partager l’architecture, l’urbanisme et le paysage autrement, sur un territoire correspondant à la vallée de la Seine.</p>
+<p>Pour cette première édition, le Forum – Maison de l’architecture de Normandie a souhaité marquer les esprits avec un projet à la fois ludique et fort de sens. Il a convié en ouverture Kurt Perschke à investir les rues de Rouen. Artiste américain, il a conçu <strong>RedBall Project</strong>, une installation éphémère sculpturale de 4.5 mètres de diamètre et de 114 kg, elle voyage autour du monde et explore l’histoire et l’architecture de chaque ville.</p>
+<p>Avec humour Kurt Perschke place et compresse la RedBall entre divers immeubles, au-dessus de ponts accentuant des possibilités inattendues. Placée dans des espaces interstitiels, elle provoque la surprise, invite à lever la tête, révèle des lieux. La ville elle-même devient sa toile, pleine de potentialités. Le projet a été monté plus de 20 fois aux États-Unis, en Asie, en Australie et en Europe.</p>
+<p>A Rouen, la RedBall a été installée dans 6 lieux différents, du 27 septembre au 2 octobre 2019.<br>Pendant 6 jours, l’équipe du Forum était sur le terrain. Elle a pu observer le plaisir des passants, des familles, des touristes à découvrir cette boule rouge, à la croiser et pour certains, à prendre la pose devant elle. C’est là tout l’objet du travail de l&#39;artiste, très attentif à l’interaction que son projet suscite.</p>
+<p>Pour suivre RedBall Project : <a href="https://www.redballproject.com/">redballproject.com</a></p>
+<h3 id="paroles-de-passants">Paroles de passants</h3>
+<blockquote>
+<p>« Ça doit servir à tenir les maisons qui sont anciennes et qui s’écroulent. »</p>
+</blockquote>
+<blockquote>
+<p>« Ça fait du bien de voir ça dans l’’espace public. »</p>
+</blockquote>
+<blockquote>
+<p>« C’est quoi, c’est marrant ? »</p>
+</blockquote>
+<blockquote>
+<p>« Aujourd’hui au Kindarena, on ne la voit presque pas alors que rue du Gros horloge elle était trop grosse. »</p>
+</blockquote>
+<blockquote>
+<p>« ... pour moi le contemporain c’est la boule rouge, on voit qu’elle a du mal dans le centre-ville ancien, elle est coincée, plissée, elle ne trouve pas bien sa place ! »</p>
+</blockquote>
+]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Zigzag 2021 - du 25 septembre au 10 octobre]]></title>
             <link>https://festivalzigzag.fr/stories/zigzag-2021-du-25-septembre-au-10-octobre</link>
             <guid>/stories/zigzag-2021-du-25-septembre-au-10-octobre</guid>
@@ -571,18 +571,6 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Zigzag 2021 - week-end #2]]></title>
-            <link>https://festivalzigzag.fr/stories/zigzag-2021-week-end-2</link>
-            <guid>/stories/zigzag-2021-week-end-2</guid>
-            <pubDate>Mon, 19 Jan 1970 21:48:22 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="zigzag---2eme-week-end">ZIGZAG - 2EME WEEK-END</h2>
-<p>&lt; ZIGZAG - 2ème WEEK-END &gt;</p>
-<p>Le week-end a commencé vendredi avec la balade du <strong>CAUE de la Seine-Maritime</strong> &quot;À la découverte d’une cité jardin emblématique&quot; à Port-Jérôme. Le soir, on découvrait le projet du renouveau du quartier République à Elbeuf Sur Seine, avec la <strong>Métropole Rouen Normandie</strong> et <strong>Emmanuel Côme</strong>, architecte. Au même moment au Havre, on assistait à une table-ronde à <strong>La Halle aux Poissons</strong>, suivi d&#39;un dîner d&#39;exception de <strong>Le Donjon - Domaine Saint Clair</strong> !</p>
-<p>Samedi, on s&#39;est levé tôt pour une randonnée le long de la Seine avec <strong>Le voyage métropolitain</strong> et une visite architecturale à Pont-Audemer du nouveau cinéma conçu par les architectes des agences <strong>Jakob + MacFarlane</strong> et <strong>Atelier Des Deux Anges</strong>. Puis on est retourné à Elbeuf-sur-Seine pour une balade paysagère entre les trames vertes et bleues de la ville avec <strong>Denis Comont</strong>, paysagiste-concepteur <strong>agence Arc en terre</strong>, et le soutien de la <strong>Fédération Française du Paysage - Normandie</strong>.</p>
-<p>Et dimanche…</p>
-]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Zigzag 2021 - week-end #3 (suite et fin)]]></title>
             <link>https://festivalzigzag.fr/stories/zigzag-2021-week-end-3-suite-et-fin</link>
             <guid>/stories/zigzag-2021-week-end-3-suite-et-fin</guid>
@@ -593,6 +581,18 @@
 <p>Merci à tous pour ces belles journées Zigzag et rendez-vous en 2022 pour une nouvelle édition du festival !</p>
 <p><strong><em>#zigzagfestivalarchitecture</em></strong> est porté par la <a href="http://man-leforum.fr/maison-de-l-architecture/">Maison de l&#39;architecture de Normandie - le Forum</a></p>
 <p><strong><em>#touspourlarchi</em></strong></p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Zigzag 2021 - week-end #2]]></title>
+            <link>https://festivalzigzag.fr/stories/zigzag-2021-week-end-2</link>
+            <guid>/stories/zigzag-2021-week-end-2</guid>
+            <pubDate>Mon, 19 Jan 1970 21:48:22 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="zigzag---2eme-week-end">ZIGZAG - 2EME WEEK-END</h2>
+<p>&lt; ZIGZAG - 2ème WEEK-END &gt;</p>
+<p>Le week-end a commencé vendredi avec la balade du <strong>CAUE de la Seine-Maritime</strong> &quot;À la découverte d’une cité jardin emblématique&quot; à Port-Jérôme. Le soir, on découvrait le projet du renouveau du quartier République à Elbeuf Sur Seine, avec la <strong>Métropole Rouen Normandie</strong> et <strong>Emmanuel Côme</strong>, architecte. Au même moment au Havre, on assistait à une table-ronde à <strong>La Halle aux Poissons</strong>, suivi d&#39;un dîner d&#39;exception de <strong>Le Donjon - Domaine Saint Clair</strong> !</p>
+<p>Samedi, on s&#39;est levé tôt pour une randonnée le long de la Seine avec <strong>Le voyage métropolitain</strong> et une visite architecturale à Pont-Audemer du nouveau cinéma conçu par les architectes des agences <strong>Jakob + MacFarlane</strong> et <strong>Atelier Des Deux Anges</strong>. Puis on est retourné à Elbeuf-sur-Seine pour une balade paysagère entre les trames vertes et bleues de la ville avec <strong>Denis Comont</strong>, paysagiste-concepteur <strong>agence Arc en terre</strong>, et le soutien de la <strong>Fédération Française du Paysage - Normandie</strong>.</p>
+<p>Et dimanche…</p>
 ]]></content:encoded>
         </item>
         <item>

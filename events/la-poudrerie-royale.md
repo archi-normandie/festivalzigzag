@@ -25,8 +25,8 @@ informations:
     - Réseau Astuce : Bus 35 et 10, arrêt Centre d'art contemporain et F4, arrêt Maromme Centre
 gallery:
 - "/files/poudrerie-3.jpg"
-- "/files/poudrerie-1.jpg"
 - "/files/poudrerie-2.jpg"
+- "/files/poudrerie-1.jpg"
 itinerary:
 - label: 14h30 Nouvelle visite avec AZ architectes
   event: static/events/lanimea-reconversion-animee.md
