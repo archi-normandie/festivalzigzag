@@ -23,7 +23,10 @@ informations:
     RDV bassin du Roi, au niveau du pont Notre Dame
     - 18 min à pieds depuis la gare du Havre
     - Réseau LiA : Bus 4, arrêt Videcoq
-gallery: []
+gallery:
+- "/files/brunch-genius-2.jpg"
+- "/files/brunch-genius-3.jpg"
+- "/files/brunch-genius-1.jpg"
 itinerary:
 - label: 10h Déambulation au Havre
   event: static/events/le-havre-vu-de-la-citadelle.md
