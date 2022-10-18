@@ -23,7 +23,10 @@ informations:
     RDV quai Videcoq, au croisement du quai de l’Arsenal
     - 20 min à pieds depuis la gare du Havre
     - Réseau LiA : Bus 4, arrêt Richelieu et bus 6, arrêt O. Niemeyer
-gallery: []
+gallery:
+- "/files/tour-alta-1.jpg"
+- "/files/tour-alta-3.jpg"
+- "/files/tour-alta-2.jpg"
 itinerary:
 - label: 15h Déambulation au Havre
   event: static/events/regards-croises.md
