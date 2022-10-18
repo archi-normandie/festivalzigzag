@@ -25,7 +25,10 @@ informations:
   rdv: 'RDV Maison du Patrimoine Le Havre Seine Métropole, 181 rue de Paris - 18 min
     à pieds depuis la gare du Havre - Réseau LiA : Bus 1, 4, 6 et 7, arrêt George
     V'
-gallery: []
+gallery:
+- "/files/ilka-atelier-4.jpg"
+- "/files/ilka-atelier-3.jpg"
+- "/files/ilka-atelier-1.jpg"
 itinerary:
 - label: 12h Brunch + rétrospective GENiUS
   event: static/events/brunch-retrospective-genius.md
