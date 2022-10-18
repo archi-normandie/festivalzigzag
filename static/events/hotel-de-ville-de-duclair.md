@@ -23,9 +23,9 @@ informations:
     RDV devant la mairie, place du Général de Gaulle
     - Réseau astuce : Bus 530, arrêt bac de Duclair
 gallery:
-- "/files/duclair-3.jpg"
-- "/files/duclair-2.jpg"
 - "/files/duclair-1.jpg"
+- "/files/duclair-2.jpg"
+- "/files/duclair-3.jpg"
 itinerary:
 - label: 14h30 Visite de la Maison du parc
   event: static/events/renovation-de-la-maison-du-parc.md

@@ -20,6 +20,8 @@ informations:
   note: ''
   rdv: A écouter gratuitement
 gallery:
+- "/files/podcast-3.jpg"
+- "/files/podcast-2.jpg"
 - "/files/podcast.jpg"
 itinerary:
 - label: 'Emission radio - lancement des podcasts en direct '
