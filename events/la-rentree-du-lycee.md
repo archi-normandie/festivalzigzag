@@ -23,7 +23,10 @@ informations:
     RDV cour St-Philibert
     - 6 min à pieds depuis la gare de Montivilliers
     - Réseau LiA : Bus 1, arrêt F. Mitterrand
-gallery: []
+gallery:
+- "/files/montivilliers-1.jpg"
+- "/files/montivilliers-2.jpg"
+- "/files/montivilliers-3.jpg"
 itinerary:
 - label: 12h Brunch + rétrospective GENiUS
   event: static/events/brunch-retrospective-genius.md
