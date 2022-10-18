@@ -4,7 +4,7 @@
         <title>undefined</title>
         <link>https://festivalzigzag.fr/rss.xml</link>
         <description>Journal du Festival Zigzag</description>
-        <lastBuildDate>Tue, 18 Oct 2022 12:35:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Oct 2022 12:37:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
         <item>
@@ -311,6 +311,20 @@
 ]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Zigzag 2019 - Visites de chantier au Havre]]></title>
+            <link>https://festivalzigzag.fr/stories/visites-de-chantier-au-havre</link>
+            <guid>/stories/visites-de-chantier-au-havre</guid>
+            <pubDate>Mon, 19 Jan 1970 06:16:34 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="la-cité-numérique">LA CITÉ NUMÉRIQUE</h2>
+<p>Entre ville et port, ce totem architectural conçu par l’agence Groupe 6 est un projet à 360 degrés, au centre du campus maritime, tourné vers le large, la ville, les quais, la marina et la gare. Sa silhouette élancée affirme ses plateaux, avec des formes simples et rectilignes inscrites dans l’histoire des Docks. Ses façades en résille métallique révèlent sa vie intérieure, via les interstices entre ses différents niveaux, laissant apparaître le cœur de l’École de Management de Normandie et de la Cité Du Numérique. Un projet dont le programme et l’usage ont fait l’objet d’une concertation avec les habitants.</p>
+<p>Avec les architectes du projet et de la CU du Havre Métropole.</p>
+<h3 id="parole-de-paterne-bulcourt">Parole de Paterne Bulcourt</h3>
+<p><em>Architecte associé - La Manufacture d&#39;Architecture et membre du conseil d&#39;administration de la Maison de l&#39;architecture de Normandie - le Forum</em> </p>
+<p>« De simples curieux, voisins ou assidus de la MaN-Le Forum sont impatients de débuter la visite de la future cité numérique. Le Maître d’ouvrage et l’architecte de l’opération présentent le programme initial et ses ambitions. Vient le moment de s’équiper : casques blancs, et chasubles jaunes et oranges sont indispensables à toute bonne visite de chantier.</p>
+<p>La procession multicolore se dirige alors de surprises en surprises : un hall impressionnant, une terrasse panoramique donnant sur le Havre, des bureaux et des salles de classes inondés d’une lumière tamisée, maîtrisée par la résille métallique travaillée en façade. Les visiteurs sont conquis : <em>comment d’une telle massivité apparente peut-on passer à une telle finesse de lumières et de vues depuis l’intérieur ? Les futurs occupants auront bien de la chance de travailler ici !</em> »</p>
+]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Zigzag 2020 - #annulations ]]></title>
             <link>https://festivalzigzag.fr/stories/zigzag-2020-annulations</link>
             <guid>/stories/zigzag-2020-annulations</guid>
@@ -368,20 +382,6 @@
 <li>du mardi au vendredi : 14h - 18h // le samedi : 10h30 - 12h30 / 14h - 18h</li>
 <li>le Forum - Maison de l&#39;architecture de Normandie | 48 rue Victor Hugo, 76000 Rouen</li>
 </ul>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Zigzag 2019 - Visites de chantier au Havre]]></title>
-            <link>https://festivalzigzag.fr/stories/visites-de-chantier-au-havre</link>
-            <guid>/stories/visites-de-chantier-au-havre</guid>
-            <pubDate>Mon, 19 Jan 1970 06:16:34 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="la-cité-numérique">LA CITÉ NUMÉRIQUE</h2>
-<p>Entre ville et port, ce totem architectural conçu par l’agence Groupe 6 est un projet à 360 degrés, au centre du campus maritime, tourné vers le large, la ville, les quais, la marina et la gare. Sa silhouette élancée affirme ses plateaux, avec des formes simples et rectilignes inscrites dans l’histoire des Docks. Ses façades en résille métallique révèlent sa vie intérieure, via les interstices entre ses différents niveaux, laissant apparaître le cœur de l’École de Management de Normandie et de la Cité Du Numérique. Un projet dont le programme et l’usage ont fait l’objet d’une concertation avec les habitants.</p>
-<p>Avec les architectes du projet et de la CU du Havre Métropole.</p>
-<h3 id="parole-de-paterne-bulcourt">Parole de Paterne Bulcourt</h3>
-<p><em>Architecte associé - La Manufacture d&#39;Architecture et membre du conseil d&#39;administration de la Maison de l&#39;architecture de Normandie - le Forum</em> </p>
-<p>« De simples curieux, voisins ou assidus de la MaN-Le Forum sont impatients de débuter la visite de la future cité numérique. Le Maître d’ouvrage et l’architecte de l’opération présentent le programme initial et ses ambitions. Vient le moment de s’équiper : casques blancs, et chasubles jaunes et oranges sont indispensables à toute bonne visite de chantier.</p>
-<p>La procession multicolore se dirige alors de surprises en surprises : un hall impressionnant, une terrasse panoramique donnant sur le Havre, des bureaux et des salles de classes inondés d’une lumière tamisée, maîtrisée par la résille métallique travaillée en façade. Les visiteurs sont conquis : <em>comment d’une telle massivité apparente peut-on passer à une telle finesse de lumières et de vues depuis l’intérieur ? Les futurs occupants auront bien de la chance de travailler ici !</em> »</p>
 ]]></content:encoded>
         </item>
         <item>
