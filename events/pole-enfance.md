@@ -23,7 +23,10 @@ informations:
     RDV à côté du gymnase Terre d’Auge - Henri Even, rue de la Vicomté
     - 12 min à pieds depuis la gare de Pont l'Evêque
     - Réseau Nomad : bus 36 et 150, arrêt canal Bréban
-gallery: []
+gallery:
+- "/files/pole-enfance-1.jpg"
+- "/files/pole-enfance-3.jpg"
+- "/files/pole-enfance-2.jpg"
 itinerary:
 - label: 14h30 Visite de la maison du parc
   event: static/events/renovation-de-la-maison-du-parc.md
