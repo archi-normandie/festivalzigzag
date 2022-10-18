@@ -23,7 +23,10 @@ informations:
     RDV place de la République
     - 20 min à pieds, 6 min en vélo depuis la gare d'Elbeuf - Saint-Aubin
     - Réseau Astuce : Bus B, C et G, arrêt Sevestre Aîné
-gallery: []
+gallery:
+- "/files/elbeuf-4.jpg"
+- "/files/elbeuf-1.jpg"
+- "/files/elbeuf-2.jpg"
 itinerary:
 - label: 20h30 Déambulation nocturne en lumière
   event: static/events/quais-en-lumiere.md
