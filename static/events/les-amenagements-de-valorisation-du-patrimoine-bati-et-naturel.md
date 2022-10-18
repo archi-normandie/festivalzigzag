@@ -24,9 +24,9 @@ informations:
     - 45 min en vélo depuis la gare du Havre
     - 25 min en vélo depuis la gare d'Honfleur
 gallery:
-- "/files/sandouville-3.jpg"
-- "/files/sandouville-1.jpg"
 - "/files/sandouville-2.jpg"
+- "/files/sandouville-1.jpg"
+- "/files/sandouville-3.jpg"
 itinerary:
 - label: 12h Brunch + rétrospective GENiUS
   event: static/events/brunch-retrospective-genius.md
