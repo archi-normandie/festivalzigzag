@@ -4,7 +4,7 @@
         <title>undefined</title>
         <link>https://festivalzigzag.fr/rss.xml</link>
         <description>Journal du Festival Zigzag</description>
-        <lastBuildDate>Tue, 18 Oct 2022 10:03:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Oct 2022 10:07:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
         <item>
@@ -98,19 +98,6 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Zigzag 2019 - Naturaquarelle - installation de Mario Reis à vernon]]></title>
-            <link>https://festivalzigzag.fr/stories/naturaquarelle-installation-de-mario-reis-a-vernon</link>
-            <guid>/stories/naturaquarelle-installation-de-mario-reis-a-vernon</guid>
-            <pubDate>Mon, 19 Jan 1970 06:16:27 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="installation-daquarelles-à-la-manufacture-des-capucins">Installation d&#39;aquarelles à la Manufacture des Capucins</h2>
-<p>Depuis le mois de juin 2019, Mario Reis chemine le long de la Seine, installe des toiles vierges contre la surface de l’eau pour révéler les fonds des eaux. Les résultats sont aussi divers que les lieux parcourus. Ces aquarelles naturelles révèlent la mémoire de l’eau, tracent des empreintes des fonds aquatiques et constituent un ensemble d’œuvres abstraites qui retranscrivent la vitalité de la nature. À la faveur de Zigzag, la Manufacture des Capucins s’ouvre à cette performance et tisse un dialogue sensible avec le fleuve et son territoire.</p>
-<p>Avec la Maison des Arts de Grand Quevilly.</p>
-<h3 id="la-manufacture-des-capucins--transformation-en-cours">La Manufacture des Capucins : transformation en cours</h3>
-<p>Tiers-lieu d&#39;intérêt général dédié à la transition écologique, à Vernon, en Normandie. Il ouvrira progressivement à partir de 2020. On y découvrira: un café-cantine, une brasserie artisanale, un jardin, un programmation culturelle...</p>
-<p>Pour suivre le projet : <a href="https://www.facebook.com/LaManufactureDesCapucins/">La Manufacture des Capucins</a></p>
-]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Zigzag 2019 - Installation éphémère au Havre : Genius]]></title>
             <link>https://festivalzigzag.fr/stories/genius-2019-installation-ephemere-au-havre</link>
             <guid>/stories/genius-2019-installation-ephemere-au-havre</guid>
@@ -133,6 +120,19 @@
 </ul>
 <p><em>Dorothée Navarre, collectif Les Gens des Lieux</em></p>
 <p><strong>Genius revient en 2020 au Havre, suivez la page du collectif :</strong> <a href="https://www.facebook.com/Nouslesgensdeslieux/">Les Gens des Lieux</a></p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Zigzag 2019 - Naturaquarelle - installation de Mario Reis à vernon]]></title>
+            <link>https://festivalzigzag.fr/stories/naturaquarelle-installation-de-mario-reis-a-vernon</link>
+            <guid>/stories/naturaquarelle-installation-de-mario-reis-a-vernon</guid>
+            <pubDate>Mon, 19 Jan 1970 06:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="installation-daquarelles-à-la-manufacture-des-capucins">Installation d&#39;aquarelles à la Manufacture des Capucins</h2>
+<p>Depuis le mois de juin 2019, Mario Reis chemine le long de la Seine, installe des toiles vierges contre la surface de l’eau pour révéler les fonds des eaux. Les résultats sont aussi divers que les lieux parcourus. Ces aquarelles naturelles révèlent la mémoire de l’eau, tracent des empreintes des fonds aquatiques et constituent un ensemble d’œuvres abstraites qui retranscrivent la vitalité de la nature. À la faveur de Zigzag, la Manufacture des Capucins s’ouvre à cette performance et tisse un dialogue sensible avec le fleuve et son territoire.</p>
+<p>Avec la Maison des Arts de Grand Quevilly.</p>
+<h3 id="la-manufacture-des-capucins--transformation-en-cours">La Manufacture des Capucins : transformation en cours</h3>
+<p>Tiers-lieu d&#39;intérêt général dédié à la transition écologique, à Vernon, en Normandie. Il ouvrira progressivement à partir de 2020. On y découvrira: un café-cantine, une brasserie artisanale, un jardin, un programmation culturelle...</p>
+<p>Pour suivre le projet : <a href="https://www.facebook.com/LaManufactureDesCapucins/">La Manufacture des Capucins</a></p>
 ]]></content:encoded>
         </item>
         <item>
@@ -183,6 +183,32 @@
 <li>Appréhender le temps long du chantier.</li>
 </ul>
 <p>Les visites architecturales sont très plébiscitées par le public : elles donnent la possibilité d’entrer dans un bâtiment, comprendre sa fabrication, cheminer et appréhender l’articulation des espaces, les usages, la lumière, le parti architectural, les matériaux...</p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Zigzag 2019 - Parcours urbain à Elbeuf-sur-Seine]]></title>
+            <link>https://festivalzigzag.fr/stories/parcours-urbain-a-elbeuf-sur-seine</link>
+            <guid>/stories/parcours-urbain-a-elbeuf-sur-seine</guid>
+            <pubDate>Mon, 19 Jan 1970 06:16:34 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="cueillir-la-ville-de-la-seine-à-la-forêt">CUEILLIR LA VILLE, DE LA SEINE À LA FORÊT</h2>
+<p>Cette déambulation propose de découvrir la ville d’Elbeuf par le prisme de son paysage et de la relation étroite qu’elle entretien avec son fleuve. Le temps long de la géologie est important pour comprendre Elbeuf, sa relation à la Seine, à sa vallée et aux forêts. La déambulation explore le temps, les éléments, le sensible du quotidien. Quelle relation à sa ville ? </p>
+<p>Les participants sont invités à cueillir la ville et se saisir ainsi de ce qui fait le paysage d’Elbeuf : des fragments, des extraits, des petits bouts de choses, de souvenirs qui une fois assemblés collectivement forment un tableau : un récit de la ville d’Elbeuf.</p>
+<p>Avec La Fabrique des Savoirs, la MJC d’Elbeuf et la Locomotive, Mathilde Métral et Pauline Broquin, paysagistes.</p>
+<h3 id="les-parcours---balades---explorations">LES PARCOURS - BALADES - EXPLORATIONS</h3>
+<p><strong>Ce qui est en jeu lors des parcours :</strong></p>
+<p>Questionner le rapport au territoire, au patrimoine, à sa mémoire, relier le contexte géographique, l’activité économique, les moyens de transport.</p>
+<p>Proposer une lecture des éléments construits et naturels, et les mettre en relation.</p>
+<p><strong>Les thèmes soulevés :</strong></p>
+<ul>
+<li>Comment conjuguer habitat et présence de l’eau ?</li>
+<li>Comment habiter et préserver ?</li>
+<li>Quelle relation port et ville ?</li>
+<li>Quelle dynamique de territoire dans une vallée ?</li>
+</ul>
+<p><strong>Ce qui a été mis en avant :</strong></p>
+<p>Découverte de la cohabitation fragile du bâti et des espaces naturels, des espaces de rétention, des efforts réalisés pour la biodiversité.</p>
+<p>Des paysages culturels évolutifs vivants ...</p>
+<p>Mise en valeur de quartiers en mutations profondes.</p>
 ]]></content:encoded>
         </item>
         <item>
@@ -247,32 +273,6 @@
 <blockquote>
 <p>« ... pour moi le contemporain c’est la boule rouge, on voit qu’elle a du mal dans le centre-ville ancien, elle est coincée, plissée, elle ne trouve pas bien sa place ! »</p>
 </blockquote>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Zigzag 2019 - Parcours urbain à Elbeuf-sur-Seine]]></title>
-            <link>https://festivalzigzag.fr/stories/parcours-urbain-a-elbeuf-sur-seine</link>
-            <guid>/stories/parcours-urbain-a-elbeuf-sur-seine</guid>
-            <pubDate>Mon, 19 Jan 1970 06:16:34 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="cueillir-la-ville-de-la-seine-à-la-forêt">CUEILLIR LA VILLE, DE LA SEINE À LA FORÊT</h2>
-<p>Cette déambulation propose de découvrir la ville d’Elbeuf par le prisme de son paysage et de la relation étroite qu’elle entretien avec son fleuve. Le temps long de la géologie est important pour comprendre Elbeuf, sa relation à la Seine, à sa vallée et aux forêts. La déambulation explore le temps, les éléments, le sensible du quotidien. Quelle relation à sa ville ? </p>
-<p>Les participants sont invités à cueillir la ville et se saisir ainsi de ce qui fait le paysage d’Elbeuf : des fragments, des extraits, des petits bouts de choses, de souvenirs qui une fois assemblés collectivement forment un tableau : un récit de la ville d’Elbeuf.</p>
-<p>Avec La Fabrique des Savoirs, la MJC d’Elbeuf et la Locomotive, Mathilde Métral et Pauline Broquin, paysagistes.</p>
-<h3 id="les-parcours---balades---explorations">LES PARCOURS - BALADES - EXPLORATIONS</h3>
-<p><strong>Ce qui est en jeu lors des parcours :</strong></p>
-<p>Questionner le rapport au territoire, au patrimoine, à sa mémoire, relier le contexte géographique, l’activité économique, les moyens de transport.</p>
-<p>Proposer une lecture des éléments construits et naturels, et les mettre en relation.</p>
-<p><strong>Les thèmes soulevés :</strong></p>
-<ul>
-<li>Comment conjuguer habitat et présence de l’eau ?</li>
-<li>Comment habiter et préserver ?</li>
-<li>Quelle relation port et ville ?</li>
-<li>Quelle dynamique de territoire dans une vallée ?</li>
-</ul>
-<p><strong>Ce qui a été mis en avant :</strong></p>
-<p>Découverte de la cohabitation fragile du bâti et des espaces naturels, des espaces de rétention, des efforts réalisés pour la biodiversité.</p>
-<p>Des paysages culturels évolutifs vivants ...</p>
-<p>Mise en valeur de quartiers en mutations profondes.</p>
 ]]></content:encoded>
         </item>
         <item>
@@ -401,22 +401,6 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Zigzag 2020 - semaine #2]]></title>
-            <link>https://festivalzigzag.fr/stories/zigzag-2020-semaine-2</link>
-            <guid>/stories/zigzag-2020-semaine-2</guid>
-            <pubDate>Mon, 19 Jan 1970 13:14:21 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="une-semaine-entre-arts-et-paysages">UNE SEMAINE ENTRE ARTS ET PAYSAGES</h2>
-<p>Cette seconde semaine d&#39;événements a commencée mardi par une soirée théâtre-débat à <strong>Gaillon</strong>, avec <strong>la troupe Acaly</strong> qui présentait sa pièce « Les pieds dans l’eau » : <em>« L’histoire se déroule en 2060. Nous sommes chez Jeff, dans une petite maison en ville, accompagné de Cherka, l’intelligence artificielle qui a pour fonction de gérer le lieu. Mike arrive une nuit chez son ami Jeff, car tout est inondé dans le quartier. S’en suit alors un échange entre les deux amis pour trouver des solutions et dédramatiser la situation… ».</em></p>
-<p>Dans le cadre d’un cycle d’animations autour de la Seine et du risque inondation, proposé par l’<strong>Agglomération Seine Eure</strong>. Le spectacle était suivi d’un échange avec des maires de commune riveraine de Seine, pompier et associations. En présence de Bernard Leroy, Président de la Case.</p>
-<p>Mercredi, le festival Zigzag s&#39;est invité <strong>au Havre</strong> pour parcourir le parc de Rouelles, en compagnie de Franck Gaillet, paysagiste-concepteur, en partenariat avec la <strong>Fédération Française de Paysage, la Ville du Havre et la CU Le Havre Seine Métropole</strong>, et à <strong>Port-Mort</strong> pour la seconde balade photographique proposée et animée par le <strong>CAUE 27</strong>.</p>
-<p>Jeudi soir, retour <strong>au Havre</strong> pour une soirée au <strong>Hangar Zéro</strong>, avec le collectif <strong>Les Gens des Lieux</strong>, dans le cadre du projet <strong>Genius 2020</strong>, pour une soirée projection-rencontre :</p>
-<ul>
-<li>Projection du film de Laure Delamotte-Legrand sur les RIM, projet artistique coordonné par la compagnie <strong>Shifts art in movement</strong> en collaboration avec l’équipe du <strong>Phare - Centre chorégraphique national du Havre Normandie</strong>.</li>
-<li>La soirée c’est terminée par une rencontre sur le thème des démarches expérimentales en architecture, urbanisme, chorégraphie et dynamiques sociales.</li>
-</ul>
-]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Zigzag 2020 - semaine #1]]></title>
             <link>https://festivalzigzag.fr/stories/zigzag-2020-semaine-1</link>
             <guid>/stories/zigzag-2020-semaine-1</guid>
@@ -430,6 +414,22 @@
 </ul>
 <p>La semaine c&#39;est terminée avec une rencontre au Forum : <strong>Dans le Sens de Barge</strong> avec le duo d’artistes <strong>Eloise Le Gallo &amp; Julia Borderie</strong>, <strong>Marie-Laure Garnier</strong>, paysagiste et l’équipe du <strong>Parc Naturel Régional des Boucles de la Seine Normande</strong>, ont présenté leur réflexion commune sur le paysage séquanien façonné par les mouvements des couches sédimentaires et ses déplacements de terre que ce soit par l’action hydraulique, animale, ou encore humaine. Cet évènement amorcera le projet artistique 2020-2022 : <strong>Le Silence des Coquilles</strong>.</p>
 <p><em>L&#39;événement &quot;LA POLLUTION COMME PATRIMOINE : SYSTÈME LUBRIZOL ET MÉTROPOLISATION DE L&#39;AXE SEINE&quot;, organisé par le collectif Echelle Inconnue, a été malheureusement annulé suite aux nouvelles mesures sanitaires du gouvernement.</em></p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Zigzag 2020 - semaine #2]]></title>
+            <link>https://festivalzigzag.fr/stories/zigzag-2020-semaine-2</link>
+            <guid>/stories/zigzag-2020-semaine-2</guid>
+            <pubDate>Mon, 19 Jan 1970 13:14:21 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="une-semaine-entre-arts-et-paysages">UNE SEMAINE ENTRE ARTS ET PAYSAGES</h2>
+<p>Cette seconde semaine d&#39;événements a commencée mardi par une soirée théâtre-débat à <strong>Gaillon</strong>, avec <strong>la troupe Acaly</strong> qui présentait sa pièce « Les pieds dans l’eau » : <em>« L’histoire se déroule en 2060. Nous sommes chez Jeff, dans une petite maison en ville, accompagné de Cherka, l’intelligence artificielle qui a pour fonction de gérer le lieu. Mike arrive une nuit chez son ami Jeff, car tout est inondé dans le quartier. S’en suit alors un échange entre les deux amis pour trouver des solutions et dédramatiser la situation… ».</em></p>
+<p>Dans le cadre d’un cycle d’animations autour de la Seine et du risque inondation, proposé par l’<strong>Agglomération Seine Eure</strong>. Le spectacle était suivi d’un échange avec des maires de commune riveraine de Seine, pompier et associations. En présence de Bernard Leroy, Président de la Case.</p>
+<p>Mercredi, le festival Zigzag s&#39;est invité <strong>au Havre</strong> pour parcourir le parc de Rouelles, en compagnie de Franck Gaillet, paysagiste-concepteur, en partenariat avec la <strong>Fédération Française de Paysage, la Ville du Havre et la CU Le Havre Seine Métropole</strong>, et à <strong>Port-Mort</strong> pour la seconde balade photographique proposée et animée par le <strong>CAUE 27</strong>.</p>
+<p>Jeudi soir, retour <strong>au Havre</strong> pour une soirée au <strong>Hangar Zéro</strong>, avec le collectif <strong>Les Gens des Lieux</strong>, dans le cadre du projet <strong>Genius 2020</strong>, pour une soirée projection-rencontre :</p>
+<ul>
+<li>Projection du film de Laure Delamotte-Legrand sur les RIM, projet artistique coordonné par la compagnie <strong>Shifts art in movement</strong> en collaboration avec l’équipe du <strong>Phare - Centre chorégraphique national du Havre Normandie</strong>.</li>
+<li>La soirée c’est terminée par une rencontre sur le thème des démarches expérimentales en architecture, urbanisme, chorégraphie et dynamiques sociales.</li>
+</ul>
 ]]></content:encoded>
         </item>
         <item>
