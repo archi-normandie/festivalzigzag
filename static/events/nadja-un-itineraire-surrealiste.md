@@ -24,7 +24,10 @@ informations:
     RDV devant le Musée des Beaux-Arts, esplanade Marcel Duchamp
     - 6 min à pieds depuis la gare de Rouen
     - Réseau Astuce : Bus 11, 15, 22 et F2, F7 arrêt Beaux Arts
-gallery: []
+gallery:
+- "/files/nadja-3.jpg"
+- "/files/nadja-2.jpg"
+- "/files/nadja-1.jpg"
 itinerary:
 - label: 11h Parcours photographique EOP
   event: static/events/eop-nenets-une-vie-de-famille.md
