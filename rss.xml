@@ -4,7 +4,7 @@
         <title>undefined</title>
         <link>https://festivalzigzag.fr/rss.xml</link>
         <description>Journal du Festival Zigzag</description>
-        <lastBuildDate>Tue, 25 Oct 2022 08:34:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Oct 2022 08:39:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
         <item>
@@ -136,6 +136,25 @@
 ]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Zigzag 2019 - Parcours et ateliers le long de la Lézarde]]></title>
+            <link>https://festivalzigzag.fr/stories/parcours-et-ateliers-en-famille-le-long-de-la-lezarde</link>
+            <guid>/stories/parcours-et-ateliers-en-famille-le-long-de-la-lezarde</guid>
+            <pubDate>Mon, 19 Jan 1970 06:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="la-repousse-de-la-lézarde">LA REPOUSSE DE LA LÉZARDE</h2>
+<p><strong>à NOTRE-DAME-DU-BEC et ÉPOUVILLE</strong> </p>
+<p>Entre minéral et végétal, l’eau lézarde, de la campagne cauchoise à l’estuaire séquanien... Entre fil de l’eau et coteau, comment habite-t-on aujourd’hui aux abords de la vallée Lézarde au quotidien ? </p>
+<p>Deux protagonistes habitants lézardeux « Mossieau le Géomaître » et « la verte Demoiselle Lingénie » proposent d’en saisir les contours aux moyens d’un jeu de réflexion, de cartographie, de cueillette... Lors du parcours, ils étaient les guides de découvertes et vous étiez les « collecteurs » d’impressions au fil de l’eau. </p>
+<p>Animé par Edouard Sors, architecte et artiste, et Manuelle Molinas, comédienne.</p>
+<p><strong>Le parcours s&#39;est prolongé par des ateliers participatifs à ROLLEVILLE :</strong></p>
+<h2 id="le-lit-de-la-lézarde">LE LIT DE LA LÉZARDE</h2>
+<p>Ces ateliers proposent de manipuler les matières minérales et végétales de la vallée de la Lézarde, afin de réaliser un mur végétalisé à son image : argile, sableux, calcaire, silex et terre et végétaux. Poser, imaginer, tester l’eau et son mouvement pour comprendre la composition des coteaux, du plateau, la place des clôtures et des remblais... et composer une œuvre collective exposable. </p>
+<p>Un atelier pour redécouvrir la géographie, comprendre l’hydrogéologie de la vallée, « re » former et « re » border le lit de la Lézarde !</p>
+<h3 id="parole-de-stéphanie-boin">Parole de Stéphanie Boin</h3>
+<p><em>Chargée de projets Architecture, paysages et politiques publiques - Direction Attractivité du territoire - Le Havre Seine Métropole</em></p>
+<p>« La démarche d’ateliers-paysages le long de la vallée de la Lézarde a permis de tester un format original sur un thème qui ne l’était pas moins. Permettre à des habitants de poser leur regard sur la vallée, parfois malmenée par des projets d’aménagement hétéroclites, et de re-découvrir la présence de l’eau, sa proximité, de prendre conscience d’un paysage au patrimoine riche et multiple, naturel comme historique, était un vrai pari. Le <em>géomètre et Lingénie</em> ont su embarquer les participants dans leurs univers, entre minéral et végétal, pour une expérience insolite et pleine de sensibilité. »</p>
+]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Zigzag 2019 - Parcours en kayak à Pont-Audemer]]></title>
             <link>https://festivalzigzag.fr/stories/parcours-en-kayak-a-pont-audemer</link>
             <guid>/stories/parcours-en-kayak-a-pont-audemer</guid>
@@ -164,25 +183,6 @@
 <li>Appréhender le temps long du chantier.</li>
 </ul>
 <p>Les visites architecturales sont très plébiscitées par le public : elles donnent la possibilité d’entrer dans un bâtiment, comprendre sa fabrication, cheminer et appréhender l’articulation des espaces, les usages, la lumière, le parti architectural, les matériaux...</p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Zigzag 2019 - Parcours et ateliers le long de la Lézarde]]></title>
-            <link>https://festivalzigzag.fr/stories/parcours-et-ateliers-en-famille-le-long-de-la-lezarde</link>
-            <guid>/stories/parcours-et-ateliers-en-famille-le-long-de-la-lezarde</guid>
-            <pubDate>Mon, 19 Jan 1970 06:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="la-repousse-de-la-lézarde">LA REPOUSSE DE LA LÉZARDE</h2>
-<p><strong>à NOTRE-DAME-DU-BEC et ÉPOUVILLE</strong> </p>
-<p>Entre minéral et végétal, l’eau lézarde, de la campagne cauchoise à l’estuaire séquanien... Entre fil de l’eau et coteau, comment habite-t-on aujourd’hui aux abords de la vallée Lézarde au quotidien ? </p>
-<p>Deux protagonistes habitants lézardeux « Mossieau le Géomaître » et « la verte Demoiselle Lingénie » proposent d’en saisir les contours aux moyens d’un jeu de réflexion, de cartographie, de cueillette... Lors du parcours, ils étaient les guides de découvertes et vous étiez les « collecteurs » d’impressions au fil de l’eau. </p>
-<p>Animé par Edouard Sors, architecte et artiste, et Manuelle Molinas, comédienne.</p>
-<p><strong>Le parcours s&#39;est prolongé par des ateliers participatifs à ROLLEVILLE :</strong></p>
-<h2 id="le-lit-de-la-lézarde">LE LIT DE LA LÉZARDE</h2>
-<p>Ces ateliers proposent de manipuler les matières minérales et végétales de la vallée de la Lézarde, afin de réaliser un mur végétalisé à son image : argile, sableux, calcaire, silex et terre et végétaux. Poser, imaginer, tester l’eau et son mouvement pour comprendre la composition des coteaux, du plateau, la place des clôtures et des remblais... et composer une œuvre collective exposable. </p>
-<p>Un atelier pour redécouvrir la géographie, comprendre l’hydrogéologie de la vallée, « re » former et « re » border le lit de la Lézarde !</p>
-<h3 id="parole-de-stéphanie-boin">Parole de Stéphanie Boin</h3>
-<p><em>Chargée de projets Architecture, paysages et politiques publiques - Direction Attractivité du territoire - Le Havre Seine Métropole</em></p>
-<p>« La démarche d’ateliers-paysages le long de la vallée de la Lézarde a permis de tester un format original sur un thème qui ne l’était pas moins. Permettre à des habitants de poser leur regard sur la vallée, parfois malmenée par des projets d’aménagement hétéroclites, et de re-découvrir la présence de l’eau, sa proximité, de prendre conscience d’un paysage au patrimoine riche et multiple, naturel comme historique, était un vrai pari. Le <em>géomètre et Lingénie</em> ont su embarquer les participants dans leurs univers, entre minéral et végétal, pour une expérience insolite et pleine de sensibilité. »</p>
 ]]></content:encoded>
         </item>
         <item>
@@ -675,6 +675,15 @@
             <link>https://festivalzigzag.fr/stories/zigzag-2022-special-temps-forts</link>
             <guid>/stories/zigzag-2022-special-temps-forts</guid>
             <pubDate>Tue, 20 Jan 1970 06:58:05 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="zigzag---les-temps-forts">ZIGZAG - LES TEMPS FORTS</h2>
+<p>C&#39;est nouveau ! L&#39;équipe de la Maison de l&#39;architecture de Normandie - le Forum lance les &quot;tablées Zigzag&quot; pour cette quatrième édition du festival !</p>
+<p><strong>1 week-end / 1 ville / 1 tablée :</strong></p>
+<ul>
+<li>Samedi 1er octobre dès 18h30 - GRANDE TABLÉE DE LANCEMENT au Forum pour tous à Rouen dans le cadre de la Nuit blanche</li>
+<li>Dimanche 9 octobre à midi - TABLÉE À LA MANUFACTURE DES CAPUCINS à Vernon avec MWAH agence d&#39;architecture et La Manufacture des Capucins</li>
+<li>Dimanche 16 octobre dès midi - BRUNCH + RÉTROSPECTIVE GENIUS au Havre avec Les Gens des Lieux, Les Cueilleurs d&#39;Histoires, TERR&#39; O, Shifts - art in movement... </li>
+</ul>
+]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Zigzag 2022 - week-end #1]]></title>
