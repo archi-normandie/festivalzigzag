@@ -4,7 +4,7 @@
         <title>undefined</title>
         <link>https://festivalzigzag.fr/rss.xml</link>
         <description>Journal du Festival Zigzag</description>
-        <lastBuildDate>Tue, 25 Oct 2022 08:16:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Oct 2022 08:18:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
         <item>
@@ -148,6 +148,25 @@
 ]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Zigzag 2019 - Parcours et ateliers le long de la Lézarde]]></title>
+            <link>https://festivalzigzag.fr/stories/parcours-et-ateliers-en-famille-le-long-de-la-lezarde</link>
+            <guid>/stories/parcours-et-ateliers-en-famille-le-long-de-la-lezarde</guid>
+            <pubDate>Mon, 19 Jan 1970 06:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="la-repousse-de-la-lézarde">LA REPOUSSE DE LA LÉZARDE</h2>
+<p><strong>à NOTRE-DAME-DU-BEC et ÉPOUVILLE</strong> </p>
+<p>Entre minéral et végétal, l’eau lézarde, de la campagne cauchoise à l’estuaire séquanien... Entre fil de l’eau et coteau, comment habite-t-on aujourd’hui aux abords de la vallée Lézarde au quotidien ? </p>
+<p>Deux protagonistes habitants lézardeux « Mossieau le Géomaître » et « la verte Demoiselle Lingénie » proposent d’en saisir les contours aux moyens d’un jeu de réflexion, de cartographie, de cueillette... Lors du parcours, ils étaient les guides de découvertes et vous étiez les « collecteurs » d’impressions au fil de l’eau. </p>
+<p>Animé par Edouard Sors, architecte et artiste, et Manuelle Molinas, comédienne.</p>
+<p><strong>Le parcours s&#39;est prolongé par des ateliers participatifs à ROLLEVILLE :</strong></p>
+<h2 id="le-lit-de-la-lézarde">LE LIT DE LA LÉZARDE</h2>
+<p>Ces ateliers proposent de manipuler les matières minérales et végétales de la vallée de la Lézarde, afin de réaliser un mur végétalisé à son image : argile, sableux, calcaire, silex et terre et végétaux. Poser, imaginer, tester l’eau et son mouvement pour comprendre la composition des coteaux, du plateau, la place des clôtures et des remblais... et composer une œuvre collective exposable. </p>
+<p>Un atelier pour redécouvrir la géographie, comprendre l’hydrogéologie de la vallée, « re » former et « re » border le lit de la Lézarde !</p>
+<h3 id="parole-de-stéphanie-boin">Parole de Stéphanie Boin</h3>
+<p><em>Chargée de projets Architecture, paysages et politiques publiques - Direction Attractivité du territoire - Le Havre Seine Métropole</em></p>
+<p>« La démarche d’ateliers-paysages le long de la vallée de la Lézarde a permis de tester un format original sur un thème qui ne l’était pas moins. Permettre à des habitants de poser leur regard sur la vallée, parfois malmenée par des projets d’aménagement hétéroclites, et de re-découvrir la présence de l’eau, sa proximité, de prendre conscience d’un paysage au patrimoine riche et multiple, naturel comme historique, était un vrai pari. Le <em>géomètre et Lingénie</em> ont su embarquer les participants dans leurs univers, entre minéral et végétal, pour une expérience insolite et pleine de sensibilité. »</p>
+]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Zigzag 2019 - Parcours au cœur d'une ville en chantier]]></title>
             <link>https://festivalzigzag.fr/stories/parcours-urbain-au-coeur-d-un-beuzeville-en-chantier</link>
             <guid>/stories/parcours-urbain-au-coeur-d-un-beuzeville-en-chantier</guid>
@@ -190,25 +209,6 @@
 <p>Découverte de la cohabitation fragile du bâti et des espaces naturels, des espaces de rétention, des efforts réalisés pour la biodiversité.</p>
 <p>Des paysages culturels évolutifs vivants ...</p>
 <p>Mise en valeur de quartiers en mutations profondes.</p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Zigzag 2019 - Parcours et ateliers le long de la Lézarde]]></title>
-            <link>https://festivalzigzag.fr/stories/parcours-et-ateliers-en-famille-le-long-de-la-lezarde</link>
-            <guid>/stories/parcours-et-ateliers-en-famille-le-long-de-la-lezarde</guid>
-            <pubDate>Mon, 19 Jan 1970 06:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="la-repousse-de-la-lézarde">LA REPOUSSE DE LA LÉZARDE</h2>
-<p><strong>à NOTRE-DAME-DU-BEC et ÉPOUVILLE</strong> </p>
-<p>Entre minéral et végétal, l’eau lézarde, de la campagne cauchoise à l’estuaire séquanien... Entre fil de l’eau et coteau, comment habite-t-on aujourd’hui aux abords de la vallée Lézarde au quotidien ? </p>
-<p>Deux protagonistes habitants lézardeux « Mossieau le Géomaître » et « la verte Demoiselle Lingénie » proposent d’en saisir les contours aux moyens d’un jeu de réflexion, de cartographie, de cueillette... Lors du parcours, ils étaient les guides de découvertes et vous étiez les « collecteurs » d’impressions au fil de l’eau. </p>
-<p>Animé par Edouard Sors, architecte et artiste, et Manuelle Molinas, comédienne.</p>
-<p><strong>Le parcours s&#39;est prolongé par des ateliers participatifs à ROLLEVILLE :</strong></p>
-<h2 id="le-lit-de-la-lézarde">LE LIT DE LA LÉZARDE</h2>
-<p>Ces ateliers proposent de manipuler les matières minérales et végétales de la vallée de la Lézarde, afin de réaliser un mur végétalisé à son image : argile, sableux, calcaire, silex et terre et végétaux. Poser, imaginer, tester l’eau et son mouvement pour comprendre la composition des coteaux, du plateau, la place des clôtures et des remblais... et composer une œuvre collective exposable. </p>
-<p>Un atelier pour redécouvrir la géographie, comprendre l’hydrogéologie de la vallée, « re » former et « re » border le lit de la Lézarde !</p>
-<h3 id="parole-de-stéphanie-boin">Parole de Stéphanie Boin</h3>
-<p><em>Chargée de projets Architecture, paysages et politiques publiques - Direction Attractivité du territoire - Le Havre Seine Métropole</em></p>
-<p>« La démarche d’ateliers-paysages le long de la vallée de la Lézarde a permis de tester un format original sur un thème qui ne l’était pas moins. Permettre à des habitants de poser leur regard sur la vallée, parfois malmenée par des projets d’aménagement hétéroclites, et de re-découvrir la présence de l’eau, sa proximité, de prendre conscience d’un paysage au patrimoine riche et multiple, naturel comme historique, était un vrai pari. Le <em>géomètre et Lingénie</em> ont su embarquer les participants dans leurs univers, entre minéral et végétal, pour une expérience insolite et pleine de sensibilité. »</p>
 ]]></content:encoded>
         </item>
         <item>
@@ -638,6 +638,21 @@
 <li>SANDOUVILLE (76)</li>
 <li>VERNON (27)</li>
 </ul>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Zigzag 2022 - week-end #1]]></title>
+            <link>https://festivalzigzag.fr/stories/zigzag-2022-week-end-1</link>
+            <guid>/stories/zigzag-2022-week-end-1</guid>
+            <pubDate>Tue, 20 Jan 1970 06:58:05 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="zigzag---1er-week-end">ZIGZAG - 1ER WEEK-END</h2>
+<p>On a marché, pique-niqué, visité, pris de la hauteur, invoqué les esprits, porté un casque de chantier, mangé, chanté, trinqué, sorti son parapluie, écrit, visionné, écouté...</p>
+<p>Merci à tous pour ce super week-end <strong>décalé, mais pour mieux regarder</strong> le territoire, celui de la vallée de la Seine, avec :</p>
+<p>Agence d&#39;urbanisme de Rouen et des boucles de Seine et Eure, Agglo Seine-Eure, Caudebec lès Elbeuf, CAUE de la Seine-Maritime, Ville de Rouen, Grand Quevilly, La loge des auteurs photographes, Flore-Aël Surun, La Métropolitaine, La Poudrerie Royale, Lanimea tisseurs d&#39;images - Ecole de l&#39;image animée en Normandie, Le Sillon à Petit-Couronne, Le voyage métropolitain, Métropole Rouen Normandie, RMM Rouen, Rouen Seine normande 2028, Ville de Bois-Guillaume...</p>
+<ul>
+<li>Rendez-vous dès mercredi pour la suite du programme !</li>
+</ul>
+<p><a href="https://www.facebook.com/zigzagfestivalarchitecture/">#zigzagfestivalarchitecture</a></p>
 ]]></content:encoded>
         </item>
     </channel>
