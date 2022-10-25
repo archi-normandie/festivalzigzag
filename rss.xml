@@ -4,7 +4,7 @@
         <title>undefined</title>
         <link>https://festivalzigzag.fr/rss.xml</link>
         <description>Journal du Festival Zigzag</description>
-        <lastBuildDate>Tue, 25 Oct 2022 08:23:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Oct 2022 08:34:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
         <item>
@@ -148,25 +148,6 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Zigzag 2019 - Parcours et ateliers le long de la Lézarde]]></title>
-            <link>https://festivalzigzag.fr/stories/parcours-et-ateliers-en-famille-le-long-de-la-lezarde</link>
-            <guid>/stories/parcours-et-ateliers-en-famille-le-long-de-la-lezarde</guid>
-            <pubDate>Mon, 19 Jan 1970 06:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="la-repousse-de-la-lézarde">LA REPOUSSE DE LA LÉZARDE</h2>
-<p><strong>à NOTRE-DAME-DU-BEC et ÉPOUVILLE</strong> </p>
-<p>Entre minéral et végétal, l’eau lézarde, de la campagne cauchoise à l’estuaire séquanien... Entre fil de l’eau et coteau, comment habite-t-on aujourd’hui aux abords de la vallée Lézarde au quotidien ? </p>
-<p>Deux protagonistes habitants lézardeux « Mossieau le Géomaître » et « la verte Demoiselle Lingénie » proposent d’en saisir les contours aux moyens d’un jeu de réflexion, de cartographie, de cueillette... Lors du parcours, ils étaient les guides de découvertes et vous étiez les « collecteurs » d’impressions au fil de l’eau. </p>
-<p>Animé par Edouard Sors, architecte et artiste, et Manuelle Molinas, comédienne.</p>
-<p><strong>Le parcours s&#39;est prolongé par des ateliers participatifs à ROLLEVILLE :</strong></p>
-<h2 id="le-lit-de-la-lézarde">LE LIT DE LA LÉZARDE</h2>
-<p>Ces ateliers proposent de manipuler les matières minérales et végétales de la vallée de la Lézarde, afin de réaliser un mur végétalisé à son image : argile, sableux, calcaire, silex et terre et végétaux. Poser, imaginer, tester l’eau et son mouvement pour comprendre la composition des coteaux, du plateau, la place des clôtures et des remblais... et composer une œuvre collective exposable. </p>
-<p>Un atelier pour redécouvrir la géographie, comprendre l’hydrogéologie de la vallée, « re » former et « re » border le lit de la Lézarde !</p>
-<h3 id="parole-de-stéphanie-boin">Parole de Stéphanie Boin</h3>
-<p><em>Chargée de projets Architecture, paysages et politiques publiques - Direction Attractivité du territoire - Le Havre Seine Métropole</em></p>
-<p>« La démarche d’ateliers-paysages le long de la vallée de la Lézarde a permis de tester un format original sur un thème qui ne l’était pas moins. Permettre à des habitants de poser leur regard sur la vallée, parfois malmenée par des projets d’aménagement hétéroclites, et de re-découvrir la présence de l’eau, sa proximité, de prendre conscience d’un paysage au patrimoine riche et multiple, naturel comme historique, était un vrai pari. Le <em>géomètre et Lingénie</em> ont su embarquer les participants dans leurs univers, entre minéral et végétal, pour une expérience insolite et pleine de sensibilité. »</p>
-]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Zigzag 2019 - Parcours au cœur d'une ville en chantier]]></title>
             <link>https://festivalzigzag.fr/stories/parcours-urbain-au-coeur-d-un-beuzeville-en-chantier</link>
             <guid>/stories/parcours-urbain-au-coeur-d-un-beuzeville-en-chantier</guid>
@@ -186,16 +167,48 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Zigzag 2019 - Parcours à travers les paysages du Roumois]]></title>
-            <link>https://festivalzigzag.fr/stories/parcours-a-travers-les-paysages-du-roumois</link>
-            <guid>/stories/parcours-a-travers-les-paysages-du-roumois</guid>
-            <pubDate>Mon, 19 Jan 1970 06:16:30 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="une-marche-du-moulin-à-la-seine">UNE MARCHE DU MOULIN À LA SEINE</h2>
-<p>Le collectif Superoumois vous invite à venir vous balader à travers les paysages du Roumois: entre champs, plateau, hameaux ou bords de Seine, venez partager et croiser votre regard sur les paysages et les pépites de vos lieux de vie ! </p>
-<p>Depuis septembre 2019 ce collectif travaille avec la Communauté de communes Roumois Seine afin de révéler les visions partagées du territoire, autour de nouveaux formats de dialogue avec ses habitants. Grâce à l’animation de metteur en scène, urbaniste, paysagiste, chef de projet culturel, venez partager cette expérience inédite proche de chez vous !</p>
-<h3 id="parole-de-christine-boisseau">Parole de Christine Boisseau</h3>
-<p><em>Chargée de mission - Urbaniste - CAUE 27</em></p>
-<p>« La balade était intéressante, le format artistique a permis de bien susciter l’échange entre les participants. Nous étions peu nombreux, mais finalement pour la cohésion du groupe c’était intéressant. Le fait que nous transportions un gros objet a suscité de la curiosité auprès des gens rencontrés. La balade à pied, avec la lenteur que cela implique, a bien fait sentir le lien un peu complexe que ce territoire a avec la Seine. »</p>
+            <title><![CDATA[Zigzag 2019 - Parcours et ateliers le long de la Lézarde]]></title>
+            <link>https://festivalzigzag.fr/stories/parcours-et-ateliers-en-famille-le-long-de-la-lezarde</link>
+            <guid>/stories/parcours-et-ateliers-en-famille-le-long-de-la-lezarde</guid>
+            <pubDate>Mon, 19 Jan 1970 06:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="la-repousse-de-la-lézarde">LA REPOUSSE DE LA LÉZARDE</h2>
+<p><strong>à NOTRE-DAME-DU-BEC et ÉPOUVILLE</strong> </p>
+<p>Entre minéral et végétal, l’eau lézarde, de la campagne cauchoise à l’estuaire séquanien... Entre fil de l’eau et coteau, comment habite-t-on aujourd’hui aux abords de la vallée Lézarde au quotidien ? </p>
+<p>Deux protagonistes habitants lézardeux « Mossieau le Géomaître » et « la verte Demoiselle Lingénie » proposent d’en saisir les contours aux moyens d’un jeu de réflexion, de cartographie, de cueillette... Lors du parcours, ils étaient les guides de découvertes et vous étiez les « collecteurs » d’impressions au fil de l’eau. </p>
+<p>Animé par Edouard Sors, architecte et artiste, et Manuelle Molinas, comédienne.</p>
+<p><strong>Le parcours s&#39;est prolongé par des ateliers participatifs à ROLLEVILLE :</strong></p>
+<h2 id="le-lit-de-la-lézarde">LE LIT DE LA LÉZARDE</h2>
+<p>Ces ateliers proposent de manipuler les matières minérales et végétales de la vallée de la Lézarde, afin de réaliser un mur végétalisé à son image : argile, sableux, calcaire, silex et terre et végétaux. Poser, imaginer, tester l’eau et son mouvement pour comprendre la composition des coteaux, du plateau, la place des clôtures et des remblais... et composer une œuvre collective exposable. </p>
+<p>Un atelier pour redécouvrir la géographie, comprendre l’hydrogéologie de la vallée, « re » former et « re » border le lit de la Lézarde !</p>
+<h3 id="parole-de-stéphanie-boin">Parole de Stéphanie Boin</h3>
+<p><em>Chargée de projets Architecture, paysages et politiques publiques - Direction Attractivité du territoire - Le Havre Seine Métropole</em></p>
+<p>« La démarche d’ateliers-paysages le long de la vallée de la Lézarde a permis de tester un format original sur un thème qui ne l’était pas moins. Permettre à des habitants de poser leur regard sur la vallée, parfois malmenée par des projets d’aménagement hétéroclites, et de re-découvrir la présence de l’eau, sa proximité, de prendre conscience d’un paysage au patrimoine riche et multiple, naturel comme historique, était un vrai pari. Le <em>géomètre et Lingénie</em> ont su embarquer les participants dans leurs univers, entre minéral et végétal, pour une expérience insolite et pleine de sensibilité. »</p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Zigzag 2019 - Parcours urbain à Elbeuf-sur-Seine]]></title>
+            <link>https://festivalzigzag.fr/stories/parcours-urbain-a-elbeuf-sur-seine</link>
+            <guid>/stories/parcours-urbain-a-elbeuf-sur-seine</guid>
+            <pubDate>Mon, 19 Jan 1970 06:16:34 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="cueillir-la-ville-de-la-seine-à-la-forêt">CUEILLIR LA VILLE, DE LA SEINE À LA FORÊT</h2>
+<p>Cette déambulation propose de découvrir la ville d’Elbeuf par le prisme de son paysage et de la relation étroite qu’elle entretien avec son fleuve. Le temps long de la géologie est important pour comprendre Elbeuf, sa relation à la Seine, à sa vallée et aux forêts. La déambulation explore le temps, les éléments, le sensible du quotidien. Quelle relation à sa ville ? </p>
+<p>Les participants sont invités à cueillir la ville et se saisir ainsi de ce qui fait le paysage d’Elbeuf : des fragments, des extraits, des petits bouts de choses, de souvenirs qui une fois assemblés collectivement forment un tableau : un récit de la ville d’Elbeuf.</p>
+<p>Avec La Fabrique des Savoirs, la MJC d’Elbeuf et la Locomotive, Mathilde Métral et Pauline Broquin, paysagistes.</p>
+<h3 id="les-parcours---balades---explorations">LES PARCOURS - BALADES - EXPLORATIONS</h3>
+<p><strong>Ce qui est en jeu lors des parcours :</strong></p>
+<p>Questionner le rapport au territoire, au patrimoine, à sa mémoire, relier le contexte géographique, l’activité économique, les moyens de transport.</p>
+<p>Proposer une lecture des éléments construits et naturels, et les mettre en relation.</p>
+<p><strong>Les thèmes soulevés :</strong></p>
+<ul>
+<li>Comment conjuguer habitat et présence de l’eau ?</li>
+<li>Comment habiter et préserver ?</li>
+<li>Quelle relation port et ville ?</li>
+<li>Quelle dynamique de territoire dans une vallée ?</li>
+</ul>
+<p><strong>Ce qui a été mis en avant :</strong></p>
+<p>Découverte de la cohabitation fragile du bâti et des espaces naturels, des espaces de rétention, des efforts réalisés pour la biodiversité.</p>
+<p>Des paysages culturels évolutifs vivants ...</p>
+<p>Mise en valeur de quartiers en mutations profondes.</p>
 ]]></content:encoded>
         </item>
         <item>
@@ -218,6 +231,19 @@
 <li>du mardi au vendredi : 14:00 - 18:00</li>
 <li>le samedi : 10:30 - 12:30 / 14:00 - 18:00</li>
 </ul>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Zigzag 2019 - Parcours à travers les paysages du Roumois]]></title>
+            <link>https://festivalzigzag.fr/stories/parcours-a-travers-les-paysages-du-roumois</link>
+            <guid>/stories/parcours-a-travers-les-paysages-du-roumois</guid>
+            <pubDate>Mon, 19 Jan 1970 06:16:30 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="une-marche-du-moulin-à-la-seine">UNE MARCHE DU MOULIN À LA SEINE</h2>
+<p>Le collectif Superoumois vous invite à venir vous balader à travers les paysages du Roumois: entre champs, plateau, hameaux ou bords de Seine, venez partager et croiser votre regard sur les paysages et les pépites de vos lieux de vie ! </p>
+<p>Depuis septembre 2019 ce collectif travaille avec la Communauté de communes Roumois Seine afin de révéler les visions partagées du territoire, autour de nouveaux formats de dialogue avec ses habitants. Grâce à l’animation de metteur en scène, urbaniste, paysagiste, chef de projet culturel, venez partager cette expérience inédite proche de chez vous !</p>
+<h3 id="parole-de-christine-boisseau">Parole de Christine Boisseau</h3>
+<p><em>Chargée de mission - Urbaniste - CAUE 27</em></p>
+<p>« La balade était intéressante, le format artistique a permis de bien susciter l’échange entre les participants. Nous étions peu nombreux, mais finalement pour la cohésion du groupe c’était intéressant. Le fait que nous transportions un gros objet a suscité de la curiosité auprès des gens rencontrés. La balade à pied, avec la lenteur que cela implique, a bien fait sentir le lien un peu complexe que ce territoire a avec la Seine. »</p>
 ]]></content:encoded>
         </item>
         <item>
@@ -247,32 +273,6 @@
 <blockquote>
 <p>« ... pour moi le contemporain c’est la boule rouge, on voit qu’elle a du mal dans le centre-ville ancien, elle est coincée, plissée, elle ne trouve pas bien sa place ! »</p>
 </blockquote>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Zigzag 2019 - Parcours urbain à Elbeuf-sur-Seine]]></title>
-            <link>https://festivalzigzag.fr/stories/parcours-urbain-a-elbeuf-sur-seine</link>
-            <guid>/stories/parcours-urbain-a-elbeuf-sur-seine</guid>
-            <pubDate>Mon, 19 Jan 1970 06:16:34 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="cueillir-la-ville-de-la-seine-à-la-forêt">CUEILLIR LA VILLE, DE LA SEINE À LA FORÊT</h2>
-<p>Cette déambulation propose de découvrir la ville d’Elbeuf par le prisme de son paysage et de la relation étroite qu’elle entretien avec son fleuve. Le temps long de la géologie est important pour comprendre Elbeuf, sa relation à la Seine, à sa vallée et aux forêts. La déambulation explore le temps, les éléments, le sensible du quotidien. Quelle relation à sa ville ? </p>
-<p>Les participants sont invités à cueillir la ville et se saisir ainsi de ce qui fait le paysage d’Elbeuf : des fragments, des extraits, des petits bouts de choses, de souvenirs qui une fois assemblés collectivement forment un tableau : un récit de la ville d’Elbeuf.</p>
-<p>Avec La Fabrique des Savoirs, la MJC d’Elbeuf et la Locomotive, Mathilde Métral et Pauline Broquin, paysagistes.</p>
-<h3 id="les-parcours---balades---explorations">LES PARCOURS - BALADES - EXPLORATIONS</h3>
-<p><strong>Ce qui est en jeu lors des parcours :</strong></p>
-<p>Questionner le rapport au territoire, au patrimoine, à sa mémoire, relier le contexte géographique, l’activité économique, les moyens de transport.</p>
-<p>Proposer une lecture des éléments construits et naturels, et les mettre en relation.</p>
-<p><strong>Les thèmes soulevés :</strong></p>
-<ul>
-<li>Comment conjuguer habitat et présence de l’eau ?</li>
-<li>Comment habiter et préserver ?</li>
-<li>Quelle relation port et ville ?</li>
-<li>Quelle dynamique de territoire dans une vallée ?</li>
-</ul>
-<p><strong>Ce qui a été mis en avant :</strong></p>
-<p>Découverte de la cohabitation fragile du bâti et des espaces naturels, des espaces de rétention, des efforts réalisés pour la biodiversité.</p>
-<p>Des paysages culturels évolutifs vivants ...</p>
-<p>Mise en valeur de quartiers en mutations profondes.</p>
 ]]></content:encoded>
         </item>
         <item>
@@ -551,18 +551,6 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Zigzag 2021 - week-end #2]]></title>
-            <link>https://festivalzigzag.fr/stories/zigzag-2021-week-end-2</link>
-            <guid>/stories/zigzag-2021-week-end-2</guid>
-            <pubDate>Mon, 19 Jan 1970 21:48:22 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="zigzag---2eme-week-end">ZIGZAG - 2EME WEEK-END</h2>
-<p>&lt; ZIGZAG - 2ème WEEK-END &gt;</p>
-<p>Le week-end a commencé vendredi avec la balade du <strong>CAUE de la Seine-Maritime</strong> &quot;À la découverte d’une cité jardin emblématique&quot; à Port-Jérôme. Le soir, on découvrait le projet du renouveau du quartier République à Elbeuf Sur Seine, avec la <strong>Métropole Rouen Normandie</strong> et <strong>Emmanuel Côme</strong>, architecte. Au même moment au Havre, on assistait à une table-ronde à <strong>La Halle aux Poissons</strong>, suivi d&#39;un dîner d&#39;exception de <strong>Le Donjon - Domaine Saint Clair</strong> !</p>
-<p>Samedi, on s&#39;est levé tôt pour une randonnée le long de la Seine avec <strong>Le voyage métropolitain</strong> et une visite architecturale à Pont-Audemer du nouveau cinéma conçu par les architectes des agences <strong>Jakob + MacFarlane</strong> et <strong>Atelier Des Deux Anges</strong>. Puis on est retourné à Elbeuf-sur-Seine pour une balade paysagère entre les trames vertes et bleues de la ville avec <strong>Denis Comont</strong>, paysagiste-concepteur <strong>agence Arc en terre</strong>, et le soutien de la <strong>Fédération Française du Paysage - Normandie</strong>.</p>
-<p>Et dimanche…</p>
-]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Zigzag 2021 - week-end #2 (suite)]]></title>
             <link>https://festivalzigzag.fr/stories/zigzag-2021-week-end-2-suite</link>
             <guid>/stories/zigzag-2021-week-end-2-suite</guid>
@@ -583,15 +571,30 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Zigzag 2021 - week-end #3]]></title>
-            <link>https://festivalzigzag.fr/stories/zigzag-2021-week-end-3</link>
-            <guid>/stories/zigzag-2021-week-end-3</guid>
-            <pubDate>Mon, 19 Jan 1970 21:55:34 GMT</pubDate>
-            <content:encoded><![CDATA[<h2 id="zigzag---dernier-week-end">ZIGZAG - DERNIER WEEK-END</h2>
-<p>Samedi 9 octobre, on a visité Gonfreville-l&#39;Orcher avec le <strong>Pays d’art et d’histoire Le Havre Seine Métropole</strong> et le <strong>service Patrimoine</strong> de la ville. Au même moment, on était en promenade paysagère au Havre avec <strong>Franck Gaillet de la Fédération Française du Paysage - Normandie</strong> et au <strong>Port Center</strong> avec <strong>Dans le Sens de Barge</strong> pour une matinée démonstration/rencontre.</p>
-<p>Toute la journée, on est monté sur les toits de <strong>Grand Quevilly</strong> pour une lecture insolite de cette ville bien verte et, entre-temps, on s&#39;est baladé avec le <strong>CAUE de l&#39;Eure</strong> à la Chapelle Longueville entre les vignes.</p>
-<p>Et à Rouen, on a profité du dernier jour des expositions sur les paysages de la Seine au Forum, conçues par l’<strong>Agence d’Urbanisme Le Havre - Estuaire de la Seine (AURH)</strong> et l’<strong>École natio­nale supérieure de paysage de Versailles (ENSP)</strong> !</p>
+            <title><![CDATA[Zigzag 2021 - week-end #2]]></title>
+            <link>https://festivalzigzag.fr/stories/zigzag-2021-week-end-2</link>
+            <guid>/stories/zigzag-2021-week-end-2</guid>
+            <pubDate>Mon, 19 Jan 1970 21:48:22 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="zigzag---2eme-week-end">ZIGZAG - 2EME WEEK-END</h2>
+<p>&lt; ZIGZAG - 2ème WEEK-END &gt;</p>
+<p>Le week-end a commencé vendredi avec la balade du <strong>CAUE de la Seine-Maritime</strong> &quot;À la découverte d’une cité jardin emblématique&quot; à Port-Jérôme. Le soir, on découvrait le projet du renouveau du quartier République à Elbeuf Sur Seine, avec la <strong>Métropole Rouen Normandie</strong> et <strong>Emmanuel Côme</strong>, architecte. Au même moment au Havre, on assistait à une table-ronde à <strong>La Halle aux Poissons</strong>, suivi d&#39;un dîner d&#39;exception de <strong>Le Donjon - Domaine Saint Clair</strong> !</p>
+<p>Samedi, on s&#39;est levé tôt pour une randonnée le long de la Seine avec <strong>Le voyage métropolitain</strong> et une visite architecturale à Pont-Audemer du nouveau cinéma conçu par les architectes des agences <strong>Jakob + MacFarlane</strong> et <strong>Atelier Des Deux Anges</strong>. Puis on est retourné à Elbeuf-sur-Seine pour une balade paysagère entre les trames vertes et bleues de la ville avec <strong>Denis Comont</strong>, paysagiste-concepteur <strong>agence Arc en terre</strong>, et le soutien de la <strong>Fédération Française du Paysage - Normandie</strong>.</p>
 <p>Et dimanche…</p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Zigzag 2022 - week-end #3 ]]></title>
+            <link>https://festivalzigzag.fr/stories/zigzag-2021-week-end-3-1</link>
+            <guid>/stories/zigzag-2021-week-end-3-1</guid>
+            <pubDate>Tue, 20 Jan 1970 06:58:05 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="zigzag---dernier-week-end">ZIGZAG - DERNIER WEEK-END</h2>
+<p>Derniers jours, dernier week-end du festival dans le cadre des <strong>Journées Nationales de l&#39;Architecture</strong> #JNArchi à : Pont-l&#39;Évêque, Le Havre, Duclair, Notre-Dame-de-Bliquetuit, Montivilliers, Sandouville et Rives-en-Seine.</p>
+<p>On a visité, marché, grimpé des étages, déambulé, rêvé, mangé, trinqué, écouté et surtout échangé ! </p>
+<p>L&#39;édition 2022 de Zigzag - festival d&#39;architecture et des arts de l&#39;espace s&#39;est terminée en beauté, merci aux nombreux partenaires et intervenants. Merci à toute l&#39;équipe de la <a href="http://man-leforum.fr/maison-de-l-architecture/">Maison de l&#39;architecture de Normandie - le Forum</a>. Et surtout, MERCI au public toujours plus nombreux et présent par tous les temps !</p>
+<ul>
+<li>Le festival est à revivre en photos pour chaque événement sur le site web : <a href="https://festivalzigzag.fr/agenda" title="https://festivalzigzag.fr/agenda">https://festivalzigzag.fr/agenda</a></li>
+</ul>
+<p><a href="https://www.facebook.com/zigzagfestivalarchitecture/">#zigzagfestivalarchitecture </a></p>
 ]]></content:encoded>
         </item>
         <item>
@@ -605,6 +608,18 @@
 <p>Merci à tous pour ces belles journées Zigzag et rendez-vous en 2022 pour une nouvelle édition du festival !</p>
 <p><strong><em>#zigzagfestivalarchitecture</em></strong> est porté par la <a href="http://man-leforum.fr/maison-de-l-architecture/">Maison de l&#39;architecture de Normandie - le Forum</a></p>
 <p><strong><em>#touspourlarchi</em></strong></p>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Zigzag 2021 - week-end #3]]></title>
+            <link>https://festivalzigzag.fr/stories/zigzag-2021-week-end-3</link>
+            <guid>/stories/zigzag-2021-week-end-3</guid>
+            <pubDate>Mon, 19 Jan 1970 21:55:34 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="zigzag---dernier-week-end">ZIGZAG - DERNIER WEEK-END</h2>
+<p>Samedi 9 octobre, on a visité Gonfreville-l&#39;Orcher avec le <strong>Pays d’art et d’histoire Le Havre Seine Métropole</strong> et le <strong>service Patrimoine</strong> de la ville. Au même moment, on était en promenade paysagère au Havre avec <strong>Franck Gaillet de la Fédération Française du Paysage - Normandie</strong> et au <strong>Port Center</strong> avec <strong>Dans le Sens de Barge</strong> pour une matinée démonstration/rencontre.</p>
+<p>Toute la journée, on est monté sur les toits de <strong>Grand Quevilly</strong> pour une lecture insolite de cette ville bien verte et, entre-temps, on s&#39;est baladé avec le <strong>CAUE de l&#39;Eure</strong> à la Chapelle Longueville entre les vignes.</p>
+<p>Et à Rouen, on a profité du dernier jour des expositions sur les paysages de la Seine au Forum, conçues par l’<strong>Agence d’Urbanisme Le Havre - Estuaire de la Seine (AURH)</strong> et l’<strong>École natio­nale supérieure de paysage de Versailles (ENSP)</strong> !</p>
+<p>Et dimanche…</p>
 ]]></content:encoded>
         </item>
         <item>
@@ -641,7 +656,7 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Zigzag 2022 - du 5 au 13 octobre]]></title>
+            <title><![CDATA[Zigzag 2022 - week-end #2]]></title>
             <link>https://festivalzigzag.fr/stories/zigzag-2022-du-5-au-13-octobre</link>
             <guid>/stories/zigzag-2022-du-5-au-13-octobre</guid>
             <pubDate>Tue, 20 Jan 1970 06:58:05 GMT</pubDate>
@@ -654,6 +669,12 @@
 </ul>
 <p><a href="https://www.facebook.com/zigzagfestivalarchitecture/">#zigzagfestivalarchitecture</a></p>
 ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Zigzag 2022 - spécial temps forts]]></title>
+            <link>https://festivalzigzag.fr/stories/zigzag-2022-special-temps-forts</link>
+            <guid>/stories/zigzag-2022-special-temps-forts</guid>
+            <pubDate>Tue, 20 Jan 1970 06:58:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Zigzag 2022 - week-end #1]]></title>

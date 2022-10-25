@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/stories/zigzag-2022-special-temps-forts", {data:[{}],fetch:{},mutations:[]});
