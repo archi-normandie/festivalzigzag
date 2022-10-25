@@ -6,7 +6,17 @@ image: "/files/828x315_fb_zigzag_mai22.jpg"
 ---
 ## ZIGZAG - LES TEMPS FORTS
 
-**Les événements permanents du festival :**
+A découvrir, les événements permanents du festival : **expositions photographiques en extérieur, podcast et rétrospective GENiUS !**
+
+* EOP - ESPACES D'ŒUVRES PHOTOGRAPHIQUES - festival consacré à la photographie documentaire prend place en extérieur permettant aux passants de porter un regard neuf sur la ville, transforme l’espace urbain du quotidien, dans un rapport d’échelle et esthétique différent. La photographie se constitue en œuvre d’art accessible à tous, ouvrant un dialogue avec les visiteurs ou les simples passants. Cette première édition de EOP, s’attache à la biodiversité, et propose deux expositions à Rouen et à Bois-Guillaume.
+
+**Les expositions EOP se poursuivent jusqu'au 27 novembre 2022.**
+
+A écouter tout le week-end dans le cadre de Zigzag - festival d'architecture et des arts de l'espace et des Les Journées nationales de l’architecture par l’Ordre des Architectes :
+
+Le podcast de l’émission « Et vous vous habitez où » enregistrée à la Maison de l'architecture de Normandie - le Forum le 1er octobre dernier !
+
+Podcast imaginé par la Métropole Rouen Normandie avec notamment la présidente d’Habitat et Humanisme Normandie.
 
 C'est nouveau ! L'équipe de la Maison de l'architecture de Normandie - le Forum lance les **"tablées Zigzag"** pour cette quatrième édition du festival !
 
