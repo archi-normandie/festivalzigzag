@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/stories/zigzag-2022-du-5-au-13-octobre", {data:[{}],fetch:{},mutations:[]});
